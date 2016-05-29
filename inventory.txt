@@ -111,9 +111,21 @@ Spire Golem; 1
 Steel Hellkite; 1
 Steel Wall; 1
 Thopter Assembly; 1
-Viseling, 1
+Viseling; 1
 Walking Atlas; 5
 Wild-Field Scarecrow; 2
+---Artifact Equipment
+Accorder's Shield; 2
+Angelic Armaments; 2
+Armory of Iroas; 1
+Assault Suite; 3
+Bladed Bracers; 2
+Bone Saw; 2
+Brawler's Plate; 1
+Chariot of Victory; 1
+Darksteel Plate; 1
+Dragon Throne of Tarkir; 1
+Executioner's Hood; 3
 --White
 ---Creatures
 Armory Guard 4
