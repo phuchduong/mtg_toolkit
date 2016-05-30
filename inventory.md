@@ -1,7 +1,7 @@
 # Inventory
 ## Colorless
 ### Creatures
- | 
+Card | Qt
 --- | ---
 Breaker of Armies | 2
 Deathless Behemoth | 3
@@ -12,11 +12,17 @@ Kozilek's Channeler | 2
 Ruin Processor | 4
 Ulamog the Ceaseless Hunger | 1
 ### Sorcery
+Card | Qt
+--- | ---
 Gruesome Slaughter | 1
 ### Instant
+Card | Qt
+--- | ---
 Scour From Existence | 4
 Titan's Presence | 1
 ### Artifact
+Card | Qt
+--- | ---
 Alhammarret's Archive | 1
 Aligned Hedron Network | 1
 Altar of the Brood | 2
@@ -93,6 +99,8 @@ Vial of Dragonfire | 4
 Wayfarer's Bauble | 2
 Whetstone | 1
 ### Artifact Creatures
+Card | Qt
+--- | ---
 Arcbound Stinger | 1
 Ancestral Statue | 2
 Burnished Hart | 1
@@ -118,6 +126,8 @@ Viseling | 1
 Walking Atlas | 5
 Wild#Field Scarecrow | 2
 ### Artifact Equipment
+Card | Qt
+--- | ---
 Accorder's Shield | 2
 Angelic Armaments | 2
 Armory of Iroas | 1
@@ -136,6 +146,8 @@ Gorgon's Head | 3
 Haunted Plate Mail | 3
 ## White
 ### Creatures
+Card | Qt
+--- | ---
 Armory Guard 4
 Dragon Hunter | 1
 Enlightened Ascetic | 4
@@ -199,6 +211,8 @@ Wardscale Dragon | 1
 War Priest of Thune | 1
 Wall of Essence | 2
 ### Enchantment Creatures
+Card | Qt
+--- | ---
 Archetype of Courage | 4
 Eidolon of Countless Battles | 1
 Ghostblade Eidolon | 3
