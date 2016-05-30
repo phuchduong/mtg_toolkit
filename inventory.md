@@ -1,6 +1,7 @@
 # Inventory
 ## Colorless
 ### Creatures
+--- | ---
 Breaker of Armies | 2
 Deathless Behemoth | 3
 Desolation Twin | 1
