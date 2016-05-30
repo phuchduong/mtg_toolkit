@@ -1,6 +1,7 @@
 # Inventory
 ## Colorless
 ### Creatures
+Card | Stock
 --- | ---
 Breaker of Armies | 2
 Deathless Behemoth | 3
