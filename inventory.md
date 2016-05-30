@@ -1,4 +1,5 @@
 # Inventory
+#### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | --- | 
 [Creature](#creatures--c) | Creature | Creature | Creature | Creature | Creature | Creature | 
