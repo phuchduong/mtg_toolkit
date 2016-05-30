@@ -187,6 +187,8 @@ Veteran's Armaments | 2
 Witches' Eye | 4
 Worldslayer | 1
 ### Land < C
+Card | Qt
+--- | ---
 Buried Ruin | 1
 Crumbling Vestige | 2
 Crystal Vein | 1
