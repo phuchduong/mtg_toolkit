@@ -1,6 +1,6 @@
 # Inventory
 ## Colorless
-### Creatures
+### Creatures < C
 Card | Qt
 --- | ---
 Breaker of Armies | 2
@@ -11,16 +11,16 @@ Endbringer | 1
 Kozilek's Channeler | 2
 Ruin Processor | 4
 Ulamog the Ceaseless Hunger | 1
-### Sorcery
+### Sorcery < C
 Card | Qt
 --- | ---
 Gruesome Slaughter | 1
-### Instant
+### Instant < C
 Card | Qt
 --- | ---
 Scour From Existence | 4
 Titan's Presence | 1
-### Artifact
+### Artifact < C
 Card | Qt
 --- | ---
 Alhammarret's Archive | 1
@@ -98,7 +98,7 @@ Venser's Journal | 2
 Vial of Dragonfire | 4
 Wayfarer's Bauble | 2
 Whetstone | 1
-### Artifact Creatures
+### Artifact Creatures < C
 Card | Qt
 --- | ---
 Arcbound Stinger | 1
@@ -125,7 +125,7 @@ Thopter Assembly | 1
 Viseling | 1
 Walking Atlas | 5
 Wild#Field Scarecrow | 2
-### Artifact Equipment
+### Artifact Equipment < C
 Card | Qt
 --- | ---
 Accorder's Shield | 2
@@ -145,7 +145,7 @@ Ghostfire Blade | 1
 Gorgon's Head | 3
 Haunted Plate Mail | 3
 ## White
-### Creatures
+### Creatures < W
 Card | Qt
 --- | ---
 Armory Guard | 4
@@ -209,7 +209,7 @@ Wall of Resurgence | 1
 Wardscale Dragon | 1
 War Priest of Thune | 1
 Wall of Essence | 2
-### Enchantment Creatures
+### Enchantment Creatures < W
 Card | Qt
 --- | ---
 Archetype of Courage | 4
