@@ -2,14 +2,14 @@
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
-[Creature](#creatures--c) | Creature | Creature | Creature | Creature | Creature | Creature
- | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature
+[Creature](#creatures--c) | [Creature](#creatures--w) | Creature | Creature | Creature | Creature | Creature
+ | [Enchantment Creature](#enchantment-creatures--w) | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature
  | Enchantment | Enchantment | Enchantment | Enchantment | Enchantment
- Sorcery | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
- Instant | Instant | Instant | Instant | Instant | Instant
- Artifact | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
- Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
- Equipment | Equipment | Equipment | Equipment | Equipment | Equipment
+ [Sorcery](#sorcery--c) | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
+ [Instant](#instant--c) | Instant | Instant | Instant | Instant | Instant
+ [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
+ [Artifact Creature](#artifact-creatures--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
+ [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
  Land | Land | Land | Land | Land | Land
 ## Colorless
 ### Creatures < C
