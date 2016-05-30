@@ -18,7 +18,7 @@ Colorless | White | Blue | Black | Red | Green
  [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
  [Artifact Creature](#artifact-equipment--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
- Land | Land | Land | Land | Land | Land
+ [Land](#land--c) | Land | Land | Land | Land | Land
 ## Colorless
 ### Creatures < C
 Card | Qt
@@ -186,6 +186,7 @@ Vanguard's Shield | 1
 Veteran's Armaments | 2
 Witches' Eye | 4
 Worldslayer | 1
+### Land < C
 ## White
 ### Creatures < W
 Card | Qt
