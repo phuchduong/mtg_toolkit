@@ -230,37 +230,53 @@ Zoetic Cavern | 3
 ### Creatures < W
 Card | Qt
 --- | ---
-Abzan Battle Priest | 1
+Abzan Battle Priest | 2
 Ainok Bond-Kin | 4
+Ajani's Chosen | 1
 Ajani's Pridemate | 3
 Ajani's Sunstriker | 3
 Akroan Skyguard | 4
-Angelic Wall | 3
+Anafenza, Kin-Tree Spirit | 1
+Angel of Glory's Rise | 1
+Angel of Jubilation | 1
+Angelic Wall | 4
 Apex Hawks | 1
 Arashin Cleric | 1
+Arashin Foremost | 1
 Archangel | 1
 Armory Guard | 4
-Auramancer | 7
+Auramancer | 8
+Aven Sunstriker | 1
 Azorius Arrester | 3
 Azorius Justiciar | 2
-Banisher Priest | 2
+Ballyrush Banneret | 2
+Banisher Priest | 3
 Basilica Guards | 3
 Blessed Spirits | 2
+Bonescythe Sliver | 1
 Boonweaver Giant | 1
-Capashen Knight |  4
-Cathar's Companion | 1
+Captain of the Watch | 1
+Cathar's Companion | 2
 Cavalry Pegasus | 4
+Cenn's Tactician | 3
+Champion of the Parish | 1
 Charging Paladin | 1
 Cliffside Lookout | 4
-Constricting Sliver | 1
+Conclave Phalanx | 1
+Constricting Sliver | 2
 Consul's Lieutenant | 2
-Court Street Denizen | 4
+Court Street Denizen | 5
+Crusader of Odric | 1
 Daring Skyjek | 3
-Doomed Traveler | 2
-Dragon Bell Monk | 4
+Dawnbringer Charioteers | 1
+Doomed Traveler | 4
+Dragon Bell Monk | 5
 Dragon Hunter | 1
+Dragonscale General | 1
 Dromoka Captain | 2
+Elite Inquisitor
 Elite Scaleguard | 3
+Emeria Sheperd | 1
 Enlightened Ascetic | 4
 Evangel of Heliod | 4
 Favored Hoplite | 4
