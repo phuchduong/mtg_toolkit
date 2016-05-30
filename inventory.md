@@ -277,61 +277,107 @@ Dromoka Captain | 2
 Elite Inquisitor | 1
 Elite Scaleguard | 3
 Emeria Sheperd | 1
-Enlightened Ascetic | 4
+Enlightened Ascetic | 5
 Evangel of Heliod | 4
+Fabled Hero | 2
 Favored Hoplite | 4
-Felidar Cub | 3
+Felidar Cub | 4
 Fencing Ace | 4
 Fiend Hunter | 3
 Gallows Warden | 1
 Gavony Ironwright | 1
-God#Favored General | 4
+Gempalm Avenger | 1
+God-Favored General | 4
 Goldnight Commander | 1
 Goldnight Redeemer | 2
 Graceblade Artisan | 3
-Guardians of Akrasa | 1
+Guardians of Akrasa | 2
 Guardian of the Gateless | 2
+Gustcloak Savior | 1
+Healer of the Pride | 1
 Heliod's Pilgrim | 4
-Herald of Dromoka | 3
+Herald of Anafenza | 2
+Herald of Dromoka | 4
+Hero of Ioras | 2
+Hidden Dragonslayer | 1
+High Sentinels of Arashin | 1
+Hikari, Twilight Guardian | 1
+Hixus, Prison Warden | 1
+Imposing Sovereign | 1
 Jeskai Barricade | 2
+Kami of Ancient Law | 1
 Keening Apparition | 4
 Knight of Obligation | 4
+Knight of the White Orchid | 1
+Kongming, "The Sleeping Dragon"
 Kor Bladewhirl | 1
+Kor Duelist | 1
 Kor Entanglers | 2
-Lagonna-Band Trailblazer | 1
+Kor Skyfisher | 1
+Lagonna-Band Trailblazer | 4
 Lost Leonin | 1
 Lotus-Eye Mystics | 3
+Luminate Primordial | 2
+Magus of the Moat | 1
 Makindi Patrol | 2
 Mardu Hordechief | 2
 Mardu Woe-Reaper | 1
+Mentor of the Meek | 1
+Mesa Enchantress | 1
 Midnight Guard | 4
+Mikaeus, the Lunarch | 1
+Militant Inquisitor | 1
+Monk Idealist | 1
 Nearheath Pilgrim | 2
+Ordric, Master Tactician | 1
+Paragon of New Dawns | 1
 Patron of the Valiant | 2
+Phantom General | 1
+Preeminent Captain | 1
+Precinct Captain | 1
+Purity | 1
 Razor Hippogriff | 1
+Relic Seeker | 1
+Riders of Gavony | 1
 Sandsteppe Outcast | 4
 Sentinel of the Eternal Watch | 1
 Sentinel Sliver | 1
 Seraph of Dawn | 3
+Serene Master | 1
 Serene Steward | 1
 Serra Angel | 4
+Serra Avatar | 1
 Shadow Glider | 3
 Shieldhide Dragon | 2
-Silverchase Fox | 1
+Silent Sentinel | 1
+Silverchase Fox | 2
+Skyhunter Skirmisher | 1
+Soul Warden | 2
 Soulmender | 4
 Steelform Sliver | 2
 Stoneforge Acolyte | 1
 Strongarm Monk | 1
 Student of Ojutai | 4
+Sunscorch Regent | 1
+Sunspear Shikari | 1
 Sunspire Gatekeepers | 4
+Suture Priest | 1
 Syndic of Tithes | 2
+Tag-Nar Swordsmith
+Thalia, Guardian of Thraben | 1
+Thraben Doomsayer | 1
 Thraben Heretic | 3
 Thraben Inspector | 1
 Totem-Guide Hartebeest | 2
 Twilight Drover | 1
-Unruly Mob | 5
+Unruly Mob | 6
 Urbis Protector | 4
 Vanguard of Brimaz | 1
+Veteran Armorer | 4
+Veteran Armorsmith | 2
+Veteran Swordsmith | 2
 Voiceless Spirit | 1
+Wall of Omens | 1
 Wall of Resurgence | 1
 Wardscale Dragon | 1
 War Priest of Thune | 1
@@ -339,10 +385,15 @@ Wall of Essence | 2
 ### Enchantment Creatures < W
 Card | Qt
 --- | ---
+Aegis of the Gods | 2
 Archetype of Courage | 4
+Celestial Archon | 2
 Eidolon of Countless Battles | 1
+Eidolon of Rhetoric | 3
 Ghostblade Eidolon | 3
 Heliod's Emissary | 4
 Hopeful Eidolon | 4
+Nyx-Fleece Ram | 1
 Nyxborn Shieldmate | 4
 Observant Alseid | 4
+Spirit of the Labyrinth | 1
