@@ -70,7 +70,7 @@ Predator, Flagship | 1
 Otherworld Atlas | 1
 Profane Memento | 2
 Prophetic Prism | 4
-Prototype Portal
+Prototype Portal | 1
 Pyxis of Pandemonium | 1
 Relic of Progenitus | 2
 Scroll of Avacyn | 2
