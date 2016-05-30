@@ -223,5 +223,5 @@ Zarichi Tiger
 ### Enchantment Creatures < W
 Card |
 --- |
-Harvestguard Alseids | 
-Sightless Brawler | 
+Harvestguard Alseids
+Sightless Brawler
