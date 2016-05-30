@@ -71,8 +71,11 @@ Apothecracy Giest
 Arashin Cleric
 Ardent Militia
 Armory Guard
+Assault Griffin
 Avacynian Priest
 Aven Battle Priest
+Aven Skrimisher
+Aven Sunstriker
 Aven Tactician
 Boros Mastiff
 Champion of Arashin

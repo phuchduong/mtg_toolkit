@@ -187,12 +187,78 @@ Veteran's Armaments | 2
 Witches' Eye | 4
 Worldslayer | 1
 ### Land < C
+Buried Ruin | 1
+Crumbling Vestige | 2
+Crystal Vein | 1
+Darksteel Citadel | 3
+Encroaching Wastes | 2
+Evolving Wilds | 9
+Foundry of the Consuls | 3
+Gargoyle Castle | 1
+Ghost Quarter | 5
+Haunted Fengraf | 5
+Holdout Settlement | 2
+Mana Confluence | 1
+Maze's End | 3
+Mikokoro, Center of the Sea | 1
+Myriad Landscape | 2
+Opal Palace | 1
+Radiant Fountain | 6
+Reliquary Tower | 6
+Rogue's Passage | 2
+Seraph Sanctuary | 1
+Shimmering Grotto | 2
+Sliver Hive | 1
+Tectonic Edge | 2
+Temple of the False God | 1
+Terrain Generator | 1
+Terramorphic Expense | 2
+Thespian Stage | 2
+Tomb of the Spirit Dragon | 3
+Transguild Promenade | 3
+Unknown Shores | 4
+Urborg, Tomb of Yawgmoth | 1
+Uzra's Factory | 1
+Urza's Mine | 1
+Urza's Power Plant | 2
+Urza's Tower | 1
+Warped Landscape | 3
+Zoetic Cavern | 3
 ## White
 ### Creatures < W
 Card | Qt
 --- | ---
+Abzan Battle Priest | 1
+Ainok Bond-Kin | 4
+Ajani's Pridemate | 3
+Ajani's Sunstriker | 3
+Akroan Skyguard | 4
+Angelic Wall | 3
+Apex Hawks | 1
+Arashin Cleric | 1
+Archangel | 1
 Armory Guard | 4
+Auramancer | 7
+Azorius Arrester | 3
+Azorius Justiciar | 2
+Banisher Priest | 2
+Basilica Guards | 3
+Blessed Spirits | 2
+Boonweaver Giant | 1
+Capashen Knight |  4
+Cathar's Companion | 1
+Cavalry Pegasus | 4
+Charging Paladin | 1
+Cliffside Lookout | 4
+Constricting Sliver | 1
+Consul's Lieutenant | 2
+Court Street Denizen | 4
+Daring Skyjek | 3
+Doomed Traveler | 2
+Dragon Bell Monk | 4
 Dragon Hunter | 1
+Dromoka Captain | 2
+Elite Scaleguard | 3
 Enlightened Ascetic | 4
 Evangel of Heliod | 4
 Favored Hoplite | 4
