@@ -12,7 +12,6 @@ Colorless | White | Blue | Black | Red | Green
  [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
  [Artifact Creature](#artifact-creature--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
- [Land](#land--c) | Land | Land | Land | Land | Land
 ## Colorless
 ### Creatures < C
 Card |
