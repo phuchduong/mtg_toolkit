@@ -1,7 +1,7 @@
 # Bulk
 ## Colorless
-Kozilek's Pathfinder 
-Scion of Ugin 
+Kozilek's Pathfinder
+Scion of Ugin
 ### Artifact < C
 Alchemist's Vial
 Angel's Tomb
@@ -41,6 +41,21 @@ Wicker Witch
 ### Artifact Equipment < C
 Blazing Torch
 Gate Smasher
+Heart-Piercer Bow
+Heavy Mattock
+Hedron Blade
+Hot Soup
+Leonin Bola
+Riot Gear
+Shard of Broken Glass
+Siren Song Lyre
+Throwing Knife
+Tormentor's Trident
+True-Faith Censer
+Veteran's Sidearm
+Will-Forged Golem
+Wolfhunter's Quiver
+Wooden Stake
 ## White
 ### Creature < W
 Abbey Griffin
