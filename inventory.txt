@@ -1,5 +1,5 @@
---Colorless
----Creatures
+## Colorless
+### Creatures
 Breaker of Armies; 2
 Deathless Behemoth; 3
 Desolation Twin; 1
@@ -8,12 +8,12 @@ Endbringer; 1
 Kozilek's Channeler; 2
 Ruin Processor; 4
 Ulamog; the Ceaseless Hunger
----Sorcery
+### Sorcery
 Gruesome Slaughter; 1
----Instant
+### Instant
 Scour From Existence; 4
 Titan's Presence; 1
----Artifact
+### Artifact
 Alhammarret's Archive; 1
 Aligned Hedron Network; 1
 Altar of the Brood; 2
@@ -49,7 +49,7 @@ Ivory Tower; 1
 Jayemdae Tome; 2
 Knowledge Pool; 2
 Lens of Clarity; 4
-Long-Forgotten Gohei; 1
+Long#Forgotten Gohei; 1
 Loreseeker's Stone; 1
 Manalith; 2
 Meteorite; 5
@@ -89,7 +89,7 @@ Venser's Journal; 2
 Vial of Dragonfire; 4
 Wayfarer's Bauble; 2
 Whetstone; 1
----Artifact Creatures
+### Artifact Creatures
 Arcbound Stinger; 1
 Ancestral Statue; 2
 Burnished Hart; 1
@@ -113,8 +113,8 @@ Steel Wall; 1
 Thopter Assembly; 1
 Viseling; 1
 Walking Atlas; 5
-Wild-Field Scarecrow; 2
----Artifact Equipment
+Wild#Field Scarecrow; 2
+### Artifact Equipment
 Accorder's Shield; 2
 Angelic Armaments; 2
 Armory of Iroas; 1
@@ -126,8 +126,13 @@ Chariot of Victory; 1
 Darksteel Plate; 1
 Dragon Throne of Tarkir; 1
 Executioner's Hood; 3
---White
----Creatures
+Fireshrieker; 1
+Fleetfeather Sandals; 4
+Ghostfire Blade; 1
+Gorgon's Head; 3
+Haunted Plate Mail; 3
+## White
+### Creatures
 Armory Guard 4
 Dragon Hunter; 1
 Enlightened Ascetic; 4
@@ -138,7 +143,7 @@ Fencing Ace; 4
 Fiend Hunter; 3
 Gallows Warden; 1
 Gavony Ironwright; 1
-God-Favored General; 4
+God#Favored General; 4
 Goldnight Commander; 1
 Goldnight Redeemer; 2
 Graceblade Artisan; 3
@@ -190,7 +195,7 @@ Wall of Resurgence; 1
 Wardscale Dragon; 1
 War Priest of Thune; 1
 Wall of Essence; 2
----Enchantment Creatures
+### Enchantment Creatures
 Archetype of Courage; 4
 Eidolon of Countless Battles; 1
 Ghostblade Eidolon; 3
