@@ -1,7 +1,7 @@
 # Bulk
 ## Colorless
-Kozilek's Pathfinder
-Scion of Ugin
+Kozilek's Pathfinder 
+Scion of Ugin 
 ### Artifact < C
 Alchemist's Vial
 Angel's Tomb
