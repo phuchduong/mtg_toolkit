@@ -79,7 +79,7 @@ Will-Forged Golem |
 Wolfhunter's Quiver | 
 Wooden Stake | 
 ## White
-### Creature < W
+### Creatures < W
 Card |
 --- |
 Abbey Griffin | 
