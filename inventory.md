@@ -5,6 +5,12 @@ Colorless | White | Blue | Black | Red | Green
 [Creature](#creatures--c) | Creature | Creature | Creature | Creature | Creature | Creature
  | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature
  | Enchantment | Enchantment | Enchantment | Enchantment | Enchantment
+ Sorcery | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
+ Instant | Instant | Instant | Instant | Instant | Instant
+ Artifact | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
+ Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
+ Equipment | Equipment | Equipment | Equipment | Equipment | Equipment
+ Land | Land | Land | Land | Land | Land
 ## Colorless
 ### Creatures < C
 Card | Qt
