@@ -10,7 +10,7 @@ Eldrazi Devastator | 4
 Endbringer | 1
 Kozilek's Channeler | 2
 Ruin Processor | 4
-Ulamog | the Ceaseless Hunger
+Ulamog the Ceaseless Hunger | 1
 ### Sorcery
 Gruesome Slaughter | 1
 ### Instant
