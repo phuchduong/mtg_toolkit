@@ -148,7 +148,7 @@ Haunted Plate Mail | 3
 ### Creatures
 Card | Qt
 --- | ---
-Armory Guard 4
+Armory Guard | 4
 Dragon Hunter | 1
 Enlightened Ascetic | 4
 Evangel of Heliod | 4
