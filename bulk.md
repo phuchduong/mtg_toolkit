@@ -10,7 +10,7 @@ Colorless | White | Blue | Black | Red | Green
  | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
  | Instant | Instant | Instant | Instant | Instant
  [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
- [Artifact Creature](#artifact-equipment--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
+ [Artifact Creature](#artifact-creature--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
  [Land](#land--c) | Land | Land | Land | Land | Land
 ## Colorless
