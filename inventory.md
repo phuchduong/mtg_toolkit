@@ -16,7 +16,7 @@ Colorless | White | Blue | Black | Red | Green
  [Sorcery](#sorcery--c) | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
  [Instant](#instant--c) | Instant | Instant | Instant | Instant | Instant
  [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
- [Artifact Creature](#artifact-creatures--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
+ [Artifact Creature](#artifact-equipment--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
  Land | Land | Land | Land | Land | Land
 ## Colorless
@@ -164,6 +164,28 @@ Fleetfeather Sandals | 4
 Ghostfire Blade | 1
 Gorgon's Head | 3
 Haunted Plate Mail | 3
+Helm of the Gods | 2
+Hero's Blade | 2
+Kitesail | 1
+Neglected Heirloom | 1
+Prowler's Helm | 4
+Rogue's Gloves | 1
+Runechanter's Pike | 1
+Sharpened Pitchfork | 3
+Sigil of Valor | 1
+Silver-Inlaid Dagger | 1
+Skeleton Key | 2
+Skyblinder Staff | 4
+Slagwurm Armor | 1
+Slayer's Plate | 1
+Specter's Shroud | 1
+Spidersilk Net | 3
+Stormrider Rig | 1
+Swiftfoot Boots | 3
+Vanguard's Shield | 1
+Veteran's Armaments | 2
+Witches' Eye | 4
+Worldslayer | 1
 ## White
 ### Creatures < W
 Card | Qt
