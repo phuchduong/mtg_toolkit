@@ -1,4 +1,5 @@
 # Inventory
+---
 ## Colorless
 ### Creatures
 Breaker of Armies; 2
@@ -132,6 +133,7 @@ Fleetfeather Sandals; 4
 Ghostfire Blade; 1
 Gorgon's Head; 3
 Haunted Plate Mail; 3
+---
 ## White
 ### Creatures
 Armory Guard 4
@@ -204,3 +206,4 @@ Heliod's Emissary; 4
 Hopeful Eidolon; 4
 Nyxborn Shieldmate; 4
 Observant Alseid; 4
+---
