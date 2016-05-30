@@ -1,11 +1,16 @@
 # Inventory
 Cards are sorted...
+
 Commander Color Identidy > Super Type > Alphabetical
 
+
 Color:
+
 C > W > U > B > R > G
 
+
 Super Type:
+
 Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
