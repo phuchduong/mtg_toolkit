@@ -274,7 +274,7 @@ Dragon Bell Monk | 5
 Dragon Hunter | 1
 Dragonscale General | 1
 Dromoka Captain | 2
-Elite Inquisitor
+Elite Inquisitor | 1
 Elite Scaleguard | 3
 Emeria Sheperd | 1
 Enlightened Ascetic | 4
