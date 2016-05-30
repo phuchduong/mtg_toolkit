@@ -1,7 +1,7 @@
 # Inventory
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | --- | 
-Creature | Creature | Creature | Creature | Creature | Creature | Creature | 
+[Creature](wwww.google.com) | Creature | Creature | Creature | Creature | Creature | Creature | 
 Enchantment | Enchantment | Enchantment | Enchantment | Enchantment | Enchantment | 
 ## Colorless
 ### Creatures < C
