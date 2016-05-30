@@ -185,7 +185,6 @@ Sandsteppe Outcast | 4
 Sentinel of the Eternal Watch | 1
 Sentinel Sliver | 1
 Seraph of Dawn | 3
-Seraph of Dawn 3
 Serene Steward | 1
 Serra Angel | 4
 Shadow Glider | 3
