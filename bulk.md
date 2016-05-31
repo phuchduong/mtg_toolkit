@@ -32,6 +32,7 @@ Flowstone Armor |
 Goblin Boom Keg | 
 Gremlin Mine | 
 Iron Lance |
+Ivory Cup |
 Panacea | 
 Rod of Ruin |
 Scroll of Griselbrand | 
@@ -347,3 +348,59 @@ Serra's Hymn |
 Siegecraft |
 Sphere of Reason |
 Weight of Conscience |
+### Sorcery < W
+Card |
+--- |
+Angelic Blessing |
+Chaplain's Blessing |
+Ethereal Guidance |
+Excoriate |
+Great Teacher's Decree |
+Healing Hands |
+Kytheon's Tactics | 
+Puncturing Light |
+Righteous Charge | 
+Searing Light |
+Sacred Nectar | 
+Vanquish the Foul |
+Vengeance |
+Visions |
+### Instant < W
+Card |
+--- |
+Alabaster Potion |
+Aerial Maneuver
+Angel's Mercy |
+Astral Steel |
+Aura Extraction |
+Battlewise Valor |
+Break of Day |
+Cease-Fire |
+Dauntless Onslaught | 
+Defensive Maneuvers |
+Embolden |
+Enduring Victory |
+Enshrouding Mist |
+Expose Evil |
+Fortify |
+Funeral Pyre |
+Heal |
+Healing Salve |
+Inspired Charge |
+Lead Astray |
+Mighty Leap |
+Moment of Silence |
+Orim's Touch |
+Mortal's Ardor |
+Piety |
+Prismatic Strands |
+Rain of Blades |
+Ramosian Rally |
+Recuperate |
+Reward the Faithful |
+Sacred Rites | 
+Searing Light |
+Shield Wall | 
+Soul Parry |
+Strength of Arms |
+Swell of Courage |

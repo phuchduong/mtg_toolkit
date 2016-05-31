@@ -119,6 +119,7 @@ Unwinding Clock | 1
 Vedalken Orrery | 1
 Venser's Journal | 2
 Vial of Dragonfire | 4
+Wanderer's Twig | 1
 Wayfarer's Bauble | 2
 Whetstone | 1
 ### Artifact Creatures < C
@@ -181,7 +182,7 @@ Silver-Inlaid Dagger | 1
 Skeleton Key | 2
 Skyblinder Staff | 4
 Slagwurm Armor | 1
-Slayer's Plate | 1
+Slayer's Plate | 2
 Specter's Shroud | 1
 Spidersilk Net | 3
 Stormrider Rig | 1
@@ -499,3 +500,95 @@ Suspension Field | 2
 Triclopean Sight | 1
 Valor in Akros | 1
 Vessel of Ephemera | 2
+### Sorcery < W
+Card | Qt
+--- | ---
+Allied Reinforcements | 1
+Angelic Edict | 3
+Angelic Purge | 2
+Breath of Life | 3
+Cleansing Meditation | 1
+Dawn To Dusk | 4
+Decree of Justice | 1
+Gather the Townsfolk | 4
+Gift of Estates | 1
+Glare of Heresy | 4
+Hive Stirrings | 2
+Increasing Devotion | 1
+Knight Watch | 3
+Launch the Fleet | 1
+Lyev Decree | 4
+Mass Calcify | 1
+Not Forgotten | 2
+Ondu Rising | 1
+Open the Armory | 1
+Paraselene | 2
+Planar Cleansing | 1
+Plea for Guidance | 3
+Revoke Existence | 4
+Rush of Battle | 4
+Sheer Drop | 2
+Shoulder To Shoulder | 2
+Solemn Offering | 4
+Soul Summons | 3
+Spectral Procession | 2
+Sunlance | 2
+Swift Reckoning | 2
+Triplicate Spirits | 5
+Unified Front | 1
+Wake the Reflections | 4
+Wrath of God | 1
+### Instant < W
+Card | Qt
+--- | ---
+Abzan Advantage | 4
+Acolyte's Reward | 1
+Ajani's Presence | 1
+Akroma's Blessing | 1
+Artful Maneuver | 4
+Aura Blast | 1
+Avenging Arrow | 1
+Bar the Door | 1
+Brave the Elements | 4
+Celestial Flare | 5
+Center Soul | 4
+Channel Harm | 1
+Chastise | 1
+Congregate | 3
+Defiant Strike | 4
+Demystify | 1
+Devouring Light | 3
+Disenchant | 2
+Dismantling Blow | 1
+Divine Verdict | 4
+Encircling Fissure | 1
+Ephemeral Shields | 5
+Erase | 6
+Eyes In the Skies | 4
+Faith's Shield | 2
+Fate Forgotten | 5
+Fated Retribution | 2
+Feat of Resistance | 3
+Humble the Brute | 1
+Quiet Purity | 1
+Raise the Alarm | 5
+Redeem the Lost | 1
+Renounce the Guilds | 1
+Reprisal | 3
+Secure the Wastes | 1
+Smite the Monstrous | 3
+Strength of Arms | 2
+Swords to Plowshares | 1
+Wing Shards | 3
+### Artifact < W
+Card | Qt
+--- | ---
+Godsend | 1
+### Land < W
+Card | Qt
+--- | ---
+Drifting Meadow | 1
+New Benalia | 1
+Secluded Steppe | 3
+Serra's Sanctum | 1
+Vivid Meadow | 1
