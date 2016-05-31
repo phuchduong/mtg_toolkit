@@ -8,6 +8,16 @@ C > W > U > B > R > G
 Super Type: 
 Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
 #### Table of Contents
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
 [Creature](#creatures--c) | [Creature](#creatures--w) | Creature | Creature | Creature | Creature | Creature
