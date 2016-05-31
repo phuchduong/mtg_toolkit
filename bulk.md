@@ -7,10 +7,10 @@ Colorless | White | Blue | Black | Red | Green
 [Creature](#creatures--c) | [Creature](#creatures--w) | Creature | Creature | Creature | Creature | Creature
  | [Enchantment Creature](#enchantment-creatures--w) | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature
  | [Enchantment](#enchantment--w) | Enchantment | Enchantment | Enchantment | Enchantment
- | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
- | Instant | Instant | Instant | Instant | Instant
- [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
- [Artifact Creature](#artifact-creature--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
+ | [Sorcery](#sorcery--w) | Sorcery | Sorcery | Sorcery | Sorcery
+ | [Instant](#instant--w) | Instant | Instant | Instant | Instant
+ [Artifact](#artifact--c) |  | Artifact | Artifact | Artifact | Artifact | Artifact
+ [Artifact Creature](#artifact-creature--c) |  | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
  [Land](#land--c) | Land | Land | Land | Land | Land
 ## Colorless
