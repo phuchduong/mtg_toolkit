@@ -369,7 +369,7 @@ Visions |
 Card |
 --- |
 Alabaster Potion |
-Aerial Maneuver
+Aerial Maneuver |
 Angel's Mercy |
 Astral Steel |
 Aura Extraction |
