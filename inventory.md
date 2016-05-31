@@ -486,13 +486,13 @@ Seal of Cleansing | 1
 Sigil of the Empty Throne | 4
 Silkwrap | 1
 Skybind | 2
+Spear of Heliod | 2
 Spectra Ward | 1
 Sphere of Safety | 3
 Spirit Bonds | 1
 Spiritual Asylum | 1
 Soul Tithe | 3
 Soulcatchers' Aerie | 1
-Spear of Heliod | 2
 Suppression Bonds | 1
 Sunbond | 4
 Suspension Field | 2

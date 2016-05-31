@@ -340,3 +340,10 @@ Improvised Armor |
 Justice |
 Marked By Honor |
 Mortal Obstinacy |
+Sandskin |
+Security Blockade |
+Seeker |
+Serra's Hymn |
+Siegecraft |
+Sphere of Reason |
+Weight of Conscience |
