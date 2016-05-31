@@ -28,7 +28,7 @@ Angel's Tomb |
 Ashnod's Transmogrant |
 Barbed Sextant | 
 Briber's Purse | 
-Flowstone Armor
+Flowstone Armor | 
 Goblin Boom Keg | 
 Gremlin Mine | 
 Iron Lance |
