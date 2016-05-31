@@ -277,7 +277,7 @@ Sunspire Griffin |
 Suntail Hawk | 
 Swooping Talon |
 Task Force |
-Teroh's Faithful
+Teroh's Faithful |
 Territorial Roc | 
 Tethmos High Priest | 
 Timely Hordemate | 
