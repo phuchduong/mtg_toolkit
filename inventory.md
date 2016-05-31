@@ -81,7 +81,7 @@ Ivory Tower | 1
 Jayemdae Tome | 2
 Knowledge Pool | 2
 Lens of Clarity | 4
-Long#Forgotten Gohei | 1
+Long-Forgotten Gohei | 1
 Loreseeker's Stone | 1
 Manalith | 2
 Meteorite | 5
@@ -149,7 +149,7 @@ Steel Wall | 1
 Thopter Assembly | 1
 Viseling | 1
 Walking Atlas | 5
-Wild#Field Scarecrow | 2
+Wild-Field Scarecrow | 2
 ### Artifact Equipment < C
 Card | Qt
 --- | ---
