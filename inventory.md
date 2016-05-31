@@ -8,6 +8,7 @@ C > W > U > B > R > G
 Super Type: 
 Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
 #### Table of Contents
+ | | | | | |
 --- | --- | --- | --- | --- | --- | ---
 Creatures | Sorcery | Instant | Artifact | Artifact Creature | Equipment | Land
 
