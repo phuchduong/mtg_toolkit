@@ -106,21 +106,30 @@ Abzan Battle Priest |
 Abzan Falconer | 
 Abzan Skycaptain | 
 Affa Protector | 
+Ageless Sentinels |
 Akroan Jailer | 
 Akroan Mastiff | 
+Akron Legionnaire |
 Alabaster Kirin | 
-Ampryn Tactician | 
+Alabaster Wall |
+Ampryn Tactician |
+Amrou Kithkin | 
 Angelic Page | 
 Anointer of Champions | 
 Apothecracy Giest | 
 Arashin Cleric | 
 Ardent Militia | 
+Ardent Soldier |
 Armory Guard | 
 Assault Griffin | 
 Avacynian Priest | 
 Aven Battle Priest | 
+Aven Farseer |
+Aven Redeemer |
 Aven Skrimisher | 
 Aven Tactician | 
+Aysen Bureaucrats |
+Border Patrol |
 Boros Mastiff | 
 Burrenton Shield-Bearers | 
 Burrenton Bombardier | 
@@ -128,7 +137,16 @@ Capashen Knight |
 Champion of Arashin | 
 Charging Griffin | 
 Chapel Geist | 
+Chieftain En-Dal |
+Daru Lancer |
+Daru Mender |
+Daru Sanctifier |
+Defender En-Vec |
+Deftblade Elite |
 Deivlthorn Fox | 
+Disciple of Law |
+Diving Griffin |
+Dragonstalker |
 Cleric of the Forward Order | 
 Concordia Pegasus | 
 Courier Griffin | 
@@ -139,18 +157,22 @@ Devilthorn Fox |
 Dragon's Eye Sentry | 
 Dromoka Dunecaster | 
 Dromoka Warrior | 
+Eager Cadet |
 Eagle of the Watch | 
+Ekundu Griffin |
 Elgaud Inquisitor | 
 Emissary of the Sleepless | 
 Ephara's Warden | 
 Elite Skirmisher | 
 Ethereal Guidance | 
 Expedition Raptor | 
+Expendable Troops |
 Farbog Explorer | 
 Fortified Rampart | 
 Geist of the Moors | 
 Ghostly Sentinel | 
 Glory Seeker | 
+Grassland Crusader |
 Great Hart | 
 Great-Horn Krushok | 
 Griffin Dreamfinder | 
@@ -164,7 +186,10 @@ Heavy Infantry |
 Hollowhenge Spirit | 
 Honor Guard | 
 Icatian Javelineers | 
+Icatian Phalanx |
+Icatian Scout |
 Inquisitor's Ox | 
+Ironfist Crusher |
 Jeskai Student | 
 Kinsbaile Skirmisher | 
 Kitesail Scout | 
