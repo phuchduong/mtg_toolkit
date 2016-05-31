@@ -8,10 +8,6 @@ C > W > U > B > R > G
 Super Type: 
 Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
 #### Table of Contents
- | Colorless ||
---- | --- | --- | --- | --- | --- | ---
-Creatures | Sorcery | Instant | Artifact | Artifact Creature | Equipment | Land
-
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
 [Creature](#creatures--c) | [Creature](#creatures--w) | Creature | Creature | Creature | Creature | Creature
