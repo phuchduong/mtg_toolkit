@@ -313,7 +313,7 @@ Kami of Ancient Law | 1
 Keening Apparition | 4
 Knight of Obligation | 4
 Knight of the White Orchid | 1
-Kongming, "The Sleeping Dragon"
+Kongming, "The Sleeping Dragon" | 1
 Kor Bladewhirl | 1
 Kor Duelist | 1
 Kor Entanglers | 2
