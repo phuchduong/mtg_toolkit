@@ -492,13 +492,10 @@ Spirit Bonds | 1
 Spiritual Asylum | 1
 Soul Tithe | 3
 Soulcatchers' Aerie | 1
+Spear of Heliod | 2
 Suppression Bonds | 1
 Sunbond | 4
 Suspension Field | 2
 Triclopean Sight | 1
 Valor in Akros | 1
 Vessel of Ephemera | 2
-### Enchantment Artifact
-Card | Qt
---- | ---
-Spear of Heliod | 1
