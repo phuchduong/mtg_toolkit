@@ -367,7 +367,7 @@ Sunspear Shikari | 1
 Sunspire Gatekeepers | 4
 Suture Priest | 1
 Syndic of Tithes | 2
-Tag-Nar Swordsmith
+Tag-Nar Swordsmith | 1
 Thalia, Guardian of Thraben | 1
 Thraben Doomsayer | 1
 Thraben Heretic | 3
