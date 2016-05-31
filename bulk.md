@@ -12,6 +12,7 @@ Colorless | White | Blue | Black | Red | Green
  [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
  [Artifact Creature](#artifact-creature--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
+ [Land](#land--c) | Land | Land | Land | Land | Land
 ## Colorless
 ### Creatures < C
 Card |
@@ -22,10 +23,17 @@ Scion of Ugin |
 Card |
 --- |
 Alchemist's Vial | 
+Amulet of Kroog
 Angel's Tomb | 
+Ashnod's Transmogrant |
+Barbed Sextant | 
 Briber's Purse | 
+Flowstone Armor
 Goblin Boom Keg | 
 Gremlin Mine | 
+Iron Lance |
+Panacea | 
+Rod of Ruin |
 Scroll of Griselbrand | 
 Vial of Poison | 
 War Horn | 
@@ -35,13 +43,17 @@ Card |
 --- |
 Anvilwrought Raptor | 
 Armored Transport | 
+Battering Ram | 
 Bonded Construct | 
 Bronze Sable | 
+Clay Statue | 
+Clockwork Steed | 
 Custodian of the Trove | 
 Dragonloft Idol | 
 Galvanic Juggernaut | 
 Gargoyle Sentinel | 
 Gold-Forged Sentinel | 
+Grapeshot Catapult | 
 Guardian Automaton | 
 Haunted Guardian | 
 Hewed Stone Retainers | 
@@ -51,13 +63,16 @@ Millennial Gargoyle |
 Pilgrim of the Fires | 
 Pillar of War | 
 Phyrexian Hulk | 
+Patagia Golem | 
 Primal Clay | 
 Ramroller | 
 Runaway Carriage | 
 Street Sweeper | 
 Thraben Gargoyle | 
+Wall of Spears | 
 Witness of the Ages | 
 Wicker Witch | 
+Yotian Soldier |
 ### Artifact Equipment < C
 Card |
 --- |
@@ -78,6 +93,10 @@ Veteran's Sidearm |
 Will-Forged Golem | 
 Wolfhunter's Quiver | 
 Wooden Stake | 
+### Land < C
+Card |
+--- |
+Oasis | 
 ## White
 ### Creatures < W
 Card |

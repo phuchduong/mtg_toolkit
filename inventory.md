@@ -16,7 +16,7 @@ Colorless | White | Blue | Black | Red | Green
  [Sorcery](#sorcery--c) | Sorcery | Sorcery | Sorcery | Sorcery | Sorcery
  [Instant](#instant--c) | Instant | Instant | Instant | Instant | Instant
  [Artifact](#artifact--c) | Artifact | Artifact | Artifact | Artifact | Artifact | Artifact
- [Artifact Creature](#artifact-equipment--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
+ [Artifact Creature](#artifact-creature--c) | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
  [Equipment](#artifact-equipment--c) | Equipment | Equipment | Equipment | Equipment | Equipment
  [Land](#land--c) | Land | Land | Land | Land | Land
 ## Colorless
@@ -48,7 +48,9 @@ Aligned Hedron Network | 1
 Altar of the Brood | 2
 Altar of the Lost | 4
 Amulet of Vigor | 1
+Ark of Blight | 1
 Ashnod's Altar | 1
+Belbe's Armor | 1
 Bubbling Cauldron | 3
 Cellar Door | 2
 Chalice of Life | 1
@@ -69,6 +71,7 @@ Expedition Map | 2
 Font of Mythos | 2
 Gem of Becoming | 2
 Ghoulcaller's Bell | 1
+Glasses of Urza | 2
 Grafdigger's Cage | 1
 Grindclock | 2
 Hall of Triumph | 2
@@ -95,7 +98,7 @@ Pyxis of Pandemonium | 1
 Relic of Progenitus | 2
 Scroll of Avacyn | 2
 Scroll of the Masters | 1
-Seer's Lantern | 3
+Seer's Lantern | 4
 Seer's Sundial | 1
 Sol Ring | 2
 Spine of Ish Sah | 1
@@ -125,6 +128,7 @@ Arcbound Stinger | 1
 Ancestral Statue | 2
 Burnished Hart | 1
 Cathodion | 1
+Crenellated Wall | 1
 Guardians of Meletis | 4
 Hedron Crawler | 4
 Myr Adapter | 1
@@ -218,7 +222,7 @@ Terramorphic Expense | 2
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
 Transguild Promenade | 3
-Unknown Shores | 4
+Unknown Shores | 5
 Urborg, Tomb of Yawgmoth | 1
 Uzra's Factory | 1
 Urza's Mine | 1
@@ -378,7 +382,7 @@ Veteran Armorsmith | 2
 Veteran Swordsmith | 2
 Voiceless Spirit | 1
 Wall of Omens | 1
-Wall of Resurgence | 1
+Wall of Resurgence | 2
 Wardscale Dragon | 1
 War Priest of Thune | 1
 Wall of Essence | 2
