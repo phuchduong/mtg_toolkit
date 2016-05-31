@@ -23,7 +23,7 @@ Scion of Ugin |
 Card |
 --- |
 Alchemist's Vial | 
-Amulet of Kroog
+Amulet of Kroog |
 Angel's Tomb | 
 Ashnod's Transmogrant |
 Barbed Sextant | 
