@@ -569,16 +569,33 @@ Faith's Shield | 2
 Fate Forgotten | 5
 Fated Retribution | 2
 Feat of Resistance | 3
-Humble the Brute | 1
+Gods Willing | 2
+Humble the Brute | 2
+Kill Shot | 4
+Make A Stand | 1
+Pillar of Light | 3
 Quiet Purity | 1
 Raise the Alarm | 5
+Ray of Dissolution | 4
+Rebuke | 1
 Redeem the Lost | 1
 Renounce the Guilds | 1
 Reprisal | 3
+Riot Control | 4
+Rootborn Defenses | 4
+Safe Passage | 3
+Sandblast | 4
+Scale Blessing | 1
 Secure the Wastes | 1
-Smite the Monstrous | 3
-Strength of Arms | 2
+Smite | 4
+Smite the Monstrous | 5
+Solidarity | 2
+Spare From Evil | 2
+Strength of Arms | 3
 Swords to Plowshares | 1
+Take Up Arms | 4
+Trostani's Judgment | 4
+Valorous Stance | 1
 Wing Shards | 3
 ### Artifact < W
 Card | Qt

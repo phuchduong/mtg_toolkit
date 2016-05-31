@@ -388,23 +388,49 @@ Enshrouding Mist |
 Expose Evil |
 Fortify |
 Funeral Pyre |
+Gideon's Reproach | 
+Glimpse the Sun God |
+Glorious Charge |
 Heal |
 Healing Salve |
+Hold At Bay |
+Honor's Reward |
 Inspired Charge |
+Last Breath |
 Lead Astray |
+Leap of Faith |
+Lithomancer's Focus |
+Meditation Puzzle |
 Mighty Leap |
+Moment of Heroism |
 Moment of Silence |
-Orim's Touch |
 Mortal's Ardor |
+Orim's Touch |
+Pay No Heed |
 Piety |
+Pressure Point |
 Prismatic Strands |
+Puncturing Light |
 Rain of Blades |
 Ramosian Rally |
 Recuperate |
+Redeem | 
+Resupply |
 Reward the Faithful |
+Roil's Retribution |
 Sacred Rites | 
+Sanctified Charge |
 Searing Light |
 Shield Wall | 
+Shielded Passage |
+Show of Valor |
 Soul Parry |
 Strength of Arms |
+Surge of Righteousness |
+Survive the Night |
 Swell of Courage |
+Swift Justice |
+Tandem Tactics |
+Tenacity |
+Urgent Exorcism |
+Zealous Strike |
