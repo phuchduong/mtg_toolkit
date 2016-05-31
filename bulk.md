@@ -194,18 +194,22 @@ Jeskai Student |
 Kinsbaile Skirmisher | 
 Kitesail Scout | 
 Kithkin Zephyrnaut | 
+Knight Errant |
 Knight of the Pilgrim's Road | 
 Kor Castigator | 
 Kor Scythemaster | 
 Kor Sky Climber | 
 Lagonna-Band Elder | 
 Leonin Snarecaster | 
+Liege of the Axe |
 Lightwalker | 
+Lowland Tracker |
 Loxodon Partisan | 
 Loyal Pegasus | 
 Makindi Aeronaut | 
 Master of Diversion | 
 Maze Sentinel | 
+Mesa Falcon |
 Midnight Duelist | 
 Midvast Protector | 
 Militant Inquisitor | 
@@ -214,41 +218,54 @@ Moonlight Geist |
 Moonlit Strider | 
 Moorland Drifter | 
 Mosquito Guard | 
+Mystic Visionary |
+Mystic Zealot |
 Nav Squad Commandos | 
 Nearheath Chaplain | 
+Netter En-Dal |
 Niblis of the Mist | 
 Noble Templar | 
 Oaken Brawler | 
 Ondu Greathorn | 
 Ondu War Cleric | 
+Oracle's Attendants |
 Orator of Ojutai | 
 Oreskos Sun Guide | 
 Oreskos Swiftclaw | 
 Ornitharch | 
 Paranoid Parish-Blade | 
+Pearled Unicorn |
+Pilgrim of Virtue |
 Pillarfield Ox | 
 Razorfoot Griffin | 
 Reaper of Flight Moonsilver | 
+Repentant Blacksmith |
+Royal Falcon |
 Sage-Eye Harrier | 
 Salt Road Patrol | 
 Samite Healer | 
+Samite Pilgrim |
 Sanctuary Cat | 
 Sandcrafter Mage | 
 Sandstorm Charger | 
 Seasoned Marshal | 
 Selfless Cathar | 
 Seller of Songbirds | 
-Setessan Battle Priest | 
+Setessan Battle Priest |
+Shieldmage Elder | 
 Siege Mastodon | 
 Silent Artisan | 
+Silkenfist Order |
 Silverclaw Griffin | 
 Silvercoat Lion | 
+Skyshroud Falcon |
 Skyspear Cavalry | 
 Slayer of the Wicked | 
 Spawnbinder Mage | 
 Spectral Rider | 
 Stalwart Aven | 
 Standing Troops | 
+Starlight Invoker |
 Steeple Roc | 
 Steppe Glider | 
 Stern Constable | 
@@ -258,6 +275,9 @@ Stonewise Fortifier |
 Sungrace Pegasus | 
 Sunspire Griffin | 
 Suntail Hawk | 
+Swooping Talon |
+Task Force |
+Teroh's Faithful
 Territorial Roc | 
 Tethmos High Priest | 
 Timely Hordemate | 
@@ -269,11 +289,14 @@ Tireless Missionaries |
 Topan Freeblade | 
 Topplegeist | 
 Trained Caracal | 
+Trap Runner |
 Traveling Philosopher | 
-Traveling Philosopher | 
+Trenching Steed |
+Tundra Wolves |
 Venerable Lammasu | 
 Venerable Monk | 
 Veteran of the Depths | 
+Vigilant Sentry |
 Voice of the Provinces | 
 Wall of Swords | 
 War Oracle | 
@@ -285,11 +308,35 @@ War Priest of Thune |
 Warclamp Mastiff | 
 Warden of the Beyond | 
 Waxmane Baku | 
+Wild Griffin |
+Wingbeat Warrior |
 Wingsteed Rider | 
 Yoked Ox | 
 Zarichi Tiger | 
+Zealous Inquisitor |
 ### Enchantment Creatures < W
 Card |
 --- |
 Harvestguard Alseids | 
 Sightless Brawler | 
+### Enchantment < W
+Card |
+--- |
+Abzan Runemark |
+Armor of Faith |
+Blessing |
+Burden of Guilt |
+Cagemail |
+Debtor's Pulpit |
+Ephara's Radiance | 
+Floating Shield |
+Glaring Aegis |
+Grasp of the Hieromancer |
+Greater Realm of Preservation | 
+Guardian Zendikon | 
+Kirtar's Desire | 
+Holy Strength |
+Improvised Armor | 
+Justice |
+Marked By Honor |
+Mortal Obstinacy |

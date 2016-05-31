@@ -243,7 +243,7 @@ Akroan Skyguard | 4
 Anafenza, Kin-Tree Spirit | 1
 Angel of Glory's Rise | 1
 Angel of Jubilation | 1
-Angelic Wall | 4
+Angelic Wall | 5
 Apex Hawks | 1
 Arashin Cleric | 1
 Arashin Foremost | 1
@@ -256,6 +256,9 @@ Azorius Justiciar | 2
 Ballyrush Banneret | 2
 Banisher Priest | 3
 Basilica Guards | 3
+Benevolent Bodyguard | 2
+Benalish Hero | 1
+Blessed Orator | 1
 Blessed Spirits | 2
 Bonescythe Sliver | 1
 Boonweaver Giant | 1
@@ -288,9 +291,10 @@ Favored Hoplite | 4
 Felidar Cub | 4
 Fencing Ace | 4
 Fiend Hunter | 3
+Frontline Strategist | 4
 Gallows Warden | 1
 Gavony Ironwright | 1
-Gempalm Avenger | 1
+Gempalm Avenger | 2
 God-Favored General | 4
 Goldnight Commander | 1
 Goldnight Redeemer | 2
@@ -337,6 +341,7 @@ Ordric, Master Tactician | 1
 Paragon of New Dawns | 1
 Patron of the Valiant | 2
 Phantom General | 1
+Pikemen | 2
 Preeminent Captain | 1
 Precinct Captain | 1
 Purity | 1
@@ -352,12 +357,15 @@ Serene Steward | 1
 Serra Angel | 4
 Serra Avatar | 1
 Shadow Glider | 3
+Shield Bearer | 1
 Shieldhide Dragon | 2
 Silent Sentinel | 1
+Silver Knight | 2
 Silverchase Fox | 2
 Skyhunter Skirmisher | 1
 Soul Warden | 2
 Soulmender | 4
+Spurnmage Advocate | 1
 Steelform Sliver | 2
 Stoneforge Acolyte | 1
 Strongarm Monk | 1
@@ -372,10 +380,12 @@ Thalia, Guardian of Thraben | 1
 Thraben Doomsayer | 1
 Thraben Heretic | 3
 Thraben Inspector | 1
+Tragic Poet | 1
 Totem-Guide Hartebeest | 2
 Twilight Drover | 1
 Unruly Mob | 6
 Urbis Protector | 4
+Valor | 1
 Vanguard of Brimaz | 1
 Veteran Armorer | 4
 Veteran Armorsmith | 2
@@ -386,6 +396,8 @@ Wall of Resurgence | 2
 Wardscale Dragon | 1
 War Priest of Thune | 1
 Wall of Essence | 2
+Whipcorder | 2
+White Knight | 1
 ### Enchantment Creatures < W
 Card | Qt
 --- | ---
@@ -401,3 +413,92 @@ Nyx-Fleece Ram | 1
 Nyxborn Shieldmate | 4
 Observant Alseid | 4
 Spirit of the Labyrinth | 1
+### Enchantment < W
+Card | Qt
+--- | ---
+Absolute Law | 1
+Angelic Accord | 2
+Angelic Benediction | 1
+Angelic Gift | 4
+Animate Wall | 1
+Armament of Nyx | 1
+Arrest | 1
+Aura Fracture | 1
+Banishing Light | 2
+Battle Mastery | 3
+Blind Obedience | 1
+Bonds of Faith | 3
+Brainwash | 1
+Brave the Sands | 2
+Call To Serve | 2
+Castle | 1
+Chosen By Heliod | 4
+Circle of Protection: Artifacts | 2
+Circle of Protection: Black | 4
+Circle of Protection: Blue | 3
+Circle of Protection: Green | 3
+Circle of Protection: Red | 2
+Circle of Protection: White | 3
+Curse of the Forsaken | 2
+Dragon Scales | 1
+Defang | 1
+Dictate of Heliod | 2
+Divine Favor | 4
+Divine Presence | 1
+Echoes of the Kin Tree | 2
+Ethereal Armor | 3
+Fanatical Devotion | 1
+First Response | 2
+Font of Vigor | 2
+Forced Worship | 1
+Fortified Area | 1
+Gift of Immortality | 2
+Gleam of Authority | 1
+Guildscorn Ward | 2
+Hold the Gates | 3
+Holy Mantle | 1
+Hoofprints of the Stag | 1
+Indestructibility | 1
+Intangible Virtue | 5
+Inviolability | 1
+Isolation Zone | 1
+Karma | 2
+Knightly Valor | 4
+Lightform | 1
+Martyr's Cause | 1
+Mastery of the Unseen | 1
+Murder Investigation | 3
+Mystic Barrier | 1
+Myth Realized | 1
+Olivion Ring | 2
+Opal Caryatid | 1
+Opal Champion | 1
+Opal Gargoyle | 1
+Opal Titan | 1
+Oppressive Rays | 4
+Ordeal of Heliod | 3
+Pacifism | 7
+Path of Bavery | 1
+Rest in Peace | 1
+Retreat to Emeria | 3
+Sage's Reverie | 1
+Seal of Cleansing | 1
+Sigil of the Empty Throne | 4
+Silkwrap | 1
+Skybind | 2
+Spectra Ward | 1
+Sphere of Safety | 3
+Spirit Bonds | 1
+Spiritual Asylum | 1
+Soul Tithe | 3
+Soulcatchers' Aerie | 1
+Suppression Bonds | 1
+Sunbond | 4
+Suspension Field | 2
+Triclopean Sight | 1
+Valor in Akros | 1
+Vessel of Ephemera | 2
+### Enchantment Artifact
+Card | Qt
+--- | ---
+Spear of Heliod | 1
