@@ -617,6 +617,8 @@ Serra's Sanctum | 1
 Vivid Meadow | 1
 ## Blue
 ### Creatures < U
+Card | Qt
+--- | ---
 Aether Adept | 1
 Aether Figment | 3
 Aethersnipe | 1
