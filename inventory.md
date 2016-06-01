@@ -23,7 +23,7 @@ Colorless | White | Blue | Black | Red | Green
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
 [Creature](#creatures--wu)|     |     |     |
-|     |     |     | [Sorcery](#sorcery--ub)
+|     |   |     |     |[Sorcery](#sorcery--ub)
 
 U/R | U/G | B/R | B/G | R/G
 --- | --- | --- | --- | ---
