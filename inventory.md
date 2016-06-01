@@ -20,11 +20,11 @@ Colorless | White | Blue | Black | Red | Green
  [Equipment](#artifact-equipment--c) |  | Equipment | Equipment | Equipment | Equipment
  [Land](#land--c) | [Land](#land--w) | Land | Land | Land | Land
 
-W/U | W/B | W/R | W/G | U/B | U/R | U/G | B/R | B/G | R/G
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+W/U | W/B | W/R | W/G | U/B
+--- | --- | --- | --- | ---
 
-Creature | Enchantment Creature | Enchantment | Sorcery | Instant | Artifact | Land
---- | --- | --- | --- | --- | --- | --- | 
+U/R | U/G | B/R | B/G | R/G
+--- | --- | --- | --- | ---
 ## Colorless
 ### Creatures < C
 Card | Qt
