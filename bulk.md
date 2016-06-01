@@ -438,21 +438,77 @@ Zealous Strike |
 ### Creatures < U
 Card |
 --- |
+Air Elemental |
+Arctic Merfolk |
+Ascending Aven |
+Aven Fisher |
+Aven Windreader |
+Balshan Griffin | 
+Cloudskate |
 Coastal Drake |
+Coast Watcher |
+Coral Merfolk |
+Crafty Pathmage | 
+Dandan | 
+Dark Maze |
+Dreamwinder |
 Faerie Squadron |
 Giant Octopus |
+Hapless Researcher |
+Homarid Warrior |
 Hunting Drake |
+Imagecrafter | 
+Keeneye Aven |
+Krovikan Sorcerer |
+Labyrinth Minotaur |
+Mercurial Kite |
 Merfolk of the Pearl Trident |
+Mistform Dreamer |
+Mistform Mutant |
+Mistform Shrieker |
 Mistform Stalker |
+Mistform Wall |
 Reef Pirates |
 Ribbon Snake |
+Scornful Egotist |
+Screaming Seahawk |
+Sea Eagle |
 Sea Serpent |
+Segovian Leviathan | 
 Shoreline Raider |
 Shoreline Ranger |
 Skywing Aven |
+Talas Scout |
+Thought Nibbler |
+Vigilant Drake |
 Vizzerdrix | 
+Vodalian Merchant |
+Vodalian Serpent |
+Wind Drake |
 Wormfang Turtle |
 Zephyr Falcon |
+### Enchantment < U
+Churning Eddy |
+Creature Bond |
+Dehydration |
+Feedback |
+Lost in Thought |
+Mind Bomb |
+Mistform Mask |
+Power Leak |
+### Sorcery < U
+Eye Spy |
+Quiet Speculation |
+Manipulate Fate |
+Tidal Surge |
+### Instant < U
+Barrin's Unmaking |
+Hindering Touch |
+Prohibit | 
 ## White + Blue
 ### Creatures < W/U
-Tower Drake
+Mirror Wall | 1
+Tower Drake | 1
+## Blue + Black
+### Creatures < U/B
+Metathran Zombie |

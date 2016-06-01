@@ -597,7 +597,6 @@ Take Up Arms | 4
 Trostani's Judgment | 4
 Valorous Stance | 1
 Wing Shards | 3
-### Artifact < W
 Card | Qt
 --- | ---
 Godsend | 1
@@ -615,3 +614,50 @@ Secluded Steppe | 7
 Sejiri Steppe | 2
 Serra's Sanctum | 1
 Vivid Meadow | 1
+## Blue
+### Creatures < U
+Cephalid Pathmage | 1
+Crookclaw Elder | 1
+Disruptive Pitmage | 1
+Echo Tracer | 3
+Ghosthelm Courier | 1
+Glacial Wall | 1
+Information Dealer | 1
+Master of the Veil | 1
+Merchant of Secrets | 1
+Stormscape Familiar | 1
+Voidmage Apprentice | 1
+Wall of Deceit| 1
+Willbender | 3
+Wonder | 1
+### Enchantment < U
+Compulsion | 2
+Diplomatic Immunity | 1
+Energy Flux | 1
+Gaseous Form | 2
+Flood | 1
+Phantasmal Terrain | 1
+Soul Barrier | 2
+### Sorcery < U
+Allied Strategies | 1
+Rush of Knowledge |
+Temporal Fissure | 3
+Time Ebb | 2
+### Instant < U
+Backslide | 1
+Chain of Vapor | 1
+Deflection | 1
+Discombobulate | 1
+Flash of Insight | 2
+Force Spike | 2
+Gainsay | 1
+Grip of Amnesia | 1
+Ixidor's Will | 1
+Keep Watch | 2
+Repulse | 1
+Spy Network |
+Trickery Charm |2
+Twiddle | 1
+## Blue + Black
+### Sorcery < U/B
+Probe | 1
