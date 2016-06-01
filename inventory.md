@@ -597,6 +597,7 @@ Take Up Arms | 4
 Trostani's Judgment | 4
 Valorous Stance | 1
 Wing Shards | 3
+### Artifact < W
 Card | Qt
 --- | ---
 Godsend | 1
