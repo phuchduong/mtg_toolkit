@@ -447,7 +447,7 @@ Amphin Pathmage |
 Ancient Carp |
 Ancient Crab |
 Arctic Merfolk |
-Armored Cancrix
+Armored Cancrix |
 Ascending Aven |
 Aspiring Aeronaut |
 Aven Fisher |
