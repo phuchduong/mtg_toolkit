@@ -601,9 +601,11 @@ Wing Shards | 3
 Card | Qt
 --- | ---
 Godsend | 1
+Staff of the Sun Magus | 4
 ### Land < W
 Card | Qt
 --- | ---
+Blighted Steppe | 2
 Drifting Meadow | 1
 New Benalia | 1
 Secluded Steppe | 3
