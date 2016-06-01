@@ -608,6 +608,10 @@ Card | Qt
 Blighted Steppe | 2
 Drifting Meadow | 1
 New Benalia | 1
-Secluded Steppe | 3
+Nomad Stadium | 1
+Ruins of Trokair | 1
+Sandstone Bridge | 1
+Secluded Steppe | 7
+Sejiri Steppe | 2
 Serra's Sanctum | 1
 Vivid Meadow | 1
