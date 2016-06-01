@@ -616,15 +616,92 @@ Serra's Sanctum | 1
 Vivid Meadow | 1
 ## Blue
 ### Creatures < U
+Aether Adept | 1
+Aether Figment | 3
+Aethersnipe | 1
+Alchemist's Apprentice | 3
+Alhammarret, High Arbiter | 1
+Aphetto Runecaster | 1
+Apprentice Wizard | 1
+Arbiter of the Ideal | 2
+Arcanis the Omnipotent | 2
+Archaeomancer | 4
+Archivist | 1
+Azure Mage | 3
+Battlefield Thaumaturge | 2
+Beguiler of Wills | 1
+Belltoll Dragon | 2
+Benthic Infiltrator | 1
+Blighted Agent | 1
+Breaching Leviathan | 3
+Brine Elemental | 3
 Cephalid Pathmage | 1
+Chromeshell Crab | 1
+Clinging Anemones | 2
+Cloudfin Raptor | 4
+Coral Barrier | 5
+Consecrate Sphinx | 1
 Crookclaw Elder | 1
+Dakra Mystic | 2
+Daring Apprentice | 1
+Daring Thief | 1
+Deadeye Navigator | 1
+Deep-Sea Kraken | 2
+Deepfathom Skulker | 1
+Deranged Assistant | 1
+Diffusion Sliver | 3
 Disruptive Pitmage | 1
-Echo Tracer | 3
+Diviner Spirit | 2
+Doorkeeper | 2
+Dragon's Eye Savant | 3
+Dreamborn Muse | 1
+Dreamscape Artist | 1
+Drift of Phantasms | 2
+Drowner Initiate | 2
+Dulcet Sirens | 3
+Dungeon Geists | 1
+Echo Mage | 1
+Echo Tracer | 4
+Eldrazi Skyspawner | 4
+Elgaud Shieldmate | 2
+Erdwal Illuminator | 1
+Faerie Impostor | 1
+Faerie Miscreant | 4
+Fathom Seer | 3
+Fog Bank | 3
+Frost Lynx | 4
+Galerider Sliver | 1
 Ghosthelm Courier | 1
 Glacial Wall | 1
+Graceful Adept | 1
+Gudul Lurker | 1
+Guile | 1
+Halimar Tidecaller | 1
+Hedron Crab | 4
+Hover Barrier | 1
+Hoverguard Sweepers | 3
+Illusory Angel | 2
 Information Dealer | 1
+Ixidron | 3
+Jace's Archivist | 2
+Jace's Phantasm | 3
+Jushi Apprentice | 2
+Kami of the Cresent Moon | 1
+Kederekt Leviathan | 1
+Kheru Spellsnatcher | 2
+Kraken Hatchling | 5
+Kraken of the Straits | 3
+Krovikan Mist | 2
+Laboratory Maniac | 1
+Lord of the Unreal | 1
+Magus of the Jar | 1
+Man-O'-War | 2
+Manic Scribe | 1
 Master of the Veil | 1
+Master Transmuter | 1
+Meletis Charlatan | 1
 Merchant of Secrets | 1
+Mercurial Pretender | 1
 Stormscape Familiar | 1
 Voidmage Apprentice | 1
 Wall of Deceit| 1

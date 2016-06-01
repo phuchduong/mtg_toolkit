@@ -438,31 +438,87 @@ Zealous Strike |
 ### Creatures < U
 Card |
 --- |
+Aberrant Researcher |
+Aerie Worshippers |
+Aeronaut Tinkerer |
 Air Elemental |
+Air Servant |
+Amphin Pathmage |
+Ancient Carp |
+Ancient Crab |
 Arctic Merfolk |
+Armored Cancrix
 Ascending Aven |
+Aspiring Aeronaut |
 Aven Fisher |
+Aven Surveyor |
 Aven Windreader |
 Balshan Griffin | 
+Blinding Drone |
+Breaching Hippocamp |
+Chorus of the Tides |
+Cloaked Siren |
+Cloud Elemental |
 Cloudskate |
-Coastal Drake |
 Coast Watcher |
+Coastal Drake |
+Coastal Hornclaw |
+Coral Eel |
 Coral Merfolk |
+Coralhelm Guide |
 Crafty Pathmage | 
+Crosstown Courier |
+Cultivator Drone |
+Cryptic Cruiser |
+Cyclone Sire |
 Dandan | 
 Dark Maze |
+Deep-Sea Terror | 
+Deepwater Hypnotist | 
+Dirgur Nemesis |
 Dreamwinder |
+Drownyard Explorers |
+Elusive Spellfist |
+Faerie Invaders |
 Faerie Squadron |
+Fencer Clique |
+Frost Walker |
+Fugitive Wizard |
+Furtive Homunculus |
 Giant Octopus |
+Glacial Crasher |
+Glacial Stalker |
+Gryff Vanguard | 
+Gurmag Drowner |
 Hapless Researcher |
+Headless Skaab |
 Homarid Warrior |
 Hunting Drake |
 Imagecrafter | 
 Keeneye Aven |
 Krovikan Sorcerer |
+Horizon Scholar |
+Incubator Drone |
+Incursion Specialist |
+Inkfathom Divers |
+Isperia's Skywatch |
+Jeskai Sage |
+Jhessian Thief |
+Jeskai Windscout |
+Jwar Isle Avenger |
+Kapsho Kitefins |
+Keymaster Rogue |
 Labyrinth Minotaur |
+Lamplighter of Selhoff |
+Leyline Phantom |
+Lotus Path Djinn |
+Makeshift Mauler |
+Maritime Guard |
+Meletis Astronomer |
 Mercurial Kite |
 Merfolk of the Pearl Trident |
+Merfolk Spy |
+Messenger Drake |
 Mistform Dreamer |
 Mistform Mutant |
 Mistform Shrieker |
