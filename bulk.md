@@ -434,3 +434,25 @@ Tandem Tactics |
 Tenacity |
 Urgent Exorcism |
 Zealous Strike |
+## Blue
+### Creatures < U
+Card |
+--- |
+Coastal Drake |
+Faerie Squadron |
+Giant Octopus |
+Hunting Drake |
+Merfolk of the Pearl Trident |
+Mistform Stalker |
+Reef Pirates |
+Ribbon Snake |
+Sea Serpent |
+Shoreline Raider |
+Shoreline Ranger |
+Skywing Aven |
+Vizzerdrix | 
+Wormfang Turtle |
+Zephyr Falcon |
+## White + Blue
+### Creatures < W/U
+Tower Drake
