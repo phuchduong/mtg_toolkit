@@ -732,7 +732,7 @@ Soul Barrier | 2
 Card | Qt
 --- | ---
 Allied Strategies | 1
-Rush of Knowledge |
+Rush of Knowledge | 1
 Temporal Fissure | 3
 Time Ebb | 2
 ### Instant < U
@@ -749,7 +749,7 @@ Grip of Amnesia | 1
 Ixidor's Will | 1
 Keep Watch | 2
 Repulse | 1
-Spy Network |
+Spy Network | 1
 Trickery Charm |2
 Twiddle | 1
 ## Blue + Black
