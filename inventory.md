@@ -22,6 +22,7 @@ Colorless | White | Blue | Black | Red | Green
 
 W/U | W/B | W/R | W/G | U/B | U/R | U/G | B/R | B/G | R/G
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Creature | Creature | Creature | Creature | Creature | Creature | Creature | Creature | Creature | Creature
 ## Colorless
 ### Creatures < C
 Card | Qt
