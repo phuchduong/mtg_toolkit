@@ -711,6 +711,8 @@ Wall of Deceit| 1
 Willbender | 3
 Wonder | 1
 ### Enchantment < U
+Card | Qt
+--- | ---
 Compulsion | 2
 Diplomatic Immunity | 1
 Energy Flux | 1
@@ -719,11 +721,15 @@ Flood | 1
 Phantasmal Terrain | 1
 Soul Barrier | 2
 ### Sorcery < U
+Card | Qt
+--- | ---
 Allied Strategies | 1
 Rush of Knowledge |
 Temporal Fissure | 3
 Time Ebb | 2
 ### Instant < U
+Card | Qt
+--- | ---
 Backslide | 1
 Chain of Vapor | 1
 Deflection | 1
@@ -740,4 +746,6 @@ Trickery Charm |2
 Twiddle | 1
 ## Blue + Black
 ### Sorcery < U/B
+Card | Qt
+--- | ---
 Probe | 1

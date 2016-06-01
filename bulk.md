@@ -544,6 +544,8 @@ Wind Drake |
 Wormfang Turtle |
 Zephyr Falcon |
 ### Enchantment < U
+Card |
+--- |
 Churning Eddy |
 Creature Bond |
 Dehydration |
@@ -553,18 +555,26 @@ Mind Bomb |
 Mistform Mask |
 Power Leak |
 ### Sorcery < U
+Card |
+--- |
 Eye Spy |
 Quiet Speculation |
 Manipulate Fate |
 Tidal Surge |
 ### Instant < U
+Card |
+--- |
 Barrin's Unmaking |
 Hindering Touch |
 Prohibit | 
 ## White + Blue
 ### Creatures < W/U
+Card |
+--- |
 Mirror Wall | 1
 Tower Drake | 1
 ## Blue + Black
 ### Creatures < U/B
+Card |
+--- |
 Metathran Zombie |
