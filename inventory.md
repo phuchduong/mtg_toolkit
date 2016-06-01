@@ -22,7 +22,9 @@ Colorless | White | Blue | Black | Red | Green
 
 W/U | W/B | W/R | W/G | U/B | U/R | U/G | B/R | B/G | R/G
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Creature | Creature | Creature | Creature | Creature | Creature | Creature | Creature | Creature | Creature
+
+Creature | Enchantment Creature | Enchantment | Sorcery | Instant | Artifact | Land
+--- | --- | --- | --- | --- | --- | --- | 
 ## Colorless
 ### Creatures < C
 Card | Qt
