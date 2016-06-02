@@ -600,14 +600,31 @@ Zephyr Falcon |
 ### Enchantment < U
 Card |
 --- |
+Agoraphobia |
+Chant of the Skifsang |
 Churning Eddy |
 Creature Bond |
 Dehydration |
+Encase In Ice |
+Eternity Snare |
 Feedback |
+Flight |
+Illusionary Armor |
+Jeskai Runemark |
 Lost in Thought |
 Mind Bomb |
 Mistform Mask |
+Pin To the Earth |
 Power Leak |
+Runner's Bane |
+Sensory Deprivation |
+Sleep Paralysis |
+Stratus Walk |
+Tightening Coils |
+Vapor Snare |
+Vessel of Paramnesia | 
+Way of the Thief |
+Zephyr Charge |
 ### Sorcery < U
 Card |
 --- |

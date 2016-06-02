@@ -814,16 +814,89 @@ Willbreaker | 1
 Wonder | 1
 Youthful Scholar | 2
 Zephyr Scribe | 4
+### Enchantment Creature < U
+Card | Qt
+--- | ---
+Archetype of Imagination | 4
+Bident of Thassa | 1
+Flitterstep Eidolon | 3
+Nimbus Naiad | 4
+Nyxborn Triton | 4
+Riptide Chimera | 2
+Thassa's Devourer | 3
+Thassa's Emissary | 2
+Thassa, God of the Sea | 1
 ### Enchantment < U
 Card | Qt
 --- | ---
+Annex | 1
+Aqueous Form | 4
+Arcae Laboratory | 1
+Call of the Kindred | 1
+Chronic Flooding | 4
+Claustrophobia | 5
 Compulsion | 2
+Confiscate | 1
+Containment Membrane | 4
+Copy Enchantment | 2
+Curse of Inertia | 1
+Curse of the Bloody Tome | 1
+Dampening Pulse | 3
 Diplomatic Immunity | 1
-Energy Flux | 1
-Gaseous Form | 2
+Dismiss into Dream | 1
+Domestication | 1
+Encrust | 5
+Energy Flux | 2
+Ensoul Artifact | 1
+Eye of the Storm | 1
+Fate Foretold | 4
+Favorable Winds | 1
+Fleeting Memories | 1
 Flood | 1
+Font of Fortunes | 3
+Fool's Demise | 3
+Forced Fruition | 1
+Gaseous Form | 2
+Infinite Reflection | 3
+Invisbility | 3
+Jace's Erasure | 1
+Jace's Sanctum | 1
+Halcyon Glaze | 1
+Honden of Seeing Winds | 1
+Illusory Gains | 1
+Intruder Alarm | 1
+Leyline of Anticipation | 1
+Meishin, the Mind Cage | 1
+Memory Erosion | 1
+Military Intelligence | 1
+Mind Control | 1
+Monastery Siege | 1
+Nagging Thoughts | 1
+Oath of Jace | 1
+Omniscience | 1
+Ordeal of Thassa | 2
+Oracle's Insight | 2
+Paralyzing Grasp | 4
 Phantasmal Terrain | 1
+Propaganda | 1
+Quiet Contemplation | 1
+Reduce In Stature | 3
+Retreat to Coralhelm | 1
+Singing Bell Strike | 2
+Skywise Teachings | 1
 Soul Barrier | 2
+Sphinx's Tutelage | 4
+Spreading Seas | 1
+Steal Artifact | 2
+Telepathy | 1
+Thassa's Ire | 2
+Thopter Spy Network | 1
+Thought Reflection | 1
+Trail of Evidence | 2
+Tricks of the Trade | 2
+Well of Ideas | 1
+Words of Wind | 1
+Xenograft | 
 ### Sorcery < U
 Card | Qt
 --- | ---
