@@ -713,11 +713,107 @@ Master Transmuter | 1
 Meletis Charlatan | 1
 Merchant of Secrets | 1
 Mercurial Pretender | 1
+Mindshrieker | 1
+Mist Intruder | 4
+Mistfire Adept | 2
+Mistfire Weaver | 4
+Mistform Sliver | 1
+Mizzium Meddler | 1
+Mnemonic Wall | 5
+Monastery Flock | 6
+Monastery Loremaster | 4
+Mothdust Changeling | 2
+Mulldrifter | 2
+Murmuring Phantasm | 5
+Nephalia Moondrakes | 1
+Nephalia Seakite | 4
+Niblis of the Breath | 3
+Omenspeaker | 4
+Oracle of Dust | 3
+Palace Familiar | 4
+Pestermite | 1
+Phantasmal Abomination | 1
+Phantasmal Bear | 2
+Phantasmal Dragon | 5
+Phantom Warrior | 4
+Phyrexian Ingester | 3
+Prescient Chimera | 4
+Prophet of Distortion | 1
+Prognostic Sphinx | 1
+Qarsi Deceiver | 1
+Quickling | 1
+Raven Familiar | 1
+Reckless Scholar | 2
+Relentless Skaabs | 1
+Renowned Weaponsmith | 4
+Riddlesmith | 1
+Riptide Survivor | 3
+Ruination Guide | 1
+Sage Owl | 1
+Sage's Row Denizen | 5
+Sage-Eye Avengers | 1
+Salvage Drone | 4
+Sapphire Drake | 2
+Scroll Thief | 4
+Scourge of Fleets | 4
+Screeching Skaab | 4
+Sea Gate Oracle | 3
+Sealock Monster | 5
+Seasinger | 1
+Selhoff Occultist | 1
+Shaper Parasite | 2
+Shriekgeist | 3
+Sidisi's Faithful | 4
+Sigiled Starfish | 5
+Silumgar Sorcerer | 2
+Silumgar Spell-Eater | 2
+Simic Fluxmage | 2
+Siren of the Fanged Coast | 3
+Skaab Goliath | 3
+Slithermuse | 1
+Soul Seizer | 1
+Soulsworn Spirit | 1
+Sphinx of Jwar Isle | 3
+Sphinx of Magosi | 3
+Sphinx of Uthuun | 4
+Sphinx's Disciple | 4
+Spiketail Hatchling | 1
+Stealer of Secrets | 2
+Stern Mentor | 2
+Stitched Drake | 1
+Stitcher Geralf | 3
+Stratus Dancer | 1
+Stormbound Geist | 2
 Stormscape Familiar | 1
-Voidmage Apprentice | 1
-Wall of Deceit| 1
-Willbender | 3
+Stormsurge Kraken | 2
+Stormtide Leviathan | 1
+Stronghold Machinist | 1
+Tandem Lookout | 1
+Thada Adel, Acquisitor | 1
+Thought Harvester | 1
+Thousand Winds | 1
+Tower Geist | 4
+Treasure Mage | 1
+Trinket Mage | 2
+Triton Fortune Hunter | 3
+Turtleshell Changeling | 1
+Ulamog's Reclaimer | 1
+Undead Alchemist | 1
+Vedalken Engineer | 1
+Vedalken Entrancer | 4
+Voidmage Apprentice | 2
+Vortex Elemental | 3
+Wall of Air | 1
+Wall of Deceit | 1
+Wall of Frost | 3
+Warden of Evos Isle | 1
+Whirler Rogue | 4
+Whirlpool Rider |
+Willbender | 7
+Willbreaker | 1
 Wonder | 1
+Youthful Scholar | 2
+Zephyr Scribe | 4
 ### Enchantment < U
 Card | Qt
 --- | ---

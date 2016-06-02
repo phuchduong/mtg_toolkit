@@ -529,28 +529,72 @@ Mercurial Kite |
 Merfolk of the Pearl Trident |
 Merfolk Spy |
 Messenger Drake |
+Metropolis Sprite |
+Nimbus of the Isles |
 Mistform Dreamer |
 Mistform Mutant |
 Mistform Shrieker |
 Mistform Stalker |
 Mistform Wall |
+Murk Strider |
+Moon Heron |
+Mystic of the Hidden Way |
+Nephalia Seakite |
+Niblis of Dusk |
+Nimbus of the Isles |
+Nivix Barrier |
+Ojutai Interceptor |
+Opal Lake Gatekeepers |
 Reef Pirates |
+Research Assistant |
 Ribbon Snake |
+Ringskipper |
+Ringwarden Owl |
+Riverwheel Aerialists |
+Rootwater Diver |
+Rotcrown Ghoul |
 Scornful Egotist |
+Scrapskin Drake | 
 Screaming Seahawk |
 Sea Eagle |
 Sea Serpent |
+Seacoast Drake |
+Seagraf Skaab |
 Segovian Leviathan | 
+Sentinels of Glen Elendra |
+Separatist Voidmage |
 Shoreline Raider |
 Shoreline Ranger |
+Silburlind Snapper |
+Skyline Predator |
 Skywing Aven |
+Sneaky Homunculus |
+Stormrider Spirit |
+Sultai Skullkeeper |
+Surrakar Banisher |
 Talas Scout |
 Thought Nibbler |
+Trained Condor |
+Triton Shorestalker |
+Triton Shorethief |
+Umara Entangler |
+Uninvited Geist |
+Updraft Elemental |
+Vaporskin |
 Vigilant Drake |
 Vizzerdrix | 
 Vodalian Merchant |
 Vodalian Serpent |
+Water Servant |
+Watercourser |
+Wave-Wing Elemental |
+Wavecrash Triton |
+Welkin Tern |
+Wetland Sambar |
+Whirlwind Adept |
 Wind Drake |
+Wormfang Drake |
+Wormfang Newt |
 Wormfang Turtle |
 Zephyr Falcon |
 ### Enchantment < U
