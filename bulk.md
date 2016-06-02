@@ -10,8 +10,8 @@ Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > A
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
-[Creature](#creatures--c) | [Creature](#creatures--w) | [Creature](#creatures--u) | Creature | Creature | Creature | Creature
- | [Enchantment Creature](#enchantment-creatures--w) | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature
+[Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | Creature | Creature | Creature | Creature
+ | [Enchantment Creature](#enchantment-creatures--w) |  | Enchantment Creature | Enchantment Creature | Enchantment Creature
  | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | Enchantment | Enchantment | Enchantment
  [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | Sorcery | Sorcery | Sorcery
  [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | Instant | Instant | Instant
@@ -22,13 +22,13 @@ Colorless | White | Blue | Black | Red | Green
 
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
-[Creature](#creatures--wu)|     |     |     |
+[Creature](#creature--wu)|     |     |     |
 |     |   |     |     |[Sorcery](#sorcery--ub)
 
 U/R | U/G | B/R | B/G | R/G
 --- | --- | --- | --- | ---
 ## Colorless
-### Creatures < C
+### Creature < C
 Card |
 --- |
 Kozilek's Pathfinder | 
@@ -113,7 +113,7 @@ Card |
 --- |
 Oasis | 
 ## White
-### Creatures < W
+### Creature < W
 Card |
 --- |
 Abbey Griffin | 
@@ -445,7 +445,7 @@ Tenacity |
 Urgent Exorcism |
 Zealous Strike |
 ## Blue
-### Creatures < U
+### Creature < U
 Card |
 --- |
 Aberrant Researcher |
@@ -639,13 +639,13 @@ Barrin's Unmaking |
 Hindering Touch |
 Prohibit | 
 ## White + Blue
-### Creatures < W/U
+### Creature < W/U
 Card |
 --- |
 Mirror Wall | 1
 Tower Drake | 1
 ## Blue + Black
-### Creatures < U/B
+### Creature < U/B
 Card |
 --- |
 Metathran Zombie |

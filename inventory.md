@@ -10,8 +10,8 @@ Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > A
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
-[Creature](#creatures--c) | [Creature](#creatures--w) | [Creature](#creatures--u) | Creature | Creature | Creature | Creature
- | [Enchantment Creature](#enchantment-creatures--w) | Enchantment Creature | Enchantment Creature | Enchantment Creature | Enchantment Creature
+[Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | Creature | Creature | Creature | Creature
+ | [Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | Enchantment Creature | Enchantment Creature | Enchantment Creature
  | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | Enchantment | Enchantment | Enchantment
  [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | Sorcery | Sorcery | Sorcery
  [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | Instant | Instant | Instant
@@ -22,13 +22,13 @@ Colorless | White | Blue | Black | Red | Green
 
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
-[Creature](#creatures--wu)|     |     |     |
+[Creature](#creature--wu)|     |     |     |
 |     |   |     |     |[Sorcery](#sorcery--ub)
 
 U/R | U/G | B/R | B/G | R/G
 --- | --- | --- | --- | ---
 ## Colorless
-### Creatures < C
+### Creature < C
 Card | Qt
 --- | ---
 Breaker of Armies | 2
@@ -240,7 +240,7 @@ Urza's Tower | 1
 Warped Landscape | 3
 Zoetic Cavern | 3
 ## White
-### Creatures < W
+### Creature < W
 Card | Qt
 --- | ---
 Abzan Battle Priest | 2
@@ -624,7 +624,7 @@ Sejiri Steppe | 2
 Serra's Sanctum | 1
 Vivid Meadow | 1
 ## Blue
-### Creatures < U
+### Creature < U
 Card | Qt
 --- | ---
 Aether Adept | 1
