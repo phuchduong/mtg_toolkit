@@ -566,6 +566,7 @@ Separatist Voidmage |
 Shoreline Raider |
 Shoreline Ranger |
 Silburlind Snapper |
+Silent Observer |
 Skyline Predator |
 Skywing Aven |
 Sneaky Homunculus |
@@ -585,6 +586,7 @@ Vigilant Drake |
 Vizzerdrix | 
 Vodalian Merchant |
 Vodalian Serpent |
+War-Wing Siren |
 Water Servant |
 Watercourser |
 Wave-Wing Elemental |
@@ -628,16 +630,46 @@ Zephyr Charge |
 ### Sorcery < U
 Card |
 --- |
+Brilliant Spectrum |
+Exert Influence |
 Eye Spy |
 Quiet Speculation |
 Manipulate Fate |
+Mystic Meditation |
+Roiling Waters |
+Taigam's Strike |
 Tidal Surge |
+Void Squall | 
 ### Instant < U
 Card |
 --- |
+Adverse Conditions |
 Barrin's Unmaking |
+Blinding Spray |
+Chronostutter |
+Dance of the Skywise | 
+Downpour |
+Downsize | 
+Ego Erasure |
+Enhanced Awareness |
+Frost Breath |
+Glint |
+Gridlock |
+Grip of the Roil |
 Hindering Touch |
-Prohibit | 
+Hydrolash |
+Hydrosurge |
+Hysterical Blindness |
+Jace's Scrutiny |
+Lost in a Labryinth |
+Prohibit |
+Psychic Puppetry |
+Rite of Undoing |
+Roilmage's Trick |
+Send to Sleep |
+Sudden Storm |
+Totally Lost |
+Will of the Naga |
 ## White + Blue
 ### Creature < W/U
 Card |

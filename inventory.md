@@ -176,6 +176,7 @@ Fireshrieker | 1
 Fleetfeather Sandals | 4
 Ghostfire Blade | 1
 Gorgon's Head | 3
+Haunted Cloak | 1
 Haunted Plate Mail | 3
 Helm of the Gods | 2
 Hero's Blade | 2
@@ -237,7 +238,7 @@ Uzra's Factory | 1
 Urza's Mine | 1
 Urza's Power Plant | 2
 Urza's Tower | 1
-Warped Landscape | 3
+Warped Landscape | 4
 Zoetic Cavern | 3
 ## White
 ### Creature < W
@@ -392,7 +393,7 @@ Thraben Inspector | 1
 Tragic Poet | 1
 Totem-Guide Hartebeest | 2
 Twilight Drover | 1
-Unruly Mob | 6
+Unruly Mob | 7
 Urbis Protector | 4
 Valor | 1
 Vanguard of Brimaz | 1
@@ -507,7 +508,7 @@ Sunbond | 4
 Suspension Field | 2
 Triclopean Sight | 1
 Valor in Akros | 1
-Vessel of Ephemera | 2
+Vessel of Ephemera | 3
 ### Sorcery < W
 Card | Qt
 --- | ---
@@ -578,7 +579,7 @@ Fate Forgotten | 5
 Fated Retribution | 2
 Feat of Resistance | 3
 Gods Willing | 2
-Humble the Brute | 2
+Humble the Brute | 3
 Kill Shot | 4
 Make A Stand | 1
 Pillar of Light | 3
@@ -896,31 +897,246 @@ Trail of Evidence | 2
 Tricks of the Trade | 2
 Well of Ideas | 1
 Words of Wind | 1
-Xenograft | 
+Xenograft | 1
 ### Sorcery < U
 Card | Qt
 --- | ---
-Allied Strategies | 1
-Rush of Knowledge | 1
+Aether Gale | 2
+Allied Strategis | 1
+Amass the Components | 2
+Anchor to the Aether | 2
+Argivian Restoration | 1
+Artful Dodge | 3
+Blatant Thievery | 1
+Breakthrough | 1
+Brilliant Plan | 1
+Call To Mind | 2
+Clutch of Currents | 3
+Coastal Discovery | 2
+Compulsive Research | 2
+Concentrate | 2
+Curse of the Swine | 1
+Deep Analysis | 1
+Devastation Tide | 1
+Diminishing Returns | 2
+Distorting Wake | 3
+Divination | 10
+Donate | 1
+Dreadwaters | 5
+Enter the Infinite | 1
+Fabricate | 1
+Fascination | 3
+Flux | 2
+Glimpse the Future | 2
+Gone Missing | 3
+Hands of Binding | 3
+Hidden Strings | 4
+Inaction Injunction | 4
+Increasing Confusion | 1
+Index | 1
+Interpret the Signs | 1
+Into the Void | 1
+Last Thoughts | 4
+Mass Appeal | 1
+Mind Sculpt  | 4
+Nagging Thoughts | 1
+Ojutai's Summons | 4
+Order of Succession | 1
+Pieces of the Puzzle | 1
+Press for Answers | 2
+Prosperity | 2
+Pore Over the Pages | 1
+Pull from the Deep | 2
+Reconstruction | 1
+Rise of Eagles | 4
+Rise from the Tides | 1
+Rite of Replication | 1
+Rush of Ice | 4
+Rush of Knowledge | 4
+Sanity Grinding | 1
+Sea God's Revenge 4
+See Beyond | 1
+Set Adrift | 1
+Sight Beyond Sight | 1
+Silent Departure | 4
+Sleep | 1
+Slip Through Space | 1
+Stolen Identity | 1
+Switcheroo | 3
+Taigam's Scheming | 4
+Temporal Cascade | 1
 Temporal Fissure | 3
-Time Ebb | 2
+Temporal Trespass | 1
+Thassa's Bounty | 2
+Time Ebb | 3
+Time Reversal | 1
+Tome Scour | 5
+Traumatize | 1
+Treasure Cruise | 1
+Treasure Hunt | 5
+Ugin's Insight | 1
+Uncovered Clues | 4
+Void Snare | 5
+Voidwalk | 1
+Wash Out | 1
+Whelming Wave | 2
+Windfall | 1
+Write into Being | 4
 ### Instant < U
 Card | Qt
 --- | ---
+Abstruse Interference | 4
+Accumulated Knowledge | 4
+Aerial Formation | 1
+Aether Tradewinds | 1
+Aetherize | 3
+Annul | 5
+Anticipate | 8
+Arcane Denial | 1
+Archive Trap | 1
+Artificer's Epiphany | 4
 Backslide | 1
+Blue Sun's Zenith | 1
+Blustersquall | 4
+Bone to Ash | 4
+Boomerang | 2
+Brainstorm | 1
+Broken Ambitions | 1
+Cacking Counterpart | 3
 Chain of Vapor | 1
+Calculated Dismissal | 6
+Cancel | 8
+Capsize | 1
+Catalog | 8
+Chain of Vapor | 1
+Comparative Analysis | 1
+Confirm Suspicions | 2
+Contradict | 4
+Countermand | 1
+Counterspell | 2
+Crippling Chill | 7
+Crypsis | 4
+Cyclonic Rift | 1
+Dampen Thought | 1
 Deflection | 1
+Deny Existence | 3
 Discombobulate | 1
+Disdainful Stroke | 4
+Dismiss | 3
+Dispel | 5
+Disperse | 5
+Dissipate | 3
+Dissolve | 1
+Domineering Will | 2
+Dream Fracture | 3
+Dream Twist | 1
+Engulf the Shore | 2
+Epiphany at the Drownyard | 1
+Essence Flux | 2
+Essence Scatter | 4
+Evacuation | 2
+Excude | 3
+Fated Infatuation | 1
 Flash of Insight | 2
+Fleeting Distraction | 1
+Force Away | 4
 Force Spike | 2
-Gainsay | 1
+Gainsay | 5
+Geist Snatch | 3
 Grip of Amnesia | 1
+Griptide | 4
+Hubris | 4
+Hurkyl's Recall | 1
+Inspiration | 4
+Intellectual Offering | 3
+Into the Roil | 2
 Ixidor's Will | 1
+Jace's Ingenuity | 3
+Just the Wind | 3
 Keep Watch | 2
+Kiora's Dismissal | 1
+Learn from the Past | 2
+Long-Term Plans | 1
+Lost in the Mist | 1
+Machinate | 1
+Mana Leak | 4
+Mindstatic | 3
+Mizzium Skin | 5
+Negate | 8
+Neutralizing Blast | 2
+Nullify | 4
+Ojutai's Breath | 4
+Opportunity | 2
+Outwit | 1
+Peel from Reality | 5
+Pongify | 2
+Psychic Rebuttal | 2
+Psychic Spiral | 1
+Quicken | 1
+Rakshasa's Disdain | 5
+Rapid Hybridization | 1
+Reach Through Mists | 1
+Reef Worm | 1
+Refocus | 2
+Regress | 1
+Remove Soul | 1
 Repulse | 1
+Retraction Helix | 4
+Scatter Arc | 2
+Second Guess | 1
+Silumgar's Scorn | 1
+Snap | 1
+Spell Blast | 3
+Spell Rupture | 1
+Spell Shrivel | 4
 Spy Network | 1
-Trickery Charm |2
-Twiddle | 1
+Squelch | 1
+Statue of Denial | 4
+Stoic Rebuttal | 1
+Stroke of Genius | 2
+Stubborn Denial | 1
+Stymied Hopes | 4
+Sudden Storm | 
+Summoner's Bane | 3
+Sweep Away | 2
+Telling Time | 1
+Thassa's Rebuff | 3
+Think Twice | 1
+Thought Scour | 2
+Time Stop | 1
+Trickery Charm | 2
+Turn to Frog | 7
+Twiddle | 2
+Unity of Purpose | 1
+Unsummon | 1
+Vanishment | 1
+Vapor Snag | 2
+Visions of Beyond | 1
+Void Shatter | 3
+Voyage's End | 4
+Weave Fate | 4
+Whisk Away | 2
+Words of Wisdom | 1
+### Planeswalker < U
+Jace Beleren | 1
+Jace, Memory Adept | 1
+Tezzeret the Seeker | 1
+### Artifact < U
+Mindlock Orb | 1
+Ring of Evos Isle | 2
+Saphire Medallion | 1
+Silver Myr | 1
+Sky Diamond | 1
+Staff of the Mind Magus | 4
+### Land < U
+Blighted Cataract | 1
+Coral Atoll | 2
+Halimar Depths | 1
+Lonely Sandbar | 8
+Remote Isle | 2
+Skyline Cascade | 7
+Soaring Seacliff | 1
+Vivid Creek | 2
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
