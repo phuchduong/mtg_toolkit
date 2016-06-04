@@ -1122,6 +1122,8 @@ Jace Beleren | 1
 Jace, Memory Adept | 1
 Tezzeret the Seeker | 1
 ### Artifact < U
+Card | Qt
+--- | ---
 Mindlock Orb | 1
 Ring of Evos Isle | 2
 Saphire Medallion | 1
@@ -1129,6 +1131,8 @@ Silver Myr | 1
 Sky Diamond | 1
 Staff of the Mind Magus | 4
 ### Land < U
+Card | Qt
+--- | ---
 Blighted Cataract | 1
 Coral Atoll | 2
 Halimar Depths | 1
