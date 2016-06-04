@@ -15,7 +15,7 @@ Colorless | White | Blue | Black | Red | Green
  | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | Enchantment | Enchantment | Enchantment
 [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | Sorcery | Sorcery | Sorcery
 [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | Instant | Instant | Instant
- | | | [Planeswalker](#planeswalker--u) |  | Planeswalker | Planeswalker | Planeswalker
+ | | [Planeswalker](#planeswalker--u) | |  | Planeswalker | Planeswalker | Planeswalker
 [Artifact](#artifact--c) | [Artifact](#artifact--w) | [Artifact](#artifact--u) | Artifact |  | Artifact | Artifact | Artifact
 [Artifact Creature](#artifact-creature--c) | | | | | 
 [Equipment](#artifact-equipment--c) |  | | | | 
