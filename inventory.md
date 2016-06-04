@@ -809,7 +809,7 @@ Wall of Deceit | 1
 Wall of Frost | 3
 Warden of Evos Isle | 1
 Whirler Rogue | 4
-Whirlpool Rider |
+Whirlpool Rider | 1
 Willbender | 7
 Willbreaker | 1
 Wonder | 1
@@ -954,7 +954,7 @@ Rite of Replication | 1
 Rush of Ice | 4
 Rush of Knowledge | 4
 Sanity Grinding | 1
-Sea God's Revenge 4
+Sea God's Revenge | 4
 See Beyond | 1
 Set Adrift | 1
 Sight Beyond Sight | 1
@@ -1118,6 +1118,8 @@ Weave Fate | 4
 Whisk Away | 2
 Words of Wisdom | 1
 ### Planeswalker < U
+Card | Qt
+--- | ---
 Jace Beleren | 1
 Jace, Memory Adept | 1
 Tezzeret the Seeker | 1
