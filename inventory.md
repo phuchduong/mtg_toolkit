@@ -10,8 +10,8 @@ Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > A
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
-[Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | Creature | Creature | Creature | Creature
- | [Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | Enchantment Creature | Enchantment Creature | Enchantment Creature
+[Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | Creature | Creature | Creature
+ | [Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | [Enchantment Creature](#enchantment-creature--b) | Enchantment Creature | Enchantment Creature
  | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | Enchantment | Enchantment | Enchantment
 [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | Sorcery | Sorcery | Sorcery
 [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | Instant | Instant | Instant
