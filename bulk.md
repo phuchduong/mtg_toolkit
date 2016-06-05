@@ -831,7 +831,7 @@ The Wretched |
 Thornbow Archer |
 Tooth Collector |
 Twins of Maurer Estate |
-Ukud Cobra
+Ukud Cobra |
 Undead Executioner |
 Undead Minotaur |
 Undead Servant |
