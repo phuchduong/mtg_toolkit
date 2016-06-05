@@ -1,4 +1,3 @@
 # Trade
-Card | Qty
+Card | Qt
 --- | ---
-Trade Secrets | 1

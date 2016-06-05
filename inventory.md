@@ -972,6 +972,7 @@ Thassa's Bounty | 2
 Time Ebb | 3
 Time Reversal | 1
 Tome Scour | 5
+Trade Secrets | 1
 Traumatize | 1
 Treasure Cruise | 1
 Treasure Hunt | 5
@@ -1144,6 +1145,133 @@ Remote Isle | 2
 Skyline Cascade | 7
 Soaring Seacliff | 1
 Vivid Creek | 2
+## Black
+### Creatures < B
+Card | Qt
+--- | ---
+Acid-Spewer Dragon | 1
+Ambuscade Shaman | 1
+Baleful Force | 1
+Bascilica Screecher | 3
+Black Cat | 4
+Black Oak of Odunos | 3
+Blightcaster | 6
+Blood Artist | 1
+Blood Bairn | 4
+Blood Host | 1
+Blood Pet | 1
+Blood-Chin Fanatic | 1
+Bloodbond Vampire | 2
+Bloodflow Connoisseur | 2
+Bloodsoaked Champion | 1
+Bloodthrone Vampire | 1
+Boneknitter | 2
+Carrier Thrall | 2
+Champion of Stray Souls | 1
+Child of Night | 4
+Chimney Imp | 1
+Corpse Connoisseur | 1
+Crypt Sliver | 1
+Deathbringer Regent | 2
+Dead Reveler | 3
+Demonlord of Ashmouth | 1
+Disciple of Griselbrand | 1
+Disciple of Phenax | 4
+Disowned Ancestor | 3
+Drainpipe Vermin | 4
+Dutiful Attendant | 2
+Eater of Hope | 1
+Endrek Sahr, Master Breeder | 1
+Faerie Macabre | 2
+Falkenrath Noble | 2
+Fallen Angel | 2
+Felhide Petrifier | 3
+Festering Goblin | 1
+Festering Newt | 5
+Fleshbag Marauder | 2
+Forlorn Pseudamma | 3
+Ghoulraiser | 3
+Gloom Surgeon | 1
+Gnawing Zombie | 1
+Gravedigger | 3
+Gray Merchant of Asphodel | 4
+Grim Haruspex | 1
+Grim Roustabout | 4
+Gurmag Angler | 1
+Gurmag Swiftwing | 2
+Hand of Silumgar | 4
+Kalastria Healer | 4
+Kheru Bloodsucker | 2
+Korlash, Heir To Blackblade | 1
+Leeching Sliver | 1
+Liliana's Shade | 2
+Lord of the Undead | 1
+Malakir Cullblade | 2
+Mardu Shadowspear | 4
+Mardu Strike Leader | 1
+Marshmist Titan | 4
+Maze Abomination | 1
+Mer-Ek Nightblade | 2
+Merciless Executioner | 1
+Mind Raker | 4
+Minister of Pain | 2
+Mogis's Marauder | 4
+Mortivore | 1
+Nantuko Husk | 4
+Necropolis Fiend | 1
+Ob Nixilis, Unshackled | 1
+Paragon of Open Graves | 2
+Phyrexian Gargantua | 1
+Pitiless Horde | 2
+Plague Rats | 2
+Plagued Rusalka | 1
+Pontiff of Blight | 1
+Priest of the Blood Rite | 1
+Pulse Tracker | 1
+Rakdos Drake | 3
+Rakshasa Gravecaller | 1
+Ravenous Rats | 5
+Reassembling Skeleton | 2
+Revenant | 1
+Risen Executioner | 1
+Ruthless Ripper | 1
+Sangromancer | 2
+Sanitarium Skeleton | 3
+Scavenger Drake | 1
+Seizan, Perverter of Truth | 1
+Sengir Vampire | 4
+Sepulchral Primordial | 1
+Servant of Nefarox | 3
+Servant of Tymaret | 4
+Shadowborn Demon | 1
+Sifter of Skulls | 1
+Sightless Ghoul | 1
+Silent Specter | 1
+Silumgar Assassin | 1
+Skirge Familiar | 1
+Skirsdag Flayer | 3
+Slum Reaper | 3
+Soulcage Fiend | 3
+Squelching Leeches | 2
+Sultai Scavenger | 2
+Swarm of Bloodflies | 2
+Syndicate Enforcer | 1
+Syphon Sliver | 1
+Tenacious Dead | 2
+Thief of Hope | 1
+Thrill-Kill Assassin | 1
+Tormented Hero | 4
+Typhoid Rats | 4
+Ubul Sar Gatekeepers | 4
+Unbreathing Horde | 1
+Veilborn Ghoul | 2
+Vulturous Aven | 4
+Wall of Blood | 1
+Wall of Blone | 1
+Wall of Limbs | 2
+Witch's Familiar | 4
+Wight of Precinct Six | 1
+Vampire Nighthawk | 2
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt

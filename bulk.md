@@ -670,6 +670,192 @@ Send to Sleep |
 Sudden Storm |
 Totally Lost |
 Will of the Naga |
+## Black
+### Creatures < B
+Card | Qt
+--- | ---
+Abattoir Ghoul |
+Accursed Spirit |
+Alesha's Vanguard |
+Anurid Murkdiver |
+Ashiok's Adept |
+Asphodel Wanderer |
+Bane Alley Blackguard |
+Battle Brawler |
+Belbe's Percher |
+Bellowing Saddlebrute |
+Blood-Toll Harpy |
+Bloodcrazed Hoplite |
+Bloodhunter Bat |
+Bloodrage Vampire |
+Bog Imp |
+Bog Initiate |
+Bog Wraith |
+Brain Weevil |
+Cabal Executioner |
+Cabal Slaver |
+Cabal Surgeon |
+Cabal Trainee |
+Carrion Ants |
+Carrion Crow |
+Catacomb Slug |
+Chosen of Markov |
+Corpse Hauler |
+Craven Knight |
+Crypt Creeper |
+Culling Drone |
+Daggerdrome Imp |
+Dakmor Bat |
+Dark Revenant |
+Deadbridge Shaman |
+Death's-Head Buzzard |
+Deathgaze Cockatrice |
+Deathgazer |
+Deepwood Ghoul |
+Dominator Drone |
+Drudge Skeletons |
+Dusk Imp |
+Duskhunter Bat |
+Duskmantle Prowler |
+Duskwalker |
+Erg Raiders |
+Eyeblight Assassin |
+Falkenrath Torturer |
+Farbog Boneflinger |
+Fallen Cleric |
+Farbog Revenant |
+Felhide Brawler |
+Felhide Minotaur |
+Filthy Cur |
+Fetid Imp |
+Flayed Nim |
+Fleshmad Steed |
+Forsaken Drifters |
+Frightshroud Courier |
+Frozen Shade |
+Geyserfield Stalker |
+Giant Cockroach |
+Giant Scorpion |
+Gluttonous Zombie |
+Ghoulcaller's Accomplice |
+Gravegouger |
+Grimclaw Bats |
+Hagra Sharpshooter |
+Heir of Falkenrath |
+Hired Torturer |
+Hooded Assassin |
+Hooded Horror |
+Hound of the Farbogs |
+Insatiable Harpy |
+Junun Efreet |
+Kalastria Nightwatch |
+Keepsake Gorgon |
+Kindly Stranger |
+Kjeldoran Dead |
+Kindly Stranger |
+Kolaghan Skirmisher |
+Kozilek's Shrieker |
+Krumar Bond-Kin |
+Lost Soul |
+Maggot Carrier |
+Malakir Familiar |
+Marang River Skeleton |
+Manor Skeleton |
+Mardu Skullhunter |
+Marrow Bats |
+Marsh Hulk |
+Mindstab Thrull |
+Minotaur Abomination |
+Morkrut Necropod |
+Moor Fiend |
+Murk Dwellers |
+Necrite |
+Necrogen Scudder |
+Necromancer's Assistant |
+Nightwing Shade |
+Nirkana Assassin |
+Null Caller |
+Ogre Jailbreaker |
+Overeager Apprentice |
+Pale Rider of Trostad |
+Perilous Shadow |
+Pharika's Chosen |
+Phyrexian Bloodstock |
+Phyrexian Slayer |
+Pit Scorpion |
+Putrid Raptor |
+Qarsi Sadist |
+Rabid Bloodsucker |
+Reaver Drone |
+Reckless Imp |
+Returned Centaur |
+Returned Reveler |
+Rotfeaster Maggot |
+Rotted Hulk |
+Rottenheart Ghoul |
+Rotting Fensnake |
+Rotting Mastodon |
+Ruthless Ripper |
+Scandalmonger |
+Scathe Zombies |
+Screeching Bat |
+Screeching Buzzard |
+Searchlight Geist |
+Severed Legion |
+Sewer Shambler |
+Shadowcloak Vampire |
+Shambling Attendants |
+Shambling Ghoul |
+Shambling Goblin |
+Shrike Harpy |
+Sibsig Host |
+Sibsig Icebreakers |
+Sibsig Muckdraggers |
+Sickle Ripper |
+Sidisi's Pet |
+Sightless Ghoul |
+Silent Skimmer |
+Silumgar Butcher |
+Skeletal Crocodile |
+Skinthinner |
+Skitterskin |
+Sky Scourer |
+Slaughter Drone |
+Slum Reaper |
+Spiderwig Boggart |
+Stallion of Ashmouth |
+Stromkirk Mentor |
+Sultai Emissary |
+Terrus Wurm |
+The Wretched |
+Thornbow Archer |
+Tooth Collector |
+Twins of Maurer Estate |
+Ukud Cobra
+Undead Executioner |
+Undead Minotaur |
+Undead Servant |
+Vampire Envoy |
+Vampire Interloper |
+Vampire Noble |
+Vampire Warlord |
+Village Cannibals |
+Voracious Null |
+Walking Corpse |
+Warchanter of Mogis |
+Wandering Tombshell |
+Whipstitched Zombie |
+Whispering Shade |
+Wretched Anurid |
+Vampire Bats |
+Vampire Hounds |
+Xathrid Slyblade | 
+Zanikev Locust |
+Zof Shade |
+Zombie Assassin |
+Zombie Cutthroat |
+Zombie Goliath |
+Zulaport Chainmage |
 ## White + Blue
 ### Creature < W/U
 Card |
