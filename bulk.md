@@ -864,6 +864,39 @@ Erebos's Emissary |
 Gnarled Scarhide |
 Nyxborn Eidolon |
 Spiteful Returned |
+### Enchantment < B
+Card |
+--- |
+Artificer's Hex |
+Aspect of Gorgon |
+Cast Into Darkness |
+Caustic Tar |
+Claim of Erebos |
+Consecrated By Blood |
+Crippling Blight |
+Crown of Suspicion |
+Dark Favor | 
+Dead Weight |
+Debilitating Injury |
+Fear |
+Font of Return |
+Ghoulflesh |
+Grisly Transformation |
+Gruesome Deformity |
+Infernal Scarring |
+Krovikan Fetish |
+Lingering Death |
+Molting Snakeskin |
+Nyx Infusion |
+Ordeal of Erebos |
+Paralyze |
+Predator's Gambit |
+Scourgemark |
+Sinister Possession |
+Spiteful Shadows |
+Sultai Runemark |
+Vessel of Malignity |
+Weakness |
 ## White + Blue
 ### Creature < W/U
 Card |

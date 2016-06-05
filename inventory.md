@@ -1285,6 +1285,55 @@ Fate Unraveler | 1
 Grim Guardian | 6
 Nighthowler | 1
 Thoughtrender Lamia | 3
+### Enchantment < B
+Card | Qt
+--- | ---
+Animate Dead | 1
+Bereavement | 1
+Blight | 1
+Blood Reckoning | 2
+Call the Bloodline | 3
+Contaminated Ground | 2
+Corpseweft | 1
+Creeping Dread | 1
+Curse of Oblivion | 1
+Curse of Misfortunes | 1
+Curse of Shallow Graves | 2
+Curse of Thirst | 4
+Deadly Wanderings | 1
+Death Pit Offering | 1
+Deathgrip | 1
+Dictate of Erebos | 2
+Endless Ranks of the Dead | 1
+Eternal Thirst | 4
+Evil Presence | 3
+Feast on the Fallen | 3
+Grave Betrayal | 1
+Greed | 1
+Hedonist's Trove | 1
+Homicidal Seclusion | 1
+Honden of Night's Reach | 1
+Mark of the Vampire | 4
+Night Dealings | 1
+Palace Siege | 1
+Pestilence | 2
+Prowess of the Fair | 1
+Raiders' Spoils | 2
+Quag Sickness | 4
+Retreat To Hagra | 4
+Sanguine Bond | 1
+Shade's Form | 1
+Shadows of the Past | 3
+Shrieking Affliction | 2
+Sinister Concoction | 1
+Stab Wound | 4
+Underworld Conections | 1
+Vampiric Rites | 2
+Viper's Kiss | 4
+Virulent Plague | 1
+Visions of Brutality | 1
+Whip of Erebos | 1
+Zombie Infestation | 3
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
