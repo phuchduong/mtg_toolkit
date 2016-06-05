@@ -131,7 +131,7 @@ Vial of Dragonfire | 4
 Wanderer's Twig | 1
 Wayfarer's Bauble | 2
 Whetstone | 1
-### Artifact Creatures < C
+### Artifact Creature < C
 Card | Qt
 --- | ---
 Arcbound Stinger | 1
@@ -409,7 +409,7 @@ War Priest of Thune | 1
 Wall of Essence | 2
 Whipcorder | 2
 White Knight | 1
-### Enchantment Creatures < W
+### Enchantment Creature < W
 Card | Qt
 --- | ---
 Aegis of the Gods | 2
@@ -1146,7 +1146,7 @@ Skyline Cascade | 7
 Soaring Seacliff | 1
 Vivid Creek | 2
 ## Black
-### Creatures < B
+### Creature < B
 Card | Qt
 --- | ---
 Acid-Spewer Dragon | 1
@@ -1272,6 +1272,19 @@ Wall of Limbs | 2
 Witch's Familiar | 4
 Wight of Precinct Six | 1
 Vampire Nighthawk | 2
+### Enchantment Creature < B
+Card | Qt
+--- | ---
+Agent of Erebos | 4
+Archetype of Finality | 2
+Brain Maggot | 3
+Baleful Eidolon | 4
+Cavern Lampad | 1
+Doomwake Giant | 2
+Fate Unraveler | 1
+Grim Guardian | 6
+Nighthowler | 1
+Thoughtrender Lamia | 3
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt

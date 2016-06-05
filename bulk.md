@@ -11,7 +11,7 @@ Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > A
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
 [Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | Creature | Creature | Creature
- | [Enchantment Creature](#enchantment-creatures--w) |  | [Enchantment Creature](#enchantment-creature--u) | | [Enchantment Creature](#enchantment-creature--b) | | Enchantment Creature
+ | [Enchantment Creature](#enchantment-creature--w) |  | [Enchantment Creature](#enchantment-creature--u) | | [Enchantment Creature](#enchantment-creature--b) | | Enchantment Creature
  | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | Enchantment | Enchantment | Enchantment
  [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | Sorcery | Sorcery | Sorcery
  [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | Instant | Instant | Instant
@@ -329,7 +329,7 @@ Wingsteed Rider |
 Yoked Ox | 
 Zarichi Tiger | 
 Zealous Inquisitor |
-### Enchantment Creatures < W
+### Enchantment Creature < W
 Card |
 --- |
 Harvestguard Alseids | 
@@ -671,9 +671,9 @@ Sudden Storm |
 Totally Lost |
 Will of the Naga |
 ## Black
-### Creatures < B
-Card | Qt
---- | ---
+### Creature < B
+Card |
+--- |
 Abattoir Ghoul |
 Accursed Spirit |
 Alesha's Vanguard |
@@ -856,6 +856,14 @@ Zombie Assassin |
 Zombie Cutthroat |
 Zombie Goliath |
 Zulaport Chainmage |
+### Enchantment Creature < B
+Card |
+--- |
+Dreadbringer Lampads |
+Erebos's Emissary |
+Gnarled Scarhide |
+Nyxborn Eidolon |
+Spiteful Returned |
 ## White + Blue
 ### Creature < W/U
 Card |
