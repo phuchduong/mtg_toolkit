@@ -657,7 +657,6 @@ Glint |
 Gridlock |
 Grip of the Roil |
 Hindering Touch |
-Hydrolash |
 Hydrosurge |
 Hysterical Blindness |
 Jace's Scrutiny |
