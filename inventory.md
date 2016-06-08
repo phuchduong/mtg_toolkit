@@ -1049,6 +1049,7 @@ Grip of Amnesia | 1
 Griptide | 4
 Hubris | 4
 Hurkyl's Recall | 1
+Hydrolash | 0
 Inspiration | 4
 Intellectual Offering | 3
 Into the Roil | 2
