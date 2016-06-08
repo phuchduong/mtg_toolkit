@@ -17,6 +17,8 @@ Prism Ring | 0 | 0 | 4
 Jace's Sanctum | 0 | 0 | 4
  
 ### Sideboard
+Card | Need | Have | Required
+--- | --- | --- | ---
 Jace, Vryn's Prodigy // Jace, Telepath Unbound | 0 | 0 | 4
 Thing in the Ice // Awoken Horror | 0 | 0 | 4
 Negate | 0 | 0 | 4
