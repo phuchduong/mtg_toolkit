@@ -928,6 +928,23 @@ Witness the End |
 Card |
 --- |
 Boon of Erebos |
+Butcher's Glee |
+Coat With Venom |
+Coffin Purge |
+Corpse Lung |
+Cruel Feeding |
+Cutthroat Maneuver |
+Douse In Gloom |
+Eye Gouge |
+Fatal Fumes |
+Feast of Dreams |
+Flatten |
+Flesh To Dust |
+Grotesque Mutation |
+Lash of the Whip |
+Launch Party |
+Marsh Gas |
+Misery Charm |
 ## White + Blue
 ### Creature < W/U
 Card |

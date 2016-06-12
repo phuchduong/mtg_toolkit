@@ -1417,6 +1417,15 @@ Feeding Frenzy | 1
 Foul Renewal | 1
 Foul-Tongue Shriek | 4
 Foul-Tongue Invocation | 1
+Grasp of Darkness | 1
+Grave Birthing | 4
+Gravepurge | 6
+Grip of Desolation | 1
+Grim Return | 1
+Grisly Spectacle | 1
+Howl From Beyond | 1
+Human Frailty | 1
+Merciless Resolve | 2
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
