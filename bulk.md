@@ -945,6 +945,23 @@ Lash of the Whip |
 Launch Party |
 Marsh Gas |
 Misery Charm |
+Psychotic Haze |
+Reach of Shadows |
+Ritual of the Returned |
+Rouse |
+Shriek of Dread |
+Slay |
+Spinning Darkness |
+Swat |
+Tar Snare |
+Throttle |
+Touch of Moonglove |
+Wring Flesh |
+## Artifact < B
+Card |
+--- |
+Nim Replica |
+Throne of Bone |
 ## White + Blue
 ### Creature < W/U
 Card |

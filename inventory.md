@@ -1426,6 +1426,37 @@ Grisly Spectacle | 1
 Howl From Beyond | 1
 Human Frailty | 1
 Merciless Resolve | 2
+Murder | 1
+Murderous Cut | 4
+Necrobite | 2
+Nightmarish End | 4
+Peppersmoke | 1
+Pharika's Cure | 4
+Reaping the Graves | 1
+Rescue from the Underworld | 4
+Terror | 2
+Targic Slip | 1
+Tribute to Hunger | 2
+Ulcerate | 2
+Ultimate Price | 1
+Undying Evil | 4
+Unholy Hunger | 4
+Unmake the Graves | 4
+Vile Rebirth | 5
+## Artifact < B
+Card | Qt
+--- | ---
+Leaden Myr | 1
+Ring of Xathrid | 2
+Staff of the Death Magus | 5
+## Land < B
+Card | Qt
+--- | ---
+Barren Moor | 3
+Blighted Fen | 2
+Mortuary Mire | 3
+Peat Bog | 1
+Vivid Marsh | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
