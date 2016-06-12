@@ -896,6 +896,34 @@ Spiteful Shadows |
 Sultai Runemark |
 Vessel of Malignity |
 Weakness |
+### Sorcery < B
+Card |
+--- |
+Assassin's Strike |
+Covenant of Blood |
+Defeat |
+Demon's Grasp |
+Essence Drain |
+Flay |
+Gruesome Discovery |
+Ichor Explosion |
+Maw of the Mire |
+Mind Ravel |
+Mire's Malice |
+Morbid Hunger |
+Nightsnare |
+Pick the Brain |
+Rakshasa's Secret |
+Rancid Rats |
+Rats' Feast | 
+Reave Soul | 
+Rite of Serpent |
+Self-Inflicted Wound |
+Sip of Hemlock |
+Spiteful Blow |
+Stronghold Discipline |
+Swarm Surge |
+Witness the End |
 ## White + Blue
 ### Creature < W/U
 Card |

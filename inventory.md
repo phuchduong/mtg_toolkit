@@ -1049,7 +1049,7 @@ Grip of Amnesia | 1
 Griptide | 4
 Hubris | 4
 Hurkyl's Recall | 1
-Hydrolash | 0
+Hydrolash | 1
 Inspiration | 4
 Intellectual Offering | 3
 Into the Roil | 2
@@ -1134,7 +1134,7 @@ Ring of Evos Isle | 2
 Saphire Medallion | 1
 Silver Myr | 1
 Sky Diamond | 1
-Staff of the Mind Magus | 4
+Staff of the Mind Magus | 5
 ### Land < U
 Card | Qt
 --- | ---
@@ -1335,6 +1335,66 @@ Virulent Plague | 1
 Visions of Brutality | 1
 Whip of Erebos | 1
 Zombie Infestation | 3
+### Sorcery < B
+Card | Qt
+--- | ---
+Alms of the Vein | 4
+Army of the Damned | 1
+Asphyxiate | 4
+Befoul | 1
+Biting Rain | 2
+Bitter Revelation | 6
+Bone Splinters | 6
+Coercion | 3
+Corrupt | 4
+Dark Deal | 2
+Dead Drop | 2
+Dead Reckoning | 1
+Death's Caress | 4
+Death's Duet | 1
+Despise | 2
+Destroy the Evidence | 4
+Devouring Greed | 1
+Dirge of Dread | 1
+Drain Life | 1
+Drown in Sorrows | 3
+Duress | 3
+Disentomb | 2
+Dutiful Return | 4
+Endless Obedience | 1
+Essence Harvest | 3
+Extinguish All Hope | 1
+Festergloom | 2
+Fodder Launch | 1
+Gisa's Bidding | 2
+Ghoulcaller's Chant | 3
+Hand of Death | 3
+Harrowing Journey | 1
+Infest | 1
+Liliana's Indignation | 2
+Liturgy of Blood | 4
+Macabre Waltz | 6
+March of the Returned | 4
+Mind Rot | 6
+Moan of the Unhallowed | 2
+Murderous Compulsion | 3
+Mutilate | 1
+Necromantic Summons | 1
+Oblivion Strike | 4
+Phthisis | 1
+Plague Wind | 1
+Raise Dead | 2
+Read the Bones | 8
+Sanguimancy | 4
+Shamble Back | 2
+Shrivel | 2
+Sign In Blood | 6
+Skulltap | 1
+Tasigur's Cruelty | 3
+Tempt with Immortality | 1
+Tormented Thoughts | 4
+Transgress the Mind | 1
+Worst Fears | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
