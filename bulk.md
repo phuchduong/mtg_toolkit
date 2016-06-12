@@ -12,13 +12,13 @@ Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
 [Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | Creature | Creature | Creature
  | [Enchantment Creature](#enchantment-creature--w) |  | [Enchantment Creature](#enchantment-creature--u) | | [Enchantment Creature](#enchantment-creature--b) | | Enchantment Creature
- | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | Enchantment | Enchantment | Enchantment
- [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | Sorcery | Sorcery | Sorcery
- [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | Instant | Instant | Instant
- [Artifact](#artifact--c) | [Artifact](#artifact--w) | Artifact | Artifact |  | Artifact | Artifact | Artifact
- [Artifact Creature](#artifact-creature--c) |  | Artifact Creature | Artifact Creature | Artifact Creature | Artifact Creature
- [Equipment](#artifact-equipment--c) |  | Equipment | Equipment | Equipment | Equipment
- [Land](#land--c) | [Land](#land--w) | Land | Land | Land | Land
+ | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | [Enchantment](#enchantment--b) | Enchantment | Enchantment
+ [Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | [Sorcery](#sorcery--b) | Sorcery | Sorcery
+ [Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | [Instant](#instant--b) | Instant | Instant
+ [Artifact](#artifact--c) | [Artifact](#artifact--w) | [Artifact](#artifact--u) | [Artifact](#artifact--b) |  | Artifact | Artifact | Artifact
+ [Artifact Creature](#artifact-creature--c) |  |  |  |  | 
+ [Equipment](#artifact-equipment--c) |  |  |  |  | 
+ [Land](#land--c) | [Land](#land--w) | | Land | Land | Land
 
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
