@@ -924,6 +924,10 @@ Spiteful Blow |
 Stronghold Discipline |
 Swarm Surge |
 Witness the End |
+### Instant < B
+Card |
+--- |
+Boon of Erebos |
 ## White + Blue
 ### Creature < W/U
 Card |

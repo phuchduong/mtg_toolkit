@@ -1395,6 +1395,28 @@ Tempt with Immortality | 1
 Tormented Thoughts | 4
 Transgress the Mind | 1
 Worst Fears | 1
+### Instant < B
+Card | Qt
+--- | ---
+Altar'sReap | 7
+Annihiliate | 1
+Bile Blight | 2
+Complete Disregard | 4
+Cremate | 4
+Cower In Fear | 3
+Cruel Revival | 1
+Crypt Incursion | 6
+Dark Banishing | 2
+Dark Betrayal | 4
+Dark Dabbling | 3
+Dark Ritual | 1
+Death Denied | 1
+Death Wind | 4
+Doom Blade | 1
+Feeding Frenzy | 1
+Foul Renewal | 1
+Foul-Tongue Shriek | 4
+Foul-Tongue Invocation | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
