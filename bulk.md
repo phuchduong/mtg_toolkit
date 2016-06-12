@@ -962,12 +962,28 @@ Card |
 --- |
 Nim Replica |
 Throne of Bone |
+## Red
+### Creature < WR
+Card |
+--- |
+Acolyte of the Inferno |
+Ainok Tracker |
+Akoum Flameseeker |
+Akroan Line Breaker |
+Akroan Sergeant |
+Altac Bloodseeker |
 ## White + Blue
 ### Creature < W/U
 Card |
 --- |
-Mirror Wall | 1
-Tower Drake | 1
+Mirror Wall |
+Tower Drake |
+Arc Mage |
+Arena Athlete |
+Ashmouth Hound |
+Atarka Efreet |
+Barbarian Bully |
+Barbarian Lunatic |
 ## Blue + Black
 ### Creature < U/B
 Card |

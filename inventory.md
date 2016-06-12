@@ -1457,6 +1457,64 @@ Blighted Fen | 2
 Mortuary Mire | 3
 Peat Bog | 1
 Vivid Marsh | 1
+## Red
+### Creature < R
+Card | Qt
+--- | ---
+Academy Raider | 3
+Afflicted Deserter | 2
+Airdrop Condor | 1
+Akoum Stonewaker | 1
+Akroan Conscriptor | 4
+Akroan Crusader | 4
+Aladdin | 1
+Anaba Shaman | 1
+Anger | 1
+Atarka Pummeler | 3
+Atog | 1
+Battle Rampart | 1
+Batterhorn | 1
+Bearer of the Heavens | 1
+Belligerent Sliver | 3
+Bloodfray Giant | 1
+Bloodmad Vampire | 3
+Bloodstoke Howler | 1
+Boggart Forager | 1
+Borderland Marauder | 4
+Breakneck Rider | 1
+Brood Keeper | 3
+Chasm Guide | 2
+Coal Stoker | 1
+Convicted Killer | 4
+Crater Elemental | 1
+Crater Hellion | 1
+Crossway Vampire | 4
+Defiant Ogre | 4
+Dragon Egg | 2
+Dragon Hatchling | 4
+Dragonlord's Servant | 3
+Ember Swallower | 1
+Ember-Eye Wolf | 2
+Enthralling Victor | 2
+Erdwal Ripper | 4
+Falkenrath Exterminator | 1
+Fanatic of Mogis | 4
+Felhide Spiritbinder | 1
+Feral Ridgewolf | 1
+Firewing Phoenix | 1
+Forgestoker Dragon | 1
+Foundry Street Denizen | 4
+Frenzied Goblin | 2
+Furnace Whelp | 1
+Gatstaf Arsonists | 2
+Generator Servant | 3
+Ghirapur Gearcrafter | 3
+Ghitu Slinger | 1
+Goblin Arsonist | 3
+Goblin Assassin | 1
+Goblin Battle Jester | 1
+Goblin Digging Team | 1
+Goblin Glory Chaser | 4
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
