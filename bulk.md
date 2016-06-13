@@ -984,6 +984,142 @@ Ashmouth Hound |
 Atarka Efreet |
 Barbarian Bully |
 Barbarian Lunatic |
+Belligerent Whiptail |
+Bellows Lizard |
+Bird Maiden |
+Bladetusk Boar |
+Bloodfire Expert |
+Boggart Brute |
+Bola Warrior |
+Bonethorn Valesk |
+Borderland Minotaur |
+Brassclaw Orcs |
+Brothers of Fire |
+Canyon Lurkers |
+Canyon Minotaur |
+Canyon Wildcat |
+Chainflinger |
+Charging Slateback |
+Cinder Hellion |
+Cobblebrute |
+Crested Craghorn |
+Cyclops of One-Eyed Pass |
+Cyclops Tyrant |
+Defender of Chaos |
+Dwarven Scorcher |
+Dwarven Warriors |
+Earth Elemental |
+Eldrazi Aggressor |
+Ember Beast |
+Talons of Falkenrath |
+Fire Elemental |
+Firefiend Elemental |
+Flame Spirit |
+Flamespeaker Adept |
+Fleshpulper Giant |
+Flowstone Crusher |
+Flowstone Wall |
+Forge Devil |
+Furnace Scamp |
+Gang of Devils |
+Gibbering Fiend |
+Gluttonous Cyclops |
+Goblin Brigand | 
+Goblin Freerunner |
+Goblin Glider |
+Goblin Hero |
+Goblin Roughrider |
+Goblin Raider |
+Gore Swine |
+Goretusk Firebeast |
+Gray Ogre
+Heckling Fiends |
+Hill Giant |
+Horde Ambusher |
+Howlpack Wolf |
+Hulking Cyclops |
+Hulking Devil |
+Hungering Yeti |
+Hurloon Minotaur |
+Ill-Tempered Cyclops |
+Ironclaw Orcs |
+Impetuous Sunchaser |
+Kavu Aggressor |
+Keldon Berserker |
+Kolaghan Aspirant |
+Kozilek's Sentinel |
+Kolaghan Stormsinger |
+Kris Mage |
+Kyren Legate |
+Laccolith Grunt |
+Laccolith Warrior |
+Laccolith Whelp |
+Lavastep Raider |
+Liberated Dwarf |
+Lightning Hounds |
+Longhorn Firebeast |
+Macetail Hystrodon |
+Mage-Ring Bully |
+Mardu Blazebringer |
+Maw of Kozilek |
+Miner's Bane |
+Minotaur Aggressor |
+Mons's Goblin Raiders |
+Mountain Goat |
+Orcish Captain |
+Orcish Veteran |
+Ogre Taskmaster |
+Ogre Warrior |
+Pardic Firecat | 
+Pensive Minotaur |
+Pitchburn Devils |
+Prickleboar |
+Qal Sisma Behemoth |
+Raging Poltergeist |
+Ravenous Bloodseeker |
+Reckless Brute |
+Reckless Cohort |
+Regathan Firecat |
+Ridgeline Rager |
+Riot Devils |
+Russet Wolves |
+Orcish Spy |
+Sabertooth Outrider |
+Sabretooth Tiger |
+Scrapyard Mongrel |
+Satyr Rambler |
+Scalding Devil |
+Scorched Rusalka |
+Scourge Devil |
+Seismic Elemental |
+Shatterskull Recruit |
+Sigiled Skink |
+Skirsdag Cultist |
+Skyraker Giant |
+Smoldering Efreet |
+Somberwald Vigilante |
+Spellgorger Barbarian |
+Sprinting Warbrute |
+Stone Giant |
+Stormcrag Elemental |
+Subterranean Scout |
+Summit Prowler |
+Tenement Crasher |
+Thunder Brute |
+Thundering Giant |
+Trained Orgg |
+Valakut Invoker |
+Valley Dasher |
+Vestige of Emrakul |
+Volcanic Rambler |
+Wild Celebrants |
+Wildfire Cerberus |
+Zada's Commando |
+### Enchantment Creature < R
+Mogis's Warhound
+### Enchantment < R
+Skin Invasion |
+The Brute |
 ## Blue + Black
 ### Creature < U/B
 Card |

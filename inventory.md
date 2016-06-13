@@ -1515,6 +1515,103 @@ Goblin Assassin | 1
 Goblin Battle Jester | 1
 Goblin Digging Team | 1
 Goblin Glory Chaser | 4
+Goblin Heelcutter | 4
+Goblin Lookout | 1
+Goblin Shortcutter | 4
+Goblin Warchief | 1
+Gore-House Chainwalker | 4
+Guttersnipe | 3
+Hanweir Lancer | 1
+Hardened Berserker | 4
+Hellspark Elemental | 2
+Hinterland Hermit | 1
+Hound of Griselbrand | 1
+Humble Defector | 1
+Hunting Sliver | 1
+Incandescent Soulstoke | 1
+Insolent Neonate | 1
+Jeering Instigator | 1
+Kessig Malcontents | 1
+Kolaghan Forerunners | 1
+Kragma Butcher | 5
+Krenko's Enforcer | 4
+Lavaborn Muse | 1
+Lightning Berserker | 1
+Lightning Shrieker | 2
+Lobber Crew | 4
+Mad Prophet | 4
+Marauding Maulhorn | 3
+Mardu Heart-Piercer | 1
+Markov Warlord | 3
+Maze Rusher | 4
+Minotaur Skullcleaver | 4
+Nearheath Stalker | 2
+Nettle Drone | 4
+Ondu Champion | 3
+Oracle of Bones | 1
+Orcish Farmer | 1
+Paragon of Fierce Defiance | 2
+Pharagax Giant | 4
+Pyre Hound | 3
+Pyreheart Wolf | 3
+Rageblood Shaman | 2
+Reckless Bushwhacker | 1
+Reckless Reveler | 4
+Reckless Waif | 1
+Riot Piker | 4
+Riot Ringleader | 4
+Rubblebelt Maaka | 4
+Rummaging Goblin | 4
+Sanguinary Mage | 2
+Satyr Hoplite | 4
+Satyr Nyx-Smith | 4
+Screamreach Brawler | 4
+Shock Troops | 1
+Shockmaw Dragon | 4
+Sin Prodder | 1
+Sisters of the Flame | 1
+Slumbering Dragon | 1
+Smelt-Warden Gatekeepers | 4
+Smokebraider | 1
+Sparksmith | 1
+Spawn of Thraxes | 1
+Spitebellows | 1
+Splatter Thug | 4
+Stoneshock Giant | 3
+Stormwing Dragon | 3
+Terra Ravager | 2
+Thopter Engineer | 1
+Thunderbreak Regent | 1
+Torch Fiend | 7
+Tunneling Geopede | 3
+Two-Headed Cerberus | 4
+Tyrant of Discord | 1
+Tyrant of Valakut | 1
+Valakut Predator | 2
+Vaultbreaker | 1
+Viashino Racketeer | 4
+Vile Aggregate | 1
+Village Ironsmith | 1
+Village Messenger | 1
+Vithian Stinger | 2
+Wall of Fire | 5
+Warbringer | 3
+War-Name Aspirant | 2
+Worldgorger Dragon | 1
+Young Pyromancer | 4
+Zurgo Bellstriker | 1
+### Enchantment Creature > R
+Card | Qt
+--- | ---
+Archetype of Aggression | 4
+Cyclops of Eternal Fury | 5
+Eidolon of the Great Revel | 1
+Everflame Eidolon | 2
+Forgeborn Oreads | 3
+Nyxborn Rollicker | 4
+Purphoros's Emissary | 3
+Satyr Firedancer | 2
+Spearpoint Oread | 4
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
