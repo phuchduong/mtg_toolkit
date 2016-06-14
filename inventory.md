@@ -1506,7 +1506,7 @@ Forgestoker Dragon | 1
 Foundry Street Denizen | 4
 Frenzied Goblin | 2
 Furnace Whelp | 1
-Gatstaf Arsonists | 2
+Gatstaf Arsonists | 3
 Generator Servant | 3
 Ghirapur Gearcrafter | 3
 Ghitu Slinger | 1
@@ -1529,7 +1529,7 @@ Hound of Griselbrand | 1
 Humble Defector | 1
 Hunting Sliver | 1
 Incandescent Soulstoke | 1
-Insolent Neonate | 1
+Insolent Neonate | 2
 Jeering Instigator | 1
 Kessig Malcontents | 1
 Kolaghan Forerunners | 1
@@ -1612,6 +1612,137 @@ Nyxborn Rollicker | 4
 Purphoros's Emissary | 3
 Satyr Firedancer | 2
 Spearpoint Oread | 4
+### Enchantment > R
+Card | Qt
+--- | ---
+Barrage of Expendables | 3
+Battle Strain | 1
+Burning Earth | 1
+Burning Vengeance | 1
+Circle of Flame | 1
+Crucible of Fire | 1
+Curse of Chaos | 2
+Curse of the Nightly Hunt | 1
+Dictate of the Twin Gods | 3
+Dragon Breath | 1
+Dragon Grip | 3
+Dragon Mantle | 2
+Epiphany Storm | 4
+Eternal Warrior | 1
+Flaming Sword | 1
+Font of Ire | 5
+Furor of the Bitten | 2
+Goblin War Paint | 4
+Goblinslide | 3
+Guild Feud | 1 
+Hammerhand | 3
+Honden of Infinite Rage | 1
+Impact Tremors | 5
+Infernal Plunge | 1 
+Knowledge And Power | 4
+Leyline of Punishment | 1
+Lightning Talons | 4
+Mardu Runemark | 5
+Messenger's Speed | 2
+Might Makes Right | 3
+Possibility Storm | 1
+Pyroconvergence | 1
+Retreat To Valakut | 3
+Seal of Fire | 1
+Shiv's Embrace | 2
+Smoke | 1
+Stensia Masquerade | 2
+Sulfuric Vortex | 1
+Thunderous Might | 2
+Vessel of Volatility | 2
+Volcanic Strength | 1
+War Cadence | 1
+Warstorm Surge | 1
+Where Ancients Tread | 1
+Witch Hunt | 1
+## Red
+### Sorcery < R
+Card | Qt
+--- | ---
+Act On Impulse | 2
+Act of Treason | 6
+Anarchy | 1
+Arc Lightning | 2
+Arrow Storm | 2
+Awe For the Guilds | 4
+Bathe in Dragonfire | 4
+Barrage of Boulders | 4
+Boiling Earth | 4
+Bolt of Keranos | 4
+Browbeat | 2
+Cone of Flame | 2
+Consuming Bonfire | 1
+Cleaver Riot | 1
+Craterize | 3
+Demolish | 7
+Devil's Play | 1
+Devils' Playground | 1
+Dragon Fodder | 8
+Faithless Looting | 3
+Fireball | 3
+Fissure Vent | 1
+Flame Slash | 1
+Flames of the Firebrand | 4
+Flashfires | 2
+Fling | 3
+Flurry of Horn | 4
+From the Ashes | 1
+Goblin Rally | 3
+Hordeling Outburst | 2
+Jokulhaups | 1
+Krenko's Command | 5
+Lava Axe | 4
+Lay Waste | 1
+Lose Calm | 4
+Magmatic Chasm | 4
+Magmatic Insight | 3
+Malevolent Whispers | 1
+Mana Seism | 1
+Mark of Mutiny | 2
+Misguided Rage | 1
+Mizzium Motars | 2
+Mob Rule | 1
+Molten Birth | 2
+Molten Disaster | 1
+Molten Rain | 1
+Peak Eruption | 4
+Portent of Betrayal | 4
+Processor Assault | 4
+Pyroclasm | 1
+Reckless Charge | 1
+Recoup | 1
+Rite to Ruin | 1
+Roast | 2
+Roiling Terrain | 2
+Rolling Temblor | 1
+Scouring Sands | 4
+Scrapyard Salvo | 1
+Seismic Rupture | 1
+Seismic Spike | 1
+Slagstorm | 1
+Slice and Dice | 1
+Spite of Mogis | 5
+Spitting Earth | 1
+Stone Rain | 4
+Structural Distortion | 3
+Survey the Wreckage | 2
+Thatcher Revolt | 4
+Tormenting Voice | 6
+Touch of the Void | 1
+Traitorous Instinct | 4
+Tribal Flames | 1
+Turn to Slag | 3
+Twinflame | 1
+Vandalize | 4
+Volcanic Hammer | 3
+Wild Guess | 4
+Wildfire | 1
+Wild Guess | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt

@@ -972,12 +972,6 @@ Akoum Flameseeker |
 Akroan Line Breaker |
 Akroan Sergeant |
 Altac Bloodseeker |
-## White + Blue
-### Creature < W/U
-Card |
---- |
-Mirror Wall |
-Tower Drake |
 Arc Mage |
 Arena Athlete |
 Ashmouth Hound |
@@ -1011,7 +1005,6 @@ Dwarven Warriors |
 Earth Elemental |
 Eldrazi Aggressor |
 Ember Beast |
-Talons of Falkenrath |
 Fire Elemental |
 Firefiend Elemental |
 Flame Spirit |
@@ -1112,14 +1105,73 @@ Valakut Invoker |
 Valley Dasher |
 Vestige of Emrakul |
 Volcanic Rambler |
+Voldaren Duelist |
 Wild Celebrants |
 Wildfire Cerberus |
 Zada's Commando |
 ### Enchantment Creature < R
+Card |
+--- |
 Mogis's Warhound
 ### Enchantment < R
+Card |
+--- |
+Fearsome Temper |
+Firebreathing |
+Flamespeaker's Will |
+Ghirapur ther Grid |
+Guise of Fire |
+Immolation |
+Infectious Bloodlust |
+Inferno Fist |
+Kamahl's Desire |
+Lightning Diadem |
+Malicious Intent |
+Maniacal Rage |
+Orcish Oriflamme |
+Racecourse Fury |
+Reflexes |
+Senseless Rage |
 Skin Invasion |
+Talons of Falkenrath |
 The Brute |
+### Sorcery < R
+Card |
+--- |
+Blinding Flare |
+Blood Feud |
+Book Burning |
+Boulder Salvo |
+Clear A Path |
+Detonate |
+Fierce Invocation |
+Hurly-Burly |
+Lightning Javelin |
+Pinnacle of Rage |
+Pyrotechnics |
+Rage of Purphoros |
+Reduce To Ashes |
+Rollick of Abandon |
+Scorch the Fields |
+Scorching Spear |
+Seismic Stomp |
+Shower of Coals |
+Sparkmage's Gambit |
+Swelter |
+Swirling Sandstorm |
+Torrent of Fire |
+Tremor |
+Wrack With Madness |
+### Instant < R
+Card |
+--- |
+Crowd's Favor |
+## White + Blue
+### Creature < W/U
+Card |
+--- |
+Mirror Wall |
+Tower Drake |
 ## Blue + Black
 ### Creature < U/B
 Card |
