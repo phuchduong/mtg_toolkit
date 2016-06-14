@@ -1296,7 +1296,7 @@ Blood Reckoning | 2
 Call the Bloodline | 3
 Contaminated Ground | 2
 Corpseweft | 1
-Creeping Dread | 1
+Creeping Dread | 2
 Curse of Oblivion | 1
 Curse of Misfortunes | 1
 Curse of Shallow Graves | 2
@@ -1338,7 +1338,7 @@ Zombie Infestation | 3
 ### Sorcery < B
 Card | Qt
 --- | ---
-Alms of the Vein | 4
+Alms of the Vein | 5
 Army of the Damned | 1
 Asphyxiate | 4
 Befoul | 1
@@ -1743,6 +1743,66 @@ Volcanic Hammer | 3
 Wild Guess | 4
 Wildfire | 1
 Wild Guess | 1
+## Red
+### Instant < R
+Card | Qt
+--- | ---
+Annihilating Fire | 4
+Blastfire Bolt | 2
+Blazing Salvo | 1
+Boil | 1
+Brightstone Ritual | 1
+Brimstone Volley | 1
+Brute Strength | 1
+Burn Away | 1
+Carbonize | 1
+Chandra's Fury | 4
+Chandra's Outrage | 4
+Collateral Damage | 2
+Commune with Lava | 1
+Coordinated Assault | 3
+Dance With Devils | 1
+Dangerous Wager | 1
+Desperate Ritual | 1
+Downhill Charge | 1
+Draconic Roar | 2
+Dragonrage | 1
+Dynacharge | 4
+Electrickery | 4
+Expedite | 1
+Fall of the Hammer | 4
+Fated Conflagration | 1
+Fiery Conclusion | 1
+Fiery Impulse | 5
+Fiery Temper | 3
+Fissure | 1
+Flame Javelin | 1
+Flare | 1
+Heat Ray | 3
+Incinerate | 2
+Incite War | 1
+Increasing Vengeance | 1
+Inferno | 1
+Kindled Fury | 4
+Lightning Axe | 1
+Lightning Strike | 4
+Lightning Volley | 3
+Magma Jet | 3
+Magma Spray | 5
+Outnumber | 2
+Panic | 2
+Ravaging Blaze | 1
+Reality Hemorrhage | 1
+Red Elemental Blast | 2
+Rending Volley | 2
+Reverberate | 1
+Riddle of Lightning | 2
+Rise of the Challenge | 1
+Rouse the Mob | 2
+Rush of Adrenaline | 1
+Rush of Blood | 1
+Sarkhan's Triumph | 2
+Searing Blood | 2
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt

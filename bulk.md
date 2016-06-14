@@ -1165,7 +1165,28 @@ Wrack With Madness |
 ### Instant < R
 Card |
 --- |
+Banners Raised |
+Blood Lust |
+Boulderfall |
+Bring Low |
 Crowd's Favor |
+Consuming Sinkhole |
+Dissension In the Ranks |
+Dual Shot |
+Ember Shot |
+Explosive Impact |
+Friendly Fire |
+Geistflame |
+Inflame |
+Inner Struggle |
+Lava Dart |
+Lightning Blast |
+Magma Burst |
+Overload |
+Punish the Enemy |
+Rites of Initiation |
+Sarkhan's Rage |
+Scattershot |
 ## White + Blue
 ### Creature < W/U
 Card |
