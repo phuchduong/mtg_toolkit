@@ -1803,6 +1803,175 @@ Rush of Adrenaline | 1
 Rush of Blood | 1
 Sarkhan's Triumph | 2
 Searing Blood | 2
+Shatter | 7
+Shock | 4
+Shrapnel Blast | 3
+Smash to Smithereens | 6
+Smelt | 4
+Spark Jolt | 4
+Starstorm | 1
+Stoke the Flames | 1
+Street Spasm | 1
+Stun | 1
+Sure Strike | 3
+Tail Slash | 4
+Tears of Rage | 1
+Tears of Valakut | 1
+Temur Battle Rage | 3
+Thunder Strike | 1
+Titan's Strength | 6
+Turn Against | 2
+Trumpet Blast | 4
+Uncaged Fury | 1
+Vampiric Fury | 3
+Violent Eruption | 1
+Volcanic Geyser | 4
+Weapon Surge | 4
+Wild Ricochet | 1
+### Artifact < R
+Card | Qt
+--- | ---
+Pyrite Spellbomb | 1
+Staff of the Flame Magus | 4
+### Land < R
+Card | Qt
+--- | ---
+Dwarven Ruins | 1
+Forgotten Cave | 1
+Looming Spires | 6
+Smoldering Crater | 1
+Vivid Crag | 1
+## Green
+### Creature < G
+Card | Qt
+--- | ---
+Abzan Beastmaster | 4
+Acidic Slime | 2
+Adaptive Snapjaw | 3
+Advocate of the Beast | 4
+Ainok Guide | 2
+Ainok Survivalist | 2
+Algae Gharial | 1
+Ant Queen | 1
+Anthousa, Setessan Hero | 1
+Arbor Colossus | 1 
+Arbor Elf | 6
+Axebane Guardian | 3
+Bane of Progress | 1
+Baloth Woodcrasher | 1
+Bassara Tower Archer | 2
+Battering Krasis | 4
+Birchlore Rangers | 1
+Blisterpod | 2
+Bond Beetle | 3
+Boneyard Wurm | 1
+Borderland Rnager | 5
+Brood Monitor | 1
+Byway Courier | 4
+Cartographer | 1
+Carven Caryatid | 1
+Caustic Caterpillar | 5
+Centaur Battlemaster | 4
+Centaur's Herald | 2
+Circle of Elders | 2
+Conclave Naturalists | 2
+Conifer Strider | 1
+Copperhoof Vorrac | 1
+Creeperhulk | 1
+Crocanura | 4
+Crowned Ceratok | 2
+Cult of the Waxing Moon | 1
+Dawntreader Elk | 2
+Deadly Recluse | 4
+Deathmist Raptor | 1
+Defiant Elf | 1
+Den Protector | 1
+Destructor Dragon | 1
+Dosan the Falling Leaf | 1
+Dowsing Shaman | 1
+Druid Lyrist | 1
+Duskwatch Recruiter | 1
+Dwynen's Elite | 3
+Elderscale Wurm | 1
+Elvish Mystic | 9
+Elvish Visionary | 5
+Eyeless Watcher | 4
+Farhaven Elf | 1
+Foe-Razer Regent | 1
+Fyndhorn Elder | 1
+Gaea's Revenge | 1
+Garruk's Companion | 3
+Garruk's Horde | 2
+Garruk's Packleader | 2
+Gatecreeper Vine | 4
+Gempalm Strider | 1
+Genesis Hydra | 1
+Ghoultree | 1
+Gladecover Scout | 4
+Gladehart Cavalry | 1
+Golden Hind | 5
+Golgari Decoy | 1
+Grave Bramble | 1
+Grave Sifter | 1
+Grazing Gladehart | 2
+Greenside Watcher | 6
+Grizzled Outcasts | 2
+Groundshaker Sliver | 4
+Groundskeeper | 1
+Gyre Sage | 1
+Herald of the Pantheon | 1
+Heir of the Wilds | 2
+Herdchaser Dragon | 2
+Hero of Leina Tower | 1
+Heroes' Bane | 2
+Hinterland Logger | 1
+Howlgeist | 1
+Hydra Broodmaster | 3
+Imperious Perfect | 1
+Ivy Lane Denizen | 2
+Joraga Treespeaker | 1
+Kalonian Behemoth | 1
+Kalonian Hydra | 1
+Kalonian Twingrove | 1
+Kalonian Tusker | 4
+Karametra's Acolyte | 2
+Khalni Hydra | 1
+Kozilek's Predator | 2
+Krosan Drover | 1
+Krosan Tusker | 1
+Krosan Warchief | 1
+Krosan Wayfarer | 2
+Lambholt Elder | 2
+Lambholt Pacifist | 1
+Leaf Gilder | 4
+Leatherback Baloth | 1
+Lifespring Druid | 1
+Llanowar Elves | 2
+Llanowar Empath | 4
+Longshot Squad | 4
+Lumberknot | 1
+Lys Alana Huntmaster | 2
+Managorger Hydra | 1
+Marsh Viper | 4
+Masked Admirers | 1
+Maze Behemoth | 3
+Meandering Towershell | 4
+Mistcutter Hydra | 1
+Mold Shambler | 1
+Moldgraf Scavenger | 2
+Mwonvuli Beast Tracker | 1
+Nantuko Tracer | 1
+Naya Soulbeast | 1
+Nemesis of Mortals | 1
+Nessian Asp | 4
+Nessian Demolok | 4
+Nessian Game Warden | 4
+Nest Invader | 1
+Nightshade Peddler | 1
+Nullmage Advocate | 2
+Nylea's Disciple | 4
+Oak Street Innkeeper | 4
+Ondu Giant | 2
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt

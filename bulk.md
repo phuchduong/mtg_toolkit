@@ -1187,6 +1187,105 @@ Punish the Enemy |
 Rites of Initiation |
 Sarkhan's Rage |
 Scattershot |
+Singe |
+Sonic Seizure |
+Spark Spray |
+Starfall |
+Stonefury |
+Swift Kick |
+Thunderclap |
+Twin Bolt | 
+Unforge |
+Volcanic Rush |
+## Green
+### Creature < G
+Card |
+--- |
+Aerie Bowmasters |
+Ainok Artillerist |
+Alpine Grizzly |
+Ambush Krotiq |
+Acient Silverback |
+Anurid Barkripper |
+Arashin War Beast |
+Archers of Qarsi |
+Archweaver |
+Argothian  Swine |
+Atarka Beastbreaker |
+Aurochs |
+Axebane Stag |
+Birthing Hulk |
+Briarpack Alpha |
+Brindle Boar |
+Broodhunter Wurm |
+Brushstrider |
+Canopy Crawler |
+Canopy Gorger |
+Canopy Spider |
+Carnivorous Plant |
+Carnivorous Moss-Beast |
+Cat Warriors |
+Centaur Courser |
+Charging Badger |
+Charging Rhino |
+Colossodon Yearling |
+Craw Wurm |
+Deepwood Drummer |
+Dragon-Scarred Bear |
+Drudge Beetle |
+Duskdale Wurm |
+Durkwood Boars |
+Endangered Armodon |
+Feral Krushok | 
+Frontier Mastodon |
+Fyndhorn Brownie |
+Geist Trappers |
+Ghazbn Ogre |
+Giant Mantis | 
+Giant Spider |
+Giant Warthog |
+Glade Gnarr |
+Glade Watcher |
+Gnarlid Pack |
+Gobbling Ooze |
+Gorilla Chieftain |
+Gravetiller Wurm |
+Grizzly Bears |
+Guardian Shield-Bearer |
+Highland Game |
+Hitchclaw Recluse |
+Hollowhenge Beast |
+Hollowhenge Scavenger |
+Horned Troll |
+Intrepid Provisioner |
+Invasive Species |
+Ironroot Treefolk |
+Ironshell Beetle |
+Kessig Dire Swine |
+Kessig Recluse |
+Kin-Tree Warden |
+Kindercatch |
+Korozda Monitor |
+Kraul Warior |
+Living Totem |
+Loam Dryad |
+Loam Larva |
+Lone Wolf |
+Lurking Arynx |
+Moon Sprite |
+Murasa Ranger |
+Nafs Asp |
+Nantuko Calmer |
+Nantuko Disciple |
+Nessian Courser |
+Netcaster Spider |
+Nurturing Licid |
+Obsessive Skinner |
+Tusked Colossodon|
+### Instant < G
+Card | Qty
+--- | ---
+Mending Touch | 
 ## White + Blue
 ### Creature < W/U
 Card |
