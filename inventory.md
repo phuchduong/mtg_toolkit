@@ -1972,6 +1972,169 @@ Nullmage Advocate | 2
 Nylea's Disciple | 4
 Oak Street Innkeeper | 4
 Ondu Giant | 2
+Orochi Leafcaller | 1
+Orochi Sustainer | 1
+Overgrown Battlement | 1
+Paragon of Eternal Wilds | 1
+Pathbreaker Wurm | 1
+Pelakka Wurm | 4
+Pheres-Band Warchief | 3
+Phytotitan | 1
+Plated Crusher | 1
+Priest of Titania | 1
+Rampaging Baloths | 2
+Ravenous Baloth | 1
+Reclamation Sage | 2
+Reverent Hunter | 1
+Roaring Primadox | 4
+Rot Shambler | 2
+Sakura-Tribe Elder | 2
+Salt Road Ambushers | 1
+Satyr Wayfinder | 5
+Saruli Gatekeepers | 4
+Scavenging Ooze | 1
+Scion of the Wild | 1
+Scorned Villager | 1
+Scourge of Skola Vale | 1
+Scute Mob | 1
+Servant of the Scale | 4
+Shaman of Forgotten Ways | 1
+Shaman of Spring | 5
+Shanodin Dryads | 2
+Siege Behemoth | 1
+Siege Wurm | 1
+Simic Initiate | 1
+Skarrg Goliath | 1
+Slaughterhorn | 2
+Somberwald Alpha | 2
+Soul of the Harvest | 1
+Soul of Zendikar | 2
+Soul Swallower | 1
+Spire Tracer | 3
+Spore Frog | 1
+Sporemound | 4
+Stampeding Elk Herd | 4
+Stoic Builder | 2
+Stone-Seeder Hierophant | 1
+Sultai Flayer | 3
+Surrak, the Hunt Caller | 2
+Sylvan Messenger | 3
+Sylvan Safekeeper | 1
+Tajuru Warcaller | 2
+Temur Sabertooth | 2
+Temur War Shaman | 1
+Terastodon | 1
+Terra Stomper | 1
+Territorial Baloth | 2
+Thorn Elemental | 1
+Thornweald Archer | 1
+Thragtusk | 1
+Tilling Treefolk | 2
+Timberpack Wolf | 5
+Timberwatch Elf | 2
+Titania's Chosen | 1
+Treetop Scout | 2
+Tukatongue Thallid | 2
+Tuskguard Captain | 2
+Ulvenwald Tracker | 1
+Undergrowth Scavenger| 4
+Venom Sliver | 2
+Verduran Enchantress | 1
+Vine Trellis | 1
+Vinelasher Kudzu | 2
+Void Attendant | 2
+Voracious Wurm | 3
+Vorapede | 1
+Voyager Satyr | 4
+Wall of Brambles | 1
+Wall of Mulch | 2
+Wall of Wood | 1
+Wellwisher | 2
+Whirling Dervish | 1
+Whisper of the Wilds | 1
+Wild Mongrel | 1
+Wirewood Hivemaster | 1
+Wolfbriar Elemental | 1
+Wolfir Silverheart | 2
+Wood Elves | 3
+Woodborn Behemoth | 3
+Woodland Bellower | 1
+Wren's Run Packmaster | 1
+Yavimaya Scion | 1
+Yisan, the Wanderer Bard | 1
+Young Wolf | 4
+### Enchantment Creature < G
+Card | Qt
+--- | ---
+Archetype of Endurance | 2
+Boon Satyr | 1
+Courser of Kruphix | 2
+Eidolon of Blossoms | 2
+Humbler of Mortals | 4
+Leafcrown Dryad | 4
+Noble Quarry | 1
+Nylea's Emissary | 1
+Nyxborn Wolf | 4
+Spirespine | 2
+### Enchantment < G
+Alpha Authority 4
+Aspect of Mongoose | 1
+Assault Formation | 3
+Bow of Nylea | 1
+Bower Passage | 2
+Carapace | 1
+Crawling Sensation | 2
+Curse of Predation | 1
+Descendants' Path | 1
+Dictate of Karametra | 2
+Dragon Fangs | 1
+Elemental Bond | 1
+Elvish Guidance | 1
+Enchantress's Presence | 1
+Exploration | 1
+Fertile Ground | 1
+Font of Fertility | 8
+Forced Adaptation | 3
+From Beyond | 1
+Frontier Siege | 3
+Fruit of the First Tree | 1
+Gaea's Touch | 1
+Ground Seal | 1
+Karametra's Favor | 4
+Instill Energy | 1
+Into the Wilds | 1
+Lifeforce | 1
+Lure | 4
+Manabond | 1
+Market Festival | 6
+Nylea's Presence | 4
+Oath of the Ancient Wood | 1
+Obscuring Aether | 2
+Ordeal of Nylea | 3
+Rancor | 1
+Raised By Wolves | 3
+Regeneration | 2
+Retreat To Kazandu | 1
+Rites of Flourishing | 1
+Sheltered Aerie | 4
+Sight of the Scalelords | 1
+Spawning Grounds | 1
+Strength of the Fallen | 5
+Temur Runemark | 4
+Trail of Mystery | 1
+Trollhide | 3
+Ulvenwald Mysteries | 1
+Urban Burgeoning | 4
+Verdant Haven | 5
+Vernal Bloom | 1
+Vessel of Nascency | 1
+Vineweft | 4
+Weirding Wood | 2
+Wild Defiance | 1
+Wild Growth | 4
+Wild Pair | 1
+Wreath of Geists | 1
+Zendikar's Roil | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
