@@ -1025,7 +1025,7 @@ Goblin Roughrider |
 Goblin Raider |
 Gore Swine |
 Goretusk Firebeast |
-Gray Ogre
+Gray Ogre |
 Heckling Fiends |
 Hill Giant |
 Horde Ambusher |
@@ -1112,7 +1112,7 @@ Zada's Commando |
 ### Enchantment Creature < R
 Card |
 --- |
-Mogis's Warhound
+Mogis's Warhound |
 ### Enchantment < R
 Card |
 --- |
@@ -1365,12 +1365,12 @@ Woodland Sleuth |
 Woolly Loxodon |
 Yeva's Forcemage |
 ### Enchantment Creature < G
-Card | Qty
+Card |
 --- |
 Goldenhide Ox |
 Oakheart Dryads |
 ### Enchantment < G
-Card | Qty
+Card |
 --- |
 Crown of Vigor |
 Equestrian Skill |
@@ -1385,7 +1385,7 @@ Tiger Claws |
 Vastwood Zendikon |
 Venom |
 ### Instant < G
-Card | Qty
+Card |
 --- | 
 Mending Touch | 
 ## White + Blue

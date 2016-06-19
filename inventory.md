@@ -2077,7 +2077,9 @@ Nylea's Emissary | 1
 Nyxborn Wolf | 4
 Spirespine | 2
 ### Enchantment < G
-Alpha Authority 4
+Card | Qt
+--- | ---
+Alpha Authority 4 |
 Aspect of Mongoose | 1
 Assault Formation | 3
 Bow of Nylea | 1
