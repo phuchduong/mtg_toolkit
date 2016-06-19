@@ -2137,6 +2137,92 @@ Wild Growth | 4
 Wild Pair | 1
 Wreath of Geists | 1
 Zendikar's Roil | 1
+### Sorcery < G
+Card | Qt
+--- | ---
+All Suns' Dawn | 1
+Bestial Menace | 1
+Blessings of Nature | 2
+Bramblecrush | 4
+Bountiful Harvest | 1
+Call the Scions | 4
+Commune With Nature | 1
+Creeping Corrosion | 2
+Creeping Renaissance | 1
+Culling Mark | 4
+Descreation Plague | 4
+Desert Twister | 1
+Earthen Arms | 2
+Enlarge | 4
+Epic Confrontation | 4
+Explore | 3
+Explosive Vegetation | 6
+Fade into Antiquity | 4
+Farseek | 7
+Feast of Worms | 1
+Feral Incarnation | 3
+Fork in the Road | 2
+Fungal Sprouting | 2
+Gather the Pack | 3
+Grim Flowering | 2
+Harmonize | 2
+Horncaller's Chant | 4
+Howl of the Night Pack | 3
+Hunt the Weak | 4
+Hunting Triad | 1
+Hurricane | 2
+Incremental Growth | 3
+Invigorating Falls | 1
+Kruphix's Insight | 7
+Lair Delve | 1
+Lay of the Land | 4
+Life's Legacy | 1
+Map the Wastes | 4
+Monstrous Growth | 3
+Nature's Lore | 3
+Nissa's Expedition | 2
+Nissa's Pilgrimage | 3
+One Dozen Eyes | 1
+Overrun | 1
+Overwhelm | 1
+Overwhelming Stampede | 1
+Peregrination | 2
+Phytoburst | 4
+Prey Upon | 1
+Rabid Bite | 3
+Rain of Thorns | 2
+Rampant Growth | 2
+Ranger's Path | 1
+Reclaiming Vines | 4
+Restore | 1
+Restock | 1
+Reverent Silence | 1
+Revive | 2
+Reviving Melody | 4
+Roar of Challenge | 2
+Root Out | 4
+Savage Punch | 5
+Scout the Borders | 4
+Seasons Past | 1
+See the Unwritten | 1
+Seek the Horizon | 7
+Seek the Wilds | 4
+Serene Remembrance | 2
+Shamanic Revelation | 1
+Simplify | 1
+Skyshroud Claim | 1
+Skyreaping | 3
+Slime Molding | 1
+Stream of Life | 2
+Sylvan Offering | 1
+Sylvan Scrying | 1
+Tempt with Discovery | 1
+Time to Feed | 4
+Tranquility | 1
+Triumph of the Hordes | 1
+Tsunami | 1
+Untamed Wilds | 1
+Wave of Vitriol | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt

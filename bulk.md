@@ -1384,6 +1384,17 @@ Frenzy |
 Tiger Claws |
 Vastwood Zendikon |
 Venom |
+### Sorcery < G
+Card |
+--|
+Claws of Wirewood |
+Formless Nurturing |
+Hunt Down |
+Hunt the Hunter |
+Joraga Invocation |
+Mischief and Mayhem |
+Nissa's Judgment |
+Wild Instincts |
 ### Instant < G
 Card |
 --- | 
