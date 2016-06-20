@@ -1398,13 +1398,74 @@ Wild Instincts |
 ### Instant < G
 Card |
 --- | 
-Mending Touch | 
+Accelerated Mutation |
+Aerial Predation |
+Aerial Volley |
+Awaken the Bear |
+Beast Attack |
+Bounty of the Hunt |
+Canopy Claws |
+Colossal Heroics |
+Display of Dominance |
+Divergent Growth |
+Dromoka's Gift |
+Elemental Uprising |
+Foxfire |
+Gather Courage |
+Infuse with the Elements |
+Joint Assault |
+Mending Touch |
+Might Beyond Reason |
+Nature's Panoply |
+Nourish |
+Pinion Feast |
+Press the Advantage |
+Revealing Wind |
+Run Wild |
+Ruthless Instincts |
+Sandstorm |
+Savage Surge |
+Shredding Winds |
+Slingbow Trap |
+Spidery Grasp |
+Stampede |
+Symbiosis |
+Tread Upon |
+Turn to Dust |
+Vine Snare |
+Vivify |
+Wandering Stream |
+### Artifact < G
+Shrine of Boundless Growth |
 ## White + Blue
 ### Creature < W/U
 Card |
 --- |
+Coastline Chimera |
+Dauntless River Marshal |
+Hussar Patrol |
 Mirror Wall |
+Silver Drake |
 Tower Drake |
+Vassal Soul |
+### Enchantment < W/U
+Card |
+--- |
+Ocular Halo |
+### Instant < W/U
+Card |
+--- |
+Feeling of Dread |
+Protect // Serve |
+## White + Black
+### Creature < W/B
+Card |
+--- |
+Loyal Cathar |
+Revenant Patriach |
+Sentry of the Underworld |
+Unyeilding Krumar |
+Profit // Loss |
 ## Blue + Black
 ### Creature < U/B
 Card |

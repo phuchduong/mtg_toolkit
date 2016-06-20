@@ -541,7 +541,7 @@ Sheer Drop | 2
 Shoulder To Shoulder | 2
 Solemn Offering | 4
 Soul Summons | 3
-Spectral Procession | 2
+Spectral Procession | 3
 Sunlance | 2
 Swift Reckoning | 2
 Triplicate Spirits | 5
@@ -1141,6 +1141,7 @@ Card | Qt
 Blighted Cataract | 1
 Coral Atoll | 2
 Halimar Depths | 1
+Krosan Verge | 1
 Lonely Sandbar | 8
 Remote Isle | 2
 Skyline Cascade | 7
@@ -1220,6 +1221,7 @@ Mogis's Marauder | 4
 Mortivore | 1
 Nantuko Husk | 4
 Necropolis Fiend | 1
+Nightscape Familiar | 1
 Ob Nixilis, Unshackled | 1
 Paragon of Open Graves | 2
 Phyrexian Gargantua | 1
@@ -2027,6 +2029,7 @@ Terastodon | 1
 Terra Stomper | 1
 Territorial Baloth | 2
 Thorn Elemental | 1
+Thornscape Familiar | 1
 Thornweald Archer | 1
 Thragtusk | 1
 Tilling Treefolk | 2
@@ -2223,6 +2226,256 @@ Triumph of the Hordes | 1
 Tsunami | 1
 Untamed Wilds | 1
 Wave of Vitriol | 1
+## Instant < G
+Card | Qt
+--- | ---
+Aim High | 2
+Artisan's Sorrow | 4
+Aspect of Hydra | 4
+Back to Nature | 1
+Become Immense | 3
+Burst of Strength | 3
+Clinging Mists | 4
+Clip Wings | 4
+Chorus of Might | 4
+Confront the Unknown | 3
+Consign to Dust | 2
+Crop Rotation | 1
+Crushing Vines | 3
+Defend the Hearth | 4
+Dragonscale Boon | 4
+Druid's Deliverance | 3
+Early Harvest | 1
+Evolution Charm | 1
+Fated Intervention | 1
+Feed the Clan | 4
+Fog | 6
+Fresh Meat | 1
+Giant Growth | 6
+Harrow | 2
+Hindervines | 3
+Hunter's Ambush | 4
+Hunting Pack | 1
+Inspiring Call | 1
+Might of the Masses | 4
+Moonlight Hunt | 2
+Moonmist | 1
+Mortal's Resolve | 4
+Natural Connection | 3
+Naturalize | 10
+Nature's Claim | 1
+Plummet | 5
+Predator's Rapport | 4
+Ranger's Guile | 4
+Reclaim | 3
+Return to the Earth | 4
+Rootgrapple | 1
+Savage Summoning | 1
+Scatter the Seeds | 2
+Setessan Tactics | 1
+Shape the Sands | 4
+Sheltering Word | 2
+Slice In Twain | 1
+Solidarity of Heroes | 4
+Sprouting Vines | 1
+Sundering Vitae | 1
+Swell of Growth | 4
+Terrifying Presence | 1
+Titanic Growth | 9
+Tower Defense | 1
+Unnatural Aggression | 1
+Unravel the Aether | 5
+Vitalize | 1
+Warriors' Lesson | 4
+Wear Away | 1
+Wildwood Rebirth | 5
+Winds of Qal Sisma | 4
+Windstorm | 4
+### Planeswalker < G
+Card | Qt
+--- | ---
+Nissa, Voice of Zendikar | 1
+Nissa, Worldwaker | 1
+### Artifact < G
+Card | Qt
+--- | ---
+Ring of Kalonia | 1
+Emerald Medallion | 1
+Moss Diamond | 1
+Staff of the Wild Magus | 4
+Thundering Tanadon | 1
+### Land < G
+Card | Qt
+--- | ---
+Blighted Woodland | 1
+Fertile Thicket | 7
+Havenwood Battleground | 1
+Khalni Garden | 1
+Slippery Karst | 2
+Timberland Ruins | 1
+Tranquil Thicket | 4
+## White + Blue
+### Creature < W/U
+Card | Qt
+--- | ---
+Azor's Elocutors | 1
+Ascended Lawmage | 3
+Archon of the Triumvirate | 1
+Azorius Herald | 1
+Council of the Absolute | 1
+Cunning Breezedancer | 2
+Daxos of Meletis | 1
+Deputy of Acquittals | 4
+Drogskol Captain | 2
+Drogskol Reaver | 1
+Ephara, God of the Polis | 1
+Ethercaste Knight | 1
+Filigree Angel | 1
+Glassdust Hulk | 2
+Isperia the Inscrutable | 1
+Jelenn Sphinx | 2
+Lavinia of the Tenth | 1
+Minister of Impediments | 1
+Mistmeadow Witch | 1
+New Prahv Guildmage | 2
+Noyan Dar, Roil Shaper | 1
+Ojutai, Soul of Winter | 1
+Pristine Skywise | 1
+Skymark Roc | 2
+Soulsworn Jury | 1
+Spectral Shepherd | 1
+Swans of Bryn Argoll | 1
+Thunderclap Wyvern | 1
+Wall of Denial | 1
+Windreaver | 1
+### Enchantment < W/U
+Card | Qt
+--- | ---
+Detention Sphere | 1
+Dovescape | 1
+Enchanted Evening | 1
+Ephara's Enlightment | 2
+Invocation of Saint Traft | 1
+Palliation Accord | 1
+Plumes of Peace | 1
+Righteous Authority | 2
+### Sorcery < W/U
+Card | Qt
+--- | ---
+Roil Spout | 2
+Search Warrant | 4
+### Instant < W/U
+Card | Qt
+--- | ---
+Aethermage's Touch | 1
+Dramatic Rescue | 3
+Ojutai's Command | 1
+Overrule | 1
+Render Silent | 1
+Restore the Peace | 2
+Saving Grasp | 3
+### Planeswalker < W/U
+Card | Qt
+--- | ---
+Narset Transcendent | 1
+### Artifact < W/U
+Card | Qt
+--- | ---
+Azorius Cluestone | 5
+Azorius Signet | 2
+Ojutai Monument | 1
+### Land < W/U
+Card | Qt
+--- | ---
+Azorius Chancery | 2
+Azorius Guildgate | 11
+Moorland Haunt | 1
+Sejiri Refuge | 1
+Tranquil Cove | 6
+## White + Black
+### Sorcery < W/B
+Card | Qt
+--- | ---
+Alms Beast | 1
+Ashen Rider | 1
+Athreos, God of Passage | 2
+Blind Hunter | 2
+Blood-Cursed Knight | 2
+Cartel Aristocrat | 2
+Chief of the Edge | 1
+Chief of the Scale | 4
+Deathpact Angel | 1
+Drana's Emissary | 2
+Dutiful Thrull | 4
+Ghost Council of Orzhova | 1
+High Priest of Penance | 1
+Kingpin's Pet | 4
+Mardu Hateblade | 5
+Obzedat, Ghost Council | 1
+Odunos River Trawler | 2
+Pious Evangel | 1
+Restless Apparition | 3
+Scholar of Athreos | 4
+Sin Collector | 5
+Teysa, Envoy of Ghosts | 1
+Tidehollow Sculler | 1
+Tithe Drinker | 2
+Thrull  Parasite | 3
+Treasury Thrull | 1
+Vizkopa Confessor | 2
+Vizkopa Guildmage | 1
+## White + Black
+### Enchantment Creature < W/B
+Card | Qt
+--- | ---
+Underworld Coinsmith | 4
+### Enchantment < W/B
+Card | Qt
+--- | ---
+Behind the Scenes | 1
+Gift of Orzhova | 1
+One Thousand Lashes | 1
+Pillory of the Sleepless | 1
+### Sorcery < W/B
+Card | Qt
+--- | ---
+Castigate | 1
+Conjurer's Ban | 1
+Death Grasp | 1
+Debt to the Deathless | 4
+Identity Crisis | 1
+Lingering Souls | 2
+Obzedat's Aid | 1
+Purge the Profane | 4
+### Instant < W/B
+Card | Qt
+--- | ---
+Beckon Apparition | 5
+Executioner's Swing | 3
+Harsh Sustenance | 3
+Mortify | 2
+Orzhov Charm | 4
+Utter End | 2
+Zealous Persecution | 1
+### Planeswalker < W/B
+Card | Qt
+--- | ---
+Sorin, Grim Nemesis | 1
+### Artifact < W/B
+Card | Qt
+--- | ---
+Ozhov Cluestone | 5
+Ozhov Keyrune | 2
+Ozhov Signet | 1
+### Land < W/B
+Card | Qt
+--- | ---
+Orzhov Basilica | 3
+Orzhov Guildgate | 18
+Scoured Barrens | 4
+Starlit Sanctum | 1
+Tainted Field | 1
+Temple of Silence | 1
 ## Blue + Black
 ### Sorcery < U/B
 Card | Qt
