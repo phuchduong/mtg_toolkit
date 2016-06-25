@@ -1,13 +1,4 @@
 # Inventory
-Cards are sorted... 
-Commander Color Identidy > Super Type > Alphabetical
-
-Color: 
-C > W > U > B > R > G
-
-Super Type: 
-Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
-
 Colorless |
 --- |
 [Creature](#creature--c) |
@@ -32,11 +23,25 @@ White | Blue | Black | Red | Green
 
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
-[Creature](#creature--wu)|     |     |     |
-|     |   |     |     |[Sorcery](#sorcery--ub)
+[Creature](#creature--w/u) | [Creature](#creature--w/b) | [Creature](#creature--w/r) | [Creature](#creature--w/g) | [Creature](#creature--u/b) | 
+[Enchantment Creature](#enchantment creature--w/u) | [Enchantment Creature](#enchantment creature--w/b) | [Enchantment Creature](#enchantment creature--w/r) | [Enchantment Creature](#enchantment creature--w/g) | [Enchantment Creature](#enchantment creature--u/b) | 
+[Enchantment](#enchantment--w/u) | [Enchantment](#enchantment--w/b) | [Enchantment](#enchantment--w/r) | [Enchantment](#enchantment--w/g) | [Enchantment](#enchantment--u/b) | 
+[Sorcery](#sorcery--w/u) | [Sorcery](#sorcery--w/b) | [Sorcery](#sorcery--w/r) | [Sorcery](#sorcery--w/g) | [Sorcery](#sorcery--u/b) | 
+[Instant](#instant--w/u) | [Instant](#instant--w/b) | [Instant](#instant--w/r) | [Instant](#instant--w/g) | [Instant](#instant--u/b) | 
+[Artifact](#artifact--w/u) | [Artifact](#artifact--w/b) | [Artifact](#artifact--w/r) | [Artifact](#artifact--w/g) | [Artifact](#artifact--u/b) | 
+[Land](#land--w/u) | [Land](#land--w/b) | [Land](#land--w/r) | [Land](#land--w/g) | [Land](#land--u/b) | 
 
 U/R | U/G | B/R | B/G | R/G
 --- | --- | --- | --- | ---
+
+Cards are sorted... 
+Commander Color Identidy > Super Type > Alphabetical
+
+Color: 
+C > W > U > B > R > G
+
+Super Type: 
+Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
 ## Colorless
 ### Creature < C
 Card | Qt
