@@ -2519,6 +2519,7 @@ Scoured Barrens | 4
 Starlit Sanctum | 1
 Tainted Field | 1
 Temple of Silence | 1
+## White + Red, Boros
 ### Creature < W/R
 Card | Qt
 --- | ---
@@ -2555,6 +2556,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Green, Selesnya
 ### Enchantment Creature < W/G
 Card | Qt
 --- | ---
@@ -2583,6 +2585,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Black, Dimir
 ### Creature < U/B
 Card | Qt
 --- | ---
@@ -2615,6 +2618,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Red, Izzet
 ### Creature < U/R
 Card | Qt
 --- | ---
@@ -2647,6 +2651,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Green, Simic
 ### Creature < U/G
 Card | Qt
 --- | ---
@@ -2679,6 +2684,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Black + Red, Rakdos
 ### Creature < B/R
 Card | Qt
 --- | ---
@@ -2711,6 +2717,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Black + Green, Golgari
 ### Creature < B/G
 Card | Qt
 --- | ---
@@ -2743,6 +2750,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Red + Green, Gruul
 ### Creature < R/G
 Card | Qt
 --- | ---
@@ -2775,6 +2783,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Blue + Green, Bant
 ### Creature < BANT
 Card | Qt
 --- | ---
@@ -2803,6 +2812,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Blue + Black, Esper
 ### Creature < ESPER
 Card | Qt
 --- | ---
@@ -2831,6 +2841,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Black + Red, Grixis
 ### Creature < GRIXIS
 Card | Qt
 --- | ---
@@ -2859,6 +2870,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Red + Green, Jund
 ### Creature < JUND
 Card | Qt
 --- | ---
@@ -2887,6 +2899,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Red + Green, Naya
 ### Creature < NAYA
 Card | Qt
 --- | ---
@@ -2915,6 +2928,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Black + Green, Abzan
 ### Creature < ABZAN
 Card | Qt
 --- | ---
@@ -2943,6 +2957,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Blue + Red, Jeskai
 ### Creature < JESKAI
 Card | Qt
 --- | ---
@@ -2971,6 +2986,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Black + Green, Sultai
 ### Creature < SULTAI
 Card | Qt
 --- | ---
@@ -2999,6 +3015,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Black + Red, Mardu
 ### Creature < MARDU
 Card | Qt
 --- | ---
@@ -3027,6 +3044,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## Blue + Red + Green, Temur
 ### Creature < TEMUR
 Card | Qt
 --- | ---
@@ -3055,6 +3073,7 @@ Card | Qt
 Card | Qt
 --- | ---
 
+## White + Blue + Black + Red + Green, WUBRG
 ### Creature < WUBRG
 Card | Qt
 --- | ---

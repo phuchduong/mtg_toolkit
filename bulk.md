@@ -1466,6 +1466,7 @@ Revenant Patriach |
 Sentry of the Underworld |
 Unyeilding Krumar |
 Profit // Loss |
+## White + Red, Boros
 ### Creature < W/R
 Card |
 --- |
@@ -1502,6 +1503,7 @@ Card |
 Card |
 --- |
 
+## White + Green, Selesnya
 ### Enchantment Creature < W/G
 Card |
 --- |
@@ -1530,6 +1532,7 @@ Card |
 Card |
 --- |
 
+## Blue + Black, Dimir
 ### Creature < U/B
 Card |
 --- |
@@ -1562,6 +1565,7 @@ Card |
 Card |
 --- |
 
+## Blue + Red, Izzet
 ### Creature < U/R
 Card |
 --- |
@@ -1594,6 +1598,7 @@ Card |
 Card |
 --- |
 
+## Blue + Green, Simic
 ### Creature < U/G
 Card |
 --- |
@@ -1626,6 +1631,7 @@ Card |
 Card |
 --- |
 
+## Black + Red, Rakdos
 ### Creature < B/R
 Card |
 --- |
@@ -1658,6 +1664,7 @@ Card |
 Card |
 --- |
 
+## Black + Green, Golgari
 ### Creature < B/G
 Card |
 --- |
@@ -1690,6 +1697,7 @@ Card |
 Card |
 --- |
 
+## Red + Green, Gruul
 ### Creature < R/G
 Card |
 --- |
@@ -1722,6 +1730,7 @@ Card |
 Card |
 --- |
 
+## White + Blue + Green, Bant
 ### Creature < BANT
 Card |
 --- |
@@ -1750,6 +1759,7 @@ Card |
 Card |
 --- |
 
+## White + Blue + Black, Esper
 ### Creature < ESPER
 Card |
 --- |
@@ -1778,6 +1788,7 @@ Card |
 Card |
 --- |
 
+## Blue + Black + Red, Grixis
 ### Creature < GRIXIS
 Card |
 --- |
@@ -1806,6 +1817,7 @@ Card |
 Card |
 --- |
 
+## Blue + Red + Green, Jund
 ### Creature < JUND
 Card |
 --- |
@@ -1834,6 +1846,7 @@ Card |
 Card |
 --- |
 
+## White + Red + Green, Naya
 ### Creature < NAYA
 Card |
 --- |
@@ -1862,6 +1875,7 @@ Card |
 Card |
 --- |
 
+## White + Black + Green, Abzan
 ### Creature < ABZAN
 Card |
 --- |
@@ -1890,6 +1904,7 @@ Card |
 Card |
 --- |
 
+## White + Blue + Red, Jeskai
 ### Creature < JESKAI
 Card |
 --- |
@@ -1918,6 +1933,7 @@ Card |
 Card |
 --- |
 
+## Blue + Black + Green, Sultai
 ### Creature < SULTAI
 Card |
 --- |
@@ -1946,6 +1962,7 @@ Card |
 Card |
 --- |
 
+## White + Black + Red, Mardu
 ### Creature < MARDU
 Card |
 --- |
@@ -1974,6 +1991,7 @@ Card |
 Card |
 --- |
 
+## Blue + Red + Green, Temur
 ### Creature < TEMUR
 Card |
 --- |
@@ -2002,6 +2020,7 @@ Card |
 Card |
 --- |
 
+## White + Blue + Black + Red + Green, WUBRG
 ### Creature < WUBRG
 Card |
 --- |
