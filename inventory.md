@@ -42,16 +42,24 @@ U/R Izzet | U/G Simic | B/R Rakdos | B/G Golgari | R/G Gruul
 [Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) | 
 
 Bant W/U/G | Esper W/U/B | Grixis U/B/R | Jund B/R/G | Naya W/R/G |
----  | ---   | ---    | ---  | --- |
+---        | ---         | ---          | ---        | ---        |
 [Creature](#creature--bant) | [Creature](#creature--esper) | [Creature](#creature--grixis) | [Creature](#creature--jund) | [Creature](#creature--naya) | 
-[Enchantment Creature](#enchantment creature--bant) | [Enchantment Creature](#enchantment creature--esper) | [Enchantment Creature](#enchantment creature--grixis) | [Enchantment Creature](#enchantment creature--jund) | [Enchantment Creature](#enchantment creature--naya) | 
 [Enchantment](#enchantment--bant) | [Enchantment](#enchantment--esper) | [Enchantment](#enchantment--grixis) | [Enchantment](#enchantment--jund) | [Enchantment](#enchantment--naya) | 
+[Planeswalker](#planeswalker--bant) | [Planeswalker](#planeswalker--esper) | [Planeswalker](#planeswalker--grixis) | [Planeswalker](#planeswalker--jund) | [Planeswalker](#planeswalker--naya) | 
 [Sorcery](#sorcery--bant) | [Sorcery](#sorcery--esper) | [Sorcery](#sorcery--grixis) | [Sorcery](#sorcery--jund) | [Sorcery](#sorcery--naya) | 
 [Instant](#instant--bant) | [Instant](#instant--esper) | [Instant](#instant--grixis) | [Instant](#instant--jund) | [Instant](#instant--naya) | 
+[Artifact](#artifact--bant) | [Artifact](#artifact--esper) | [Artifact](#artifact--grixis) | [Artifact](#artifact--jund) | [Artifact](#artifact--naya) | 
 [Land](#land--bant) | [Land](#land--esper) | [Land](#land--grixis) | [Land](#land--jund) | [Land](#land--naya) | 
 
-
-
+Abzan W/U/G | Jeskai W/U/B | Sultai U/B/R | Mardu B/R/G | Temur W/R/G |
+---         | ---          | ---          | ---         | ---         |
+[Creature](#creature--abzan) | [Creature](#creature--jeskai) | [Creature](#creature--sultai) | [Creature](#creature--mardu) | [Creature](#creature--temur) | 
+[Enchantment](#enchantment--abzan) | [Enchantment](#enchantment--jeskai) | [Enchantment](#enchantment--sultai) | [Enchantment](#enchantment--mardu) | [Enchantment](#enchantment--temur) | 
+[Planeswalker](#planeswalker--abzan) | [Planeswalker](#planeswalker--jeskai) | [Planeswalker](#planeswalker--sultai) | [Planeswalker](#planeswalker--mardu) | [Planeswalker](#planeswalker--temur) | 
+[Sorcery](#sorcery--abzan) | [Sorcery](#sorcery--jeskai) | [Sorcery](#sorcery--sultai) | [Sorcery](#sorcery--mardu) | [Sorcery](#sorcery--temur) | 
+[Instant](#instant--abzan) | [Instant](#instant--jeskai) | [Instant](#instant--sultai) | [Instant](#instant--mardu) | [Instant](#instant--temur) | 
+[Artifact](#artifact--abzan) | [Artifact](#artifact--jeskai) | [Artifact](#artifact--sultai) | [Artifact](#artifact--mardu) | [Artifact](#artifact--temur) | 
+[Land](#land--abzan) | [Land](#land--jeskai) | [Land](#land--sultai) | [Land](#land--mardu) | [Land](#land--temur) | 
 
 Cards are sorted... 
 Commander Color Identidy > Super Type > Alphabetical
