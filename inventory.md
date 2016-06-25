@@ -7,19 +7,27 @@ C > W > U > B > R > G
 
 Super Type: 
 Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
+Colorless |
+---|
+[Creature](#creature--c) |
+[Sorcery](#sorcery--c) |
+[Instant](#instant--c) |
+[Artifact](#artifact--c) |
+[Artifact Creature](#artifact-creature--c) |
+[Equipment](#artifact-equipment--c) 
+[Land](#land--c) |
+
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
-[Creature](#creature--c) | [Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | Creature | Creature | Creature
- | [Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | [Enchantment Creature](#enchantment-creature--b) | Enchantment Creature | Enchantment Creature
- | [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | [Enchantment](#enchantment--b) | Enchantment | Enchantment
-[Sorcery](#sorcery--c) | [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | [Sorcery](#sorcery--b) | Sorcery | Sorcery
-[Instant](#instant--c) | [Instant](#instant--w) | [Instant](#instant--u) | [Instant](#instant--b) | Instant | Instant
- | | [Planeswalker](#planeswalker--u) | |  |  | Planeswalker | Planeswalker
-[Artifact](#artifact--c) | [Artifact](#artifact--w) | [Artifact](#artifact--u) | [Artifact](#artifact--b) |  | Artifact | Artifact | Artifact
-[Artifact Creature](#artifact-creature--c) | | | | | 
-[Equipment](#artifact-equipment--c) |  | | | | 
-[Land](#land--c) | [Land](#land--w) | [Land](#land--u) | [Land](#land--b) | Land | Land
+[Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | Creature | Creature | Creature
+[Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | [Enchantment Creature](#enchantment-creature--b) | Enchantment Creature | Enchantment Creature
+[Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | [Enchantment](#enchantment--b) | Enchantment | Enchantment
+[Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | [Sorcery](#sorcery--b) | Sorcery | Sorcery
+[Instant](#instant--w) | [Instant](#instant--u) | [Instant](#instant--b) | Instant | Instant
+[Planeswalker](#planeswalker--u) | |  |  | Planeswalker | Planeswalker
+[Artifact](#artifact--w) | [Artifact](#artifact--u) | [Artifact](#artifact--b) |  | Artifact | Artifact | Artifact
+[Land](#land--w) | [Land](#land--u) | [Land](#land--b) | Land | Land
 
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
