@@ -41,7 +41,7 @@ U/R Izzet | U/G Simic | B/R Rakdos | B/G Golgari | R/G Gruul
 [Artifact](#artifact--u/r) | [Artifact](#artifact--u/g) | [Artifact](#artifact--b/r) | [Artifact](#artifact--b/g) | [Artifact](#artifact--r/g) | 
 [Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) | 
 
-Bant | Esper | Grixis | Jund |Naya |
+Bant W/U/G | Esper W/U/B | Grixis U/B/R | Jund B/R/G | Naya W/R/G |
 ---  | ---   | ---    | ---  | --- |
 [Creature](#creature--bant) | [Creature](#creature--esper) | [Creature](#creature--grixis) | [Creature](#creature--jund) | [Creature](#creature--naya) | 
 [Enchantment Creature](#enchantment creature--bant) | [Enchantment Creature](#enchantment creature--esper) | [Enchantment Creature](#enchantment creature--grixis) | [Enchantment Creature](#enchantment creature--jund) | [Enchantment Creature](#enchantment creature--naya) | 
