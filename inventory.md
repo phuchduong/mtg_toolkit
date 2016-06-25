@@ -26,20 +26,22 @@ W/U Azorius | W/B Orzhov | W/R Boros | W/G Selesnya | U/B Dimir
 [Creature](#creature--w/u) | [Creature](#creature--w/b) | [Creature](#creature--w/r) | [Creature](#creature--w/g) | [Creature](#creature--u/b) | 
 [Enchantment Creature](#enchantment creature--w/u) | [Enchantment Creature](#enchantment creature--w/b) | [Enchantment Creature](#enchantment creature--w/r) | [Enchantment Creature](#enchantment creature--w/g) | [Enchantment Creature](#enchantment creature--u/b) | 
 [Enchantment](#enchantment--w/u) | [Enchantment](#enchantment--w/b) | [Enchantment](#enchantment--w/r) | [Enchantment](#enchantment--w/g) | [Enchantment](#enchantment--u/b) | 
+[Planeswalker](#planeswalker--w/u)
 [Sorcery](#sorcery--w/u) | [Sorcery](#sorcery--w/b) | [Sorcery](#sorcery--w/r) | [Sorcery](#sorcery--w/g) | [Sorcery](#sorcery--u/b) | 
 [Instant](#instant--w/u) | [Instant](#instant--w/b) | [Instant](#instant--w/r) | [Instant](#instant--w/g) | [Instant](#instant--u/b) | 
 [Artifact](#artifact--w/u) | [Artifact](#artifact--w/b) | [Artifact](#artifact--w/r) | [Artifact](#artifact--w/g) | [Artifact](#artifact--u/b) | 
-[Land](#land--w/u) | [Land](#land--w/b) | [Land](#land--w/r) | [Land](#land--w/g) | [Land](#land--u/b) | 
+[Land](#land--w/u) | [Land](#land--w/b) | [Land](#land--w/r) | [Land](#land--w/g) | [Land](#land--u/b) |
 
 U/R Izzet | U/G Simic | B/R Rakdos | B/G Golgari | R/G Gruul
 --- | --- | --- | --- | ---
 [Creature](#creature--u/r) | [Creature](#creature--u/g) | [Creature](#creature--b/r) | [Creature](#creature--b/g) | [Creature](#creature--r/g) | 
 [Enchantment Creature](#enchantment creature--u/r) | [Enchantment Creature](#enchantment creature--u/g) | [Enchantment Creature](#enchantment creature--b/r) | [Enchantment Creature](#enchantment creature--b/g) | [Enchantment Creature](#enchantment creature--r/g) | 
 [Enchantment](#enchantment--u/r) | [Enchantment](#enchantment--u/g) | [Enchantment](#enchantment--b/r) | [Enchantment](#enchantment--b/g) | [Enchantment](#enchantment--r/g) | 
+[Planeswalker](#planeswalker--u/r) | [Planeswalker](#planeswalker--u/g) | [Planeswalker](#planeswalker--b/r) | [Planeswalker](#planeswalker--b/g) | [Planeswalker](#planeswalker--r/g) | 
 [Sorcery](#sorcery--u/r) | [Sorcery](#sorcery--u/g) | [Sorcery](#sorcery--b/r) | [Sorcery](#sorcery--b/g) | [Sorcery](#sorcery--r/g) | 
 [Instant](#instant--u/r) | [Instant](#instant--u/g) | [Instant](#instant--b/r) | [Instant](#instant--b/g) | [Instant](#instant--r/g) | 
 [Artifact](#artifact--u/r) | [Artifact](#artifact--u/g) | [Artifact](#artifact--b/r) | [Artifact](#artifact--b/g) | [Artifact](#artifact--r/g) | 
-[Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) | 
+[Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) |
 
 Bant W/U/G | Esper W/U/B | Grixis U/B/R | Jund B/R/G | Naya W/R/G |
 ---        | ---         | ---          | ---        | ---        |
@@ -2517,8 +2519,570 @@ Scoured Barrens | 4
 Starlit Sanctum | 1
 Tainted Field | 1
 Temple of Silence | 1
-## Blue + Black
+### Creature < W/R
+Card | Qt
+--- | ---
+
+### Enchantment Creature < W/R
+Card | Qt
+--- | ---
+
+### Enchantment < W/R
+Card | Qt
+--- | ---
+
+### Planeswalker < W/R
+Card | Qt
+--- | ---
+
+### Sorcery < W/R
+Card | Qt
+--- | ---
+
+### Instant < W/R
+Card | Qt
+--- | ---
+
+### Artifact < W/R
+Card | Qt
+--- | ---
+
+### Land < W/R
+Card | Qt
+--- | ---
+
+### Creature < W/G
+Card | Qt
+--- | ---
+
+### Enchantment Creature < W/G
+Card | Qt
+--- | ---
+
+### Enchantment < W/G
+Card | Qt
+--- | ---
+
+### Planeswalker < W/G
+Card | Qt
+--- | ---
+
+### Sorcery < W/G
+Card | Qt
+--- | ---
+
+### Instant < W/G
+Card | Qt
+--- | ---
+
+### Artifact < W/G
+Card | Qt
+--- | ---
+
+### Land < W/G
+Card | Qt
+--- | ---
+
+### Creature < U/B
+Card | Qt
+--- | ---
+
+### Enchantment Creature < U/B
+Card | Qt
+--- | ---
+
+### Enchantment < U/B
+Card | Qt
+--- | ---
+
+### Planeswalker < U/B
+Card | Qt
+--- | ---
+
 ### Sorcery < U/B
 Card | Qt
 --- | ---
-Probe | 1
+
+### Instant < U/B
+Card | Qt
+--- | ---
+
+### Artifact < U/B
+Card | Qt
+--- | ---
+
+### Land < U/B
+Card | Qt
+--- | ---
+
+### Creature < U/R
+Card | Qt
+--- | ---
+
+### Enchantment Creature < U/R
+Card | Qt
+--- | ---
+
+### Enchantment < U/R
+Card | Qt
+--- | ---
+
+### Planeswalker < U/R
+Card | Qt
+--- | ---
+
+### Sorcery < U/R
+Card | Qt
+--- | ---
+
+### Instant < U/R
+Card | Qt
+--- | ---
+
+### Artifact < U/R
+Card | Qt
+--- | ---
+
+### Land < U/R
+Card | Qt
+--- | ---
+
+### Creature < U/G
+Card | Qt
+--- | ---
+
+### Enchantment Creature < U/G
+Card | Qt
+--- | ---
+
+### Enchantment < U/G
+Card | Qt
+--- | ---
+
+### Planeswalker < U/G
+Card | Qt
+--- | ---
+
+### Sorcery < U/G
+Card | Qt
+--- | ---
+
+### Instant < U/G
+Card | Qt
+--- | ---
+
+### Artifact < U/G
+Card | Qt
+--- | ---
+
+### Land < U/G
+Card | Qt
+--- | ---
+
+### Creature < B/R
+Card | Qt
+--- | ---
+
+### Enchantment Creature < B/R
+Card | Qt
+--- | ---
+
+### Enchantment < B/R
+Card | Qt
+--- | ---
+
+### Planeswalker < B/R
+Card | Qt
+--- | ---
+
+### Sorcery < B/R
+Card | Qt
+--- | ---
+
+### Instant < B/R
+Card | Qt
+--- | ---
+
+### Artifact < B/R
+Card | Qt
+--- | ---
+
+### Land < B/R
+Card | Qt
+--- | ---
+
+### Creature < B/G
+Card | Qt
+--- | ---
+
+### Enchantment Creature < B/G
+Card | Qt
+--- | ---
+
+### Enchantment < B/G
+Card | Qt
+--- | ---
+
+### Planeswalker < B/G
+Card | Qt
+--- | ---
+
+### Sorcery < B/G
+Card | Qt
+--- | ---
+
+### Instant < B/G
+Card | Qt
+--- | ---
+
+### Artifact < B/G
+Card | Qt
+--- | ---
+
+### Land < B/G
+Card | Qt
+--- | ---
+
+### Creature < R/G
+Card | Qt
+--- | ---
+
+### Enchantment Creature < R/G
+Card | Qt
+--- | ---
+
+### Enchantment < R/G
+Card | Qt
+--- | ---
+
+### Planeswalker < R/G
+Card | Qt
+--- | ---
+
+### Sorcery < R/G
+Card | Qt
+--- | ---
+
+### Instant < R/G
+Card | Qt
+--- | ---
+
+### Artifact < R/G
+Card | Qt
+--- | ---
+
+### Land < R/G
+Card | Qt
+--- | ---
+
+### Creature < BANT
+Card | Qt
+--- | ---
+
+### Enchantment < BANT
+Card | Qt
+--- | ---
+
+### Planeswalker < BANT
+Card | Qt
+--- | ---
+
+### Sorcery < BANT
+Card | Qt
+--- | ---
+
+### Instant < BANT
+Card | Qt
+--- | ---
+
+### Artifact < BANT
+Card | Qt
+--- | ---
+
+### Land < BANT
+Card | Qt
+--- | ---
+
+### Creature < ESPER
+Card | Qt
+--- | ---
+
+### Enchantment < ESPER
+Card | Qt
+--- | ---
+
+### Planeswalker < ESPER
+Card | Qt
+--- | ---
+
+### Sorcery < ESPER
+Card | Qt
+--- | ---
+
+### Instant < ESPER
+Card | Qt
+--- | ---
+
+### Artifact < ESPER
+Card | Qt
+--- | ---
+
+### Land < ESPER
+Card | Qt
+--- | ---
+
+### Creature < GRIXIS
+Card | Qt
+--- | ---
+
+### Enchantment < GRIXIS
+Card | Qt
+--- | ---
+
+### Planeswalker < GRIXIS
+Card | Qt
+--- | ---
+
+### Sorcery < GRIXIS
+Card | Qt
+--- | ---
+
+### Instant < GRIXIS
+Card | Qt
+--- | ---
+
+### Artifact < GRIXIS
+Card | Qt
+--- | ---
+
+### Land < GRIXIS
+Card | Qt
+--- | ---
+
+### Creature < JUND
+Card | Qt
+--- | ---
+
+### Enchantment < JUND
+Card | Qt
+--- | ---
+
+### Planeswalker < JUND
+Card | Qt
+--- | ---
+
+### Sorcery < JUND
+Card | Qt
+--- | ---
+
+### Instant < JUND
+Card | Qt
+--- | ---
+
+### Artifact < JUND
+Card | Qt
+--- | ---
+
+### Land < JUND
+Card | Qt
+--- | ---
+
+### Creature < NAYA
+Card | Qt
+--- | ---
+
+### Enchantment < NAYA
+Card | Qt
+--- | ---
+
+### Planeswalker < NAYA
+Card | Qt
+--- | ---
+
+### Sorcery < NAYA
+Card | Qt
+--- | ---
+
+### Instant < NAYA
+Card | Qt
+--- | ---
+
+### Artifact < NAYA
+Card | Qt
+--- | ---
+
+### Land < NAYA
+Card | Qt
+--- | ---
+
+### Creature < ABZAN
+Card | Qt
+--- | ---
+
+### Enchantment < ABZAN
+Card | Qt
+--- | ---
+
+### Planeswalker < ABZAN
+Card | Qt
+--- | ---
+
+### Sorcery < ABZAN
+Card | Qt
+--- | ---
+
+### Instant < ABZAN
+Card | Qt
+--- | ---
+
+### Artifact < ABZAN
+Card | Qt
+--- | ---
+
+### Land < ABZAN
+Card | Qt
+--- | ---
+
+### Creature < JESKAI
+Card | Qt
+--- | ---
+
+### Enchantment < JESKAI
+Card | Qt
+--- | ---
+
+### Planeswalker < JESKAI
+Card | Qt
+--- | ---
+
+### Sorcery < JESKAI
+Card | Qt
+--- | ---
+
+### Instant < JESKAI
+Card | Qt
+--- | ---
+
+### Artifact < JESKAI
+Card | Qt
+--- | ---
+
+### Land < JESKAI
+Card | Qt
+--- | ---
+
+### Creature < SULTAI
+Card | Qt
+--- | ---
+
+### Enchantment < SULTAI
+Card | Qt
+--- | ---
+
+### Planeswalker < SULTAI
+Card | Qt
+--- | ---
+
+### Sorcery < SULTAI
+Card | Qt
+--- | ---
+
+### Instant < SULTAI
+Card | Qt
+--- | ---
+
+### Artifact < SULTAI
+Card | Qt
+--- | ---
+
+### Land < SULTAI
+Card | Qt
+--- | ---
+
+### Creature < MARDU
+Card | Qt
+--- | ---
+
+### Enchantment < MARDU
+Card | Qt
+--- | ---
+
+### Planeswalker < MARDU
+Card | Qt
+--- | ---
+
+### Sorcery < MARDU
+Card | Qt
+--- | ---
+
+### Instant < MARDU
+Card | Qt
+--- | ---
+
+### Artifact < MARDU
+Card | Qt
+--- | ---
+
+### Land < MARDU
+Card | Qt
+--- | ---
+
+### Creature < TEMUR
+Card | Qt
+--- | ---
+
+### Enchantment < TEMUR
+Card | Qt
+--- | ---
+
+### Planeswalker < TEMUR
+Card | Qt
+--- | ---
+
+### Sorcery < TEMUR
+Card | Qt
+--- | ---
+
+### Instant < TEMUR
+Card | Qt
+--- | ---
+
+### Artifact < TEMUR
+Card | Qt
+--- | ---
+
+### Land < TEMUR
+Card | Qt
+--- | ---
+
+### Creature < WUBRG
+Card | Qt
+--- | ---
+
+### Enchantment Creature < WUBRG
+Card | Qt
+--- | ---
+
+### Enchantment < WUBRG
+Card | Qt
+--- | ---
+
+### Planeswalker < WUBRG
+Card | Qt
+--- | ---
+
+### Sorcery < WUBRG
+Card | Qt
+--- | ---
+
+### Instant < WUBRG
+Card | Qt
+--- | ---
+
+### Instant < WUBRG
+Card | Qt
+--- | ---
+
+### Land < WUBRG
+Card | Qt
+--- | ---
