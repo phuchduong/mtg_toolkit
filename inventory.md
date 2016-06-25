@@ -19,7 +19,7 @@ Colorless |
 [Land](#land--c) |
 
 #### Table of Contents
-Colorless | White | Blue | Black | Red | Green
+White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
 [Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | [Creature](#creature--r) | [Creature](#creature--g) | 
 [Enchantment Creature](#enchantment creature--w) | [Enchantment Creature](#enchantment creature--u) | [Enchantment Creature](#enchantment creature--b) | [Enchantment Creature](#enchantment creature--r) | [Enchantment Creature](#enchantment creature--g) | 
