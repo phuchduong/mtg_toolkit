@@ -41,6 +41,16 @@ U/R | U/G | B/R | B/G | R/G
 [Artifact](#artifact--u/r) | [Artifact](#artifact--u/g) | [Artifact](#artifact--b/r) | [Artifact](#artifact--b/g) | [Artifact](#artifact--r/g) | 
 [Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) | 
 
+W/U/B |W/U/R |W/U/G |U/B/R |U/B/G |B/R/G |
+--- | --- | --- | --- | --- | --- |
+[Creature](#creature--w/u/b) | [Creature](#creature--w/u/r) | [Creature](#creature--w/u/g) | [Creature](#creature--u/b/r) | [Creature](#creature--u/b/g) | [Creature](#creature--b/r/g) | 
+[Enchantment Creature](#enchantment creature--w/u/b) | [Enchantment Creature](#enchantment creature--w/u/r) | [Enchantment Creature](#enchantment creature--w/u/g) | [Enchantment Creature](#enchantment creature--u/b/r) | [Enchantment Creature](#enchantment creature--u/b/g) | [Enchantment Creature](#enchantment creature--b/r/g) | 
+[Enchantment](#enchantment--w/u/b) | [Enchantment](#enchantment--w/u/r) | [Enchantment](#enchantment--w/u/g) | [Enchantment](#enchantment--u/b/r) | [Enchantment](#enchantment--u/b/g) | [Enchantment](#enchantment--b/r/g) | 
+[Sorcery](#sorcery--w/u/b) | [Sorcery](#sorcery--w/u/r) | [Sorcery](#sorcery--w/u/g) | [Sorcery](#sorcery--u/b/r) | [Sorcery](#sorcery--u/b/g) | [Sorcery](#sorcery--b/r/g) | 
+[Instant](#instant--w/u/b) | [Instant](#instant--w/u/r) | [Instant](#instant--w/u/g) | [Instant](#instant--u/b/r) | [Instant](#instant--u/b/g) | [Instant](#instant--b/r/g) | 
+[Artifact](#artifact--w/u/b) | [Artifact](#artifact--w/u/r) | [Artifact](#artifact--w/u/g) | [Artifact](#artifact--u/b/r) | [Artifact](#artifact--u/b/g) | [Artifact](#artifact--b/r/g) | 
+[Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) | [Land](#land--b/r/g) | 
+
 Cards are sorted... 
 Commander Color Identidy > Super Type > Alphabetical
 
