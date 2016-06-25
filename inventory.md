@@ -15,20 +15,20 @@ Colorless |
 [Instant](#instant--c) |
 [Artifact](#artifact--c) |
 [Artifact Creature](#artifact-creature--c) |
-[Equipment](#artifact-equipment--c) 
+[Equipment](#artifact-equipment--c) |
 [Land](#land--c) |
 
 #### Table of Contents
 Colorless | White | Blue | Black | Red | Green
 --- | --- | --- | --- | --- | ---
-[Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | Creature | Creature | Creature
-[Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | [Enchantment Creature](#enchantment-creature--b) | Enchantment Creature | Enchantment Creature
-[Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | [Enchantment](#enchantment--b) | Enchantment | Enchantment
-[Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | [Sorcery](#sorcery--b) | Sorcery | Sorcery
-[Instant](#instant--w) | [Instant](#instant--u) | [Instant](#instant--b) | Instant | Instant
-[Planeswalker](#planeswalker--u) | |  |  | Planeswalker | Planeswalker
-[Artifact](#artifact--w) | [Artifact](#artifact--u) | [Artifact](#artifact--b) |  | Artifact | Artifact | Artifact
-[Land](#land--w) | [Land](#land--u) | [Land](#land--b) | Land | Land
+[Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | [Creature](#creature--r) | [Creature](#creature--g) | 
+[Enchantment Creature](#enchantment creature--w) | [Enchantment Creature](#enchantment creature--u) | [Enchantment Creature](#enchantment creature--b) | [Enchantment Creature](#enchantment creature--r) | [Enchantment Creature](#enchantment creature--g) | 
+[Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | [Enchantment](#enchantment--b) | [Enchantment](#enchantment--r) | [Enchantment](#enchantment--g) | 
+[Planeswalker](#planeswalker--w) | [Planeswalker](#planeswalker--u) | [Planeswalker](#planeswalker--b) | [Planeswalker](#planeswalker--r) | [Planeswalker](#planeswalker--g) | 
+[Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | [Sorcery](#sorcery--b) | [Sorcery](#sorcery--r) | [Sorcery](#sorcery--g) | 
+[Instant](#instant--w) | [Instant](#instant--u) | [Instant](#instant--b) | [Instant](#instant--r) | [Instant](#instant--g) | 
+[Artifact](#artifact--w) | [Artifact](#artifact--u) | [Artifact](#artifact--b) | [Artifact](#artifact--r) | [Artifact](#artifact--g) | 
+[Land](#land--w) | [Land](#land--u) | [Land](#land--b) | [Land](#land--r) | [Land](#land--g) |
 
 W/U | W/B | W/R | W/G | U/B
 --- | --- | --- | --- | ---
