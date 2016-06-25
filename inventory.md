@@ -21,7 +21,7 @@ White | Blue | Black | Red | Green
 [Artifact](#artifact--w) | [Artifact](#artifact--u) | [Artifact](#artifact--b) | [Artifact](#artifact--r) | [Artifact](#artifact--g) | 
 [Land](#land--w) | [Land](#land--u) | [Land](#land--b) | [Land](#land--r) | [Land](#land--g) |
 
-W/U | W/B | W/R | W/G | U/B
+W/U Azorius | W/B Orzhov | W/R Boros | W/G Selesnya | U/B Dimir
 --- | --- | --- | --- | ---
 [Creature](#creature--w/u) | [Creature](#creature--w/b) | [Creature](#creature--w/r) | [Creature](#creature--w/g) | [Creature](#creature--u/b) | 
 [Enchantment Creature](#enchantment creature--w/u) | [Enchantment Creature](#enchantment creature--w/b) | [Enchantment Creature](#enchantment creature--w/r) | [Enchantment Creature](#enchantment creature--w/g) | [Enchantment Creature](#enchantment creature--u/b) | 
@@ -31,7 +31,7 @@ W/U | W/B | W/R | W/G | U/B
 [Artifact](#artifact--w/u) | [Artifact](#artifact--w/b) | [Artifact](#artifact--w/r) | [Artifact](#artifact--w/g) | [Artifact](#artifact--u/b) | 
 [Land](#land--w/u) | [Land](#land--w/b) | [Land](#land--w/r) | [Land](#land--w/g) | [Land](#land--u/b) | 
 
-U/R | U/G | B/R | B/G | R/G
+U/R Izzet | U/G Simic | B/R Rakdos | B/G Golgari | R/G Gruul
 --- | --- | --- | --- | ---
 [Creature](#creature--u/r) | [Creature](#creature--u/g) | [Creature](#creature--b/r) | [Creature](#creature--b/g) | [Creature](#creature--r/g) | 
 [Enchantment Creature](#enchantment creature--u/r) | [Enchantment Creature](#enchantment creature--u/g) | [Enchantment Creature](#enchantment creature--b/r) | [Enchantment Creature](#enchantment creature--b/g) | [Enchantment Creature](#enchantment creature--r/g) | 
