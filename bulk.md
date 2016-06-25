@@ -1466,8 +1466,570 @@ Revenant Patriach |
 Sentry of the Underworld |
 Unyeilding Krumar |
 Profit // Loss |
-## Blue + Black
+### Creature < W/R
+Card |
+--- |
+
+### Enchantment Creature < W/R
+Card |
+--- |
+
+### Enchantment < W/R
+Card |
+--- |
+
+### Planeswalker < W/R
+Card |
+--- |
+
+### Sorcery < W/R
+Card |
+--- |
+
+### Instant < W/R
+Card |
+--- |
+
+### Artifact < W/R
+Card |
+--- |
+
+### Land < W/R
+Card |
+--- |
+
+### Creature < W/G
+Card |
+--- |
+
+### Enchantment Creature < W/G
+Card |
+--- |
+
+### Enchantment < W/G
+Card |
+--- |
+
+### Planeswalker < W/G
+Card |
+--- |
+
+### Sorcery < W/G
+Card |
+--- |
+
+### Instant < W/G
+Card |
+--- |
+
+### Artifact < W/G
+Card |
+--- |
+
+### Land < W/G
+Card |
+--- |
+
 ### Creature < U/B
 Card |
 --- |
-Metathran Zombie |
+
+### Enchantment Creature < U/B
+Card |
+--- |
+
+### Enchantment < U/B
+Card |
+--- |
+
+### Planeswalker < U/B
+Card |
+--- |
+
+### Sorcery < U/B
+Card |
+--- |
+
+### Instant < U/B
+Card |
+--- |
+
+### Artifact < U/B
+Card |
+--- |
+
+### Land < U/B
+Card |
+--- |
+
+### Creature < U/R
+Card |
+--- |
+
+### Enchantment Creature < U/R
+Card |
+--- |
+
+### Enchantment < U/R
+Card |
+--- |
+
+### Planeswalker < U/R
+Card |
+--- |
+
+### Sorcery < U/R
+Card |
+--- |
+
+### Instant < U/R
+Card |
+--- |
+
+### Artifact < U/R
+Card |
+--- |
+
+### Land < U/R
+Card |
+--- |
+
+### Creature < U/G
+Card |
+--- |
+
+### Enchantment Creature < U/G
+Card |
+--- |
+
+### Enchantment < U/G
+Card |
+--- |
+
+### Planeswalker < U/G
+Card |
+--- |
+
+### Sorcery < U/G
+Card |
+--- |
+
+### Instant < U/G
+Card |
+--- |
+
+### Artifact < U/G
+Card |
+--- |
+
+### Land < U/G
+Card |
+--- |
+
+### Creature < B/R
+Card |
+--- |
+
+### Enchantment Creature < B/R
+Card |
+--- |
+
+### Enchantment < B/R
+Card |
+--- |
+
+### Planeswalker < B/R
+Card |
+--- |
+
+### Sorcery < B/R
+Card |
+--- |
+
+### Instant < B/R
+Card |
+--- |
+
+### Artifact < B/R
+Card |
+--- |
+
+### Land < B/R
+Card |
+--- |
+
+### Creature < B/G
+Card |
+--- |
+
+### Enchantment Creature < B/G
+Card |
+--- |
+
+### Enchantment < B/G
+Card |
+--- |
+
+### Planeswalker < B/G
+Card |
+--- |
+
+### Sorcery < B/G
+Card |
+--- |
+
+### Instant < B/G
+Card |
+--- |
+
+### Artifact < B/G
+Card |
+--- |
+
+### Land < B/G
+Card |
+--- |
+
+### Creature < R/G
+Card |
+--- |
+
+### Enchantment Creature < R/G
+Card |
+--- |
+
+### Enchantment < R/G
+Card |
+--- |
+
+### Planeswalker < R/G
+Card |
+--- |
+
+### Sorcery < R/G
+Card |
+--- |
+
+### Instant < R/G
+Card |
+--- |
+
+### Artifact < R/G
+Card |
+--- |
+
+### Land < R/G
+Card |
+--- |
+
+### Creature < BANT
+Card |
+--- |
+
+### Enchantment < BANT
+Card |
+--- |
+
+### Planeswalker < BANT
+Card |
+--- |
+
+### Sorcery < BANT
+Card |
+--- |
+
+### Instant < BANT
+Card |
+--- |
+
+### Artifact < BANT
+Card |
+--- |
+
+### Land < BANT
+Card |
+--- |
+
+### Creature < ESPER
+Card |
+--- |
+
+### Enchantment < ESPER
+Card |
+--- |
+
+### Planeswalker < ESPER
+Card |
+--- |
+
+### Sorcery < ESPER
+Card |
+--- |
+
+### Instant < ESPER
+Card |
+--- |
+
+### Artifact < ESPER
+Card |
+--- |
+
+### Land < ESPER
+Card |
+--- |
+
+### Creature < GRIXIS
+Card |
+--- |
+
+### Enchantment < GRIXIS
+Card |
+--- |
+
+### Planeswalker < GRIXIS
+Card |
+--- |
+
+### Sorcery < GRIXIS
+Card |
+--- |
+
+### Instant < GRIXIS
+Card |
+--- |
+
+### Artifact < GRIXIS
+Card |
+--- |
+
+### Land < GRIXIS
+Card |
+--- |
+
+### Creature < JUND
+Card |
+--- |
+
+### Enchantment < JUND
+Card |
+--- |
+
+### Planeswalker < JUND
+Card |
+--- |
+
+### Sorcery < JUND
+Card |
+--- |
+
+### Instant < JUND
+Card |
+--- |
+
+### Artifact < JUND
+Card |
+--- |
+
+### Land < JUND
+Card |
+--- |
+
+### Creature < NAYA
+Card |
+--- |
+
+### Enchantment < NAYA
+Card |
+--- |
+
+### Planeswalker < NAYA
+Card |
+--- |
+
+### Sorcery < NAYA
+Card |
+--- |
+
+### Instant < NAYA
+Card |
+--- |
+
+### Artifact < NAYA
+Card |
+--- |
+
+### Land < NAYA
+Card |
+--- |
+
+### Creature < ABZAN
+Card |
+--- |
+
+### Enchantment < ABZAN
+Card |
+--- |
+
+### Planeswalker < ABZAN
+Card |
+--- |
+
+### Sorcery < ABZAN
+Card |
+--- |
+
+### Instant < ABZAN
+Card |
+--- |
+
+### Artifact < ABZAN
+Card |
+--- |
+
+### Land < ABZAN
+Card |
+--- |
+
+### Creature < JESKAI
+Card |
+--- |
+
+### Enchantment < JESKAI
+Card |
+--- |
+
+### Planeswalker < JESKAI
+Card |
+--- |
+
+### Sorcery < JESKAI
+Card |
+--- |
+
+### Instant < JESKAI
+Card |
+--- |
+
+### Artifact < JESKAI
+Card |
+--- |
+
+### Land < JESKAI
+Card |
+--- |
+
+### Creature < SULTAI
+Card |
+--- |
+
+### Enchantment < SULTAI
+Card |
+--- |
+
+### Planeswalker < SULTAI
+Card |
+--- |
+
+### Sorcery < SULTAI
+Card |
+--- |
+
+### Instant < SULTAI
+Card |
+--- |
+
+### Artifact < SULTAI
+Card |
+--- |
+
+### Land < SULTAI
+Card |
+--- |
+
+### Creature < MARDU
+Card |
+--- |
+
+### Enchantment < MARDU
+Card |
+--- |
+
+### Planeswalker < MARDU
+Card |
+--- |
+
+### Sorcery < MARDU
+Card |
+--- |
+
+### Instant < MARDU
+Card |
+--- |
+
+### Artifact < MARDU
+Card |
+--- |
+
+### Land < MARDU
+Card |
+--- |
+
+### Creature < TEMUR
+Card |
+--- |
+
+### Enchantment < TEMUR
+Card |
+--- |
+
+### Planeswalker < TEMUR
+Card |
+--- |
+
+### Sorcery < TEMUR
+Card |
+--- |
+
+### Instant < TEMUR
+Card |
+--- |
+
+### Artifact < TEMUR
+Card |
+--- |
+
+### Land < TEMUR
+Card |
+--- |
+
+### Creature < WUBRG
+Card |
+--- |
+
+### Enchantment Creature < WUBRG
+Card |
+--- |
+
+### Enchantment < WUBRG
+Card |
+--- |
+
+### Planeswalker < WUBRG
+Card |
+--- |
+
+### Sorcery < WUBRG
+Card |
+--- |
+
+### Instant < WUBRG
+Card |
+--- |
+
+### Instant < WUBRG
+Card |
+--- |
+
+### Land < WUBRG
+Card |
+--- |
