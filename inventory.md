@@ -41,14 +41,16 @@ U/R Izzet | U/G Simic | B/R Rakdos | B/G Golgari | R/G Gruul
 [Artifact](#artifact--u/r) | [Artifact](#artifact--u/g) | [Artifact](#artifact--b/r) | [Artifact](#artifact--b/g) | [Artifact](#artifact--r/g) | 
 [Land](#land--u/r) | [Land](#land--u/g) | [Land](#land--b/r) | [Land](#land--b/g) | [Land](#land--r/g) | 
 
-W/U/B Esper | W/U/R | W/U/G Bant | W/B/R |U/B/R | U/B/G | B/R/G |
---- | --- | --- | --- | --- | --- |
+Bant | Esper | Grixis | Jund |Naya |
+---  | ---   | ---    | ---  | --- |
 [Creature](#creature--bant) | [Creature](#creature--esper) | [Creature](#creature--grixis) | [Creature](#creature--jund) | [Creature](#creature--naya) | 
 [Enchantment Creature](#enchantment creature--bant) | [Enchantment Creature](#enchantment creature--esper) | [Enchantment Creature](#enchantment creature--grixis) | [Enchantment Creature](#enchantment creature--jund) | [Enchantment Creature](#enchantment creature--naya) | 
 [Enchantment](#enchantment--bant) | [Enchantment](#enchantment--esper) | [Enchantment](#enchantment--grixis) | [Enchantment](#enchantment--jund) | [Enchantment](#enchantment--naya) | 
 [Sorcery](#sorcery--bant) | [Sorcery](#sorcery--esper) | [Sorcery](#sorcery--grixis) | [Sorcery](#sorcery--jund) | [Sorcery](#sorcery--naya) | 
 [Instant](#instant--bant) | [Instant](#instant--esper) | [Instant](#instant--grixis) | [Instant](#instant--jund) | [Instant](#instant--naya) | 
 [Land](#land--bant) | [Land](#land--esper) | [Land](#land--grixis) | [Land](#land--jund) | [Land](#land--naya) | 
+
+
 
 
 Cards are sorted... 
