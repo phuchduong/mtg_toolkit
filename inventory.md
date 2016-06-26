@@ -2605,7 +2605,7 @@ Card | Qt
 ### Sorcery < U/B
 Card | Qt
 --- | ---
-
+Probe | 1
 ### Instant < U/B
 Card | Qt
 --- | ---

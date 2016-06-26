@@ -1536,7 +1536,7 @@ Card |
 ### Creature < U/B
 Card |
 --- |
-
+Metathran Zombie |
 ### Enchantment Creature < U/B
 Card |
 --- |
