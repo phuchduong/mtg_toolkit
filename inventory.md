@@ -2183,6 +2183,11 @@ Wild Growth | 4
 Wild Pair | 1
 Wreath of Geists | 1
 Zendikar's Roil | 1
+### Planeswalker < G
+Card | Qt
+--- | ---
+Nissa, Voice of Zendikar | 1
+Nissa, Worldwaker | 1
 ### Sorcery < G
 Card | Qt
 --- | ---
@@ -2334,11 +2339,6 @@ Wear Away | 1
 Wildwood Rebirth | 5
 Winds of Qal Sisma | 4
 Windstorm | 4
-### Planeswalker < G
-Card | Qt
---- | ---
-Nissa, Voice of Zendikar | 1
-Nissa, Worldwaker | 1
 ### Artifact < G
 Card | Qt
 --- | ---
@@ -2402,6 +2402,10 @@ Invocation of Saint Traft | 1
 Palliation Accord | 1
 Plumes of Peace | 1
 Righteous Authority | 2
+### Planeswalker < W/U
+Card | Qt
+--- | ---
+Narset Transcendent | 1
 ### Sorcery < W/U
 Card | Qt
 --- | ---
@@ -2417,10 +2421,6 @@ Overrule | 1
 Render Silent | 1
 Restore the Peace | 2
 Saving Grasp | 3
-### Planeswalker < W/U
-Card | Qt
---- | ---
-Narset Transcendent | 1
 ### Artifact < W/U
 Card | Qt
 --- | ---
@@ -2479,6 +2479,10 @@ Behind the Scenes | 1
 Gift of Orzhova | 1
 One Thousand Lashes | 1
 Pillory of the Sleepless | 1
+### Planeswalker < W/B
+Card | Qt
+--- | ---
+Sorin, Grim Nemesis | 1
 ### Sorcery < W/B
 Card | Qt
 --- | ---
@@ -2500,10 +2504,6 @@ Mortify | 2
 Orzhov Charm | 4
 Utter End | 2
 Zealous Persecution | 1
-### Planeswalker < W/B
-Card | Qt
---- | ---
-Sorin, Grim Nemesis | 1
 ### Artifact < W/B
 Card | Qt
 --- | ---
@@ -2523,35 +2523,82 @@ Temple of Silence | 1
 ### Creature < W/R
 Card | Qt
 --- | ---
-
+Akroan Phalanx | 2
+Akroan Phalanx | 3
+Anax and Cymede | 2
+Aurelia, the Warleader | 1
+Basandra, Battle Seraph | 1
+Blaze Commando | 2
+Boros Battleshaper | 2
+Boros Recruit | 1
+Boros Swiftblade | 2
+Firemane Avenger | 1
+Flame-Kin Zealot | 1
+Flamewright | 1
+Fortress Cyclops | 3
+Foundry Champion | 1
+Hearthfire Hobgoblin | 1
+Highspire Mantis | 2
+Iroas, God of Victory | 1
+Jor Kadeen, the Prevailer | 1
+Nobilis of War | 2
+Resolute Blademaster | 1
+Searing Meditation | 1
+Skyknight Legionnaire | 2
+Sunhome Guildmage | 1
+Sunhome Enforcer | 2
+Tajic, Blade of the Legion | 1
+Thundersong Trumpeter | 2
+Truefire Paladin | 1
+Viashino Firstblade | 5
+Weapons Trainer | 2
+Wojek Halberdiers | 4
 ### Enchantment Creature < W/R
 Card | Qt
 --- | ---
-
+Gleam of Battle | 4
+Legion's Initiative | 1
 ### Enchantment < W/R
 Card | Qt
 --- | ---
-
+Desperate Stand | 4
 ### Planeswalker < W/R
 Card | Qt
 --- | ---
-
 ### Sorcery < W/R
 Card | Qt
 --- | ---
-
+Arrows of Justice | 3
 ### Instant < W/R
 Card | Qt
 --- | ---
-
+Boros Charm | 1
+Deflecting Palm | 1
+Martial Glory | 4
+Rally the Peasants | 1
+Rally the Righteous | 1
+Ride Down | 3
+Shattering Blow | 2
+War Flare | 2
+Warleader's Helix | 3
+Wear // Tear | 4
 ### Artifact < W/R
 Card | Qt
 --- | ---
-
+Boros Cluestone | 5
+Boros Signet | 3
 ### Land < W/R
 Card | Qt
 --- | ---
-
+Battlefield Forge | 2
+Boros Garrison | 3
+Boros Guildgate | 21
+Clifftop Retreat | 1
+Sacred Foundry | 1
+Slayer's Stronghold | 1
+Stone Quarry | 1
+Temple of Triumph | 1
+Wind-Scarred Crag | 4
 ### Creature < W/G
 Card | Qt
 --- | ---

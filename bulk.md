@@ -1470,7 +1470,12 @@ Profit // Loss |
 ### Creature < W/R
 Card |
 --- |
-
+Firehoof Cavalry |
+Leaping Master |
+Priest of Iroas |
+Screeching Griffin |
+Towering Thunderfist |
+Town Gossipmonger |
 ### Enchantment Creature < W/R
 Card |
 --- |
@@ -1490,7 +1495,7 @@ Card |
 ### Instant < W/R
 Card |
 --- |
-
+Burning Oil |
 ### Artifact < W/R
 Card |
 --- |

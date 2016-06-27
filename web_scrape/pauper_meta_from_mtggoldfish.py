@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen as uReq
 import datetime
 
-
+pauper_urls = "http://www.mtggoldfish.com/metagame/pauper#paper"
 mtggoldfish_url = "http://www.mtggoldfish.com/archetype/pauper-stompy-22958#paper"
 
 def parse_deck(mtggoldfish_url):
