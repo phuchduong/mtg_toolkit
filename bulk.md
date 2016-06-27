@@ -41,7 +41,7 @@ Amulet of Kroog |
 Angel's Tomb | 
 Ashnod's Transmogrant |
 Barbed Sextant | 
-Briber's Purse | 
+Briber's Purse |
 Flowstone Armor | 
 Goblin Boom Keg | 
 Gremlin Mine | 
@@ -1507,7 +1507,16 @@ Card |
 ### Creature < W/G
 Card |
 --- |
-
+Armored Wolf-Rider |
+Centaur Safeguard |
+Guardian of Vitu-Ghazi |
+Prized Elephant |
+Selesnya Sagittars |
+Selesnya Sentry |
+Setessan Griffin |
+Steel Leaf Paladin |
+Sunblade Elf |
+Transluminant |
 ## White + Green, Selesnya
 ### Enchantment Creature < W/G
 Card |
@@ -1528,7 +1537,9 @@ Card |
 ### Instant < W/G
 Card |
 --- |
-
+Dryad's Caress |
+Folk Medicine |
+Seeds of Strength |
 ### Artifact < W/G
 Card |
 --- |
@@ -1541,7 +1552,13 @@ Card |
 ### Creature < U/B
 Card |
 --- |
+Horror of the Dim |
+Jorubai Murk Lurker |
 Metathran Zombie |
+Returned Phalanx |
+Roofstalker Wight |
+Urborg Phantom |
+Woodlot Crawler |
 ### Enchantment Creature < U/B
 Card |
 --- |
@@ -1557,11 +1574,11 @@ Card |
 ### Sorcery < U/B
 Card |
 --- |
-
+Ribbons of Night |
 ### Instant < U/B
 Card |
 --- |
-
+Malicious Advice |
 ### Artifact < U/B
 Card |
 --- |
@@ -1574,7 +1591,10 @@ Card |
 ### Creature < U/R
 Card |
 --- |
-
+Bloodfire Mentor |
+Crackling Triton |
+Petrahydrox |
+Scaldkin |
 ### Enchantment Creature < U/R
 Card |
 --- |
@@ -1582,7 +1602,7 @@ Card |
 ### Enchantment < U/R
 Card |
 --- |
-
+Pursuit of Flight |
 ### Planeswalker < U/R
 Card |
 --- |
@@ -1594,7 +1614,10 @@ Card |
 ### Instant < U/R
 Card |
 --- |
-
+Chemister's Trick |
+Cunning Strike |
+Leap of Flame |
+Schismotivate |
 ### Artifact < U/R
 Card |
 --- |
@@ -1607,7 +1630,11 @@ Card |
 ### Creature < U/G
 Card |
 --- |
-
+Agent of Horizons |
+Beetleform Mage |
+Frilled Oculus |
+Merfolk of the Depths |
+Smoke Teller |
 ### Enchantment Creature < U/G
 Card |
 --- |
@@ -1627,7 +1654,7 @@ Card |
 ### Instant < U/G
 Card |
 --- |
-
+Hydroform |
 ### Artifact < U/G
 Card |
 --- |

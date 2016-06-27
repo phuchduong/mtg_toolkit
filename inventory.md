@@ -118,7 +118,7 @@ Decimator Web | 1
 Dreamstone Hedron | 2
 Druidic Satchel | 2
 Elixer of Immortality | 3
-Everflowing Chalice | 1
+Everflowing Chalice | 2
 Expedition Map | 2
 Font of Mythos | 2
 Gem of Becoming | 2
@@ -240,6 +240,7 @@ Specter's Shroud | 1
 Spidersilk Net | 3
 Stormrider Rig | 1
 Swiftfoot Boots | 3
+Sword of the Animist | 3
 Vanguard's Shield | 1
 Veteran's Armaments | 2
 Witches' Eye | 4
@@ -271,7 +272,7 @@ Shimmering Grotto | 2
 Sliver Hive | 1
 Tectonic Edge | 2
 Temple of the False God | 1
-Terrain Generator | 1
+Terrain Generator | 2
 Terramorphic Expense | 2
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
@@ -2004,6 +2005,7 @@ Meandering Towershell | 4
 Mistcutter Hydra | 1
 Mold Shambler | 1
 Moldgraf Scavenger | 2
+Mul Daya channelers | 1
 Mwonvuli Beast Tracker | 1
 Nantuko Tracer | 1
 Naya Soulbeast | 1
@@ -2131,6 +2133,7 @@ Assault Formation | 3
 Bow of Nylea | 1
 Bower Passage | 2
 Carapace | 1
+Carpet of Flowers | 1
 Crawling Sensation | 2
 Curse of Predation | 1
 Descendants' Path | 1
@@ -2143,7 +2146,7 @@ Exploration | 1
 Fertile Ground | 1
 Font of Fertility | 8
 Forced Adaptation | 3
-From Beyond | 1
+From Beyond | 5
 Frontier Siege | 3
 Fruit of the First Tree | 1
 Gaea's Touch | 1
@@ -2602,135 +2605,332 @@ Wind-Scarred Crag | 4
 ### Creature < W/G
 Card | Qt
 --- | ---
-
+Arashin Sovereign | 2
+Bronzebeak Moa | 3
+Centaur Healer | 3
+Chorus of the Conclave | 1
+Chronicler of Heroes | 3
+Citadel Castellan | 2
+Dragonlord Dromoka | 1
+Dromoka, the Eternal | 1
+Emmara Tandris | 1
+Enduring Scalelord | 3
+Knight of New Alara | 1
+Mycoid Shepherd | 1
+Oversoul of Dusk | 1
+Risen Sanctuary | 3
+Selvala, Explorer Returned | 1
+Selesnya Evangel | 2
+Trostani's Summoner | 5
+Veteran Warleader | 1
+Vitu-Ghazi Guildmage | 1
+Voice of Resurgence | 1
+Wayfaring Temple | 1
+Wilt-Leaf Cavaliers | 1
 ## White + Green, Selesnya
 ### Enchantment Creature < W/G
 Card | Qt
 --- | ---
-
+Karametra, God of Harvest | 1
 ### Enchantment < W/G
 Card | Qt
 --- | ---
-
+Growing Ranks | 1
+Pollenbright Wings | 2
+Unflinching Courage | 3
 ### Planeswalker < W/G
 Card | Qt
 --- | ---
-
+Ajani, Mentor of Heroes | 1
 ### Sorcery < W/G
 Card | Qt
 --- | ---
-
+Alive // Well | 3
+Call of the Conclave | 2
+Coursers' Accord | 4
+Travel Preparations | 1
 ### Instant < W/G
 Card | Qt
 --- | ---
-
+Advent of the Wurm | 1
+Common Bond | 4
+Dromoka's Command | 1
+Heroe's Reunion | 1
+Ray of Revelation | 4
+Reap What Is Sown | 3
+Seed Spark | 1
+Selesnya Charm | 3
+Sigil Blessing | 2
 ### Artifact < W/G
 Card | Qt
 --- | ---
-
+Behemoth Sledge | 1
+Dromoka Monument | 1
+Selesnya Cluestone | 5
+Selesnya Keyrune | 2
+Selesnya Signet | 2
 ### Land < W/G
 Card | Qt
 --- | ---
-
+Blossoming Sands | 1
+Canopy Vista | 1
+Gavony Township | 1
+Graypelt Refuge | 1
+Grove of the Guardian | 1
+Selesnya Guildgate | 14
+Selesnya Sanctuary | 2
+Temple Garden | 1
+Temple of Plenty | 1
+Tranquil Expense | 2
+Vitu-Ghazi, the City-Tree | 1
 ## Blue + Black, Dimir
 ### Creature < U/B
 Card | Qt
 --- | ---
-
+Bane Alley Broker | 3
+Cemetery Puca | 1
+Circu, Dimir Lobotomist | 1
+Deathcult Rogue | 4
+Dimir Guildmage | 1
+Dimir Infiltrator | 1
+Dinrova Horror | 1
+Diregraf Captain | 1
+Disciple of Deceit | 4
+Duskmantle Guildmage | 1
+Forbidden Alchemy | 1
+Glen Elendra Liege | 1
+Grimgrin, Corpse-Born | 1
+Haunter of Nightveil | 5
+Lurking Informant | 2
+Mirko Vosk, Mind Drinker | 1
+Moroii | 1
+Mortus Strider | 3
+Necromaster Dragon | 2
+Nightveil Specter | 1
+Notion Thief | 2
+Possessed Skaab | 3
+Ruthless Deathfang | 2
+Shipwreck Singer | 3
+Simlumgar, the Drifting Death | 1
+Siren of the Silent Song | 1
+Tidehollow Stix | 1
+Ulamog's Nullifier | 3
+Wrexial, the Risen Deep | 1
 ### Enchantment Creature < U/B
 Card | Qt
 --- | ---
-
+Phenix, God of Deception | 1
 ### Enchantment < U/B
 Card | Qt
 --- | ---
-
+Dire Undercurrents | 1
+Soul Ransom | 1
 ### Planeswalker < U/B
 Card | Qt
 --- | ---
-
+Ashiok, Nightmare Weaver | 1
 ### Sorcery < U/B
 Card | Qt
 --- | ---
+Call of the Nightwing | 2
+Consult the Necrosages | 2
+Mind Funeral | 1
+Mind Grind | 1
+Paranoid Delusions | 5
+Pilfered Plans | 4
 Probe | 1
+Psychic Drain | 1
+Psychic Intrusion | 1
+Reap the Seagraf | 4
+Twisted Justice | 1
 ### Instant < U/B
 Card | Qt
 --- | ---
-
+Agony Warp | 2
+Countersquall | 1
+Clutch of the Undercity | 1
+Dimir Charm | 2
+Far // Away | 3
+Induce Paranoia | 1
+Lim-Dul's Vault | 1
+Perplex | 1
+Psychic Strike | 4
+Silumgar's Command | 1
+Soul Manipulation | 1
+Warped Physique | 2
 ### Artifact < U/B
 Card | Qt
 --- | ---
-
+Dimir Cluestone | 5
+Dimir Keyrune | 2
+Dimir Signet | 2
+Silmugar Monument | 3
 ### Land < U/B
 Card | Qt
 --- | ---
-
+Dimir Aqueduct | 2
+Dimir Guildgate | 11
+Dismal Backwater | 7
+Duskmantle, House of Shadow | 4
+Jwar Isle Refuge | 1
+Nephalia Drownyard | 1
+Submerged Boneyard | 1
+Tainted Isle | 1
+Temple of Deceit | 1
 ## Blue + Red, Izzet
 ### Creature < U/R
 Card | Qt
 --- | ---
-
+Blistercoil Weird | 4
+Djinn Illuminatus | 1
+Dominus of Fealty | 1
+Fluxcharger | 4
+Goblin Electromancer | 5
+Goblin Flectomancer | 1
+Goblin Test Pilot | 2
+Herald of Kozilek | 1
+Hypersonic Dragon | 1
+Izzet Chronarch | 1
+Marchesa's Smuggler | 1
+Melek, Izzet Paragon | 1
+Mercurial Chemister | 1
+Mindwrack Liege | 1
+Niv-Mizzet, the Firemind | 1
+Nivix Cyclops | 4
+Nivix Guildmage | 3
+Nivmagus Elemental | 1
+Noggle Ransacker | 1
+Reclusive Artificer | 1
+Shrewd Hatchling | 2
+Spellbound Dragon | 1
+Spellheart Chimera | 3
+Stormcaller of Keranos | 3
+Stormchaser Chimera | 3
+Wee Dragonauts | 1
 ### Enchantment Creature < U/R
 Card | Qt
 --- | ---
-
+Keranos, God of Storms | 1
 ### Enchantment < U/R
 Card | Qt
 --- | ---
-
+Mirror Sheen | 1
 ### Planeswalker < U/R
 Card | Qt
 --- | ---
-
+Ral Zarek | 2
 ### Sorcery < U/R
 Card | Qt
 --- | ---
-
+Blast of Genius | 2
+Epic Experiment | 1
+Master the Way | 4
+Mystic Retrieval | 3
 ### Instant < U/R
 Card | Qt
 --- | ---
-
+Brutal Expulsion | 3
+Counterflux | 1
+Desperate Ravings | 2
+Dragonshift | 1
+Electrolyze | 1
+Firemind's Foresight | 1
+Izzet Charm | 3
+Steam Augury | 1
+Thoughtflare | 1
+Turn // Burn | 4
+Winterflame | 2
 ### Artifact < U/R
 Card | Qt
 --- | ---
-
+Izzet Cluestone | 3
+Izzet Keyrune | 3
+Izzet Signet | 1
 ### Land < U/R
 Card | Qt
 --- | ---
-
+Highland Lake | 2
+Izzet Boilerworks | 1
+Izzet Guildgate | 21
+Shivan Reef | 1
+Swiftwater Cliffs | 9
+Temple of Epiphany | 1
 ## Blue + Green, Simic
 ### Creature < U/G
 Card | Qt
 --- | ---
-
+Altered Ego | 1
+Bounding Krasis | 3
+Coiling Oracle | 2
+Drakewing Krasis | 4
+Elusive Krasis | 1
+Embodiment of Spring | 5
+Fleetfeather Cockatrice | 3
+Horizon Chimera | 4
+Icefeather Aven | 3
+Kiora's Follower | 3
+Lorescale Coatl | 3
+Plaxcaster Frogling | 2
+Plaxmanta | 1
+Sages of the Anima | 1
+Sagu Mauler | 2
+Shambleshark | 4
+Silkwing Scout | 1
+Simic Ragworm | 1
+Simic Sky Swalloer | 1
+Skyrider Elf | 3
+Species Gorger | 4
+Vigean Hydropon | 1
+Zameck Guildmage | 2
 ### Enchantment Creature < U/G
 Card | Qt
 --- | ---
-
+Kruphix, God of Horizons | 1
 ### Enchantment < U/G
 Card | Qt
 --- | ---
-
+Bred For the Hunt | 3
+Krasis Incubation | 3
+Leafdrake Roost | 1
+Ongoing Investigation | 2
+Secret Plans | 2
 ### Planeswalker < U/G
 Card | Qt
 --- | ---
-
+Kiora, Master of the Depths | 1
+Tracker's Instincts | 1
 ### Sorcery < U/G
 Card | Qt
 --- | ---
-
+Give // Take | 1
+Unexpected Results | 1
+Urban Evolution | 5
 ### Instant < U/G
 Card | Qt
 --- | ---
-
+Biomass Mutation | 1
+Bioshift | 4
+Ethereal Ambush | 5
+Mystic Genesis | 1
+Plasm Capture | 2
+Simic Charm | 2
 ### Artifact < U/G
 Card | Qt
 --- | ---
-
+Simic Cluestone | 4
+Simic Keyrune | 1
+Simic Signet | 1
 ### Land < U/G
 Card | Qt
 --- | ---
-
+Hinterland Harbor | 1
+Lumbering Falls | 1
+Simic Growth Chamber | 1
+Simic Guildgate | 28
+Temple of Mystery | 1
+Thornwood Falls | 10
+Yavimaya Coast | 1
+Woodland Strema | 2
 ## Black + Red, Rakdos
 ### Creature < B/R
 Card | Qt
