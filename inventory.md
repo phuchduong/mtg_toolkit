@@ -2935,15 +2935,47 @@ Woodland Strema | 2
 ### Creature < B/R
 Card | Qt
 --- | ---
-
+Ashenmoor Gouger | 2
+Ashenmoor Liege | 1
+Boltwing Marauder | 1
+Carnage Gladiator | 3
+Carnival Hellsteed | 1
+Deathbringer Thoctar | 1
+Demigod of Revenge | 1
+Dragonlord Kolaghan | 1
+Dust Stalker | 1
+Exava, Rakdos Blood Witch | 1
+Flayer Drone | 1
+Forerunner of Slaughter | 3
+Gobhobbler Rats | 1
+Hellhole Flailer | 1
+Hellhole Rats | 1
+Kolaghan, the Storm's Fury | 5
+Kragma Warcaller | 2
+Master of Cruelties | 1
+Olivia's Bloodsworn | 2
+Ragemonger | 3
+Rakdos Cackler | 2
+Rakdos Ragemutt | 2
+Rakdos Shred-Freak | 3
+Rix Maadi Guildmage | 1
+Shambling Remains | 1
+Sire of Insanity | 1
+Spawn of Rix Maadi | 3
+Spike Jester | 4
+Stromkirk Captain | 2
+Swift Warkite | 3
 ### Enchantment Creature < B/R
 Card | Qt
 --- | ---
-
+Mogis, God of Slaughter | 1
 ### Enchantment < B/R
 Card | Qt
 --- | ---
-
+Deviant Glee | 4
+Havoc Festival | 1
+Retribution of the Ancients | 1
+Spiteful Visions | 1
 ### Planeswalker < B/R
 Card | Qt
 --- | ---
@@ -2951,19 +2983,44 @@ Card | Qt
 ### Sorcery < B/R
 Card | Qt
 --- | ---
-
+Blightning | 1
+Bump In the Night | 4
+Din of the Fireherd | 1
+Dreadbore | 1
+Morgue Burst | 5
+Rakdos's Return | 1
+Skull Rend | 4
+Toil // Trouble | 4
+Torrent of Souls | 1
+Tyrannize | 1
 ### Instant < B/R
 Card | Qt
 --- | ---
-
+Auger Spree | 4
+Kolaghan's Command | 1
+Showstopper | 2
+Terminate | 1
+Wrecking Ball | 2
 ### Artifact < B/R
 Card | Qt
 --- | ---
-
+Kolaghan Monument | 1
+Rakdos Cluestone | 5
+Rakdos Keyrune | 2
+Rakdos Riteknife | 1
+Rakdos Signet | 1
 ### Land < B/R
 Card | Qt
 --- | ---
-
+Akoum Refuge | 3
+Bloodfell Caves | 6
+Bloodstained Mire | 2
+Cinder Barrens | 1
+Molten Slagheap | 1
+Rakdos Carnarium | 2
+Rakdos Guildgate | 17
+Smoldering Marsh | 1
+Stensia Bloodhall | 1
 ## Black + Green, Golgari
 ### Creature < B/G
 Card | Qt

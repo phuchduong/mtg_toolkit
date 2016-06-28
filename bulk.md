@@ -1667,7 +1667,13 @@ Card |
 ### Creature < B/R
 Card |
 --- |
-
+Blazing Hellhound |
+Deathbellow Raider |
+Kill-Suit Cultist |
+Nightfire Giant |
+Nightfire Giant |
+Pardic Collaborator |
+Undead Leotau |
 ### Enchantment Creature < B/R
 Card |
 --- |
@@ -1687,7 +1693,8 @@ Card |
 ### Instant < B/R
 Card |
 --- |
-
+Fires of Undeath |
+Strangling Soot |
 ### Artifact < B/R
 Card |
 --- |
