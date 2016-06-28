@@ -1707,7 +1707,10 @@ Card |
 ### Creature < B/G
 Card |
 --- |
-
+Golgari Longlegs |
+Loathsome Catoblepas |
+Stonefare Crocodile |
+Woodwraith Strangler |
 ### Enchantment Creature < B/G
 Card |
 --- |
@@ -1723,11 +1726,11 @@ Card |
 ### Sorcery < B/G
 Card |
 --- |
-
+Down // Dirty |
 ### Instant < B/G
 Card |
 --- |
-
+Strength of Night |
 ### Artifact < B/G
 Card |
 --- |
@@ -1740,7 +1743,22 @@ Card |
 ### Creature < R/G
 Card |
 --- |
-
+Burning-Tree Bloodscale |
+Deadshot Minotaur |
+Disciple of the Old Ways |
+Gorger Wurm |
+Gruul Guildmage |
+Kird Chieftain |
+Loamdragger Giant |
+Mudbrawler Raiders |
+Rhox Brute |
+Ruination Wurm |
+Scab-Clan Giant |
+Scuzzback Scrapper |
+Scuzzback Marauders |
+Skarrgan Skybreaker |
+Streetbreaker Wurm |
+Tattermunge Witch |
 ### Enchantment Creature < R/G
 Card |
 --- |
@@ -1748,7 +1766,7 @@ Card |
 ### Enchantment < R/G
 Card |
 --- |
-
+Primal Visitation |
 ### Planeswalker < R/G
 Card |
 --- |
@@ -1756,11 +1774,12 @@ Card |
 ### Sorcery < R/G
 Card |
 --- |
-
+Giantbaiting |
+Savage offensive |
 ### Instant < R/G
 Card |
 --- |
-
+Wild Hunger |
 ### Artifact < R/G
 Card |
 --- |

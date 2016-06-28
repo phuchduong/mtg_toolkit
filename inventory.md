@@ -3025,68 +3025,176 @@ Stensia Bloodhall | 1
 ### Creature < B/G
 Card | Qt
 --- | ---
-
+Archers' Parapet | 8
+Baloth Null | 2
+Catacomb Sifter | 2
+Corpsejack Menace | 1
+Dreg Mangler | 4
+Drooling Groodion | 3
+Elves of Deep Shadow | 1
+Gnarlroot Trapper | 4
+Golgari Guildmage | 2
+Golgari Rotwurm | 2
+Graverobber Spider | 1
+Kheru Dreadmaw | 4
+Korozda Gorgon | 3
+Korozda Guildmage | 4
+Nath of the Gilt-Leaf | 1
+Reaper of the Wilds | 1
+Rot Farm Skeleton | 5
+Shaman of the Pack | 2
+Shambling Shell | 2
+Sluiceway Scorpion | 3
+Trestle Troll | 4
+Varolz, the Scar-Striped | 1
+Wall of Mulch | 1
 ### Enchantment Creature < B/G
 Card | Qt
 --- | ---
-
+Nyx Weaver | 5
+Pharika, God of Affliction | 2
 ### Enchantment < B/G
 Card | Qt
 --- | ---
-
+Autumnal Gloom | 1
+Dark Heart of the Wood | 1
+Golgari Germination | 1
+Necrogenesis | 2
 ### Planeswalker < B/G
 Card | Qt
 --- | ---
-
+Garruk, Apex Predator | 2
+Vraska the Unseen | 1
 ### Sorcery < B/G
 Card | Qt
 --- | ---
-
+Deadly Allure | 2
+Death Frenzy | 1
+Drown In Filth | 6
+Gaze of Granite | 1
+Jarad's Orders | 3
+Kin-Tree Invocation | 2
+Rolling Spoil | 1
+Treasure Find | 1
 ### Instant < B/G
 Card | Qt
 --- | ---
-
+Gaze of the Gorgon | 2
+Grim Contest | 6
+Putrefy | 2
 ### Artifact < B/G
 Card | Qt
 --- | ---
-
+Golgari Cluestone | 5
+Golgari Keyrune | 3
+Golgari Signet | 1
 ### Land < B/G
 Card | Qt
 --- | ---
-
+Golgari Guildgate | 16
+Golgari Rot Farm | 2
+Grim Backwoods | 1
+Jungle Hollow | 2
+Hissing Quagmire | 1
+Llanowar Wastes | 1
+Tainted Wood | 1
+Temple of Malady | 3
 ## Red + Green, Gruul
 ### Creature < R/G
 Card | Qt
 --- | ---
-
+Apocalypse Hydra | 1
+Atarka, World Render | 1
+Blitz Hellion | 1
+Boggart Ram-Gang | 1
+Borborygmos Enraged | 1
+Burning-Tree Emissary | 3
+Deus of Calamity | 1
+Dragonlord Atarka | 1
+Fanatic of Xenagos | 2
+Feral Animist | 3
+Ghor-Clan Rampager | 2
+Grove Rumbler | 1
+Gruul Ragebeast | 1
+Harbinger of the Hunt | 1
+Immerwolf | 1
+Omnath, Locus of Rage | 1
+Polis Crusher | 1
+Radha, Heir to Keid | 1
+Rubblehulk | 1
+Ruric Thar, the Unbowed | 1
+Rubblebelt Raiders | 1
+Satyr Hedonist | 5
+Savage Ventmaw | 3
+Skarrg Guildmage | 1
+Spellbreaker Behemoth | 1
+Valley Rannet | 2
+Zendikar Incarnate | 2
+Zhur-Taa Ancient | 2
+Zhur-Taa Druid | 5
+Zhur-Taa Swine | 2
 ### Enchantment Creature < R/G
 Card | Qt
 --- | ---
-
+Xenagos, God of Revels | 1
 ### Enchantment < R/G
 Card | Qt
 --- | ---
-
+Fires of Yavimaya | 2
+Impromptu Raid | 1
+Killer Instinct | 1
+Predatory Advantage | 1
+Runes of the Deus | 1
 ### Planeswalker < R/G
 Card | Qt
 --- | ---
-
+Arlinn Kord | 1
+Xenagos, the Reveler | 1
 ### Sorcery < R/G
 Card | Qt
 --- | ---
-
+Clan Defiance | 1
+Decimate | 2
+Firespout | 1
+Frenzied Tilling | 5
+Ground Assault | 2
+Hull Breach | 2
+Revel of the Fallen God | 2
+Savage Twister | 2
+Vengeful Rebirth | 2
+Wreak Havoc | 2
 ### Instant < R/G
 Card | Qt
 --- | ---
-
+Atarka's Command | 1
+Destructive Revelry | 2
+Gruul Charm | 2
+Manamorphose | 1
+Pit Fight | 5
+Signal the Clans | 1
 ### Artifact < R/G
 Card | Qt
 --- | ---
-
+Atarka Monument | 2
+Gruul Cluestone | 5
+Gruul Keyrune | 3
+Gruul Signet | 2
+Mossfire Egg | 1
 ### Land < R/G
 Card | Qt
 --- | ---
-
+Cinder Glade | 2
+Contested Cliffs | 1
+Gruul Guildgate | 22
+Gruul Turf | 3
+Kazandu Refuge | 1
+Kessig Wolf Run | 1
+Mossfire Valley | 1
+Rootbound Crag | 1
+Rugged Highlands | 6
+Skarrg, the Rage Pits | 1
+Temple of Abandon | 1
+Wooded Foothills | 1
 ## White + Blue + Green, Bant
 ### Creature < BANT
 Card | Qt
