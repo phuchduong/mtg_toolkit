@@ -453,6 +453,7 @@ War Priest of Thune | 1
 Wall of Essence | 2
 Whipcorder | 2
 White Knight | 1
+Windborn Muse | 1
 ### Enchantment Creature < W
 Card | Qt
 --- | ---
@@ -2152,6 +2153,7 @@ Fruit of the First Tree | 1
 Gaea's Touch | 1
 Ground Seal | 1
 Karametra's Favor | 4
+Hall of Gemstone | 1
 Instill Energy | 1
 Into the Wilds | 1
 Lifeforce | 1
@@ -2175,6 +2177,7 @@ Temur Runemark | 4
 Trail of Mystery | 1
 Trollhide | 3
 Ulvenwald Mysteries | 1
+Utopia Sprawl | 1
 Urban Burgeoning | 4
 Verdant Haven | 5
 Vernal Bloom | 1
