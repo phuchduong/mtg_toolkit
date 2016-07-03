@@ -49,6 +49,7 @@ Worldspine Wurm | $6
 Godshire | $6
 Nylea, God of the Hunt | $6
 Akroma, Angel of Wrath | $6
+Nythos, Shrine to Nyx | $5.52
 Primeval Bounty | $5
 Mayael's Aria | $5
 Gisela, Blade of Goldnight | $5
@@ -77,4 +78,3 @@ Stasis Snare | $0.79
 Celestial Ancient | $0.59
 Sacred Ground | $0.47
 Terra Eternal | $0.43
-Nythos, Shrine to Nyx |
