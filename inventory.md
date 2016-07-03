@@ -27,7 +27,7 @@ W/U Azorius | W/B Orzhov | W/R Boros | W/G Selesnya | U/B Dimir
 [Enchantment Creature](#enchantment creature--w/u) | [Enchantment Creature](#enchantment creature--w/b) | [Enchantment Creature](#enchantment creature--w/r) | [Enchantment Creature](#enchantment creature--w/g) | [Enchantment Creature](#enchantment creature--u/b) | 
 [Enchantment](#enchantment--w/u) | [Enchantment](#enchantment--w/b) | [Enchantment](#enchantment--w/r) | [Enchantment](#enchantment--w/g) | [Enchantment](#enchantment--u/b) | 
 [Planeswalker](#planeswalker--w/u)
-[Sorcery](#sorcery--w/u) | [Sorcery](#sorcery--w/b) | [Sorcery](#sorcery--w/r) | [Sorcery](#sorcery--w/g) | [Sorcery](#sorcery--u/b) | 
+[Planeswalker](#planeswalker--w/u) | [Planeswalker](#planeswalker--w/b) | [Planeswalker](#planeswalker--w/r) | [Planeswalker](#planeswalker--w/g) | [Planeswalker](#planeswalker--u/b) | 
 [Instant](#instant--w/u) | [Instant](#instant--w/b) | [Instant](#instant--w/r) | [Instant](#instant--w/g) | [Instant](#instant--u/b) | 
 [Artifact](#artifact--w/u) | [Artifact](#artifact--w/b) | [Artifact](#artifact--w/r) | [Artifact](#artifact--w/g) | [Artifact](#artifact--u/b) | 
 [Land](#land--w/u) | [Land](#land--w/b) | [Land](#land--w/r) | [Land](#land--w/g) | [Land](#land--u/b) |
@@ -53,7 +53,7 @@ Bant W/U/G | Esper W/U/B | Grixis U/B/R | Jund B/R/G | Naya W/R/G |
 [Artifact](#artifact--bant) | [Artifact](#artifact--esper) | [Artifact](#artifact--grixis) | [Artifact](#artifact--jund) | [Artifact](#artifact--naya) | 
 [Land](#land--bant) | [Land](#land--esper) | [Land](#land--grixis) | [Land](#land--jund) | [Land](#land--naya) | 
 
-Abzan W/U/G | Jeskai W/U/B | Sultai U/B/R | Mardu B/R/G | Temur W/R/G |
+Abzan W/U/G | Jeskai W/U/B | Sultai U/B/R | Mardu B/R/G | Temur U/R/G |
 ---         | ---          | ---          | ---         | ---         |
 [Creature](#creature--abzan) | [Creature](#creature--jeskai) | [Creature](#creature--sultai) | [Creature](#creature--mardu) | [Creature](#creature--temur) | 
 [Enchantment](#enchantment--abzan) | [Enchantment](#enchantment--jeskai) | [Enchantment](#enchantment--sultai) | [Enchantment](#enchantment--mardu) | [Enchantment](#enchantment--temur) | 
@@ -614,7 +614,6 @@ Defiant Strike | 4
 Demystify | 1
 Devouring Light | 3
 Disenchant | 2
-Dismantling Blow | 1
 Divine Verdict | 4
 Encircling Fissure | 1
 Ephemeral Shields | 5
@@ -2421,6 +2420,7 @@ Search Warrant | 4
 Card | Qt
 --- | ---
 Aethermage's Touch | 1
+Dismantling Blow | 1
 Dramatic Rescue | 3
 Ojutai's Command | 1
 Overrule | 1
