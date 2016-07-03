@@ -42,12 +42,13 @@ Angel's Tomb |
 Ashnod's Transmogrant |
 Barbed Sextant | 
 Briber's Purse |
+Explosive Apparatus |
 Flowstone Armor | 
 Goblin Boom Keg | 
 Gremlin Mine | 
 Iron Lance |
 Ivory Cup |
-Panacea | 
+Panacea |
 Rod of Ruin |
 Scroll of Griselbrand | 
 Vial of Poison | 
@@ -94,13 +95,14 @@ Card |
 Blazing Torch | 
 Gate Smasher | 
 Heart-Piercer Bow | 
-Heavy Mattock | 
-Hedron Blade | 
-Hot Soup | 
-Leonin Bola | 
-Riot Gear | 
-Shard of Broken Glass | 
-Siren Song Lyre | 
+Heavy Mattock |
+Hedron Blade |
+Hot Soup |
+Leonin Bola |
+Murderer's Axe |
+Riot Gear |
+Shard of Broken Glass |
+Siren Song Lyre |
 Throwing Knife | 
 Tormentor's Trident | 
 True-Faith Censer | 
@@ -164,7 +166,8 @@ Diving Griffin |
 Dragonstalker |
 Cleric of the Forward Order | 
 Concordia Pegasus | 
-Courier Griffin | 
+Courier Griffin |
+Dauntless Cathar |
 Dawnstrike Paladin | 
 Dazzling Ramparts | 
 Decorated Griffin | 
@@ -633,9 +636,12 @@ Card |
 Brilliant Spectrum |
 Exert Influence |
 Eye Spy |
+Gone Missing |
 Quiet Speculation |
 Manipulate Fate |
 Mystic Meditation |
+Nagging Thoughts |
+Press For Answers |
 Roiling Waters |
 Taigam's Strike |
 Tidal Surge |
@@ -660,6 +666,7 @@ Hindering Touch |
 Hydrosurge |
 Hysterical Blindness |
 Jace's Scrutiny |
+Just the Wind |
 Lost in a Labryinth |
 Prohibit |
 Psychic Puppetry |
@@ -721,6 +728,7 @@ Erg Raiders |
 Eyeblight Assassin |
 Falkenrath Torturer |
 Farbog Boneflinger |
+Farbog Revenant |
 Fallen Cleric |
 Farbog Revenant |
 Felhide Brawler |
@@ -963,7 +971,7 @@ Card |
 Nim Replica |
 Throne of Bone |
 ## Red
-### Creature < WR
+### Creature < R
 Card |
 --- |
 Acolyte of the Inferno |
@@ -1005,6 +1013,7 @@ Dwarven Warriors |
 Earth Elemental |
 Eldrazi Aggressor |
 Ember Beast |
+Ember-Eye Wolf |
 Fire Elemental |
 Firefiend Elemental |
 Flame Spirit |

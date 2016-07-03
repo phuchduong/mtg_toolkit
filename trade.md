@@ -1,3 +1,4 @@
 # Trade
-Card | Qt
---- | ---
+Card |
+--- |
+The Gitrog Monster |

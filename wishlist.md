@@ -49,6 +49,7 @@ Worldspine Wurm | $6
 Godshire | $6
 Nylea, God of the Hunt | $6
 Akroma, Angel of Wrath | $6
+Beast Within | $5.69
 Nythos, Shrine to Nyx | $5.52
 Primeval Bounty | $5
 Mayael's Aria | $5
@@ -76,5 +77,6 @@ White Medallion | $1.25
 Quarantine Field | $0.99
 Stasis Snare | $0.79
 Celestial Ancient | $0.59
+Serra's Blessing | $0.58
 Sacred Ground | $0.47
 Terra Eternal | $0.43

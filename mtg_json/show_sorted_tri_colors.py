@@ -54,19 +54,35 @@ def bucket_by_tricolor(card_db):
         card_db=mtg_db,
         num_of_colors=3
     )
-    distinct_colors = []
+    tri_color_dict = {}
 
     for card_name in tri_color:
         color_identidy_list = mtg_db[card_name]['colorIdentity']
-        # sort by wubrg color order
+        # sort color string by wubrg color order
         color_identidy_list.sort(key=lambda val: wubrg_order[val[0]])
-        color_type_str = "".join(color_identidy_list)
-        if(color_type_str not in distinct_colors):
-            distinct_colors.append(color_type_str)
+        color_type_key = "".join(color_identidy_list)
 
-    for color in distinct_colors:
-        print(color)
+        # Creates a color grouping if there is not
+        if color_type_key not in tri_color_dict:
+            tri_color_dict[color_type_key] = {}
 
+        # Adds a dictionary key
+        if "Creature" in mtg_db[card_name]["types"]:
+            # Creature superceeds all other typings
+            super_type = "Creature"
+        else:
+            super_type = mtg_db[card_name]["types"][0]
+
+        # Adds key to the color group
+        if super_type not in tri_color_dict[color_type_key]:
+            tri_color_dict[color_type_key][super_type] = []
+        tri_color_dict[color_type_key][super_type].append(card_name)
+
+    for shard in tri_color_dict:
+        print("***** " + shard + "*****")
+        for super_type in tri_color_dict[shard]:
+            print(shard + " < " + super_type)
+            print(", ".join(tri_color_dict[shard][super_type]).encode('utf8'))
 
 bucket_by_tricolor(card_db=mtg_db)
 

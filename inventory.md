@@ -158,6 +158,7 @@ Sun Droplet | 1
 Surveyor's Scope | 2
 Tablet of the Guilds | 2
 Tapestry of the Ages | 2
+Tamiyo's  Journal | 1
 Teferi's Puzzle Box | 1
 Temple Bell | 1
 Thought Vessel | 2
@@ -317,7 +318,7 @@ Blessed Spirits | 2
 Bonescythe Sliver | 1
 Boonweaver Giant | 1
 Captain of the Watch | 1
-Cathar's Companion | 2
+Cathar's Companion | 3
 Cavalry Pegasus | 4
 Cenn's Tactician | 3
 Champion of the Parish | 1
@@ -391,6 +392,7 @@ Mikaeus, the Lunarch | 1
 Militant Inquisitor | 1
 Monk Idealist | 1
 Nearheath Pilgrim | 2
+Odric, Lunarch Marshal
 Ordric, Master Tactician | 1
 Paragon of New Dawns | 1
 Patron of the Valiant | 2
@@ -700,6 +702,7 @@ Consecrate Sphinx | 1
 Crookclaw Elder | 1
 Dakra Mystic | 2
 Daring Apprentice | 1
+Daring Sleuth | 1
 Daring Thief | 1
 Deadeye Navigator | 1
 Deep-Sea Kraken | 2
@@ -916,7 +919,6 @@ Memory Erosion | 1
 Military Intelligence | 1
 Mind Control | 1
 Monastery Siege | 1
-Nagging Thoughts | 1
 Oath of Jace | 1
 Omniscience | 1
 Ordeal of Thassa | 2
@@ -937,7 +939,7 @@ Telepathy | 1
 Thassa's Ire | 2
 Thopter Spy Network | 1
 Thought Reflection | 1
-Trail of Evidence | 2
+Trail of Evidence | 3
 Tricks of the Trade | 2
 Well of Ideas | 1
 Words of Wind | 1
@@ -972,7 +974,6 @@ Fabricate | 1
 Fascination | 3
 Flux | 2
 Glimpse the Future | 2
-Gone Missing | 3
 Hands of Binding | 3
 Hidden Strings | 4
 Inaction Injunction | 4
@@ -987,7 +988,6 @@ Nagging Thoughts | 1
 Ojutai's Summons | 4
 Order of Succession | 1
 Pieces of the Puzzle | 1
-Press for Answers | 2
 Prosperity | 2
 Pore Over the Pages | 1
 Pull from the Deep | 2
@@ -1098,7 +1098,6 @@ Intellectual Offering | 3
 Into the Roil | 2
 Ixidor's Will | 1
 Jace's Ingenuity | 3
-Just the Wind | 3
 Keep Watch | 2
 Kiora's Dismissal | 1
 Learn from the Past | 2
@@ -1245,6 +1244,7 @@ Grim Roustabout | 4
 Gurmag Angler | 1
 Gurmag Swiftwing | 2
 Hand of Silumgar | 4
+Indulgent Aristocrat | 1
 Kalastria Healer | 4
 Kheru Bloodsucker | 2
 Korlash, Heir To Blackblade | 1
@@ -1470,7 +1470,7 @@ Grim Return | 1
 Grisly Spectacle | 1
 Howl From Beyond | 1
 Human Frailty | 1
-Merciless Resolve | 2
+Merciless Resolve | 3
 Murder | 1
 Murderous Cut | 4
 Necrobite | 2
@@ -1539,7 +1539,6 @@ Dragon Egg | 2
 Dragon Hatchling | 4
 Dragonlord's Servant | 3
 Ember Swallower | 1
-Ember-Eye Wolf | 2
 Enthralling Victor | 2
 Erdwal Ripper | 4
 Falkenrath Exterminator | 1
@@ -1574,8 +1573,9 @@ Hound of Griselbrand | 1
 Humble Defector | 1
 Hunting Sliver | 1
 Incandescent Soulstoke | 1
-Insolent Neonate | 2
+Insolent Neonate | 3
 Jeering Instigator | 1
+Kessig Forgemaster | 1
 Kessig Malcontents | 1
 Kolaghan Forerunners | 1
 Kragma Butcher | 5
@@ -1829,7 +1829,7 @@ Incite War | 1
 Increasing Vengeance | 1
 Inferno | 1
 Kindled Fury | 4
-Lightning Axe | 1
+Lightning Axe | 2
 Lightning Strike | 4
 Lightning Volley | 3
 Magma Jet | 3
@@ -1844,7 +1844,7 @@ Reverberate | 1
 Riddle of Lightning | 2
 Rise of the Challenge | 1
 Rouse the Mob | 2
-Rush of Adrenaline | 1
+Rush of Adrenaline | 2
 Rush of Blood | 1
 Sarkhan's Triumph | 2
 Searing Blood | 2
@@ -2281,7 +2281,7 @@ Wave of Vitriol | 1
 ## Instant < G
 Card | Qt
 --- | ---
-Aim High | 2
+Aim High | 3
 Artisan's Sorrow | 4
 Aspect of Hydra | 4
 Back to Nature | 1
@@ -2518,6 +2518,7 @@ Ozhov Signet | 1
 ### Land < W/B
 Card | Qt
 --- | ---
+forsaken Sanctuary | 2
 Orzhov Basilica | 3
 Orzhov Guildgate | 18
 Scoured Barrens | 4
@@ -2894,7 +2895,7 @@ Card | Qt
 Bred For the Hunt | 3
 Krasis Incubation | 3
 Leafdrake Roost | 1
-Ongoing Investigation | 2
+Ongoing Investigation | 3
 Secret Plans | 2
 ### Planeswalker < U/G
 Card | Qt
@@ -3058,7 +3059,7 @@ Pharika, God of Affliction | 2
 ### Enchantment < B/G
 Card | Qt
 --- | ---
-Autumnal Gloom | 1
+Autumnal Gloom | 2
 Dark Heart of the Wood | 1
 Golgari Germination | 1
 Necrogenesis | 2
