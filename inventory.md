@@ -26,7 +26,6 @@ W/U Azorius | W/B Orzhov | W/R Boros | W/G Selesnya | U/B Dimir
 [Creature](#creature--w/u) | [Creature](#creature--w/b) | [Creature](#creature--w/r) | [Creature](#creature--w/g) | [Creature](#creature--u/b) | 
 [Enchantment Creature](#enchantment creature--w/u) | [Enchantment Creature](#enchantment creature--w/b) | [Enchantment Creature](#enchantment creature--w/r) | [Enchantment Creature](#enchantment creature--w/g) | [Enchantment Creature](#enchantment creature--u/b) | 
 [Enchantment](#enchantment--w/u) | [Enchantment](#enchantment--w/b) | [Enchantment](#enchantment--w/r) | [Enchantment](#enchantment--w/g) | [Enchantment](#enchantment--u/b) | 
-[Planeswalker](#planeswalker--w/u)
 [Planeswalker](#planeswalker--w/u) | [Planeswalker](#planeswalker--w/b) | [Planeswalker](#planeswalker--w/r) | [Planeswalker](#planeswalker--w/g) | [Planeswalker](#planeswalker--u/b) | 
 [Instant](#instant--w/u) | [Instant](#instant--w/b) | [Instant](#instant--w/r) | [Instant](#instant--w/g) | [Instant](#instant--u/b) | 
 [Artifact](#artifact--w/u) | [Artifact](#artifact--w/b) | [Artifact](#artifact--w/r) | [Artifact](#artifact--w/g) | [Artifact](#artifact--u/b) | 
