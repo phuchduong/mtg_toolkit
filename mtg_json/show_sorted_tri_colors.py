@@ -4,26 +4,29 @@ file_name = "mtg_card_db.json"
 
 mtg_db = json.loads(open(file_name).read())
 
+# sorts by the color wheel
 wubrg_order = {
-    "W": 0,
-    "U": 1,
-    "B": 2,
-    "R": 3,
-    "G": 4
+    "W": 0,  # white
+    "U": 1,  # blue
+    "B": 2,  # black
+    "R": 3,  # red
+    "G": 4   # green
 }
 
+# sort by alara shards, then tarkir guilds.
 tri_color_order = {
-    "WUG": 0,
-    "WUB": 1,
-    "UBR": 2,
-    "BRG": 3,
-    "WRG": 4,
-    "WUG": 5,
-    "WUB": 6,
-    "UBR": 7,
-    "BRG": 8,
-    "WRG": 9
+    "WUG": 0,   # Bant
+    "WUB": 1,   # Esper
+    "UBR": 2,   # Grixis
+    "BRG": 3,   # Jund
+    "WRG": 4,   # Naya
+    "WUG": 5,   # Abzan
+    "WUB": 6,   # Jeskai
+    "UBR": 7,   # Sultai
+    "BRG": 8,   # Mardu
+    "URG": 9    # Temur
 }
+
 
 def query_by_number_of_colors(card_db, num_of_colors):
     # returns a list of card names that have the desired
@@ -55,6 +58,7 @@ def bucket_by_tricolor(card_db):
 
     for card_name in tri_color:
         color_identidy_list = mtg_db[card_name]['colorIdentity']
+        # sort by wubrg color order
         color_identidy_list.sort(key=lambda val: wubrg_order[val[0]])
         color_type_str = "".join(color_identidy_list)
         if(color_type_str not in distinct_colors):
