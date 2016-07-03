@@ -1,4 +1,5 @@
 import json
+import datetime
 
 file_name = "mtg_card_db.json"
 
@@ -14,18 +15,39 @@ wubrg_order = {
 }
 
 # sort by alara shards, then tarkir guilds.
-tri_color_order = {
-    "WUG": 0,   # Bant
-    "WUB": 1,   # Esper
-    "UBR": 2,   # Grixis
-    "BRG": 3,   # Jund
-    "WRG": 4,   # Naya
-    "WUG": 5,   # Abzan
-    "WUB": 6,   # Jeskai
-    "UBR": 7,   # Sultai
-    "BRG": 8,   # Mardu
-    "URG": 9    # Temur
+tri_color_order = [
+    "WUG",
+    "WUB",
+    "UBR",
+    "BRG",
+    "WRG",
+    "WBG",
+    "WUR",
+    "WBR",
+    "UBG",
+    "URG"
+]
+tri_color_title = {
+    "WUG": "Bant",
+    "WUB": "Esper",
+    "UBR": "Grixis",
+    "BRG": "Jund",
+    "WRG": "Naya",
+    "WBG": "Abzan",
+    "WUR": "Jeskai",
+    "WBR": "Mardu",
+    "UBG": "Sultai",
+    "URG": "Temur"
 }
+super_type_ordering = [
+    'Creature',
+    'Enchantment',
+    'Planeswalker',
+    'Sorcery',
+    'Instant',
+    'Artifact',
+    'Land'
+]
 
 
 def query_by_number_of_colors(card_db, num_of_colors):
@@ -77,14 +99,59 @@ def bucket_by_tricolor(card_db):
         if super_type not in tri_color_dict[color_type_key]:
             tri_color_dict[color_type_key][super_type] = []
         tri_color_dict[color_type_key][super_type].append(card_name)
-
+    # Sort cards alphabetically within supertype.
     for shard in tri_color_dict:
-        print("***** " + shard + "*****")
-        for super_type in tri_color_dict[shard]:
-            print(shard + " < " + super_type)
-            print(", ".join(tri_color_dict[shard][super_type]).encode('utf8'))
+        for supertype in tri_color_dict[shard]:
+            tri_color_dict[shard][supertype].sort()
+    return tri_color_dict
 
-bucket_by_tricolor(card_db=mtg_db)
+
+def print_markdown(sorted_card_dict):
+    guid = datetime_guid()
+    filename = "tricolor" + guid + ".md"
+    with open(filename, 'wt') as f:
+        # f.write(sorted_card_dict.keys())
+        # prints what's inside.
+        for shard in tri_color_order:
+            title = tri_color_title[shard]
+            color_title = color_combination_string(shard)
+            f.write("## " + color_title + ", " + title + "\n")
+            for super_type in super_type_ordering:
+                if super_type in card_dict[shard]:
+                    f.write("### " + super_type + " < " + title + "\n")
+                    f.write("Card | Qt" + "\n")
+                    f.write("--- | ---" + "\n")
+                    cards = card_dict[shard][super_type]
+                    for card in cards:
+                        f.write(str(card) + " | " + "\n")
+
+
+# Returns a string guid of the current time.
+# July 3rd 2016, 3:28:46 am -> 160703032846
+def datetime_guid():
+    i = datetime.datetime.now()
+    return i.strftime('%y%m%d%H%M%S')
+
+
+# Translates color keys letters to strings
+def color_combination_string(color_key):
+    color_dict = {
+        "C": "Colorless",
+        "W": "White",
+        "U": "Blue",
+        "B": "Black",
+        "R": "Red",
+        "G": "Green"
+    }
+    color_list = []
+    for color in color_key:
+        color_list.append(color_dict[color])
+    color_string = " + ".join(color_list)
+    return color_string
+
+
+card_dict = bucket_by_tricolor(card_db=mtg_db)
+print_markdown(card_dict)
 
 # print(",".join(print_output).encode('utf-8'))
 input("Press Enter to close...")

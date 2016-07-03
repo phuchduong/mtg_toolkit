@@ -3492,11 +3492,12 @@ Card | Qt
 ### Creature < WUBRG
 Card | Qt
 --- | ---
-
+Horde of Notions | 2
+Sliver Hivelord | 1
 ### Enchantment Creature < WUBRG
 Card | Qt
 --- | ---
-
+Chromanticore | 1
 ### Enchantment < WUBRG
 Card | Qt
 --- | ---
@@ -3513,10 +3514,10 @@ Card | Qt
 Card | Qt
 --- | ---
 
-### Instant < WUBRG
+### Artifact < WUBRG
 Card | Qt
 --- | ---
-
+Door to Nothingness | 2
 ### Land < WUBRG
 Card | Qt
 --- | ---

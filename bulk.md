@@ -1888,7 +1888,7 @@ Card |
 ### Creature < JUND
 Card |
 --- |
-
+Thunderscape Apprentice |
 ### Enchantment < JUND
 Card |
 --- |
@@ -1917,7 +1917,7 @@ Card |
 ### Creature < NAYA
 Card |
 --- |
-
+Stone Kavu | 
 ### Enchantment < NAYA
 Card |
 --- |
@@ -1946,7 +1946,8 @@ Card |
 ### Creature < ABZAN
 Card |
 --- |
-
+Abzan Guide | 
+Necra Disciple | 
 ### Enchantment < ABZAN
 Card |
 --- |
@@ -1975,7 +1976,7 @@ Card |
 ### Creature < JESKAI
 Card |
 --- |
-
+Efreet Weaponmaster | 
 ### Enchantment < JESKAI
 Card |
 --- |
@@ -2004,7 +2005,7 @@ Card |
 ### Creature < SULTAI
 Card |
 --- |
-
+Abomination of Gudul |
 ### Enchantment < SULTAI
 Card |
 --- |
@@ -2033,7 +2034,7 @@ Card |
 ### Creature < MARDU
 Card |
 --- |
-
+Mardu Warshrieker |
 ### Enchantment < MARDU
 Card |
 --- |
@@ -2062,7 +2063,7 @@ Card |
 ### Creature < TEMUR
 Card |
 --- |
-
+Snowhorn Rider |
 ### Enchantment < TEMUR
 Card |
 --- |
