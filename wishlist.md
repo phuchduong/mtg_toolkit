@@ -35,7 +35,7 @@ Genesis Wave | Enchantress | $8
 Garruk Wildspeaker | | $8
 Privileged Position | | $8
 Garruk, Caller of Beasts | Naya | 7
-Nykthos, Shrine to Nyx | Enchantress | $7
+Nykthos, Shrine to Nyx | Enchantress, Yisan, Gitrog, Sigarda  | $7
 Wheel of Sun and Moon | Enchantress | $7
 Elvish Piper | Naya | $7
 Mana Matrix | Enchantress | $7
@@ -74,7 +74,7 @@ Boundless Realms | Naya, Yisan | $3
 Cast Through Time | Talrand | $2.50
 Cryptolith Rite | Enchantress | $2.39
 Sun Titan | Enchantress | $2.30
-Terrain Generator | Naya, Sigarda, Yisan | $2.36
+Terrain Generator | Gitrog, Naya, Sigarda, Yisan | $2.36
 Stone Calendar | Muzio | $2.09
 Skullclamp | Trostani | $2
 Primal Surge | Enchantress, Naya, Yisan | $1.60
