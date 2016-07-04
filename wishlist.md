@@ -15,17 +15,17 @@ Rings of Brighthearth | Naya | $19
 Time Warp | Talrand | $15.93
 Sigarda, Host of Herons | Sigarda | $14
 Life from the Loam | Gitrog | $13
-Exploration | | $12
-Quicksilver Amulet | | $12
-Replenish | | $11
-Monastery Mentor | | $11
-Deserted Temple | | $11
+Exploration | Gitrog, Naya, Sigarda | $12
+Quicksilver Amulet | Naya, Yisan | $12
+Replenish | Enchantress | $11
+Monastery Mentor | Enchantress | $11
+Deserted Temple | Enchantress | $11
 Defense of the Heart | Naya | $11
-Domri Rade | | $10
+Domri Rade | Naya | $10
 Ghostly Prison | Enchantress | $10
-Omniscience | | $10
 Baneslayer Angel | Naya | $10
-Enlightened Tutor | | $9.26
+Garruk Wildspeaker | Enchantress | $9.65
+Enlightened Tutor | Enchantress | $9.26
 Stomping Ground | Naya | $9
 Land Tax | Enchantress | $9
 Worship | | $9
@@ -34,7 +34,7 @@ Chromatic Lantern | | $9
 Genesis Wave | Enchantress | $8
 Garruk Wildspeaker | | $8
 Privileged Position | | $8
-Garruk, Caller of Beasts | | 7
+Garruk, Caller of Beasts | Naya | 7
 Nykthos, Shrine to Nyx | Enchantress | $7
 Wheel of Sun and Moon | Enchantress | $7
 Elvish Piper | Naya | $7
@@ -46,22 +46,22 @@ Argothian Enchantress | Enchantress | $6
 Martyr's Bond | Enchantress | $6
 Mirari's Wake | Enchantress | $6
 Sterling Grove | Enchantress | $6
-Kor Haven | | $6
+Kor Haven | Enchantress | $6
 Worldspine Wurm | Naya | $6
 Godshire | Naya | $6
-Nylea, God of the Hunt | | $6
-Akroma, Angel of Wrath | | $6
-Beast Within | | $5.69
-Primeval Bounty | | $5
-Mayael's Aria | | $5
-Gisela, Blade of Goldnight | | $5
-Razorverge Thicket | | $5
-Awakening Zone | | $5
-Thousand-Year Elixir | | $5
+Nylea, God of the Hunt | Naya | $6
+Akroma, Angel of Wrath | Naya | $6
+Beast Within | Zegana | $5.69
+Primeval Bounty | Enchantress, Naya, Sigarda | $5
+Mayael's Aria | Naya | $5
+Gisela, Blade of Goldnight | Naya | $5
+Razorverge Thicket | Enchantress, Sigarda | $5
+Awakening Zone | Enchantress | $5
+Thousand-Year Elixir | Naya, Yisan | $5
 Archangel of Tithes | Naya | $4.95
 Concordant Crossroads | Enchantress | $4.59
-Solemn Simulacrum | | $4
-Darksteel Plate | | $4
+Solemn Simulacrum | Enchantress, Naya, Sigarda, Yisan | $4
+Darksteel Plate | Naya, Yisan | $4
 Heliod, God of the Sun | Enchantress | $4
 Luminarch Ascension | Enchantress | $4
 Caged Sun | | $4
@@ -70,11 +70,11 @@ Enduring Ideal | Enchantress | $4
 Mana Web | Muzio | $3.38
 Trostani, Selesnya's Voice | Trostani | $3
 Propaganda | Zedru | $3
-Beast Within | Zegana | $3
 Boundless Realms | Naya, Yisan | $3
 Cast Through Time | Talrand | $2.50
 Cryptolith Rite | Enchantress | $2.39
 Sun Titan | Enchantress | $2.30
+Terrain Generator | Naya, Sigarda, Yisan | $2.36
 Stone Calendar | Muzio | $2.09
 Skullclamp | Trostani | $2
 Primal Surge | Enchantress, Naya, Yisan | $1.60
