@@ -139,12 +139,12 @@ Meteorite | 5
 Millstone | 2
 Mindstone | 2
 Mirari | 1
-Mirrorworks | 1
+Mirrorworks | 0
 Predator, Flagship | 1
 Otherworld Atlas | 1
 Profane Memento | 2
 Prophetic Prism | 4
-Prototype Portal | 1
+Prototype Portal | 0
 Pyxis of Pandemonium | 1
 Relic of Progenitus | 2
 Scroll of Avacyn | 2
@@ -272,7 +272,7 @@ Shimmering Grotto | 2
 Sliver Hive | 1
 Tectonic Edge | 2
 Temple of the False God | 1
-Terrain Generator | 2
+Terrain Generator | 1
 Terramorphic Expense | 2
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
@@ -3048,6 +3048,7 @@ Rot Farm Skeleton | 5
 Shaman of the Pack | 2
 Shambling Shell | 2
 Sluiceway Scorpion | 3
+the Gitrog Monster
 Trestle Troll | 4
 Varolz, the Scar-Striped | 1
 Wall of Mulch | 1

@@ -56,6 +56,7 @@ Razorverge Thicket | | $5
 Awakening Zone | | $5
 Thousand-Year Elixir | | $5
 Archangel of Tithes | Naya | $4.95
+Solemn Simulacrum | | $4
 Darksteel Plate | | $4
 Heliod, God of the Sun | | $4
 Luminarch Ascension | | $4
