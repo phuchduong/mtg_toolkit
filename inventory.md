@@ -100,7 +100,7 @@ Altar of the Brood | 2
 Altar of the Lost | 4
 Amulet of Vigor | 1
 Ark of Blight | 1
-Ashnod's Altar | 1
+Ashnod's Altar | 2
 Belbe's Armor | 1
 Bubbling Cauldron | 3
 Cellar Door | 2
@@ -128,6 +128,7 @@ Grindclock | 2
 Hall of Triumph | 2
 Helvault | 1
 Howling Mine | 2
+Isochron Scepter | 1
 Ivory Tower | 1
 Jayemdae Tome | 2
 Knowledge Pool | 2
@@ -176,6 +177,7 @@ Vial of Dragonfire | 4
 Wanderer's Twig | 1
 Wayfarer's Bauble | 3
 Whetstone | 1
+Worn Powerstone | 1
 ### Artifact Creature < C
 Card | Qt
 --- | ---
@@ -320,6 +322,7 @@ Blessed Orator | 1
 Blessed Spirits | 2
 Bonescythe Sliver | 1
 Boonweaver Giant | 1
+Bygone Bishop | 4
 Captain of the Watch | 1
 Cathar's Companion | 3
 Cavalry Pegasus | 4
@@ -338,6 +341,7 @@ Doomed Traveler | 4
 Dragon Bell Monk | 5
 Dragon Hunter | 1
 Dragonscale General | 1
+Drogskol Cavalry | 1
 Dromoka Captain | 2
 Elite Inquisitor | 1
 Elite Scaleguard | 3
@@ -389,7 +393,7 @@ Makindi Patrol | 2
 Mardu Hordechief | 2
 Mardu Woe-Reaper | 1
 Mentor of the Meek | 1
-Mesa Enchantress | 1
+Mesa Enchantress | 2
 Midnight Guard | 4
 Mikaeus, the Lunarch | 1
 Militant Inquisitor | 1
@@ -517,6 +521,7 @@ Gleam of Authority | 1
 Guildscorn Ward | 2
 Hold the Gates | 3
 Holy Mantle | 1
+Honden of Cleansing Fire | 1
 Hoofprints of the Stag | 1
 Indestructibility | 1
 Intangible Virtue | 5
@@ -1916,6 +1921,7 @@ Blisterpod | 2
 Bond Beetle | 3
 Boneyard Wurm | 1
 Borderland Rnager | 5
+Brawn | 2
 Brood Monitor | 1
 Byway Courier | 4
 Cartographer | 1
@@ -2159,6 +2165,7 @@ Gaea's Touch | 1
 Ground Seal | 1
 Karametra's Favor | 4
 Hall of Gemstone | 1
+Honden of Life's Web | 1
 Instill Energy | 1
 Into the Wilds | 1
 Lifeforce | 1
@@ -2177,6 +2184,7 @@ Rites of Flourishing | 1
 Sheltered Aerie | 4
 Sight of the Scalelords | 1
 Spawning Grounds | 1
+Squirrel Nest | 1
 Strength of the Fallen | 5
 Temur Runemark | 4
 Trail of Mystery | 1
@@ -2246,6 +2254,7 @@ Monstrous Growth | 3
 Nature's Lore | 3
 Nissa's Expedition | 2
 Nissa's Pilgrimage | 3
+Nissa's Revelation | 1
 One Dozen Eyes | 1
 Overrun | 1
 Overwhelm | 1
@@ -2401,7 +2410,7 @@ Skymark Roc | 2
 Soulsworn Jury | 1
 Spectral Shepherd | 1
 Swans of Bryn Argoll | 1
-Thunderclap Wyvern | 1
+Thunderclap Wyvern | 4
 Wall of Denial | 1
 Windreaver | 1
 ### Enchantment < W/U
@@ -2647,6 +2656,7 @@ Karametra, God of Harvest | 1
 ### Enchantment < W/G
 Card | Qt
 --- | ---
+Armadillo Cloak | 1
 Growing Ranks | 1
 Pollenbright Wings | 2
 Unflinching Courage | 3
@@ -2892,6 +2902,7 @@ Simic Ragworm | 1
 Simic Sky Swalloer | 1
 Skyrider Elf | 3
 Species Gorger | 4
+Trygon Predator | 1
 Vigean Hydropon | 1
 Zameck Guildmage | 2
 ### Enchantment Creature < U/G

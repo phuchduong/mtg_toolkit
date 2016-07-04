@@ -20,6 +20,7 @@ Replenish | | $11
 Monastery Mentor | | $11
 Deserted Temple | | $11
 Defense of the Heart | Naya | $11
+Time Warp | Talrand | $11
 Domri Rade | | $10
 Ghostly Prison | Enchantress | $10
 Omniscience | | $10
