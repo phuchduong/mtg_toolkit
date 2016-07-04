@@ -10,9 +10,11 @@ Chandra, Flamecaller | Nekusar | $22
 Oracle of Mul Daya | Gitrog | $22
 Mana Reflection | Enchantress | $22
 Burgeoning | Enchantress | $22
+Mana Reflection | Enchantress | $21
 Ugin, the Spirit Dragon | Muzio | $20
 Rings of Brighthearth | Naya | $19
 Time Warp | Talrand | $15.93
+Idyllic Tutor | Enchantress | $15.14
 Sigarda, Host of Herons | Sigarda | $14
 Life from the Loam | Gitrog | $13
 Exploration | Gitrog, Naya, Sigarda | $12
@@ -59,6 +61,7 @@ Razorverge Thicket | Enchantress, Sigarda | $5
 Awakening Zone | Enchantress | $5
 Thousand-Year Elixir | Naya, Yisan | $5
 Archangel of Tithes | Naya | $4.95
+Abundance | Enchantress | $4.77
 Concordant Crossroads | Enchantress | $4.59
 Solemn Simulacrum | Enchantress, Naya, Sigarda, Yisan | $4
 Darksteel Plate | Naya, Yisan | $4
@@ -77,11 +80,14 @@ Sun Titan | Enchantress | $2.30
 Terrain Generator | Gitrog, Naya, Sigarda, Yisan | $2.36
 Stone Calendar | Muzio | $2.09
 Skullclamp | Trostani | $2
+Three Dreams | Enchantress, Sigarda | $1.78
 Primal Surge | Enchantress, Naya, Yisan | $1.60
 White Medallion | Enchantress | $1.25
+Open the Vaults | Enchantress, Sigarda | $0.85
 Coastal Piracy | Talrand | $0.81
 Future Sight | Talrand | $0.62
 Celestial Ancient | Enchantress | $0.59
+Ancestral Mask | Enchantress, Sigarda | $0.59
 Serra's Blessing | Enchantress | $0.58
 Sacred Ground | Enchantress | $0.47
 Terra Eternal | Enchantress | $0.43

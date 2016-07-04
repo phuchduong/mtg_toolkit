@@ -2263,7 +2263,7 @@ Overwhelming Stampede | 1
 Peregrination | 2
 Phytoburst | 4
 Prey Upon | 1
-Rabid Bite | 3
+Rabid Bite | 4
 Rain of Thorns | 2
 Rampant Growth | 2
 Ranger's Path | 1
