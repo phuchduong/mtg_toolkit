@@ -588,7 +588,7 @@ Ondu Rising | 1
 Open the Armory | 1
 Paraselene | 2
 Planar Cleansing | 1
-Plea for Guidance | 3
+Plea for Guidance | 2
 Revoke Existence | 4
 Rush of Battle | 4
 Sheer Drop | 2
@@ -1525,6 +1525,7 @@ Anaba Shaman | 1
 Anger | 1
 Atarka Pummeler | 3
 Atog | 1
+Barrage Tyrant | 1
 Battle Rampart | 1
 Batterhorn | 1
 Bearer of the Heavens | 1

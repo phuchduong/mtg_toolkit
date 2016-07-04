@@ -76,8 +76,6 @@ Stone Calendar | | $2.09
 Skullclamp | | $2
 Primal Surge | | $1.60
 White Medallion | | $1.25
-Quarantine Field | | $0.99
-Stasis Snare | | $0.79
 Celestial Ancient | | $0.59
 Serra's Blessing | | $0.58
 Sacred Ground | | $0.47
