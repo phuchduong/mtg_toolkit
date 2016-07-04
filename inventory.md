@@ -1183,7 +1183,7 @@ Mindlock Orb | 1
 Ring of Evos Isle | 2
 Saphire Medallion | 1
 Silver Myr | 1
-Sky Diamond | 1
+Sky Diamond | 2
 Staff of the Mind Magus | 5
 ### Land < U
 Card | Qt
