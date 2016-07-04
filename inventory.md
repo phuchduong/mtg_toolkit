@@ -110,7 +110,7 @@ Cloud Key | 1
 Commander's Sphere | 3
 Cranial Archive | 2
 Crown of Doom | 3
-Crystal Ball | 1
+Crystal Ball | 2
 Darksteel Ingot | 2
 Darksteel Pendant | 1
 Decimator Web | 1
@@ -131,6 +131,7 @@ Howling Mine | 2
 Ivory Tower | 1
 Jayemdae Tome | 2
 Knowledge Pool | 2
+Lantern of Insight | 1
 Lens of Clarity | 4
 Long-Forgotten Gohei | 1
 Loreseeker's Stone | 1
@@ -141,6 +142,7 @@ Mindstone | 2
 Mirari | 1
 Mirrorworks | 0
 Predator, Flagship | 1
+Prism Ring | 1
 Otherworld Atlas | 1
 Profane Memento | 2
 Prophetic Prism | 4
@@ -149,7 +151,7 @@ Pyxis of Pandemonium | 1
 Relic of Progenitus | 2
 Scroll of Avacyn | 2
 Scroll of the Masters | 1
-Seer's Lantern | 4
+Seer's Lantern | 5
 Seer's Sundial | 1
 Sol Ring | 2
 Spine of Ish Sah | 1
@@ -168,11 +170,11 @@ Trading Post | 2
 Traveler's Amulet | 4
 Unstable Obelisk | 1
 Unwinding Clock | 1
-Vedalken Orrery | 1
+Vedalken Orrery | 2
 Venser's Journal | 2
 Vial of Dragonfire | 4
 Wanderer's Twig | 1
-Wayfarer's Bauble | 2
+Wayfarer's Bauble | 3
 Whetstone | 1
 ### Artifact Creature < C
 Card | Qt
@@ -238,6 +240,7 @@ Slagwurm Armor | 1
 Slayer's Plate | 2
 Specter's Shroud | 1
 Spidersilk Net | 3
+Stoneforge Masterwork | 1
 Stormrider Rig | 1
 Swiftfoot Boots | 3
 Sword of the Animist | 3
@@ -913,10 +916,10 @@ Halcyon Glaze | 1
 Honden of Seeing Winds | 1
 Illusory Gains | 1
 Intruder Alarm | 1
-Leyline of Anticipation | 1
+Leyline of Anticipation | 0
 Meishin, the Mind Cage | 1
 Memory Erosion | 1
-Military Intelligence | 1
+Military Intelligence | 2
 Mind Control | 1
 Monastery Siege | 1
 Oath of Jace | 1
@@ -939,7 +942,7 @@ Telepathy | 1
 Thassa's Ire | 2
 Thopter Spy Network | 1
 Thought Reflection | 1
-Trail of Evidence | 3
+Trail of Evidence | 2
 Tricks of the Trade | 2
 Well of Ideas | 1
 Words of Wind | 1
@@ -947,7 +950,7 @@ Xenograft | 1
 ### Sorcery < U
 Card | Qt
 --- | ---
-Aether Gale | 2
+Aether Gale | 1
 Allied Strategis | 1
 Amass the Components | 2
 Anchor to the Aether | 2
@@ -959,8 +962,8 @@ Brilliant Plan | 1
 Call To Mind | 2
 Clutch of Currents | 3
 Coastal Discovery | 2
-Compulsive Research | 2
-Concentrate | 2
+Compulsive Research | 3
+Concentrate | 3
 Curse of the Swine | 1
 Deep Analysis | 1
 Devastation Tide | 1
@@ -993,7 +996,7 @@ Pore Over the Pages | 1
 Pull from the Deep | 2
 Reconstruction | 1
 Rise of Eagles | 4
-Rise from the Tides | 1
+Rise from the Tides | 0
 Rite of Replication | 1
 Rush of Ice | 4
 Rush of Knowledge | 4
@@ -1005,7 +1008,7 @@ Sight Beyond Sight | 1
 Silent Departure | 4
 Sleep | 1
 Slip Through Space | 1
-Stolen Identity | 1
+Stolen Identity | 0
 Switcheroo | 3
 Taigam's Scheming | 4
 Temporal Cascade | 1
@@ -1017,8 +1020,8 @@ Time Reversal | 1
 Tome Scour | 5
 Trade Secrets | 1
 Traumatize | 1
-Treasure Cruise | 1
-Treasure Hunt | 5
+Treasure Cruise | 0
+Treasure Hunt | 4
 Ugin's Insight | 1
 Uncovered Clues | 4
 Void Snare | 5
@@ -1035,8 +1038,8 @@ Accumulated Knowledge | 4
 Aerial Formation | 1
 Aether Tradewinds | 1
 Aetherize | 3
-Annul | 5
-Anticipate | 8
+Annul | 6
+Anticipate | 7
 Arcane Denial | 1
 Archive Trap | 1
 Artificer's Epiphany | 4
@@ -1066,12 +1069,12 @@ Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
 Discombobulate | 1
-Disdainful Stroke | 4
+Disdainful Stroke | 5
 Dismiss | 3
-Dispel | 5
+Dispel | 6
 Disperse | 5
 Dissipate | 3
-Dissolve | 1
+Dissolve | 2
 Domineering Will | 2
 Dream Fracture | 3
 Dream Twist | 1
@@ -1104,7 +1107,7 @@ Learn from the Past | 2
 Long-Term Plans | 1
 Lost in the Mist | 1
 Machinate | 1
-Mana Leak | 4
+Mana Leak | 5
 Mindstatic | 3
 Mizzium Skin | 5
 Negate | 8
@@ -1117,7 +1120,7 @@ Peel from Reality | 5
 Pongify | 2
 Psychic Rebuttal | 2
 Psychic Spiral | 1
-Quicken | 1
+Quicken | 2
 Rakshasa's Disdain | 5
 Rapid Hybridization | 1
 Reach Through Mists | 1
@@ -1153,7 +1156,7 @@ Trickery Charm | 2
 Turn to Frog | 7
 Twiddle | 2
 Unity of Purpose | 1
-Unsummon | 1
+Unsummon | 2
 Vanishment | 1
 Vapor Snag | 2
 Visions of Beyond | 1
@@ -1525,6 +1528,7 @@ Bloodfray Giant | 1
 Bloodmad Vampire | 3
 Bloodstoke Howler | 1
 Boggart Forager | 1
+Bonesplitter Sliver | 1
 Borderland Marauder | 4
 Breakneck Rider | 1
 Brood Keeper | 3
@@ -1537,7 +1541,7 @@ Crossway Vampire | 4
 Defiant Ogre | 4
 Dragon Egg | 2
 Dragon Hatchling | 4
-Dragonlord's Servant | 3
+Dragonlord's Servant | 5
 Ember Swallower | 1
 Enthralling Victor | 2
 Erdwal Ripper | 4
@@ -1624,6 +1628,7 @@ Spitebellows | 1
 Splatter Thug | 4
 Stoneshock Giant | 3
 Stormwing Dragon | 3
+Striking Sliver | 1
 Terra Ravager | 2
 Thopter Engineer | 1
 Thunderbreak Regent | 1
@@ -2028,6 +2033,7 @@ Pheres-Band Warchief | 3
 Phytotitan | 1
 Plated Crusher | 1
 Priest of Titania | 1
+Quick Sliver | 1
 Rampaging Baloths | 2
 Ravenous Baloth | 1
 Reclamation Sage | 2
@@ -2107,6 +2113,7 @@ Wood Elves | 3
 Woodborn Behemoth | 3
 Woodland Bellower | 1
 Wren's Run Packmaster | 1
+Yavimaya Enchantress | 1
 Yavimaya Scion | 1
 Yisan, the Wanderer Bard | 1
 Young Wolf | 4
@@ -2186,6 +2193,7 @@ Wild Defiance | 1
 Wild Growth | 4
 Wild Pair | 1
 Wreath of Geists | 1
+Zendikar Resurgent | 2
 Zendikar's Roil | 1
 ### Planeswalker < G
 Card | Qt
@@ -2196,6 +2204,7 @@ Nissa, Worldwaker | 1
 Card | Qt
 --- | ---
 All Suns' Dawn | 1
+Animist's Awakening | 1
 Bestial Menace | 1
 Blessings of Nature | 2
 Bramblecrush | 4
@@ -2270,7 +2279,7 @@ Skyreaping | 3
 Slime Molding | 1
 Stream of Life | 2
 Sylvan Offering | 1
-Sylvan Scrying | 1
+Sylvan Scrying | 3
 Tempt with Discovery | 1
 Time to Feed | 4
 Tranquility | 1
@@ -2791,7 +2800,7 @@ Fluxcharger | 4
 Goblin Electromancer | 5
 Goblin Flectomancer | 1
 Goblin Test Pilot | 2
-Herald of Kozilek | 1
+Herald of Kozilek | 3
 Hypersonic Dragon | 1
 Izzet Chronarch | 1
 Marchesa's Smuggler | 1
