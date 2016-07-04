@@ -399,7 +399,7 @@ Mikaeus, the Lunarch | 1
 Militant Inquisitor | 1
 Monk Idealist | 1
 Nearheath Pilgrim | 2
-Odric, Lunarch Marshal
+Odric, Lunarch Marshal | 1
 Ordric, Master Tactician | 1
 Paragon of New Dawns | 1
 Patron of the Valiant | 2
