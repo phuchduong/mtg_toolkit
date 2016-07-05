@@ -97,6 +97,7 @@ Arcane Melee | Talrand | $0.35
 ### MTG Products
 Item | 
 ---|
+Commander 2016 |
 Planes Chase Anthology |
 Peer Through Time: Teferi, Mono-Blue, Commander 2014 |
 Guided by Nature: Freyalise, Mono-Green, Commander 2014 |
