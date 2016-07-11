@@ -16,6 +16,7 @@ Ugin, the Spirit Dragon | Muzio | $20
 Rings of Brighthearth | Naya | $19
 Time Warp | Talrand | $15.93
 Idyllic Tutor | Enchantress | $15.14
+Academy Rector | $14
 Sigarda, Host of Herons | Sigarda | $14
 Life from the Loam | Gitrog | $13
 Exploration | Gitrog, Naya, Sigarda | $12
@@ -46,7 +47,6 @@ Jace, Unraveler of Secrets | Talrand | $6.95
 Admonition Angel | Naya | $6
 Lurking Predators | Naya | $6
 Argothian Enchantress | Enchantress | $6
-Martyr's Bond | Enchantress | $6
 Mirari's Wake | Enchantress | $6
 Sterling Grove | Enchantress | $6
 Kor Haven | Enchantress | $6
@@ -62,38 +62,24 @@ Razorverge Thicket | Enchantress, Sigarda | $5
 Awakening Zone | Enchantress | $5
 Thousand-Year Elixir | Naya, Yisan | $5
 Archangel of Tithes | Naya | $4.95
-Abundance | Enchantress | $4.77
 Concordant Crossroads | Enchantress | $4.59
-Solemn Simulacrum | Enchantress, Naya, Sigarda, Yisan | $4
+Solemn Simulacrum | Naya, Sigarda, Yisan | $4
 Darksteel Plate | Naya, Yisan | $4
-Heliod, God of the Sun | Enchantress | $4
-Luminarch Ascension | Enchantress | $4
 Caged Sun | | $4
-Cataclysm | Enchantress | $4
-Enduring Ideal | Enchantress | $4
+Enduring Ideal | 5c Enchantress | $4
 Mana Web | Muzio | $3.38
 Trostani, Selesnya's Voice | Trostani | $3
 Propaganda | Zedru | $3
 Boundless Realms | Naya, Yisan | $3
-Cast Through Time | Talrand | $2.50
-Cryptolith Rite | Enchantress | $2.39
-Sun Titan | Enchantress | $2.30
+Cryptolith Rite | Sliver | $2.39
+Sun Titan | Naya, Soldier | $2.30
 Terrain Generator | Gitrog, Naya, Sigarda, Yisan | $2.36
 Stone Calendar | Muzio | $2.09
 Skullclamp | Trostani | $2
-Three Dreams | Enchantress, Sigarda | $1.78
-Primal Surge | Enchantress, Naya, Yisan | $1.60
-White Medallion | Enchantress | $1.25
-Open the Vaults | Enchantress, Sigarda | $0.85
-Coastal Piracy | Talrand | $0.81
-Future Sight | Talrand | $0.62
-Celestial Ancient | Enchantress | $0.59
-Ancestral Mask | Enchantress, Sigarda | $0.59
-Serra's Blessing | Enchantress | $0.58
-Sacred Ground | Enchantress | $0.47
+Primal Surge | Naya, Yisan | $1.60
+White Medallion | Enchantress, Soldier | $1.25
 Terra Eternal | Enchantress | $0.43
-Arcane Melee | Talrand | $0.35
-
+Instill Energy | Naya | 
 ### MTG Products
 Item | 
 ---|

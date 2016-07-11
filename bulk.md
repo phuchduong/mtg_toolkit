@@ -573,6 +573,7 @@ Silent Observer |
 Skyline Predator |
 Skywing Aven |
 Sneaky Homunculus |
+Stitched Mangler |
 Stormrider Spirit |
 Sultai Skullkeeper |
 Surrakar Banisher |
@@ -1142,6 +1143,7 @@ Racecourse Fury |
 Reflexes |
 Senseless Rage |
 Skin Invasion |
+Spiteful Motives |
 Talons of Falkenrath |
 The Brute |
 ### Sorcery < R
@@ -1255,6 +1257,7 @@ Giant Spider |
 Giant Warthog |
 Glade Gnarr |
 Glade Watcher |
+Gloomwidow |
 Gnarlid Pack |
 Gobbling Ooze |
 Gorilla Chieftain |
@@ -1561,6 +1564,7 @@ Card |
 ### Creature < U/B
 Card |
 --- |
+Drunau Corpse Trawler |
 Horror of the Dim |
 Jorubai Murk Lurker |
 Metathran Zombie |

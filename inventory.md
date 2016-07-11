@@ -229,6 +229,7 @@ Haunted Plate Mail | 3
 Helm of the Gods | 2
 Hero's Blade | 2
 Kitesail | 1
+Loxodon Warhammer | 1
 Neglected Heirloom | 1
 Prowler's Helm | 4
 Rogue's Gloves | 1
@@ -288,7 +289,7 @@ Uzra's Factory | 1
 Urza's Mine | 1
 Urza's Power Plant | 2
 Urza's Tower | 1
-Warped Landscape | 4
+Warped Landscape | 5
 Zoetic Cavern | 3
 ## White
 ### Creature < W
@@ -310,6 +311,7 @@ Arashin Foremost | 1
 Archangel | 1
 Armory Guard | 4
 Auramancer | 8
+Avacynian Missionaries | 1
 Aven Sunstriker | 1
 Azorius Arrester | 3
 Azorius Justiciar | 2
@@ -324,7 +326,7 @@ Bonescythe Sliver | 1
 Boonweaver Giant | 1
 Bygone Bishop | 4
 Captain of the Watch | 1
-Cathar's Companion | 3
+Cathar's Companion | 5
 Cavalry Pegasus | 4
 Cenn's Tactician | 3
 Champion of the Parish | 1
@@ -341,10 +343,11 @@ Doomed Traveler | 4
 Dragon Bell Monk | 5
 Dragon Hunter | 1
 Dragonscale General | 1
-Drogskol Cavalry | 1
+Drogskol Cavalry | 2
 Dromoka Captain | 2
 Elite Inquisitor | 1
 Elite Scaleguard | 3
+Emeria Angel | 1
 Emeria Sheperd | 1
 Enlightened Ascetic | 5
 Evangel of Heliod | 4
@@ -374,6 +377,7 @@ High Sentinels of Arashin | 1
 Hikari, Twilight Guardian | 1
 Hixus, Prison Warden | 1
 Imposing Sovereign | 1
+Inspiring Captain | 1
 Jeskai Barricade | 2
 Kami of Ancient Law | 1
 Keening Apparition | 4
@@ -399,7 +403,7 @@ Mikaeus, the Lunarch | 1
 Militant Inquisitor | 1
 Monk Idealist | 1
 Nearheath Pilgrim | 2
-Odric, Lunarch Marshal | 1
+Odric, Lunarch Marshal | 2
 Ordric, Master Tactician | 1
 Paragon of New Dawns | 1
 Patron of the Valiant | 2
@@ -426,7 +430,7 @@ Silent Sentinel | 1
 Silver Knight | 2
 Silverchase Fox | 2
 Skyhunter Skirmisher | 1
-Soul Warden | 2
+Soul Warden | 5
 Soulmender | 4
 Spurnmage Advocate | 1
 Steelform Sliver | 2
@@ -444,9 +448,10 @@ Thraben Doomsayer | 1
 Thraben Heretic | 3
 Thraben Inspector | 1
 Tragic Poet | 1
+True Believer | 1
 Totem-Guide Hartebeest | 2
 Twilight Drover | 1
-Unruly Mob | 7
+Unruly Mob | 9
 Urbis Protector | 4
 Valor | 1
 Vanguard of Brimaz | 1
@@ -456,6 +461,7 @@ Veteran Swordsmith | 2
 Voiceless Spirit | 1
 Wall of Omens | 1
 Wall of Resurgence | 2
+Wall of Reverence | 1
 Wardscale Dragon | 1
 War Priest of Thune | 1
 Wall of Essence | 2
@@ -503,6 +509,7 @@ Circle of Protection: Blue | 3
 Circle of Protection: Green | 3
 Circle of Protection: Red | 2
 Circle of Protection: White | 3
+Cradle of Vitality | 1
 Curse of the Forsaken | 2
 Dragon Scales | 1
 Defang | 1
@@ -518,6 +525,7 @@ Forced Worship | 1
 Fortified Area | 1
 Gift of Immortality | 2
 Gleam of Authority | 1
+Gryff's Boon | 1
 Guildscorn Ward | 2
 Hold the Gates | 3
 Holy Mantle | 1
@@ -563,7 +571,7 @@ Sunbond | 4
 Suspension Field | 2
 Triclopean Sight | 1
 Valor in Akros | 1
-Vessel of Ephemera | 3
+Vessel of Ephemera | 4
 ### Sorcery < W
 Card | Qt
 --- | ---
@@ -573,6 +581,7 @@ Angelic Purge | 2
 Breath of Life | 3
 Cleansing Meditation | 1
 Dawn To Dusk | 4
+Declaration in Stone | 1
 Decree of Justice | 1
 Gather the Townsfolk | 4
 Gift of Estates | 1
@@ -583,7 +592,7 @@ Knight Watch | 3
 Launch the Fleet | 1
 Lyev Decree | 4
 Mass Calcify | 1
-Not Forgotten | 2
+Not Forgotten | 3
 Ondu Rising | 1
 Open the Armory | 1
 Paraselene | 2
@@ -781,7 +790,7 @@ Monastery Loremaster | 4
 Mothdust Changeling | 2
 Mulldrifter | 2
 Murmuring Phantasm | 5
-Nephalia Moondrakes | 1
+Nephalia Moondrakes | 2
 Nephalia Seakite | 4
 Niblis of the Breath | 3
 Omenspeaker | 4
@@ -838,6 +847,7 @@ Stealer of Secrets | 2
 Stern Mentor | 2
 Stitched Drake | 1
 Stitcher Geralf | 3
+Stitchwing Skaab | 1
 Stratus Dancer | 1
 Stormbound Geist | 2
 Stormscape Familiar | 1
@@ -913,6 +923,7 @@ Font of Fortunes | 3
 Fool's Demise | 3
 Forced Fruition | 1
 Gaseous Form | 2
+Ghostly Wings | 3
 Infinite Reflection | 3
 Invisbility | 3
 Jace's Erasure | 1
@@ -941,8 +952,9 @@ Singing Bell Strike | 2
 Skywise Teachings | 1
 Soul Barrier | 2
 Sphinx's Tutelage | 4
-Spreading Seas | 1
+Spreading Seas | 2
 Steal Artifact | 2
+Sunken Hope | 1
 Telepathy | 1
 Thassa's Ire | 2
 Thopter Spy Network | 1
@@ -1001,7 +1013,7 @@ Pore Over the Pages | 1
 Pull from the Deep | 2
 Reconstruction | 1
 Rise of Eagles | 4
-Rise from the Tides | 0
+Rise from the Tides | 1
 Rite of Replication | 1
 Rush of Ice | 4
 Rush of Knowledge | 4
@@ -1104,6 +1116,7 @@ Hydrolash | 1
 Inspiration | 4
 Intellectual Offering | 3
 Into the Roil | 2
+Invasive Surgery | 2
 Ixidor's Will | 1
 Jace's Ingenuity | 3
 Keep Watch | 2
@@ -1243,6 +1256,7 @@ Festering Newt | 5
 Fleshbag Marauder | 2
 Forlorn Pseudamma | 3
 Ghoulraiser | 3
+Ghoulsteed | 1
 Gloom Surgeon | 1
 Gnawing Zombie | 1
 Gravedigger | 3
@@ -1282,6 +1296,7 @@ Plagued Rusalka | 1
 Pontiff of Blight | 1
 Priest of the Blood Rite | 1
 Pulse Tracker | 1
+Rancid Rats | 1
 Rakdos Drake | 3
 Rakshasa Gravecaller | 1
 Ravenous Rats | 5
@@ -1381,6 +1396,7 @@ Shadows of the Past | 3
 Shrieking Affliction | 2
 Sinister Concoction | 1
 Stab Wound | 4
+Triskaidekaphobia | 1
 Underworld Conections | 1
 Vampiric Rites | 2
 Viper's Kiss | 4
@@ -1424,7 +1440,7 @@ Ghoulcaller's Chant | 3
 Hand of Death | 3
 Harrowing Journey | 1
 Infest | 1
-Liliana's Indignation | 2
+Liliana's Indignation | 4
 Liturgy of Blood | 4
 Macabre Waltz | 6
 March of the Returned | 4
@@ -1478,7 +1494,7 @@ Grim Return | 1
 Grisly Spectacle | 1
 Howl From Beyond | 1
 Human Frailty | 1
-Merciless Resolve | 3
+Merciless Resolve | 4
 Murder | 1
 Murderous Cut | 4
 Necrobite | 2
@@ -1583,7 +1599,8 @@ Hound of Griselbrand | 1
 Humble Defector | 1
 Hunting Sliver | 1
 Incandescent Soulstoke | 1
-Insolent Neonate | 3
+Incorrigible Youths | 1
+Insolent Neonate | 4
 Jeering Instigator | 1
 Kessig Forgemaster | 1
 Kessig Malcontents | 1
@@ -1607,7 +1624,7 @@ Oracle of Bones | 1
 Orcish Farmer | 1
 Paragon of Fierce Defiance | 2
 Pharagax Giant | 4
-Pyre Hound | 3
+Pyre Hound | 4
 Pyreheart Wolf | 3
 Rageblood Shaman | 2
 Reckless Bushwhacker | 1
@@ -1617,7 +1634,7 @@ Riot Piker | 4
 Riot Ringleader | 4
 Rubblebelt Maaka | 4
 Rummaging Goblin | 4
-Sanguinary Mage | 2
+Sanguinary Mage | 3
 Satyr Hoplite | 4
 Satyr Nyx-Smith | 4
 Screamreach Brawler | 4
@@ -1707,10 +1724,10 @@ Retreat To Valakut | 3
 Seal of Fire | 1
 Shiv's Embrace | 2
 Smoke | 1
-Stensia Masquerade | 2
+Stensia Masquerade | 3
 Sulfuric Vortex | 1
 Thunderous Might | 2
-Vessel of Volatility | 2
+Vessel of Volatility | 3
 Volcanic Strength | 1
 War Cadence | 1
 Warstorm Surge | 1
@@ -1757,7 +1774,7 @@ Lay Waste | 1
 Lose Calm | 4
 Magmatic Chasm | 4
 Magmatic Insight | 3
-Malevolent Whispers | 1
+Malevolent Whispers | 2
 Mana Seism | 1
 Mark of Mutiny | 2
 Misguided Rage | 1
@@ -1923,8 +1940,9 @@ Bond Beetle | 3
 Boneyard Wurm | 1
 Borderland Rnager | 5
 Brawn | 2
+Briarbridge Patrol | 1
 Brood Monitor | 1
-Byway Courier | 4
+Byway Courier | 5
 Cartographer | 1
 Carven Caryatid | 1
 Caustic Caterpillar | 5
@@ -1951,6 +1969,7 @@ Duskwatch Recruiter | 1
 Dwynen's Elite | 3
 Elderscale Wurm | 1
 Elvish Mystic | 9
+Elvish Piper | 1
 Elvish Visionary | 5
 Eyeless Watcher | 4
 Farhaven Elf | 1
@@ -1961,6 +1980,7 @@ Garruk's Companion | 3
 Garruk's Horde | 2
 Garruk's Packleader | 2
 Gatecreeper Vine | 4
+Gaea's Herald | 1
 Gempalm Strider | 1
 Genesis Hydra | 1
 Ghoultree | 1
@@ -1979,9 +1999,10 @@ Gyre Sage | 1
 Herald of the Pantheon | 1
 Heir of the Wilds | 2
 Herdchaser Dragon | 2
+Hermit of the Natterknolls | 1
 Hero of Leina Tower | 1
 Heroes' Bane | 2
-Hinterland Logger | 1
+Hinterland Logger | 2
 Howlgeist | 1
 Hydra Broodmaster | 3
 Imperious Perfect | 1
@@ -2001,7 +2022,7 @@ Krosan Wayfarer | 2
 Lambholt Elder | 2
 Lambholt Pacifist | 1
 Leaf Gilder | 4
-Leatherback Baloth | 1
+Leatherback Baloth | 0
 Lifespring Druid | 1
 Llanowar Elves | 2
 Llanowar Empath | 4
@@ -2015,7 +2036,7 @@ Maze Behemoth | 3
 Meandering Towershell | 4
 Mistcutter Hydra | 1
 Mold Shambler | 1
-Moldgraf Scavenger | 2
+Moldgraf Scavenger | 4
 Mul Daya channelers | 1
 Mwonvuli Beast Tracker | 1
 Nantuko Tracer | 1
@@ -2051,7 +2072,7 @@ Sakura-Tribe Elder | 2
 Salt Road Ambushers | 1
 Satyr Wayfinder | 5
 Saruli Gatekeepers | 4
-Scavenging Ooze | 1
+Scavenging Ooze | 0
 Scion of the Wild | 1
 Scorned Villager | 1
 Scourge of Skola Vale | 1
@@ -2062,6 +2083,7 @@ Shaman of Spring | 5
 Shanodin Dryads | 2
 Siege Behemoth | 1
 Siege Wurm | 1
+Silverfur Partisan | 1
 Simic Initiate | 1
 Skarrg Goliath | 1
 Slaughterhorn | 2
@@ -2073,8 +2095,9 @@ Spire Tracer | 3
 Spore Frog | 1
 Sporemound | 4
 Stampeding Elk Herd | 4
-Stoic Builder | 2
+Stoic Builder | 3
 Stone-Seeder Hierophant | 1
+Strangleroot Geist | 1
 Sultai Flayer | 3
 Surrak, the Hunt Caller | 2
 Sylvan Messenger | 3
@@ -2171,13 +2194,14 @@ Instill Energy | 1
 Into the Wilds | 1
 Lifeforce | 1
 Lure | 4
+Lurking Predators | 1
 Manabond | 1
 Market Festival | 6
 Nylea's Presence | 4
 Oath of the Ancient Wood | 1
 Obscuring Aether | 2
 Ordeal of Nylea | 3
-Rancor | 1
+Rancor | 0
 Raised By Wolves | 3
 Regeneration | 2
 Retreat To Kazandu | 1
@@ -2190,14 +2214,14 @@ Strength of the Fallen | 5
 Temur Runemark | 4
 Trail of Mystery | 1
 Trollhide | 3
-Ulvenwald Mysteries | 1
+Ulvenwald Mysteries | 2
 Utopia Sprawl | 1
 Urban Burgeoning | 4
 Verdant Haven | 5
 Vernal Bloom | 1
 Vessel of Nascency | 1
 Vineweft | 4
-Weirding Wood | 2
+Weirding Wood | 3
 Wild Defiance | 1
 Wild Growth | 4
 Wild Pair | 1
@@ -2263,7 +2287,7 @@ Overwhelming Stampede | 1
 Peregrination | 2
 Phytoburst | 4
 Prey Upon | 1
-Rabid Bite | 4
+Rabid Bite | 5
 Rain of Thorns | 2
 Rampant Growth | 2
 Ranger's Path | 1
@@ -2284,7 +2308,7 @@ Seek the Wilds | 4
 Serene Remembrance | 2
 Shamanic Revelation | 1
 Simplify | 1
-Skyshroud Claim | 1
+Skyshroud Claim | 2
 Skyreaping | 3
 Slime Molding | 1
 Stream of Life | 2
@@ -2300,7 +2324,7 @@ Wave of Vitriol | 1
 ## Instant < G
 Card | Qt
 --- | ---
-Aim High | 3
+Aim High | 4
 Artisan's Sorrow | 4
 Aspect of Hydra | 4
 Back to Nature | 1
@@ -2309,12 +2333,13 @@ Burst of Strength | 3
 Clinging Mists | 4
 Clip Wings | 4
 Chorus of Might | 4
-Confront the Unknown | 3
+Confront the Unknown | 4
 Consign to Dust | 2
 Crop Rotation | 1
 Crushing Vines | 3
 Defend the Hearth | 4
 Dragonscale Boon | 4
+Dramatic Entrance | 1
 Druid's Deliverance | 3
 Early Harvest | 1
 Evolution Charm | 1
@@ -2388,6 +2413,7 @@ Azor's Elocutors | 1
 Ascended Lawmage | 3
 Archon of the Triumvirate | 1
 Azorius Herald | 1
+Battlegrace Angel | 1
 Council of the Absolute | 1
 Cunning Breezedancer | 2
 Daxos of Meletis | 1
@@ -2409,7 +2435,8 @@ Ojutai, Soul of Winter | 1
 Pristine Skywise | 1
 Skymark Roc | 2
 Soulsworn Jury | 1
-Spectral Shepherd | 1
+Sovereigns of Lost Alara | 1
+Spectral Shepherd | 2
 Swans of Bryn Argoll | 1
 Thunderclap Wyvern | 4
 Wall of Denial | 1
@@ -2643,7 +2670,9 @@ Oversoul of Dusk | 1
 Risen Sanctuary | 3
 Selvala, Explorer Returned | 1
 Selesnya Evangel | 2
+Sigarda, Heron's Grace | 1
 Trostani's Summoner | 5
+Veteran Cathar | 1
 Veteran Warleader | 1
 Vitu-Ghazi Guildmage | 1
 Voice of Resurgence | 1
@@ -2882,7 +2911,7 @@ Temple of Epiphany | 1
 ### Creature < U/G
 Card | Qt
 --- | ---
-Altered Ego | 1
+Altered Ego | 2
 Bounding Krasis | 3
 Coiling Oracle | 2
 Drakewing Krasis | 4
@@ -2893,9 +2922,10 @@ Horizon Chimera | 4
 Icefeather Aven | 3
 Kiora's Follower | 3
 Lorescale Coatl | 3
+Murkfiend Liege | 1
 Plaxcaster Frogling | 2
 Plaxmanta | 1
-Sages of the Anima | 1
+Sages of the Anima | 2
 Sagu Mauler | 2
 Shambleshark | 4
 Silkwing Scout | 1
@@ -2954,7 +2984,7 @@ Simic Guildgate | 28
 Temple of Mystery | 1
 Thornwood Falls | 10
 Yavimaya Coast | 1
-Woodland Strema | 2
+Woodland Stream | 3
 ## Black + Red, Rakdos
 ### Creature < B/R
 Card | Qt
@@ -3050,6 +3080,7 @@ Stensia Bloodhall | 1
 Card | Qt
 --- | ---
 Archers' Parapet | 8
+Autumnal Gloom | 1
 Baloth Null | 2
 Catacomb Sifter | 2
 Corpsejack Menace | 1
@@ -3116,6 +3147,7 @@ Golgari Signet | 1
 ### Land < B/G
 Card | Qt
 --- | ---
+Foul Orchard | 1
 Golgari Guildgate | 16
 Golgari Rot Farm | 2
 Grim Backwoods | 1
@@ -3152,7 +3184,8 @@ Rubblebelt Raiders | 1
 Satyr Hedonist | 5
 Savage Ventmaw | 3
 Skarrg Guildmage | 1
-Spellbreaker Behemoth | 1
+Spellbreaker Behemoth | 2
+Ulrich's Kindred | 1
 Valley Rannet | 2
 Zendikar Incarnate | 2
 Zhur-Taa Ancient | 2
@@ -3340,7 +3373,7 @@ Card | Qt
 ### Creature < NAYA
 Card | Qt
 --- | ---
-
+Mayael the Anima | 1
 ### Enchantment < NAYA
 Card | Qt
 --- | ---
