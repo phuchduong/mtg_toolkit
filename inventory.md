@@ -95,7 +95,7 @@ Titan's Presence | 1
 Card | Qt
 --- | ---
 Alhammarret's Archive | 1
-Aligned Hedron Network | 2
+Aligned Hedron Network | 1
 Altar of the Brood | 2
 Altar of the Lost | 4
 Amulet of Vigor | 1
