@@ -3465,7 +3465,7 @@ Card | Qt
 ### Creature < SULTAI
 Card | Qt
 --- | ---
-Sidisi, Brood Tyrant | 1
+
 ### Enchantment < SULTAI
 Card | Qt
 --- | ---
