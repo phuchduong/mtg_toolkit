@@ -80,6 +80,9 @@ Primal Surge | Naya, Yisan | $1.60
 White Medallion | Enchantress, Soldier | $1.25
 Terra Eternal | Enchantress | $0.43
 Instill Energy | Naya | 
+Explorer Scope | Talrand |
+Tireless Tracker | Karametra |
+Future Sight | Karametra |
 ### MTG Products
 Item | 
 ---|
