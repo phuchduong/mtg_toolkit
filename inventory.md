@@ -105,6 +105,7 @@ Belbe's Armor | 1
 Bubbling Cauldron | 3
 Cellar Door | 2
 Chalice of Life | 1
+Chromatic Lantern | 1
 Clock of Omens | 1
 Cloud Key | 1
 Commander's Sphere | 3
@@ -154,7 +155,7 @@ Scroll of Avacyn | 2
 Scroll of the Masters | 1
 Seer's Lantern | 5
 Seer's Sundial | 1
-Sol Ring | 2
+Sol Ring | 3
 Spine of Ish Sah | 1
 Springleaf Drum | 3
 Sun Droplet | 1
@@ -162,7 +163,7 @@ Surveyor's Scope | 2
 Tablet of the Guilds | 2
 Tapestry of the Ages | 2
 Tamiyo's  Journal | 1
-Teferi's Puzzle Box | 1
+Teferi's Puzzle Box | 2
 Temple Bell | 1
 Thought Vessel | 2
 Tormod's Crypt | 5
@@ -222,7 +223,7 @@ Dragon Throne of Tarkir | 1
 Executioner's Hood | 3
 Fireshrieker | 1
 Fleetfeather Sandals | 4
-Ghostfire Blade | 1
+Ghostfire Blade | 2
 Gorgon's Head | 3
 Haunted Cloak | 1
 Haunted Plate Mail | 3
@@ -277,7 +278,7 @@ Seraph Sanctuary | 1
 Shimmering Grotto | 2
 Sliver Hive | 1
 Tectonic Edge | 2
-Temple of the False God | 1
+Temple of the False God | 2
 Terrain Generator | 1
 Terramorphic Expense | 2
 Thespian Stage | 2
@@ -753,7 +754,7 @@ Graceful Adept | 1
 Gudul Lurker | 1
 Guile | 1
 Halimar Tidecaller | 1
-Hedron Crab | 4
+Hedron Crab | 5
 Hover Barrier | 1
 Hoverguard Sweepers | 3
 Illusory Angel | 2
@@ -762,7 +763,7 @@ Ixidron | 3
 Jace's Archivist | 2
 Jace's Phantasm | 3
 Jushi Apprentice | 2
-Kami of the Cresent Moon | 1
+Kami of the Cresent Moon | 2
 Kederekt Leviathan | 1
 Kheru Spellsnatcher | 2
 Kraken Hatchling | 5
@@ -858,6 +859,7 @@ Tandem Lookout | 1
 Thada Adel, Acquisitor | 1
 Thought Harvester | 1
 Thousand Winds | 1
+Tomorrow, Azami's Familiar | 1
 Tower Geist | 4
 Treasure Mage | 1
 Trinket Mage | 2
@@ -953,7 +955,7 @@ Skywise Teachings | 1
 Soul Barrier | 2
 Sphinx's Tutelage | 4
 Spreading Seas | 2
-Steal Artifact | 2
+Steal Artifact | 3
 Sunken Hope | 1
 Telepathy | 1
 Thassa's Ire | 2
@@ -967,6 +969,7 @@ Xenograft | 1
 ### Sorcery < U
 Card | Qt
 --- | ---
+Acquire | 1
 Aether Gale | 1
 Allied Strategis | 1
 Amass the Components | 2
@@ -1017,7 +1020,7 @@ Rise from the Tides | 1
 Rite of Replication | 1
 Rush of Ice | 4
 Rush of Knowledge | 4
-Sanity Grinding | 1
+Sanity Grinding | 2
 Sea God's Revenge | 4
 See Beyond | 1
 Set Adrift | 1
@@ -1077,11 +1080,12 @@ Chain of Vapor | 1
 Comparative Analysis | 1
 Confirm Suspicions | 2
 Contradict | 4
+Counterlash | 1
 Countermand | 1
 Counterspell | 2
 Crippling Chill | 7
 Crypsis | 4
-Cyclonic Rift | 1
+Cyclonic Rift | 3
 Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
@@ -1111,7 +1115,7 @@ Geist Snatch | 3
 Grip of Amnesia | 1
 Griptide | 4
 Hubris | 4
-Hurkyl's Recall | 1
+Hurkyl's Recall | 2
 Hydrolash | 1
 Inspiration | 4
 Intellectual Offering | 3
@@ -1266,6 +1270,7 @@ Grim Roustabout | 4
 Gurmag Angler | 1
 Gurmag Swiftwing | 2
 Hand of Silumgar | 4
+Herald of Leshrac | 1
 Indulgent Aristocrat | 1
 Kalastria Healer | 4
 Kheru Bloodsucker | 2
