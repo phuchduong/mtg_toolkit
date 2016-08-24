@@ -779,7 +779,7 @@ Magus of the Jar | 1
 Man-O'-War | 2
 Manic Scribe | 1
 Master of the Veil | 1
-Master Transmuter | 1
+Master Transmuter | 0
 Meletis Charlatan | 1
 Merchant of Secrets | 1
 Mercurial Pretender | 1
