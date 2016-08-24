@@ -95,13 +95,14 @@ Titan's Presence | 1
 Card | Qt
 --- | ---
 Alhammarret's Archive | 1
-Aligned Hedron Network | 1
+Aligned Hedron Network | 2
 Altar of the Brood | 2
 Altar of the Lost | 4
 Amulet of Vigor | 1
 Ark of Blight | 1
 Ashnod's Altar | 2
 Belbe's Armor | 1
+Blinkmoth Urn | 1
 Bubbling Cauldron | 3
 Cellar Door | 2
 Chalice of Life | 1
@@ -119,7 +120,7 @@ Dreamstone Hedron | 2
 Druidic Satchel | 2
 Elixer of Immortality | 3
 Everflowing Chalice | 2
-Expedition Map | 2
+Expedition Map | 1
 Font of Mythos | 2
 Gem of Becoming | 2
 Ghoulcaller's Bell | 1
@@ -137,12 +138,14 @@ Lantern of Insight | 1
 Lens of Clarity | 4
 Long-Forgotten Gohei | 1
 Loreseeker's Stone | 1
+Mana Web | 1
 Manalith | 2
 Meteorite | 5
 Millstone | 2
 Mindstone | 2
-Mirari | 1
+Mirari | 0
 Mirrorworks | 0
+Nevinyrral's Disk | 1
 Predator, Flagship | 1
 Prism Ring | 1
 Otherworld Atlas | 1
@@ -158,11 +161,12 @@ Seer's Sundial | 1
 Sol Ring | 3
 Spine of Ish Sah | 1
 Springleaf Drum | 3
+Staff of Nin | 1
 Sun Droplet | 1
 Surveyor's Scope | 2
 Tablet of the Guilds | 2
 Tapestry of the Ages | 2
-Tamiyo's  Journal | 1
+Tamiyo's  Journal | 0
 Teferi's Puzzle Box | 2
 Temple Bell | 1
 Thought Vessel | 2
@@ -170,13 +174,13 @@ Tormod's Crypt | 5
 Tower of Fortunes | 1
 Trading Post | 2
 Traveler's Amulet | 4
-Unstable Obelisk | 1
+Unstable Obelisk | 2
 Unwinding Clock | 1
 Vedalken Orrery | 2
 Venser's Journal | 2
 Vial of Dragonfire | 4
 Wanderer's Twig | 1
-Wayfarer's Bauble | 3
+Wayfarer's Bauble | 2
 Whetstone | 1
 Worn Powerstone | 1
 ### Artifact Creature < C
@@ -203,9 +207,9 @@ Sliver Construct | 3
 Spire Golem | 1
 Steel Hellkite | 1
 Steel Wall | 1
-Thopter Assembly | 1
+Thopter Assembly | 2
 Viseling | 1
-Walking Atlas | 5
+Walking Atlas | 6
 Wild-Field Scarecrow | 2
 ### Artifact Equipment < C
 Card | Qt
@@ -255,7 +259,7 @@ Worldslayer | 1
 ### Land < C
 Card | Qt
 --- | ---
-Buried Ruin | 1
+Buried Ruin | 0
 Crumbling Vestige | 2
 Crystal Vein | 1
 Darksteel Citadel | 3
@@ -732,7 +736,7 @@ Diviner Spirit | 2
 Doorkeeper | 2
 Dragon's Eye Savant | 3
 Dreamborn Muse | 1
-Dreamscape Artist | 1
+Dreamscape Artist | 2
 Drift of Phantasms | 2
 Drowner Initiate | 2
 Dulcet Sirens | 3
@@ -916,7 +920,7 @@ Domestication | 1
 Encrust | 5
 Energy Flux | 2
 Ensoul Artifact | 1
-Eye of the Storm | 1
+Eye of the Storm | 0
 Fate Foretold | 4
 Favorable Winds | 1
 Fleeting Memories | 1
@@ -969,7 +973,7 @@ Xenograft | 1
 ### Sorcery < U
 Card | Qt
 --- | ---
-Acquire | 1
+Acquire | 0
 Aether Gale | 1
 Allied Strategis | 1
 Amass the Components | 2
@@ -1033,7 +1037,7 @@ Switcheroo | 3
 Taigam's Scheming | 4
 Temporal Cascade | 1
 Temporal Fissure | 3
-Temporal Trespass | 1
+Temporal Trespass | 0
 Thassa's Bounty | 2
 Time Ebb | 3
 Time Reversal | 1
@@ -1044,7 +1048,7 @@ Treasure Cruise | 0
 Treasure Hunt | 4
 Ugin's Insight | 1
 Uncovered Clues | 4
-Void Snare | 5
+Void Snare | 4
 Voidwalk | 1
 Wash Out | 1
 Whelming Wave | 2
@@ -1057,9 +1061,9 @@ Abstruse Interference | 4
 Accumulated Knowledge | 4
 Aerial Formation | 1
 Aether Tradewinds | 1
-Aetherize | 3
+Aetherize | 1
 Annul | 6
-Anticipate | 7
+Anticipate | 6
 Arcane Denial | 1
 Archive Trap | 1
 Artificer's Epiphany | 4
@@ -1068,7 +1072,7 @@ Blue Sun's Zenith | 1
 Blustersquall | 4
 Bone to Ash | 4
 Boomerang | 2
-Brainstorm | 1
+Brainstorm | 0
 Broken Ambitions | 1
 Cacking Counterpart | 3
 Chain of Vapor | 1
@@ -1094,17 +1098,17 @@ Disdainful Stroke | 5
 Dismiss | 3
 Dispel | 6
 Disperse | 5
-Dissipate | 3
+Dissipate | 2
 Dissolve | 2
 Domineering Will | 2
 Dream Fracture | 3
 Dream Twist | 1
 Engulf the Shore | 2
 Epiphany at the Drownyard | 1
-Essence Flux | 2
+Essence Flux | 1
 Essence Scatter | 4
 Evacuation | 2
-Excude | 3
+Excude | 2
 Fated Infatuation | 1
 Flash of Insight | 2
 Fleeting Distraction | 1
@@ -1115,7 +1119,7 @@ Geist Snatch | 3
 Grip of Amnesia | 1
 Griptide | 4
 Hubris | 4
-Hurkyl's Recall | 2
+Hurkyl's Recall | 1
 Hydrolash | 1
 Inspiration | 4
 Intellectual Offering | 3
@@ -1126,7 +1130,7 @@ Jace's Ingenuity | 3
 Keep Watch | 2
 Kiora's Dismissal | 1
 Learn from the Past | 2
-Long-Term Plans | 1
+Long-Term Plans | 0
 Lost in the Mist | 1
 Machinate | 1
 Mana Leak | 5
@@ -1152,13 +1156,13 @@ Regress | 1
 Remove Soul | 1
 Repulse | 1
 Retraction Helix | 4
-Scatter Arc | 2
+Scatter Arc | 1
 Second Guess | 1
 Silumgar's Scorn | 1
 Snap | 1
 Spell Blast | 3
 Spell Rupture | 1
-Spell Shrivel | 4
+Spell Shrivel | 3
 Spy Network | 1
 Squelch | 1
 Statue of Denial | 4
@@ -1169,7 +1173,7 @@ Stymied Hopes | 4
 Sudden Storm | 
 Summoner's Bane | 3
 Sweep Away | 2
-Telling Time | 1
+Telling Time | 0
 Thassa's Rebuff | 3
 Think Twice | 1
 Thought Scour | 2
