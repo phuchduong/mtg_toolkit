@@ -307,6 +307,7 @@ Tireless Missionaries |
 Topan Freeblade | 
 Topplegeist | 
 Trained Caracal | 
+Trap Digger |
 Trap Runner |
 Traveling Philosopher | 
 Trenching Steed |
@@ -905,6 +906,7 @@ Spiteful Shadows |
 Sultai Runemark |
 Vessel of Malignity |
 Weakness |
+Weight of the Underworld |
 ### Sorcery < B
 Card |
 --- |
@@ -926,7 +928,7 @@ Rakshasa's Secret |
 Rancid Rats |
 Rats' Feast | 
 Reave Soul | 
-Rite of Serpent |
+Rite of the Serpent |
 Self-Inflicted Wound |
 Sip of Hemlock |
 Spiteful Blow |
@@ -969,6 +971,7 @@ Wring Flesh |
 ## Artifact < B
 Card |
 --- |
+Black Mana Battery |
 Nim Replica |
 Throne of Bone |
 ## Red
@@ -1089,6 +1092,7 @@ Russet Wolves |
 Orcish Spy |
 Sabertooth Outrider |
 Sabretooth Tiger |
+Savage Firecat
 Scrapyard Mongrel |
 Satyr Rambler |
 Scalding Devil |
@@ -1133,6 +1137,7 @@ Ghirapur ther Grid |
 Guise of Fire |
 Immolation |
 Infectious Bloodlust |
+Infectious Rage |
 Inferno Fist |
 Kamahl's Desire |
 Lightning Diadem |
@@ -1448,6 +1453,7 @@ Vine Snare |
 Vivify |
 Wandering Stream |
 ### Artifact < G
+Green Mana Battery |
 Shrine of Boundless Growth |
 ## White + Blue
 ### Creature < W/U
