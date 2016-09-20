@@ -14,4 +14,18 @@ Yellow | Gloss | Max Protection | Talrand Spare | 21
 Yellow | Matte | Ultra Pro | | ~110
 Yellow, Faded | Matte | Unknown | | 2
 
-Daxos, Needs grey sleeves, will get white sleeves.
+2016
+Daxos, Needs grey sleeves, will get white sleeves in return.
+
+2015
+Daretti, needs red sleeves.
+Rebuild Teferi, blue sleeves
+Rebuild Freyalise, green sleeves
+Ob Nixilis, black sleeves
+
+2014
+Prosh, brown sleeves, already have.
+Derevi, light teal sleeves.
+Oloro, greyish blue?
+Jeleva, dark purple
+Rebuild Naya, light brown

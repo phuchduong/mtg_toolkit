@@ -1939,7 +1939,7 @@ Tibalt, the Fiend-Blooded | 1
 Card | Qt
 --- | ---
 Act On Impulse | 2
-Act of Treason | 6
+Act of Treason | 4
 Alpha Brawl | 2
 Anarchy | 1
 Arc Lightning | 3
@@ -1955,7 +1955,7 @@ Cone of Flame | 2
 Consuming Bonfire | 1
 Cleaver Riot | 1
 Craterize | 3
-Demolish | 7
+Demolish | 4
 Devil's Play | 1
 Devils' Playground | 1
 Dragon Fodder | 8
@@ -2015,7 +2015,8 @@ Traitorous Instinct | 4
 Tribal Flames | 1
 Turn to Slag | 3
 Twinflame | 2
-Vandalize | 5
+Vandalblast | 1
+Vandalize | 4
 Volcanic Hammer | 3
 Warp World | 1
 Wheel of Fate | 2
@@ -2100,9 +2101,9 @@ Tears of Rage | 1
 Tears of Valakut | 2
 Temur Battle Rage | 3
 Thunder Strike | 1
-Titan's Strength | 7
+Titan's Strength | 4
 Turn Against | 2
-Trumpet Blast | 5
+Trumpet Blast | 4
 Uncaged Fury | 1
 Vampiric Fury | 3
 Violent Eruption | 1
@@ -2146,7 +2147,7 @@ Birchlore Rangers | 1
 Blisterpod | 2
 Bond Beetle | 3
 Boneyard Wurm | 1
-Borderland Rnager | 5
+Borderland Ranger | 5
 Bosk Banneret | 1
 Brawn | 2
 Briarbridge Patrol | 1
@@ -2180,7 +2181,7 @@ Druid Lyrist | 1
 Duskwatch Recruiter | 1
 Dwynen's Elite | 3
 Elderscale Wurm | 1
-Elvish Mystic | 10
+Elvish Mystic | 8
 Elvish Piper | 1
 Elvish Skysweeper | 1
 Elvish Visionary | 5
@@ -2250,7 +2251,7 @@ Lys Alana Huntmaster | 2
 Managorger Hydra | 1
 Marsh Viper | 4
 Masked Admirers | 1
-Maze Behemoth | 7
+Maze Behemoth | 4
 Meandering Towershell | 5
 Mistcutter Hydra | 1
 Mold Shambler | 1
@@ -2286,11 +2287,11 @@ Ravenous Baloth | 1
 Reclamation Sage | 2
 Reverent Hunter | 1
 Roaring Primadox | 4
-roaring Slagwurm | 1
+Roaring Slagwurm | 1
 Rot Shambler | 2
 Sakura-Tribe Elder | 2
 Salt Road Ambushers | 1
-Saruli Gatekeepers | 5
+Saruli Gatekeepers | 4
 Satyr Wayfinder | 5
 Scavenging Ooze | 0
 Scion of the Wild | 1
@@ -2327,7 +2328,7 @@ Sylvan Primordial | 2
 Sylvan Ranger | 1
 Sylvan Safekeeper | 1
 Tajuru Warcaller | 2
-Temur Sabertooth | 2
+Temur Sabertooth | 3
 Temur War Shaman | 1
 Terastodon | 2
 Terra Stomper | 2
@@ -2344,7 +2345,7 @@ Titania's Chosen | 1
 Tornado Elemental | 1
 Treetop Scout | 2
 Tribal Forcemage | 1
-Tukatongue Thallid | 2
+Tuskatongue Thallid | 2
 Tusked Colossodon | 1
 Tuskguard Captain | 2
 Ulvenwald Hydra | 1
@@ -2352,7 +2353,7 @@ Ulvenwald Tracker | 1
 Undergrowth Scavenger| 4
 Unstoppable Ash | 1
 Venom Sliver | 2
-Verduran Enchantress | 1
+Verduran Enchantress | 0
 Vine Trellis | 1
 Vinelasher Kudzu | 2
 Void Attendant | 2
@@ -2406,7 +2407,7 @@ Carpet of Flowers | 1
 Concordant Crossroads | 1
 Crawling Sensation | 2
 Crop Sigil | 1
-Curse of Predation | 1
+Curse of Predation | 0
 Descendants' Path | 1
 Dictate of Karametra | 2
 Dragon Fangs | 1
@@ -2424,7 +2425,7 @@ Frontier Siege | 3
 Fruit of the First Tree | 1
 Gaea's Touch | 1
 Ground Seal | 1
-Karametra's Favor | 5
+Karametra's Favor | 4
 Hall of Gemstone | 1
 Honden of Life's Web | 1
 Instill Energy | 1
@@ -2434,7 +2435,7 @@ Lure | 4
 Lurking Predators | 1
 Mana Bloom | 1
 Manabond | 1
-Market Festival | 6
+Market Festival | 5
 Nylea's Presence | 4
 Oath of the Ancient Wood | 1
 Obscuring Aether | 3
@@ -2442,17 +2443,17 @@ Ooze Flux | 2
 Ordeal of Nylea | 3
 Parallel Lives | 1
 Primal Rage | 1
-Rancor | 0
+Rancor | 1
 Raised By Wolves | 3
 Regeneration | 2
 Retreat To Kazandu | 1
 Rites of Flourishing | 1
 Seton's Desire | 1
-Sheltered Aerie | 5
+Sheltered Aerie | 4
 Sight of the Scalelords | 1
-Spawning Grounds | 1
+Spawning Grounds | 0
 Squirrel Nest | 1
-Strength of the Fallen | 5
+Strength of the Fallen | 4
 Temur Runemark | 4
 Trail of Mystery | 1
 Trollhide | 3
@@ -2487,13 +2488,13 @@ Bramblecrush | 4
 Bountiful Harvest | 1
 Call the Scions | 4
 Commune With Nature | 1
-Collective Unconscious | 1
+Collective Unconscious | 0
 Creeping Corrosion | 2
 Creeping Renaissance | 1
 Culling Mark | 4
 Cultivate | 1
 Descreation Plague | 4
-Desert Twister | 2
+Desert Twister | 1
 Earthen Arms | 3
 Enlarge | 4
 Epic Confrontation | 4
@@ -2524,13 +2525,13 @@ Life's Legacy | 1
 Map the Wastes | 4
 Monstrous Growth | 3
 Nature's Lore | 4
-Nissa's Expedition | 2
+Nissa's Expedition | 3
 Nissa's Pilgrimage | 3
 Nissa's Revelation | 2
 One Dozen Eyes | 1
-Overrun | 1
+Overrun | 0
 Overwhelm | 1
-Overwhelming Stampede | 1
+Overwhelming Stampede | 0
 Peregrination | 3
 Phytoburst | 4
 Predatory Rampage | 1
@@ -2584,7 +2585,7 @@ Become Immense | 3
 Burst of Strength | 3
 Chord of Calling | 1
 Chorus of Might | 4
-Clinging Mists | 5
+Clinging Mists | 4
 Clip Wings | 4
 Confront the Unknown | 4
 Consign to Dust | 2
@@ -2615,7 +2616,7 @@ Naturalize | 10
 Nature's Claim | 4
 Plummet | 5
 Predator's Rapport | 4
-Ranger's Guile | 5
+Ranger's Guile | 4
 Reclaim | 3
 Return to the Earth | 4
 Rootgrapple | 1
@@ -3077,7 +3078,7 @@ Silmugar Monument | 3
 ### Land < U/B
 Card | Qt
 --- | ---
-Choked Estuary | 
+Choked Estuary | 1
 Dimir Aqueduct | 2
 Dimir Guildgate | 11
 Dismal Backwater | 7
@@ -3216,11 +3217,11 @@ Card | Qt
 --- | ---
 Kiora, Master of the Depths | 1
 Kiora, the Crashing Wave | 1
-Tracker's Instincts | 1
 ### Sorcery < U/G
 Card | Qt
 --- | ---
 Give // Take | 1
+Tracker's Instincts | 1
 Unexpected Results | 1
 Urban Evolution | 5
 ### Instant < U/G
@@ -3333,7 +3334,6 @@ Card | Qt
 --- | ---
 Akoum Refuge | 3
 Bloodfell Caves | 6
-Bloodstained Mire | 2
 Cinder Barrens | 1
 Molten Slagheap | 1
 Rakdos Carnarium | 2
@@ -3451,7 +3451,7 @@ Rubblebelt Raiders | 1
 Satyr Hedonist | 5
 Savage Ventmaw | 3
 Skarrg Guildmage | 1
-Spellbreaker Behemoth | 3
+Spellbreaker Behemoth | 2
 Ulrich's Kindred | 1
 Valley Rannet | 2
 Zendikar Incarnate | 2
@@ -3519,297 +3519,550 @@ Rootbound Crag | 1
 Rugged Highlands | 6
 Skarrg, the Rage Pits | 1
 Temple of Abandon | 3
-Wooded Foothills | 1
-## White + Blue + Green, Bant
-### Creature < BANT
+## WUG
+### Creature < Bant
 Card | Qt
 --- | ---
-
-### Enchantment < BANT
+Aerie Mystics | 
+Angus Mackenzie | 
+Arcades Sabboth | 
+Bant Battlemage | 
+Bant Sojourners | 
+Bant Sureblade | 
+Civic Guildmage | 
+Derevi, Empyrial Tactician | 
+Diamond Faerie | 
+Empyrial Archangel | 
+Giltspire Avenger | 
+Jenara, Asura of War | 
+Messenger Falcons | 
+Noble Hierarch | 
+Phelddagrif | 1
+Questing Phelddagrif | 
+Rafiq of the Many | 
+Ragnar | 
+Rhox War Monk | 
+Roon of the Hidden Realm | 
+Rubinia Soulsinger | 
+Skyward Eye Prophets | 
+Stoic Angel | 
+Storm Spirit | 
+Sunscape Apprentice | 
+Sunscape Battlemage | 
+Sunscape Master | 
+Treva's Attendant | 
+Treva, the Renewer | 
+Waveskimmer Aven | 
+### Enchantment < Bant
 Card | Qt
 --- | ---
-
-### Planeswalker < BANT
+Crystallization | 
+Finest Hour | 
+### Sorcery < Bant
 Card | Qt
 --- | ---
-
-### Sorcery < BANT
+Beck | 1
+Call | 1
+Clarion Ultimatum | 
+Demand | 
+Supply | 
+Wargate | 
+### Instant < Bant
 Card | Qt
 --- | ---
-
-### Instant < BANT
+Bant Charm | 
+Flurry of Wings | 
+Resounding Silence | 
+Treva's Charm | 
+### Artifact < Bant
 Card | Qt
 --- | ---
-
-### Artifact < BANT
+Obelisk of Bant | 
+### Land < Bant
 Card | Qt
 --- | ---
-
-### Land < BANT
+Aysen Abbey | 
+Irrigation Ditch | 
+Seaside Citadel | 
+Treva's Ruins | 1
+## WUB
+### Creature < Esper
 Card | Qt
 --- | ---
-
-## White + Blue + Black, Esper
-### Creature < ESPER
+Arsenal Thresher | 
+Chromium | 
+Dakkon Blackblade | 
+Dromar's Attendant | 
+Dromar, the Banisher | 
+Enigma Sphinx | 
+Ertai, the Corrupted | 
+Esper Battlemage | 
+Esper Sojourners | 
+Esper Stormblade | 
+Ethersworn Adjudicator | 
+Halfdane | 
+Lady Evangela | 
+Magister Sphinx | 
+Merieke Ri Berit | 
+Oloro, Ageless Ascetic | 1
+Scornful Æther-Lich | 
+Sen Triplets | 
+Shaper Guildmage | 
+Sharuum the Hegemon | 
+Sludge Strider | 
+Sphinx Sovereign | 
+Sphinx of the Steel Wind | 
+Stormscape Apprentice | 
+Stormscape Battlemage | 
+Stormscape Master | 
+Sydri, Galvanic Genius | 
+Tower Gargoyle | 1
+Wandering Mage | 
+Windwright Mage | 
+Zur the Enchanter | 
+### Sorcery < Esper
 Card | Qt
 --- | ---
-
-### Enchantment < ESPER
+Brilliant Ultimatum | 
+### Instant < Esper
 Card | Qt
 --- | ---
-
-### Planeswalker < ESPER
+Dromar's Charm | 
+Error | 
+Esper Charm | 
+Punish Ignorance | 
+Resounding Wave | 
+Trial | 
+### Artifact < Esper
 Card | Qt
 --- | ---
-
-### Sorcery < ESPER
+Etherwrought Page | 
+Obelisk of Esper | 
+Thopter Foundry | 1
+### Land < Esper
 Card | Qt
 --- | ---
-
-### Instant < ESPER
+Ancient Spring | 
+Arcane Sanctum | 
+Dromar's Cavern | 
+Wizards' School | 
+## UBR
+### Creature < Grixis
 Card | Qt
 --- | ---
-
-### Artifact < ESPER
+Blood Tyrant | 
+Crosis's Attendant | 
+Crosis, the Purger | 
+Dreadwing | 
+Fire-Field Ogre | 
+Garza Zol, Plague Queen | 
+Grixis Battlemage | 
+Grixis Grimblade | 
+Grixis Sojourners | 
+Gwendlyn Di Corci | 
+Jeleva, Nephalia's Scourge | 
+Kederekt Creeper | 
+Krovikan Elementalist | 
+Lord of Tresserhorn | 
+Marchesa, the Black Rose | 
+Mishra, Artificer Prodigy | 
+Morgue Toad | 
+Nekusar, the Mindrazer | 
+Nicol Bolas | 
+Nightscape Apprentice | 
+Nightscape Battlemage | 
+Nightscape Master | 
+Prince of Thralls | 
+Sedraxis Specter | 
+Sedris, the Traitor King | 
+Sewn-Eye Drake | 
+Shadow Guildmage | 
+Sol'kanar the Swamp King | 
+Tetsuo Umezawa | 
+Thraximundar | 1
+### Enchantment < Grixis
 Card | Qt
 --- | ---
-
-### Land < ESPER
+Elder Mastery | 
+Elemental Augury | 
+Phyrexian Tyranny | 
+### Planeswalker < Grixis
 Card | Qt
 --- | ---
-
-## Blue + Black + Red, Grixis
-### Creature < GRIXIS
+Nicol Bolas, Planeswalker | 
+### Sorcery < Grixis
 Card | Qt
 --- | ---
-
-### Enchantment < GRIXIS
+Breaking | 2
+Cruel Ultimatum | 1
+Drastic Revelation | 
+Entering | 2
+Fall | 
+Resounding Scream | 
+Rise | 
+Slave of Bolas | 
+### Instant < Grixis
 Card | Qt
 --- | ---
-
-### Planeswalker < GRIXIS
+Crosis's Charm | 1
+Grixis Charm | 1
+### Artifact < Grixis
 Card | Qt
 --- | ---
-
-### Sorcery < GRIXIS
+Obelisk of Grixis | 1
+Unscythe, Killer of Kings | 
+### Land < Grixis
 Card | Qt
 --- | ---
-
-### Instant < GRIXIS
+Castle Sengir | 
+Crosis's Catacombs | 
+Crumbling Necropolis | 
+Sulfur Vent | 
+## BRG
+### Creature < Jund
 Card | Qt
 --- | ---
-
-### Artifact < GRIXIS
+Adun Oakenshield | 
+Armorer Guildmage | 
+Bartel Runeaxe | 
+Broodmate Dragon | 
+Caldera Kavu | 
+Carrion Thrash | 
+Charnelhoard Wurm | 
+Darigaaz's Attendant | 
+Darigaaz, the Igniter | 
+Giant Ambush Beetle | 
+Hellkite Overlord | 
+Jund Battlemage | 
+Jund Hackblade | 
+Jund Sojourners | 
+Karrthus, Tyrant of Jund | 
+Kresh the Bloodbraided | 
+Madrush Cyclops | 
+Orcish Healer | 
+Prossh, Skyraider of Kher | 
+Scarland Thrinax | 
+Sek'Kuar, Deathkeeper | 
+Shattergang Brothers | 
+Sprouting Thrinax | 
+Thunderscape Battlemage | 
+Thunderscape Master | 
+Vaevictis Asmadi | 
+Viashino Slaughtermaster | 
+Xira Arien | 
+### Enchantment < Jund
 Card | Qt
 --- | ---
-
-### Land < GRIXIS
+Destructive Flow | 
+Dragon Appeasement | 
+Earthlink | 
+Keldon Mantle | 
+Sangrite Backlash | 
+### Sorcery < Jund
 Card | Qt
 --- | ---
-
-## Blue + Red + Green, Jund
-### Creature < JUND
+Blood | 
+Flesh | 
+Lavalanche | 
+Misfortune | 
+Violent Ultimatum | 
+### Instant < Jund
 Card | Qt
 --- | ---
-
-### Enchantment < JUND
+Darigaaz's Charm | 
+Hit | 
+Jund Charm | 
+Resounding Thunder | 
+Run | 
+### Artifact < Jund
 Card | Qt
 --- | ---
-
-### Planeswalker < JUND
+Obelisk of Jund | 
+### Land < Jund
 Card | Qt
 --- | ---
-
-### Sorcery < JUND
+Darigaaz's Caldera | 
+Geothermal Crevice | 
+Koskun Keep | 
+Savage Lands | 
+## WRG
+### Creature < Naya
 Card | Qt
 --- | ---
-
-### Instant < JUND
-Card | Qt
---- | ---
-
-### Artifact < JUND
-Card | Qt
---- | ---
-
-### Land < JUND
-Card | Qt
---- | ---
-
-## White + Red + Green, Naya
-### Creature < NAYA
-Card | Qt
---- | ---
+Cylian Sunsinger | 
+Druid of the Anima | 
+Gahiji, Honored One | 
+Gloryscale Viashino | 
+Godsire | 
+Granger Guildmage | 
+Hazezon Tamar | 
+Jacques le Vert | 
+Johan | 
+Knotvine Mystic | 
+Marath, Will of the Wild | 
+Marisi's Twinclaws | 
 Mayael the Anima | 1
-### Enchantment < NAYA
+Meglonoth | 1
+Mirrorwood Treefolk | 
+Nacatl Hunt-Pride | 
+Naya Battlemage | 
+Naya Hushblade | 
+Naya Sojourners | 
+Palladia-Mors | 
+Radiant Kavu | 
+Rakeclaw Gargantuan | 
+Realm Razer | 
+Retaliator Griffin | 
+Rith's Attendant | 
+Rith, the Awakener | 
+Sacellum Archers | 
+Skyshroud Elf | 
+Tamanoa | 
+Thornscape Apprentice | 
+Thornscape Battlemage | 
+Thornscape Master | 
+Uril, the Miststalker | 
+Woolly Thoctar | 
+### Enchantment < Naya
 Card | Qt
 --- | ---
-
-### Planeswalker < NAYA
+Mayael's Aria | 
+Trace of Abundance | 
+Winter's Night | 
+### Sorcery < Naya
 Card | Qt
 --- | ---
-
-### Sorcery < NAYA
+Fiery Justice | 
+Pure | 
+Simple | 
+Titanic Ultimatum | 
+### Instant < Naya
 Card | Qt
 --- | ---
-
-### Instant < NAYA
+Naya Charm | 
+Resounding Roar | 
+Rith's Charm | 
+### Artifact < Naya
 Card | Qt
 --- | ---
-
-### Artifact < NAYA
+Obelisk of Naya | 
+### Land < Naya
 Card | Qt
 --- | ---
-
-### Land < NAYA
+An-Havva Township | 
+Jungle Shrine | 
+Rith's Grove | 
+Tinder Farm | 
+## WBG
+### Creature < Abzan
 Card | Qt
 --- | ---
-
-## White + Black + Green, Abzan
-### Creature < ABZAN
+Abzan Guide | 
+Anafenza, the Foremost | 
+Armament Corps | 2
+Daghatar the Adamant | 
+Doran, the Siege Tower | 
+Ghave, Guru of Spores | 
+Ivorytusk Fortress | 1
+Karador, Ghost Chieftain | 
+Necravolver | 
+Siege Rhino | 
+Teneb, the Harvester | 
+Warden of the First Tree | 
+### Enchantment < Abzan
 Card | Qt
 --- | ---
-
-### Enchantment < ABZAN
+Abzan Ascendancy | 2
+Overgrown Estate | 
+### Sorcery < Abzan
 Card | Qt
 --- | ---
-
-### Planeswalker < ABZAN
+Crime | 
+Duneblast | 1
+Punishment | 
+### Instant < Abzan
 Card | Qt
 --- | ---
-
-### Sorcery < ABZAN
+Abzan Charm | 1
+Ready | 
+Willing | 
+### Artifact < Abzan
 Card | Qt
 --- | ---
-
-### Instant < ABZAN
+Abzan Banner | 5
+### Land < Abzan
 Card | Qt
 --- | ---
-
-### Artifact < ABZAN
+Murmuring Bosk | 
+Sandsteppe Citadel | 
+## WUR
+### Creature < Jeskai
 Card | Qt
 --- | ---
-
-### Land < ABZAN
+Efreet Weaponmaster | 
+Kavu Glider | 
+Lightning Angel | 
+Mantis Rider | 3
+Narset, Enlightened Master | 
+Numot, the Devastator | 
+Raka Disciple | 
+Rakavolver | 
+Ruhan of the Fomori | 
+Sage of the Inward Eye | 
+Shu Yun, the Silent Tempest | 
+Soulfire Grand Master | 
+Warden of the Eye | 2
+Zedruu the Greathearted | 1
+### Enchantment < Jeskai
 Card | Qt
 --- | ---
-
-## White + Blue + Red, Jeskai
-### Creature < JESKAI
+Jeskai Ascendancy | 
+Wild Research | 
+### Sorcery < Jeskai
 Card | Qt
 --- | ---
-
-### Enchantment < JESKAI
+Catch | 1
+Release | 1
+### Instant < Jeskai
 Card | Qt
 --- | ---
-
-### Planeswalker < JESKAI
+Ends | 
+Flying Crane Technique | 1
+Jeskai Charm | 2
+Odds | 
+When | 
+### Artifact < Jeskai
 Card | Qt
 --- | ---
-
-### Sorcery < JESKAI
+Jeskai Banner | 4
+### Land < Jeskai
 Card | Qt
 --- | ---
-
-### Instant < JESKAI
+Mystic Monastery | 3
+## UBG
+### Creature < Sultai
 Card | Qt
 --- | ---
-
-### Artifact < JESKAI
+Abomination of Gudul | 
+Ana Battlemage | 
+Ana Disciple | 
+Anavolver | 
+Damia, Sage of Stone | 
+Fungal Shambler | 
+Kheru Lich Lord | 
+Rakshasa Vizier | 2
+Savage Gorilla | 
+Sidisi, Brood Tyrant | 3
+Sultai Soothsayer | 2
+Tasigur, the Golden Fang | 1
+The Mimeoplasm | 
+Torrent Elemental | 
+Urborg Elf | 1
+Vorosh, the Hunter | 
+### Enchantment < Sultai
 Card | Qt
 --- | ---
-
-### Land < JESKAI
+Sultai Ascendancy | 
+### Sorcery < Sultai
 Card | Qt
 --- | ---
-
-## Blue + Black + Green, Sultai
-### Creature < SULTAI
+Villainous Wealth | 1
+### Instant < Sultai
 Card | Qt
 --- | ---
-
-### Enchantment < SULTAI
+Bound | 
+Determined | 
+Sultai Charm | 1
+### Artifact < Sultai
 Card | Qt
 --- | ---
-
-### Planeswalker < SULTAI
+Sultai Banner | 2
+### Land < Sultai
 Card | Qt
 --- | ---
-
-### Sorcery < SULTAI
+Opulent Palace | 4
+## WBR
+### Creature < Mardu
 Card | Qt
 --- | ---
-
-### Instant < SULTAI
+Alesha, Who Smiles at Death | 
+Ankle Shanker | 2
+Brutal Hordechief | 1
+Butcher of the Horde | 1
+Dega Disciple | 
+Degavolver | 
+Kaalia of the Vast | 
+Mardu Roughrider | 2
+Oros, the Avenger | 
+Ponyback Brigade | 4
+Tariel, Reckoner of Souls | 
+Zurgo Helmsmasher | 1
+### Enchantment < Mardu
 Card | Qt
 --- | ---
-
-### Artifact < SULTAI
+Fervent Charge | 
+Manacles of Decay | 
+Mardu Ascendancy | 
+### Instant < Mardu
 Card | Qt
 --- | ---
-
-### Land < SULTAI
+Crackling Doom | 
+Hide | 
+Mardu Charm | 1
+Seek | 
+### Artifact < Mardu
 Card | Qt
 --- | ---
-
-## White + Black + Red, Mardu
-### Creature < MARDU
+Mardu Banner | 5
+### Land < Mardu
 Card | Qt
 --- | ---
-
-### Enchantment < MARDU
+Nomad Outpost | 2
+## URG
+### Creature < Temur
 Card | Qt
 --- | ---
-
-### Planeswalker < MARDU
+Animar, Soul of Elements | 
+Avalanche Tusker | 
+Bear's Companion | 3
+Ceta Disciple | 
+Cetavolver | 
+Intet, the Dreamer | 
+Maelstrom Wanderer | 
+Rattleclaw Mystic | 
+Riku of Two Reflections | 
+Savage Knuckleblade | 1
+Shaman of the Great Hunt | 
+Snowhorn Rider | 
+Surrak Dragonclaw | 
+Yasova Dragonclaw | 
+### Enchantment < Temur
 Card | Qt
 --- | ---
-
-### Sorcery < MARDU
+Temur Ascendancy | 2
+### Planeswalker < Temur
 Card | Qt
 --- | ---
-
-### Instant < MARDU
+Sarkhan Unbroken | 
+### Sorcery < Temur
 Card | Qt
 --- | ---
-
-### Artifact < MARDU
+Guided Passage | 
+### Instant < Temur
 Card | Qt
 --- | ---
-
-### Land < MARDU
+Development | 
+Research | 
+Temur Charm | 2
+Trap Essence | 1
+### Artifact < Temur
 Card | Qt
 --- | ---
-
-## Blue + Red + Green, Temur
-### Creature < TEMUR
+Temur Banner | 4
+### Land < Temur
 Card | Qt
 --- | ---
-
-### Enchantment < TEMUR
-Card | Qt
---- | ---
-
-### Planeswalker < TEMUR
-Card | Qt
---- | ---
-
-### Sorcery < TEMUR
-Card | Qt
---- | ---
-
-### Instant < TEMUR
-Card | Qt
---- | ---
-
-### Artifact < TEMUR
-Card | Qt
---- | ---
-
-### Land < TEMUR
-Card | Qt
---- | ---
-
+Frontier Bivouac | 5
 ## White + Blue + Black + Red + Green, WUBRG
 ### Creature < WUBRG
 Card | Qt
