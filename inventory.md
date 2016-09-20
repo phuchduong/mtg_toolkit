@@ -87,6 +87,8 @@ Ulamog the Ceaseless Hunger | 1
 Void Winnower | 1
 ## Colorless
 ### Planeswalker < C
+Card | Qt
+--- | ---
 Ugin, the Spirit Dragon | 1
 ### Sorcery < C
 Card | Qt
