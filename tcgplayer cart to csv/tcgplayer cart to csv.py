@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 html_file = "C:/Users/phuc/Downloads/temp tcg cart/card.html"
 
 # Classes
-card_n_set_class = "sellerWrapMarket"
+card_n_set_class = "itemsContents"
 rarity_n_condition_class = "detailsContents"
 price_class = "priceBox"
 quantity_class = "qtyBox"
@@ -16,10 +16,23 @@ cart_soup = BeautifulSoup(raw_html, "html.parser")
 card_dict = {}
 
 # Grab card and set
-= cart_soup.find_all("div", class_=card_n_set_class)
-= cart_soup.find_all("div", class_=rarity_n_condition_class)
-= cart_soup.find_all("div", class_=price_class)
-= cart_soup.find_all("div", class_=quantity_class)
+card_n_set_rs = cart_soup.find_all("div", class_=card_n_set_class)
+for block in card_n_set_rs:
+    print(block.h3.a.string)
+
+
+# rarity_n_condition_rs = cart_soup.find_all("div", class_=rarity_n_condition_class)
+# for block in rarity_n_condition_rs:
+
+
+# price_rs = cart_soup.find_all("div", class_=price_class)
+# for block in price_rs:
+
+
+# quantity_rs = cart_soup.find_all("div", class_=quantity_class)
+# for block in quantity_rs:
+
+
 
 # loops through each distributor
-for distributor in distributors_sections:
+# for distributor in distributors_sections:
