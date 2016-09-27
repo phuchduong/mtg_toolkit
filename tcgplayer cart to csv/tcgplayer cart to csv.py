@@ -18,11 +18,16 @@ card_dict = {}
 # Grab card and set
 card_n_set_rs = cart_soup.find_all("div", class_=card_n_set_class)
 for block in card_n_set_rs:
-    print(block.h3.a.string)
+    card_name = block.h3.a.string
+    card_set =  block.p.string.replace(" - Magic", "")
 
+    card_dict[card_name] = {}
+    card_dict[card_name]["set"] = card_set
 
-# rarity_n_condition_rs = cart_soup.find_all("div", class_=rarity_n_condition_class)
-# for block in rarity_n_condition_rs:
+    # finds rarity and condition of card
+    rarity_n_condition_rs = cart_soup.find_all("div", class_=rarity_n_condition_class)
+    for block in rarity_n_condition_rs:
+        rarity = block.p.string.replace("Rarity: ", "")
 
 
 # price_rs = cart_soup.find_all("div", class_=price_class)
@@ -36,3 +41,5 @@ for block in card_n_set_rs:
 
 # loops through each distributor
 # for distributor in distributors_sections:
+
+print(card_dict)
