@@ -8,13 +8,13 @@
 1x Archivist
 1x Armillary Sphere
 1x Assault Suit
-1x Brainstorm
 1x Buried Ruin
 1x Burnished Hart
 1x Caged Sun
 1x Clever Impersonator
 1x Cloud Key
 1x Copy Artifact
+1x Crystal Shard
 1x Darksteel Forge
 1x Darksteel Plate
 1x Doubling Cube
@@ -29,12 +29,10 @@
 1x Halimar Depths
 1x Hedron Archive
 1x High Tide
-1x Hurkyl's Recall
 1x Illusionist's Bracers
 26x Island
 1x Long-Term Plans
 1x Magnifying Glass
-1x Master Transmuter
 1x Minamo, School at Water's Edge
 1x Mind Stone
 1x Mind's Desire
@@ -51,6 +49,7 @@
 1x Rite of Replication
 1x Sculpting Steel
 1x Seat of the Synod
+1x Semblance Anvil
 1x Sky Diamond
 1x Sol Ring
 1x Solemn Simulacrum
@@ -63,6 +62,7 @@
 1x Thought Vessel
 1x Thousand-Year Elixir
 1x Thran Dynamo
+1x Tidespout Tyrant
 1x Trading Post
 1x Training Grounds
 1x Treasure Hunt (WWK)

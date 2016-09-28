@@ -1,8 +1,10 @@
-1x Chandra, Torch of Defiance
-1x Dack Fayden
-1x Izzet Boilerworks
-1x Jace, Memory Adept
-1x Liliana of the Dark Realms
-1x Rakdos Carnarium
-1x Ral Zarek
-1x Ugin, the Spirit Dragon
+1x Act of Authority
+1x Aura of Silence
+1x Final Judgment
+1x Garruk Wildspeaker
+1x Grasp of Fate
+1x Greater Auramancy
+1x Mana Reflection
+1x Mana Web
+1x Panharmonicon
+1x Shielded by Faith
