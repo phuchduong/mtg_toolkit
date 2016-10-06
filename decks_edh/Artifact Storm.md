@@ -1,11 +1,13 @@
 1x Muzzio, Visionary Architect
+1x Saheeli's Artistry
+1x Aetherflux Reservoir
+1x Foundry Inspector
+1x Dramatic Reversal
+1x Padeem, Consul of Innovation
 1x Academy Ruins
-1x AEtherize
-1x AEtherspouts
 1x All Is Dust
 1x Altar of the Brood
 1x Amulet of Vigor
-1x Archivist
 1x Armillary Sphere
 1x Assault Suit
 1x Buried Ruin
@@ -22,7 +24,6 @@
 1x Druidic Satchel
 1x Etherium Sculptor
 1x Expedition Map
-1x Fog Bank
 1x Future Sight
 1x Gauntlet of Power
 1x Gilded Lotus
@@ -43,7 +44,6 @@
 1x Platinum Angel
 1x Platinum Emperion
 1x Propaganda
-1x Prototype Portal
 1x Reliquary Tower
 1x Retreat to Coralhelm
 1x Rite of Replication
