@@ -129,6 +129,7 @@ Crystal Ball | 2
 Crptolith Fragment | 1
 Darksteel Ingot | 2
 Darksteel Pendant | 1
+Deadlock Trap | 1
 Decimator Web | 1
 Dreamstone Hedron | 4
 Druidic Satchel | 2
@@ -156,12 +157,12 @@ Lantern of Insight | 1
 Lens of Clarity | 4
 Long-Forgotten Gohei | 1
 Loreseeker's Stone | 1
-Mana Web | 1
+Mana Web | 2
 Manalith | 2
 Meteorite | 5
 Millstone | 2
 Mindstone | 3
-Mirari | 0
+Mirari | 1
 Mirrorworks | 0
 Nevinyrral's Disk | 2
 Predator, Flagship | 1
@@ -172,19 +173,24 @@ Otherworld Atlas | 2
 Perilous Vault | 1
 Profane Memento | 2
 Prophetic Prism | 4
-Prototype Portal | 0
+Prototype Portal | 1
 Pyxis of Pandemonium | 1
 Ratchet Bomb | 1
 Relic of Progenitus | 2
 Sands of Delirium | 1
+Saphire Medallion | 2
 Scroll of Avacyn | 2
 Scroll of the Masters | 1
 Seer's Lantern | 5
 Seer's Sundial | 1
-Sol Ring | 3
+Sky Skiff | 1
+Sol Ring | 2
 Spine of Ish Sah | 1
 Springleaf Drum | 3
 Staff of Nin | 1
+Staff of the Death Magus | 5
+Staff of the Mind Magus | 4
+Staff of the Sun Magus | 4
 Sun Droplet | 1
 Surveyor's Scope | 3
 Tablet of the Guilds | 2
@@ -220,7 +226,8 @@ Clockwork Beast | 1
 Creepy Doll | 1
 Crenellated Wall | 1
 Guardians of Meletis | 4
-Hedron Crawler | 4
+Hedron Crawler | 0
+Multiform Wonder | 1
 Myr Adapter | 1
 Myr Battlesphere | 1
 One-Eyed Scarecrow | 2
@@ -228,7 +235,7 @@ Opaline Unicor | 4
 Ornithopter | 4
 Palladium Myr | 1
 Phyrexian Revoker | 2
-Pilgrim's Eye | 1
+Pilgrim's Eye | 0
 Precursor Golem | 1
 Runed Servitor | 3
 Shimmer Myr | 1
@@ -242,6 +249,7 @@ Thopter Assembly | 2
 Viseling | 1
 Walking Atlas | 6
 Wild-Field Scarecrow | 2
+Workshop Assistant | 1
 ### Artifact Equipment < C
 Card | Qt
 --- | ---
@@ -266,11 +274,14 @@ Haunted Cloak | 1
 Haunted Plate Mail | 4
 Helm of the Gods | 2
 Hero's Blade | 2
+Inventor's Goggles | 1
 Kitesail | 1
 Loxodon Warhammer | 1
 Mask of Avacyn | 1
 Neglected Heirloom | 1
 Prowler's Helm | 4
+Ring of Evos Isle | 2
+Ring of Xathrid | 2
 Rogue's Gloves | 1
 Runechanter's Pike | 1
 Sharpened Pitchfork | 3
@@ -285,7 +296,7 @@ Specter's Shroud | 1
 Spidersilk Net | 3
 Stoneforge Masterwork | 1
 Stormrider Rig | 1
-Swiftfoot Boots | 6
+Swiftfoot Boots | 5
 Sword of the Animist | 3
 Vanguard's Shield | 1
 Veteran's Armaments | 2
@@ -295,7 +306,7 @@ Worldslayer | 1
 ### Land < C
 Card | Qt
 --- | ---
-Bloodstained Mire | 1
+Bloodstained Mire | 3
 Buried Ruin | 1
 Crumbling Vestige | 2
 Crystal Vein | 1
@@ -311,12 +322,12 @@ Mage-Ring Network | 1
 Mana Confluence | 1
 Maze's End | 3
 Mikokoro, Center of the Sea | 1
-Myriad Landscape | 2
+Myriad Landscape | 1
 Nephalia Academy | 2
 Nykthos, Shrine to Nyx | 1
-Opal Palace | 1
+Opal Palace | 0
 Radiant Fountain | 6
-Reliquary Tower | 7
+Reliquary Tower | 4
 Rogue's Passage | 2
 Ruins of Oran-Rief | 1
 Rupture Spire | 2
@@ -325,9 +336,9 @@ Shimmering Grotto | 2
 Shrie of the Forsaken Gods | 1
 Sliver Hive | 1
 Tectonic Edge | 3
-Temple of the False God | 9
-Terrain Generator | 2
-Terramorphic Expense | 2
+Temple of the False God | 7
+Terrain Generator | 1
+Terramorphic Expense | 1
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
 Transguild Promenade | 5
@@ -337,7 +348,9 @@ Uzra's Factory | 1
 Urza's Mine | 2
 Urza's Power Plant | 2
 Urza's Tower | 1
-Warped Landscape | 5
+Warped Landscape | 4
+Windswept Heath | 1
+Wooded Foothills | 1
 Zoetic Cavern | 3
 ## White
 ### Creature < W
@@ -352,6 +365,7 @@ Akroan Skyguard | 4
 Anafenza, Kin-Tree Spirit | 1
 Angel of Glory's Rise | 1
 Angel of Jubilation | 1
+Angel of Serenity | 1
 Angelic Wall | 5
 Apex Hawks | 1
 Arashin Cleric | 1
@@ -370,6 +384,7 @@ Benevolent Bodyguard | 2
 Benalish Hero | 1
 Blessed Orator | 1
 Blessed Spirits | 2
+Blinding Angel | 1
 Bonescythe Sliver | 1
 Boonweaver Giant | 1
 Bygone Bishop | 4
@@ -377,7 +392,7 @@ Captain of the Watch | 1
 Cathar's Companion | 5
 Cavalry Pegasus | 4
 Cenn's Tactician | 3
-Champion of the Parish | 1
+Champion of the Parish | 2
 Charging Paladin | 1
 Cliffside Lookout | 4
 Conclave Phalanx | 1
@@ -386,7 +401,7 @@ Consul's Lieutenant | 2
 Court Street Denizen | 5
 Crusader of Odric | 1
 Daring Skyjek | 3
-Dawnbringer Charioteers | 1
+Dawnbringer Charioteers | 2
 Doomed Traveler | 4
 Dragon Bell Monk | 5
 Dragon Hunter | 1
@@ -396,10 +411,10 @@ Dromoka Captain | 2
 Elite Inquisitor | 1
 Elite Scaleguard | 3
 Emeria Angel | 1
-Emeria Sheperd | 1
+Emeria Sheperd | 3
 Enlightened Ascetic | 5
 Evangel of Heliod | 4
-Fabled Hero | 2
+Fabled Hero | 3
 Favored Hoplite | 4
 Felidar Cub | 4
 Fencing Ace | 4
@@ -423,7 +438,7 @@ Hero of Ioras | 2
 Hidden Dragonslayer | 1
 High Sentinels of Arashin | 1
 Hikari, Twilight Guardian | 1
-Hixus, Prison Warden | 1
+Hixus, Prison Warden | 2
 Imposing Sovereign | 1
 Inspiring Captain | 1
 Jeskai Barricade | 2
@@ -436,6 +451,7 @@ Kor Bladewhirl | 1
 Kor Duelist | 1
 Kor Entanglers | 2
 Kor Skyfisher | 1
+Kytheon's Irregulars | 
 Lagonna-Band Trailblazer | 4
 Lost Leonin | 1
 Lotus-Eye Mystics | 3
@@ -444,6 +460,7 @@ Magus of the Moat | 1
 Makindi Patrol | 2
 Mardu Hordechief | 2
 Mardu Woe-Reaper | 1
+Maze Sentinel | 4
 Mentor of the Meek | 1
 Mesa Enchantress | 2
 Midnight Guard | 4
@@ -457,6 +474,7 @@ Paragon of New Dawns | 1
 Patron of the Valiant | 2
 Phantom General | 1
 Pikemen | 2
+Precinct Captain | 1
 Preeminent Captain | 1
 Precinct Captain | 2
 Purity | 1
@@ -469,6 +487,7 @@ Salvage Scout | 1
 Sentinel of the Eternal Watch | 1
 Sentinel Sliver | 1
 Seraph of Dawn | 3
+Seraph of the Masses | 1
 Seraph of the Sword | 1
 Serene Master | 1
 Serene Steward | 1
@@ -588,6 +607,7 @@ First Response | 2
 Font of Vigor | 2
 Forced Worship | 1
 Fortified Area | 1
+Ghostly Prison | 2
 Gift of Immortality | 2
 Gleam of Authority | 1
 Gryff's Boon | 1
@@ -618,6 +638,7 @@ Oppressive Rays | 4
 Ordeal of Heliod | 3
 Pacifism | 7
 Path of Bavery | 1
+Quarantine Field | 1
 Rest in Peace | 1
 Retreat to Emeria | 3
 Sacred Ground | 1
@@ -629,7 +650,7 @@ Silkwrap | 1
 Skybind | 2
 Spear of Heliod | 2
 Spectra Ward | 2
-Sphere of Safety | 3
+Sphere of Safety | 2
 Spirit Bonds | 1
 Spiritual Asylum | 1
 Soul Tithe | 3
@@ -684,7 +705,7 @@ Swift Reckoning | 2
 Triplicate Spirits | 5
 Unified Front | 1
 Wake the Reflections | 4
-Wrath of God | 2
+Wrath of God | 1
 ### Instant < W
 Card | Qt
 --- | ---
@@ -724,7 +745,7 @@ Make A Stand | 1
 Pillar of Light | 3
 Quiet Purity | 1
 Raise the Alarm | 5
-Ray of Dissolution | 5
+Ray of Dissolution | 4
 Rebuke | 1
 Redeem the Lost | 1
 Renounce the Guilds | 1
@@ -749,7 +770,6 @@ Wing Shards | 3
 Card | Qt
 --- | ---
 Godsend | 1
-Staff of the Sun Magus | 4
 ### Land < W
 Card | Qt
 --- | ---
@@ -795,10 +815,10 @@ Clinging Anemones | 2
 Clone | 1
 Cloudfin Raptor | 4
 Cognivore | 1
-Coral Barrier | 5
+Coral Barrier | 4
 Consecrate Sphinx | 1
 Crookclaw Elder | 1
-Curious Humunculus | 1
+Curious Humunculus | 2
 Dakra Mystic | 4
 Daring Apprentice | 1
 Daring Sleuth | 1
@@ -828,12 +848,13 @@ Faerie Impostor | 1
 Faerie Miscreant | 4
 Fathom Seer | 3
 Fog Bank | 3
-Frost Titan | 3
 Frost Lynx | 4
+Frost Titan | 3
 Galerider Sliver | 1
 Ghosthelm Courier | 1
 Glacial Wall | 1
 Graceful Adept | 1
+Grand Architect | 1
 Gudul Lurker | 1
 Guile | 1
 Halimar Tidecaller | 1
@@ -868,8 +889,8 @@ Master Transmuter | 0
 Meletis Charlatan | 1
 Merchant of Secrets | 1
 Mercurial Pretender | 2
-Mindshrieker | 1
 Mindreaver | 1
+Mindshrieker | 1
 Mist Intruder | 4
 Mistfire Adept | 2
 Mistfire Weaver | 4
@@ -877,7 +898,7 @@ Mistform Sliver | 1
 Mizzium Meddler | 2
 Mnemonic Wall | 5
 Monastery Flock | 6
-Monastery Loremaster | 4
+Monastery Loremaster | 3
 Mothdust Changeling | 2
 Mulldrifter | 3
 Murmuring Phantasm | 5
@@ -894,7 +915,7 @@ Phantasmal Bear | 2
 Phantasmal Dragon | 5
 Phantom Warrior | 4
 Phyrexian Ingester | 3
-Prescient Chimera | 5
+Prescient Chimera | 4
 Prophet of Distortion | 1
 Prognostic Sphinx | 2
 Qarsi Deceiver | 1
@@ -907,7 +928,7 @@ Relentless Skaabs | 1
 Renowned Weaponsmith | 4
 Riddlesmith | 1
 Riptide Survivor | 3
-Rootwater Diver | 1
+Rootwater Diver | 2
 Ruination Guide | 4
 Sage Owl | 1
 Sage's Row Denizen | 5
@@ -996,7 +1017,7 @@ Archetype of Imagination | 4
 Bident of Thassa | 1
 Flitterstep Eidolon | 3
 Hypnotic Siren | 1
-Nimbus Naiad | 5
+Nimbus Naiad | 4
 Nyxborn Triton | 4
 Perplexing Chimera | 1
 Riptide Chimera | 2
@@ -1013,7 +1034,7 @@ Arcane Melee | 2
 Battle of Wits | 1
 Call of the Kindred | 1
 Chronic Flooding | 4
-Claustrophobia | 5
+Claustrophobia | 6
 Coastal Piracy | 1
 Compulsion | 2
 Confiscate | 1
@@ -1089,7 +1110,7 @@ Xenograft | 1
 Card | Qt
 --- | ---
 Acquire | 0
-Aether Gale | 2
+Aether Gale | 3
 Allied Strategis | 1
 Amass the Components | 2
 Anchor to the Aether | 2
@@ -1109,7 +1130,7 @@ Deep Analysis | 1
 Devastation Tide | 1
 Diminishing Returns | 2
 Distorting Wake | 3
-Divination | 10
+Divination | 6
 Donate | 1
 Dreadwaters | 6
 Enter the Infinite | 1
@@ -1120,29 +1141,29 @@ Flow of Ideas | 1
 Flux | 2
 Glimpse the Future | 2
 Hands of Binding | 3
-Hidden Strings | 5
+Hidden Strings | 4
 Inaction Injunction | 4
 Increasing Confusion | 1
 Index | 1
 Interpret the Signs | 1
 Into the Void | 1
 Inundate | 1
-Last Thoughts | 5
+Last Thoughts | 4
 Mass Appeal | 1
 Mind Sculpt  | 4
-Mind's Desire | 1
+Mind's Desire | 0
 Nagging Thoughts | 1
 Ojutai's Summons | 4
 Order of Succession | 1
-Part the Waterveil | 1
+Part the Waterveil | 0
 Peer Pressure | 1
-Pieces of the Puzzle | 1
-Prosperity | 3
+Pieces of the Puzzle | 0
 Pore Over the Pages | 1
+Prosperity | 3
 Pull from the Deep | 2
 Reconstruction | 1
 Rise of Eagles | 4
-Rise from the Tides | 2
+Rise from the Tides | 1
 Rite of Replication | 1
 Rush of Ice | 4
 Rush of Knowledge | 4
@@ -1165,7 +1186,7 @@ Temporal Cascade | 1
 Temporal Fissure | 3
 Temporal Trespass | 0
 Tempt with Reflections | 1
-Thassa's Bounty | 2
+Thassa's Bounty | 4
 Time Ebb | 3
 Time Reversal | 1
 Tome Scour | 5
@@ -1176,7 +1197,7 @@ Treasure Cruise | 0
 Treasure Hunt | 4
 Ugin's Insight | 2
 Uncovered Clues | 5
-Void Snare | 5
+Void Snare | 4
 Voidwalk | 1
 Wash Out | 1
 Whelming Wave | 3
@@ -1190,9 +1211,9 @@ Accumulated Knowledge | 4
 Aerial Formation | 1
 Aether Tradewinds | 1
 Aetherize | 1
-Aetherspouts | 1
+Aetherspouts | 0
 Annul | 6
-Anticipate | 6
+Anticipate | 3
 Arcane Denial | 1
 Archive Trap | 1
 Artificer's Epiphany | 4
@@ -1205,7 +1226,6 @@ Brainstorm | 0
 Broken Ambitions | 1
 Cacking Counterpart | 4
 Careful Considerations | 1
-Chain of Vapor | 1
 Calculated Dismissal | 6
 Cancel | 8
 Capsize | 1
@@ -1218,19 +1238,20 @@ Counterlash | 1
 Countermand | 1
 Counterspell | 2
 Crippling Chill | 7
-Crypsis | 5
-Cyclonic Rift | 3
+Crypsis | 4
+Cryptic Command | 1
+Cyclonic Rift | 2
 Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
 Discombobulate | 1
-Disdainful Stroke | 5
-Dismiss | 3
+Disdainful Stroke | 4
+Dismiss | 4
 Dispel | 6
 Disperse | 5
 Dissipate | 2
 Dissolve | 2
-Domineering Will | 3
+Domineering Will | 2
 Dragonlord's Prerogative | 1
 Dream Fracture | 3
 Dream Twist | 1
@@ -1238,8 +1259,8 @@ Engulf the Shore | 2
 Epiphany at the Drownyard | 1
 Essence Flux | 1
 Essence Scatter | 4
-Evacuation | 2
-Excude | 2
+Evacuation | 0
+Excude | 1
 Fated Infatuation | 2
 Flash of Insight | 2
 Fleeting Distraction | 1
@@ -1258,7 +1279,7 @@ Illusionist's Gambit | 1
 Inspiration | 4
 Intellectual Offering | 3
 Into the Roil | 2
-Invasive Surgery | 2
+Invasive Surgery | 0
 Ixidor's Will | 1
 Jace's Ingenuity | 4
 Keep Watch | 2
@@ -1273,7 +1294,7 @@ Mana Leak | 5
 Memory Lapse | 1
 Mindstatic | 3
 Mizzium Skin | 5
-Negate | 8
+Negate | 7
 Neutralizing Blast | 2
 Nullify | 4
 Ojutai's Breath | 4
@@ -1341,11 +1362,8 @@ Tezzeret the Seeker | 1
 Card | Qt
 --- | ---
 Mindlock Orb | 1
-Ring of Evos Isle | 2
-Saphire Medallion | 1
 Silver Myr | 1
 Sky Diamond | 2
-Staff of the Mind Magus | 5
 ### Land < U
 Card | Qt
 --- | ---
@@ -1696,8 +1714,6 @@ Vile Rebirth | 5
 Card | Qt
 --- | ---
 Leaden Myr | 1
-Ring of Xathrid | 2
-Staff of the Death Magus | 5
 ## Land < B
 Card | Qt
 --- | ---
@@ -2553,7 +2569,7 @@ Roar of Challenge | 2
 Root Out | 4
 Savage Punch | 5
 Scout the Borders | 4
-Seasons Past | 1
+Seasons Past | 0
 See the Unwritten | 1
 Seek the Horizon | 7
 Seek the Wilds | 4
@@ -2616,7 +2632,7 @@ Mortal's Resolve | 4
 Natural Connection | 3
 Naturalize | 10
 Nature's Claim | 4
-Plummet | 5
+Plummet | 3
 Predator's Rapport | 4
 Ranger's Guile | 4
 Reclaim | 3
@@ -2655,7 +2671,7 @@ Thundering Tanadon | 1
 ### Land < G
 Card | Qt
 --- | ---
-Blighted Woodland | 1
+Blighted Woodland | 0
 Fertile Thicket | 7
 Havenwood Battleground | 1
 Khalni Garden | 1
@@ -3245,7 +3261,7 @@ Simic Signet | 1
 Card | Qt
 --- | ---
 Hinterland Harbor | 1
-Lumbering Falls | 2
+Lumbering Falls | 0
 Simic Growth Chamber | 1
 Simic Guildgate | 29
 Temple of Mystery | 1
