@@ -789,6 +789,7 @@ Card | Qt
 --- | ---
 Aether Adept | 1
 Aether Figment | 3
+Aether Theorist | 1
 Aethersnipe | 1
 Alchemist's Apprentice | 3
 Alhammarret, High Arbiter | 1
@@ -797,7 +798,7 @@ Apprentice Wizard | 1
 Arbiter of the Ideal | 3
 Arcanis the Omnipotent | 2
 Archaeomancer | 4
-Archivist | 1
+Archivist | 2
 Artisan of Forms | 1
 Augur of Bolas | 2
 Azure Mage | 3
@@ -844,22 +845,27 @@ Echo Tracer | 4
 Eldrazi Skyspawner | 4
 Elgaud Shieldmate | 2
 Erdwal Illuminator | 1
+Experiment Aviator | 1
 Faerie Impostor | 1
 Faerie Miscreant | 4
 Fathom Seer | 3
-Fog Bank | 3
+Fog Bank | 4
 Frost Lynx | 4
 Frost Titan | 3
 Galerider Sliver | 1
+Gearseeker Serpent | 1
 Ghosthelm Courier | 1
 Glacial Wall | 1
+Glint-Nest Crane | 1
 Graceful Adept | 1
 Grand Architect | 1
+Guard Gomazoa | 
 Gudul Lurker | 1
 Guile | 1
 Halimar Tidecaller | 1
 Havengul Runebinder | 1
 Hedron Crab | 5
+Hightide Hermit | 1
 Hover Barrier | 2
 Hoverguard Sweepers | 3
 Icefall Regent | 1
@@ -869,6 +875,7 @@ Inkwell Leviathan | 1
 Ixidron | 3
 Jace's Archivist | 2
 Jace's Phantasm | 3
+Janjeet Sentry | 1
 Jushi Apprentice | 2
 Kami of the Cresent Moon | 2
 Kederekt Leviathan | 1
@@ -883,9 +890,10 @@ Lorthos, the Tidemaker | 2
 Magus of the Jar | 1
 Man-O'-War | 2
 Manic Scribe | 1
+Master of Predicaments | 1
 Master of the Veil | 1
+Master Transmuter | 1
 Maze Glider | 3
-Master Transmuter | 0
 Meletis Charlatan | 1
 Merchant of Secrets | 1
 Mercurial Pretender | 2
@@ -979,6 +987,7 @@ Tandem Lookout | 1
 Thada Adel, Acquisitor | 1
 Thought Harvester | 2
 Thousand Winds | 1
+Thriving Turtle | 1
 Tide Drifter | 4
 Tidebinder Mage | 3
 Tomorrow, Azami's Familiar | 1
@@ -1002,6 +1011,7 @@ Wall of Deceit | 1
 Wall of Frost | 3
 Warden of Evos Isle | 1
 Weaver of Lies | 1
+Weldfast Wingsmith | 1
 Whirler Rogue | 4
 Whirlpool Rider | 1
 Willbender | 7
@@ -1044,6 +1054,7 @@ Copy Enchantment | 2
 Curse of Inertia | 1
 Curse of the Bloody Tome | 1
 Dampening Pulse | 4
+Day of the Dragon | 1
 Diplomatic Immunity | 1
 Dismiss into Dream | 1
 Domestication | 1
@@ -1051,6 +1062,7 @@ Embargo | 1
 Encrust | 5
 Energy Flux | 2
 Ensoul Artifact | 1
+Era of Innovation | 1
 Eye of the Storm | 0
 Fate Foretold | 4
 Favorable Winds | 1
@@ -1073,6 +1085,7 @@ Honden of Seeing Winds | 1
 Illusory Gains | 1
 Intruder Alarm | 1
 Leyline of Anticipation | 0
+Malfunction | 1
 Meishin, the Mind Cage | 1
 Memory Erosion | 1
 Military Intelligence | 2
@@ -1209,8 +1222,8 @@ Card | Qt
 Abstruse Interference | 4
 Accumulated Knowledge | 4
 Aerial Formation | 1
-Aether Tradewinds | 1
-Aetherize | 1
+Aether Tradewinds | 2
+Aetherize | 2
 Aetherspouts | 0
 Annul | 6
 Anticipate | 3
@@ -1222,7 +1235,7 @@ Blue Sun's Zenith | 2
 Blustersquall | 4
 Bone to Ash | 4
 Boomerang | 2
-Brainstorm | 0
+Brainstorm | 1
 Broken Ambitions | 1
 Cacking Counterpart | 4
 Careful Considerations | 1
@@ -1240,7 +1253,7 @@ Counterspell | 2
 Crippling Chill | 7
 Crypsis | 4
 Cryptic Command | 1
-Cyclonic Rift | 2
+Cyclonic Rift | 3
 Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
@@ -1249,7 +1262,7 @@ Disdainful Stroke | 4
 Dismiss | 4
 Dispel | 6
 Disperse | 5
-Dissipate | 2
+Dissipate | 3
 Dissolve | 2
 Domineering Will | 2
 Dragonlord's Prerogative | 1
@@ -1258,8 +1271,8 @@ Dream Twist | 1
 Engulf the Shore | 2
 Epiphany at the Drownyard | 1
 Essence Flux | 1
-Essence Scatter | 4
-Evacuation | 0
+Essence Scatter | 5
+Evacuation | 2
 Excude | 1
 Fated Infatuation | 2
 Flash of Insight | 2
@@ -1272,7 +1285,7 @@ Grip of Amnesia | 1
 Griptide | 4
 Horribly Awry | 1
 Hubris | 4
-Hurkyl's Recall | 1
+Hurkyl's Recall | 2
 Hydrolash | 1
 Icy Blast | 1
 Illusionist's Gambit | 1
@@ -1294,6 +1307,7 @@ Mana Leak | 5
 Memory Lapse | 1
 Mindstatic | 3
 Mizzium Skin | 5
+Muddle the Mixture | 1
 Negate | 7
 Neutralizing Blast | 2
 Nullify | 4
@@ -1315,6 +1329,7 @@ Regress | 1
 Remove Soul | 1
 Repulse | 2
 Retraction Helix | 4
+Revolutionary Rebuff | 2
 Rites of Refusal | 1
 Scatter Arc | 1
 Second Guess | 1
@@ -1361,6 +1376,7 @@ Tezzeret the Seeker | 1
 ### Artifact < U
 Card | Qt
 --- | ---
+Glassblower's Puzzleknot | 3
 Mindlock Orb | 1
 Silver Myr | 1
 Sky Diamond | 2
@@ -1461,7 +1477,8 @@ Mogis's Marauder | 4
 Mortivore | 1
 Nantuko Husk | 4
 Necropolis Fiend | 1
-Nightmare | 1
+Night Market Lookout | 1
+Nightmare | 0
 Nightscape Familiar | 1
 Ob Nixilis, Unshackled | 1
 Pain Seer | 1
@@ -1481,7 +1498,8 @@ Ravenous Rats | 5
 Reassembling Skeleton | 2
 Revenant | 1
 Risen Executioner | 1
-Ruthless Ripper | 1
+Rush of Vitality | 1
+Ruthless Ripper | 0
 Sangromancer | 2
 Sanitarium Skeleton | 3
 Scavenger Drake | 1
@@ -1822,7 +1840,7 @@ Markov Warlord | 3
 Maze Rusher | 8
 Minotaur Skullcleaver | 4
 Nearheath Stalker | 2
-Nettle Drone | 4
+Nettle Drone | 0
 Ondu Champion | 3
 Oracle of Bones | 1
 Orcish Farmer | 1
@@ -1837,6 +1855,7 @@ Reckless Waif | 1
 Riot Piker | 4
 Riot Ringleader | 4
 Rubblebelt Maaka | 4
+Ruinous Gremlin | 1
 Rummaging Goblin | 4
 Sanguinary Mage | 3
 Satyr Hoplite | 4
@@ -1973,7 +1992,7 @@ Cone of Flame | 2
 Consuming Bonfire | 1
 Cleaver Riot | 1
 Craterize | 3
-Demolish | 4
+Demolish | 5
 Devil's Play | 1
 Devils' Playground | 1
 Dragon Fodder | 8
@@ -2023,6 +2042,7 @@ Slagstorm | 1
 Slice and Dice | 1
 Spite of Mogis | 5
 Spitting Earth | 1
+Start Your Engines | 1
 Stone Rain | 4
 Structural Distortion | 3
 Survey the Wreckage | 2
@@ -2180,6 +2200,7 @@ Circle of Elders | 2
 Conclave Naturalists | 2
 Conifer Strider | 1
 Copperhoof Vorrac | 1
+Cowl Prowler | 2
 Creeperhulk | 1
 Crocanura | 4
 Crowned Ceratok | 2
@@ -2299,6 +2320,7 @@ Pheres-Band Warchief | 3
 Phytotitan | 1
 Plated Crusher | 1
 Priest of Titania | 1
+Primordial Sage | 1
 Quick Sliver | 1
 Rampaging Baloths | 2
 Ravenous Baloth | 1
@@ -2307,6 +2329,7 @@ Reverent Hunter | 1
 Roaring Primadox | 4
 Roaring Slagwurm | 1
 Rot Shambler | 2
+Sage of Shaila's Claim | 1
 Sakura-Tribe Elder | 2
 Salt Road Ambushers | 1
 Saruli Gatekeepers | 4
@@ -2316,6 +2339,7 @@ Scion of the Wild | 1
 Scorned Villager | 1
 Scourge of Skola Vale | 1
 Scute Mob | 1
+Servant of the Conduit | 1
 Servant of the Scale | 4
 Shaman of Forgotten Ways | 1
 Shaman of Spring | 5
@@ -2385,6 +2409,7 @@ Wellwisher | 2
 Whirling Dervish | 1
 Whisper of the Wilds | 1
 Wild Mongrel | 1
+Wild Wanderer | 2
 Wirewood Hivemaster | 1
 Wolfbriar Elemental | 1
 Wolfir Silverheart | 2
@@ -2500,6 +2525,7 @@ Card | Qt
 --- | ---
 All Suns' Dawn | 1
 Animist's Awakening | 3
+Attune with Aether | 1
 Bestial Menace | 1
 Blessings of Nature | 2
 Bramblecrush | 4
@@ -2538,6 +2564,7 @@ Invigorating Falls | 1
 Kodama's Reach | 1
 Kruphix's Insight | 7
 Lair Delve | 1
+Larger Than Life | 2
 Lay of the Land | 4
 Life's Legacy | 1
 Map the Wastes | 4
@@ -2547,6 +2574,7 @@ Nissa's Expedition | 3
 Nissa's Pilgrimage | 3
 Nissa's Revelation | 2
 One Dozen Eyes | 1
+Ornamental Courage | 2
 Overrun | 0
 Overwhelm | 1
 Overwhelming Stampede | 0
@@ -3118,7 +3146,7 @@ Fluxcharger | 4
 Goblin Electromancer | 5
 Goblin Flectomancer | 1
 Goblin Test Pilot | 2
-Herald of Kozilek | 3
+Herald of Kozilek | 0
 Hypersonic Dragon | 1
 Izzet Chronarch | 1
 Jhoira of the Ghitu | 1
@@ -3181,7 +3209,7 @@ Izzet Signet | 1
 Card | Qt
 --- | ---
 Highland Lake | 2
-Izzet Boilerworks | 1
+Izzet Boilerworks | 2
 Izzet Guildgate | 21
 Shivan Reef | 3
 Swiftwater Cliffs | 9
@@ -3197,6 +3225,7 @@ Coiling Oracle | 2
 Drakewing Krasis | 4
 Elusive Krasis | 1
 Embodiment of Spring | 5
+Empyreal Voyager | 1
 Fleetfeather Cockatrice | 3
 Horizon Chimera | 4
 Icefeather Aven | 3
@@ -3354,7 +3383,7 @@ Akoum Refuge | 3
 Bloodfell Caves | 6
 Cinder Barrens | 1
 Molten Slagheap | 1
-Rakdos Carnarium | 2
+Rakdos Carnarium | 3
 Rakdos Guildgate | 17
 Smoldering Marsh | 1
 Stensia Bloodhall | 1
