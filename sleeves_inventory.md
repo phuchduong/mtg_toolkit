@@ -1,17 +1,22 @@
 ### Sleeves
 Color | Texture | Brand | For Deck | Quantity
 --- | ---| ---| ---|
-Blue, Teal | Gloss | Dragon Shields | | 4
+Black | Matte | Ultra Pro | | ~104
 Blue | Gloss | Ultra Pro | | 2
+Blue | Matte | Ultra Pro | | ~104
+Blue, Light | Matte | Ultra Pro | | ~104
+Blue, Teal | Gloss | Dragon Shields | | 4
 Brown | Matte | Ultra Pro | | ~53
-Doge | Art | Ultra Pro | | ~100
+Doge | Art | Ultra Pro | | ~104
+Green | Matte | Ultra Pro | | ~104
 Green, Aqua | Matte | Ultra Pro | | 3
-Green, Lime | Matte | Ultra Pro | | 32
-Green, Deep | Gloss Back | Max Protection | Yisan | ~100
+Green, Deep | Gloss Back | Max Protection | Yisan | ~104
+Green, Lime | Matte | Ultra Pro | | 32 + ~104
 Kiora | Art | Ultra Pro | Leviathan EDH Spare | 42
+Red | Matte | Ultra Pro | | ~104
 White | Gloss | Max Protection | | 4
 Yellow | Gloss | Max Protection | Talrand Spare | 21 
-Yellow | Matte | Ultra Pro | | ~110
+Yellow | Matte | Ultra Pro | | ~104
 Yellow, Faded | Matte | Unknown | | 2
 
 2016
