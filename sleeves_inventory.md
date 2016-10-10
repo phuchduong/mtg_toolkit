@@ -1,6 +1,6 @@
 ### Sleeves
 Color | Texture | Brand | For Deck | Quantity
---- | ---| ---| ---| ---|
+--- | ---| ---| ---| ---
 Black | Matte | Ultra Pro | | ~104
 Blue | Gloss | Ultra Pro | | 2
 Blue | Matte | Ultra Pro | | ~104
