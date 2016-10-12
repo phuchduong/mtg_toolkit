@@ -80,8 +80,10 @@ Breaker of Armies | 2
 Deathless Behemoth | 3
 Desolation Twin | 1
 Eldrazi Devastator | 4
-Endbringer | 1
+Endbringer | 2
+Endless One | 3
 Kozilek's Channeler | 2
+Matter Reshaper | 1
 Ruin Processor | 4
 Ulamog the Ceaseless Hunger | 1
 Void Winnower | 1
@@ -166,9 +168,9 @@ Mirari | 1
 Mirrorworks | 0
 Nevinyrral's Disk | 2
 Predator, Flagship | 1
-Prism Ring | 1
+Prism Ring | 0
 Obelisk of Urd | 1
-Orbs of Warding | 3
+Orbs of Warding | 1
 Otherworld Atlas | 2
 Perilous Vault | 1
 Profane Memento | 2
@@ -242,7 +244,7 @@ Shimmer Myr | 1
 Sliver Construct | 3
 Solemn Simulacrum | 1
 Spire Golem | 1
-Steel Hellkite | 2
+Steel Hellkite | 3
 Steel Wall | 1
 Tetravus | 1
 Thopter Assembly | 2
@@ -261,6 +263,7 @@ Avarice Amulet | 1
 Bladed Bracers | 2
 Bone Saw | 2
 Brawler's Plate | 1
+Captain's Claws | 1
 Cathar's Shield | 1
 Chariot of Victory | 1
 Darksteel Plate | 1
@@ -306,8 +309,10 @@ Worldslayer | 1
 ### Land < C
 Card | Qt
 --- | ---
+Ally Encamptment | 1
 Bloodstained Mire | 3
 Buried Ruin | 1
+Corrupted Crossroads | 1
 Crumbling Vestige | 2
 Crystal Vein | 1
 Darksteel Citadel | 3
@@ -327,13 +332,13 @@ Nephalia Academy | 2
 Nykthos, Shrine to Nyx | 1
 Opal Palace | 0
 Radiant Fountain | 6
-Reliquary Tower | 4
+Reliquary Tower | 0
 Rogue's Passage | 2
 Ruins of Oran-Rief | 1
 Rupture Spire | 2
 Seraph Sanctuary | 1
 Shimmering Grotto | 2
-Shrie of the Forsaken Gods | 1
+Shrie of the Forsaken Gods | 2
 Sliver Hive | 1
 Tectonic Edge | 3
 Temple of the False God | 7
@@ -363,9 +368,11 @@ Ajani's Pridemate | 3
 Ajani's Sunstriker | 3
 Akroan Skyguard | 4
 Anafenza, Kin-Tree Spirit | 1
+Angel of Deliverance | 1
 Angel of Glory's Rise | 1
 Angel of Jubilation | 1
 Angel of Serenity | 1
+Angelic Skirmisher | 1
 Angelic Wall | 5
 Apex Hawks | 1
 Arashin Cleric | 1
@@ -388,7 +395,8 @@ Blinding Angel | 1
 Bonescythe Sliver | 1
 Boonweaver Giant | 1
 Bygone Bishop | 4
-Captain of the Watch | 1
+Capashen Knight | 1
+Captain of the Watch | 2
 Cathar's Companion | 5
 Cavalry Pegasus | 4
 Cenn's Tactician | 3
@@ -408,6 +416,7 @@ Dragon Hunter | 1
 Dragonscale General | 1
 Drogskol Cavalry | 2
 Dromoka Captain | 2
+Eagle of the Watch | 1
 Elite Inquisitor | 1
 Elite Scaleguard | 3
 Emeria Angel | 1
@@ -417,6 +426,7 @@ Evangel of Heliod | 4
 Fabled Hero | 3
 Favored Hoplite | 4
 Felidar Cub | 4
+Felidar Sovereign | 1
 Fencing Ace | 4
 Fiend Hunter | 3
 Frontline Strategist | 4
@@ -467,6 +477,7 @@ Midnight Guard | 4
 Mikaeus, the Lunarch | 1
 Militant Inquisitor | 1
 Monk Idealist | 1
+Mother of Runes | 1
 Nearheath Pilgrim | 2
 Odric, Lunarch Marshal | 2
 Ordric, Master Tactician | 1
@@ -474,7 +485,7 @@ Paragon of New Dawns | 1
 Patron of the Valiant | 2
 Phantom General | 1
 Pikemen | 2
-Precinct Captain | 1
+Precinct Captain | 2
 Preeminent Captain | 1
 Precinct Captain | 2
 Purity | 1
@@ -553,7 +564,7 @@ Blinding Angel | 1
 Celestial Archon | 2
 Champion of the Parish | 1
 Dawnbringer Charioteers | 1
-Eidolon of Countless Battles | 1
+Eidolon of Countless Battles | 2
 Eidolon of Rhetoric | 3
 Emeria Shepherd | 3
 Fabled Hero | 1
@@ -563,7 +574,7 @@ Hixus, Prison Warden | 1
 Hopeful Eidolon | 4
 Kytheon's Irregulars | 1
 Maze Sentinel | 4
-Nyx-Fleece Ram | 1
+Nyx-Fleece Ram | 2
 Nyxborn Shieldmate | 4
 Observant Alseid | 4
 Spirit of the Labyrinth | 1
@@ -571,6 +582,7 @@ Spirit of the Labyrinth | 1
 Card | Qt
 --- | ---
 Absolute Law | 1
+Always Watching | 1
 Angelic Accord | 2
 Angelic Benediction | 1
 Angelic Gift | 4
@@ -674,13 +686,14 @@ Cleansing Meditation | 1
 Dawn To Dusk | 4
 Declaration in Stone | 1
 Decree of Justice | 1
+Descend upon the Sinful | 1
 Gather the Townsfolk | 4
 Gift of Estates | 1
 Glare of Heresy | 4
 Hive Stirrings | 2
 Increasing Devotion | 1
 Knight Watch | 3
-Launch the Fleet | 1
+Launch the Fleet | 3
 Lyev Decree | 4
 Mass Calcify | 1
 Not Forgotten | 3
@@ -688,7 +701,7 @@ Ondu Rising | 1
 Open the Armory | 1
 Open the Vaults | 1
 Paraselene | 2
-Planar Cleansing | 1
+Planar Cleansing | 3
 Planar Outburst | 1
 Plea for Guidance | 2
 Profound Journey | 2
@@ -827,6 +840,7 @@ Daring Thief | 2
 Deadeye Navigator | 1
 Deep-Sea Kraken | 2
 Deepfathom Skulker | 1
+Delver of Secrets | 3
 Deranged Assistant | 1
 Diffusion Sliver | 3
 Disruptive Pitmage | 1
@@ -838,6 +852,7 @@ Dreamborn Muse | 1
 Dreamscape Artist | 4
 Drift of Phantasms | 3
 Drowner Initiate | 2
+Drowner of Hope | 1
 Dulcet Sirens | 3
 Dungeon Geists | 1
 Echo Mage | 2
@@ -850,6 +865,7 @@ Faerie Impostor | 1
 Faerie Miscreant | 4
 Fathom Seer | 3
 Fog Bank | 4
+Forgotten Creation | 1
 Frost Lynx | 4
 Frost Titan | 3
 Galerider Sliver | 1
@@ -862,9 +878,9 @@ Grand Architect | 1
 Guard Gomazoa | 
 Gudul Lurker | 1
 Guile | 1
-Halimar Tidecaller | 1
+Halimar Tidecaller | 2
 Havengul Runebinder | 1
-Hedron Crab | 5
+Hedron Crab | 1
 Hightide Hermit | 1
 Hover Barrier | 2
 Hoverguard Sweepers | 3
@@ -938,6 +954,7 @@ Riddlesmith | 1
 Riptide Survivor | 3
 Rootwater Diver | 2
 Ruination Guide | 4
+Sage of Hours | 1
 Sage Owl | 1
 Sage's Row Denizen | 5
 Sage-Eye Avengers | 2
@@ -1055,6 +1072,7 @@ Curse of Inertia | 1
 Curse of the Bloody Tome | 1
 Dampening Pulse | 4
 Day of the Dragon | 1
+Dictate of Kruphix | 7
 Diplomatic Immunity | 1
 Dismiss into Dream | 1
 Domestication | 1
@@ -1079,7 +1097,7 @@ Hedron Alignment | 1
 Infinite Reflection | 4
 Invisbility | 3
 Jace's Erasure | 1
-Jace's Sanctum | 1
+Jace's Sanctum | 0
 Halcyon Glaze | 1
 Honden of Seeing Winds | 1
 Illusory Gains | 1
@@ -1090,7 +1108,8 @@ Meishin, the Mind Cage | 1
 Memory Erosion | 1
 Military Intelligence | 2
 Mind Control | 1
-Monastery Siege | 1
+Monastery Siege | 2
+Mystic Remora | 1
 Oath of Jace | 2
 Omniscience | 1
 Ordeal of Thassa | 2
@@ -1139,6 +1158,7 @@ Coastal Discovery | 2
 Compulsive Research | 3
 Concentrate | 3
 Curse of the Swine | 1
+Day's Undoing | 0
 Deep Analysis | 1
 Devastation Tide | 1
 Diminishing Returns | 2
@@ -1163,20 +1183,20 @@ Into the Void | 1
 Inundate | 1
 Last Thoughts | 4
 Mass Appeal | 1
-Mind Sculpt  | 4
+Mind Sculpt  | 0
 Mind's Desire | 0
-Nagging Thoughts | 1
+Nagging Thoughts | 0
 Ojutai's Summons | 4
 Order of Succession | 1
 Part the Waterveil | 0
 Peer Pressure | 1
 Pieces of the Puzzle | 0
-Pore Over the Pages | 1
+Pore Over the Pages | 0
 Prosperity | 3
 Pull from the Deep | 2
 Reconstruction | 1
 Rise of Eagles | 4
-Rise from the Tides | 1
+Rise from the Tides | 0
 Rite of Replication | 1
 Rush of Ice | 4
 Rush of Knowledge | 4
@@ -1226,9 +1246,9 @@ Aether Tradewinds | 2
 Aetherize | 2
 Aetherspouts | 0
 Annul | 6
-Anticipate | 3
+Anticipate | 0
 Arcane Denial | 1
-Archive Trap | 1
+Archive Trap | 0
 Artificer's Epiphany | 4
 Backslide | 1
 Blue Sun's Zenith | 2
@@ -1268,7 +1288,7 @@ Domineering Will | 2
 Dragonlord's Prerogative | 1
 Dream Fracture | 3
 Dream Twist | 1
-Engulf the Shore | 2
+Engulf the Shore | 0
 Epiphany at the Drownyard | 1
 Essence Flux | 1
 Essence Scatter | 5
@@ -1276,6 +1296,7 @@ Evacuation | 2
 Excude | 1
 Fated Infatuation | 2
 Flash of Insight | 2
+Flashfreeze | 1
 Fleeting Distraction | 1
 Force Away | 4
 Force Spike | 2
@@ -1286,7 +1307,7 @@ Griptide | 4
 Horribly Awry | 1
 Hubris | 4
 Hurkyl's Recall | 2
-Hydrolash | 1
+Hydrolash | 0
 Icy Blast | 1
 Illusionist's Gambit | 1
 Inspiration | 4
@@ -1308,7 +1329,7 @@ Memory Lapse | 1
 Mindstatic | 3
 Mizzium Skin | 5
 Muddle the Mixture | 1
-Negate | 7
+Negate | 3
 Neutralizing Blast | 2
 Nullify | 4
 Ojutai's Breath | 4
@@ -1331,7 +1352,7 @@ Repulse | 2
 Retraction Helix | 4
 Revolutionary Rebuff | 2
 Rites of Refusal | 1
-Scatter Arc | 1
+Scatter Arc | 2
 Second Guess | 1
 Silumgar's Scorn | 1
 Snap | 1
@@ -1354,13 +1375,14 @@ Think Twice | 1
 Thought Scour | 3
 Time Stop | 2
 Trickery Charm | 2
-Turn to Frog | 7
+Turn to Frog | 8
 Twiddle | 2
 Unity of Purpose | 1
 Unsubstantiate | 2
 Unsummon | 2
 Vanishment | 1
 Vapor Snag | 2
+Vision Skeins | 1
 Visions of Beyond | 2
 Void Shatter | 3
 Voyage's End | 4
@@ -1427,10 +1449,12 @@ Crypt Sliver | 1
 Deathbringer Regent | 2
 Dead Reveler | 3
 Demonlord of Ashmouth | 1
+Despoiler of Souls | 1
 Disciple of Griselbrand | 1
 Disciple of Phenax | 4
 Disowned Ancestor | 3
 Drainpipe Vermin | 4
+Dread Defiler | 1
 Dutiful Attendant | 2
 Eater of Hope | 2
 Endrek Sahr, Master Breeder | 1
@@ -1478,7 +1502,7 @@ Mortivore | 1
 Nantuko Husk | 4
 Necropolis Fiend | 1
 Night Market Lookout | 1
-Nightmare | 0
+Nightmare | 1
 Nightscape Familiar | 1
 Ob Nixilis, Unshackled | 1
 Pain Seer | 1
@@ -1490,9 +1514,9 @@ Plagued Rusalka | 1
 Pontiff of Blight | 1
 Priest of the Blood Rite | 1
 Pulse Tracker | 1
-Rancid Rats | 1
 Rakdos Drake | 3
 Rakshasa Gravecaller | 1
+Rancid Rats | 1
 Ravenous Demon | 1
 Ravenous Rats | 5
 Reassembling Skeleton | 2
@@ -1509,6 +1533,7 @@ Sengir Vampire | 4
 Sepulchral Primordial | 2
 Servant of Nefarox | 3
 Servant of Tymaret | 4
+Shadowborn Apostle | 5
 Shadowborn Demon | 1
 Sifter of Skulls | 1
 Sightless Ghoul | 1
@@ -1552,6 +1577,7 @@ Doomwake Giant | 2
 Fate Unraveler | 1
 Grim Guardian | 6
 Herald of Torment | 1
+Master of the Feast | 1
 Nighthowler | 1
 Thoughtrender Lamia | 3
 ### Enchantment < B
@@ -1572,12 +1598,12 @@ Curse of Thirst | 4
 Deadly Wanderings | 1
 Death Pit Offering | 1
 Deathgrip | 1
-Dictate of Erebos | 2
+Dictate of Erebos | 3
 Endless Ranks of the Dead | 4
 Eternal Thirst | 4
 Evil Presence | 3
 Feast on the Fallen | 3
-Grave Betrayal | 1
+Grave Betrayal | 2
 Greed | 1
 Heartless Summoning | 1
 Hedonist's Trove | 1
@@ -1607,7 +1633,7 @@ Viper's Kiss | 4
 Virulent Plague | 1
 Visions of Brutality | 1
 Whip of Erebos | 1
-Zombie Infestation | 4
+Zombie Infestation | 2
 ### Sorcery < B
 Card | Qt
 --- | ---
@@ -1622,7 +1648,7 @@ Coercion | 3
 Corrupt | 4
 Damnable Pact | 1
 Dark Deal | 2
-Dark Petition | 1
+Dark Petition | 2
 Dead Drop | 2
 Dead Reckoning | 1
 Death's Caress | 4
@@ -1650,6 +1676,7 @@ Hand of Death | 3
 Harrowing Journey | 1
 Infest | 1
 Infinite Obliteration | 3
+Languish | 1
 Liliana's Indignation | 4
 Liturgy of Blood | 4
 Macabre Waltz | 6
@@ -1662,9 +1689,11 @@ Mutilate | 1
 Necromantic Summons | 1
 Oblivion Strike | 4
 Phthisis | 1
+Painful Truths | 1
 Plague Wind | 1
 Raise Dead | 2
 Read the Bones | 8
+Ruinous Path | 1
 Sanguimancy | 4
 Shamble Back | 2
 Shrivel | 2
@@ -1719,8 +1748,7 @@ Reaping the Graves | 1
 Rescue from the Underworld | 4
 Silence the Believer | 1
 Terror | 2
-Targic Slip | 1
-Tragic Slip | 1
+Targic Slip | 2
 Tribute to Hunger | 2
 Ulcerate | 2
 Ultimate Price | 1
@@ -1805,14 +1833,16 @@ Goblin Glory Chaser | 4
 Goblin Heelcutter | 4
 Goblin Kaboomist | 2
 Goblin Lookout | 1
+Goblin Rabblemaster | 1
 Goblin Shortcutter | 4
 Goblin Warchief | 1
+Goldnight Castigator | 1
 Gore-House Chainwalker | 4
 Guttersnipe | 3
 Hamlet Goliath | 1
 Hanweir Lancer | 1
-Havengul Vampire | 1
 Hardened Berserker | 4
+Havengul Vampire | 1
 Hellspark Elemental | 2
 Hinterland Hermit | 1
 Hound of Griselbrand | 1
@@ -1838,7 +1868,9 @@ Marauding Maulhorn | 3
 Mardu Heart-Piercer | 1
 Markov Warlord | 3
 Maze Rusher | 8
+Monastery Swiftspear | 1
 Minotaur Skullcleaver | 4
+Monastery Swiftspear | 2
 Nearheath Stalker | 2
 Nettle Drone | 0
 Ondu Champion | 3
@@ -1846,6 +1878,7 @@ Oracle of Bones | 1
 Orcish Farmer | 1
 Paragon of Fierce Defiance | 2
 Pharagax Giant | 4
+Pia and Kiran Nalaar | 1
 Pyre Hound | 4
 Pyreheart Wolf | 3
 Rageblood Shaman | 2
@@ -1943,6 +1976,7 @@ Grip of Chaos | 1
 Guild Feud | 1
 Hammer of Purphoros | 1
 Hammerhand | 3
+Harness the Storm | 1
 Honden of Infinite Rage | 1
 Impact Tremors | 5
 Infernal Plunge | 1 
@@ -1964,10 +1998,10 @@ Sulfuric Vortex | 1
 Thunderous Might | 2
 Vessel of Volatility | 3
 Volcanic Strength | 1
-War Cadence | 1
-Warstorm Surge | 1
-Where Ancients Tread | 1
-Witch Hunt | 1
+War Cadence | 0
+Warstorm Surge | 0
+Where Ancients Tread | 0
+Witch Hunt | 0
 ## Red
 ### Planeswalker < R
 Tibalt, the Fiend-Blooded | 1
@@ -1982,8 +2016,9 @@ Anarchy | 1
 Arc Lightning | 3
 Arrow Storm | 2
 Awe For the Guilds | 4
-Bathe in Dragonfire | 4
+Banefire | 1
 Barrage of Boulders | 4
+Bathe in Dragonfire | 4
 Boiling Earth | 4
 Bolt of Keranos | 4
 Breaking Point | 1
@@ -1996,6 +2031,7 @@ Demolish | 5
 Devil's Play | 1
 Devils' Playground | 1
 Dragon Fodder | 8
+Exquisite Firecraft | 1
 Faithless Looting | 3
 Fireball | 3
 Fissure Vent | 1
@@ -2071,6 +2107,7 @@ Blazing Salvo | 1
 Boil | 1
 Brightstone Ritual | 1
 Brimstone Volley | 1
+Brood Monitor | 2
 Brute Strength | 1
 Burn Away | 1
 Carbonize | 1
@@ -2246,20 +2283,23 @@ Grave Bramble | 1
 Grave Sifter | 1
 Grazing Gladehart | 2
 Greenside Watcher | 6
+Greenwarden of Murasa | 
 Grizzled Outcasts | 2
 Groundshaker Sliver | 4
 Groundskeeper | 1
 Gyre Sage | 1
+Harvester Troll | 1
 Herald of the Pantheon | 1
 Heir of the Wilds | 2
 Herald of the Pantheon | 1
-Herdchaser Dragon | 2
+Herdchaser Dragon | 3
 Hermit of the Natterknolls | 1
 Hero of Leina Tower | 2
 Heroes' Bane | 2
 Hinterland Logger | 2
 Honored Hierarch | 1
 Hooting Mandrills | 1
+Hornet Nest | 1
 Howlgeist | 1
 Hydra Broodmaster | 3
 Imperious Perfect | 1
@@ -2288,6 +2328,7 @@ Longshot Squad | 4
 Lumberknot | 1
 Lys Alana Huntmaster | 2
 Managorger Hydra | 1
+Manaweft Sliver | 2
 Marsh Viper | 4
 Masked Admirers | 1
 Maze Behemoth | 4
@@ -2463,7 +2504,7 @@ Feed the Pack | 1
 Fertile Ground | 1
 Font of Fertility | 8
 Forced Adaptation | 3
-From Beyond | 5
+From Beyond | 6
 Frontier Siege | 3
 Fruit of the First Tree | 1
 Gaea's Touch | 1
@@ -2480,6 +2521,7 @@ Mana Bloom | 1
 Manabond | 1
 Market Festival | 5
 Nylea's Presence | 4
+Oath of Nissa | 1
 Oath of the Ancient Wood | 1
 Obscuring Aether | 3
 Ooze Flux | 2
@@ -2668,6 +2710,7 @@ Return to the Earth | 4
 Rootgrapple | 1
 Savage Summoning | 1
 Scatter the Seeds | 2
+Second Harvest | 1
 Setessan Tactics | 1
 Shape the Sands | 4
 Sheltering Word | 2
@@ -2725,6 +2768,7 @@ Ephara, God of the Polis | 1
 Ethercaste Knight | 1
 Filigree Angel | 1
 Glassdust Hulk | 2
+Isperia, Supreme Judge | 1
 Isperia the Inscrutable | 1
 Jelenn Sphinx | 2
 Lavinia of the Tenth | 1
@@ -2807,6 +2851,7 @@ Dutiful Thrull | 4
 Ghost Council of Orzhova | 1
 High Priest of Penance | 2
 Kingpin's Pet | 4
+Magister of Worth | 1
 Mardu Hateblade | 5
 Obzedat, Ghost Council | 1
 Odunos River Trawler | 2
@@ -2855,7 +2900,7 @@ Beckon Apparition | 5
 Executioner's Swing | 3
 Harsh Sustenance | 3
 Mortify | 2
-Orzhov Charm | 4
+Orzhov Charm | 5
 Utter End | 2
 Zealous Persecution | 1
 ### Artifact < W/B
@@ -2878,11 +2923,12 @@ Temple of Silence | 1
 ### Creature < W/R
 Card | Qt
 --- | ---
-Akroan Phalanx | 2
+Akroan Hoplite | 2
 Akroan Phalanx | 3
 Anax and Cymede | 2
+Archangel Avacyn | 1
 Aurelia, the Warleader | 1
-Basandra, Battle Seraph | 1
+Basandra, Battle Seraph | 2
 Blaze Commando | 2
 Boros Battleshaper | 2
 Boros Recruit | 1
@@ -3053,6 +3099,7 @@ Dinrova Horror | 1
 Diregraf Captain | 1
 Disciple of Deceit | 4
 Duskmantle Guildmage | 1
+Fathom Feeder | 1
 Forbidden Alchemy | 1
 Glen Elendra Liege | 1
 Grimgrin, Corpse-Born | 1
@@ -3223,6 +3270,7 @@ Biovisionary | 1
 Bounding Krasis | 3
 Coiling Oracle | 2
 Drakewing Krasis | 4
+Edric, Spymaster of Trest | 1
 Elusive Krasis | 1
 Embodiment of Spring | 5
 Empyreal Voyager | 1
@@ -3235,6 +3283,7 @@ Murkfiend Liege | 1
 Nimbus Swimmer | 1
 Plaxcaster Frogling | 2
 Plaxmanta | 1
+Prophet of Kruphix | 1
 Sages of the Anima | 2
 Sagu Mauler | 2
 Shambleshark | 4
@@ -3245,6 +3294,7 @@ Skyrider Elf | 3
 Species Gorger | 4
 Trygon Predator | 1
 Vigean Hydropon | 1
+Void Grafter | 1
 Vorel of the Hull Clade | 1
 Zameck Guildmage | 2
 ### Enchantment Creature < U/G
@@ -3413,7 +3463,7 @@ Rot Farm Skeleton | 5
 Shaman of the Pack | 2
 Shambling Shell | 2
 Sluiceway Scorpion | 3
-the Gitrog Monster
+The Gitrog Monster | 2
 Trestle Troll | 4
 Varolz, the Scar-Striped | 1
 Wall of Mulch | 1
