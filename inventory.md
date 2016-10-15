@@ -880,7 +880,7 @@ Gudul Lurker | 1
 Guile | 1
 Halimar Tidecaller | 2
 Havengul Runebinder | 1
-Hedron Crab | 1
+Hedron Crab | 5
 Hightide Hermit | 1
 Hover Barrier | 2
 Hoverguard Sweepers | 3
@@ -1183,7 +1183,7 @@ Into the Void | 1
 Inundate | 1
 Last Thoughts | 4
 Mass Appeal | 1
-Mind Sculpt  | 0
+Mind Sculpt  | 4
 Mind's Desire | 0
 Nagging Thoughts | 0
 Ojutai's Summons | 4
@@ -1248,7 +1248,7 @@ Aetherspouts | 0
 Annul | 6
 Anticipate | 0
 Arcane Denial | 1
-Archive Trap | 0
+Archive Trap | 1
 Artificer's Epiphany | 4
 Backslide | 1
 Blue Sun's Zenith | 2
