@@ -85,7 +85,7 @@ Endless One | 3
 Kozilek's Channeler | 2
 Matter Reshaper | 1
 Ruin Processor | 4
-Ulamog the Ceaseless Hunger | 1
+Ulamog the Ceaseless Hunger | 0
 Void Winnower | 1
 ## Colorless
 ### Planeswalker < C
@@ -246,7 +246,7 @@ Precursor Golem | 1
 Runed Servitor | 3
 Shimmer Myr | 1
 Sliver Construct | 3
-Solemn Simulacrum | 1
+Solemn Simulacrum | 0
 Spire Golem | 1
 Steel Hellkite | 3
 Steel Wall | 1
@@ -333,7 +333,7 @@ Maze's End | 3
 Mikokoro, Center of the Sea | 1
 Myriad Landscape | 0
 Nephalia Academy | 2
-Nykthos, Shrine to Nyx | 1
+Nykthos, Shrine to Nyx | 0
 Opal Palace | 0
 Radiant Fountain | 6
 Reliquary Tower | 0
@@ -346,7 +346,7 @@ Shrie of the Forsaken Gods | 2
 Sliver Hive | 1
 Tectonic Edge | 2
 Temple of the False God | 7
-Terrain Generator | 1
+Terrain Generator | 0
 Terramorphic Expense | 1
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
@@ -627,7 +627,7 @@ Font of Vigor | 2
 Forced Worship | 1
 Fortified Area | 1
 Ghostly Prison | 2
-Gift of Immortality | 2
+Gift of Immortality | 1
 Gleam of Authority | 1
 Gryff's Boon | 1
 Guildscorn Ward | 2
@@ -1060,7 +1060,7 @@ Perplexing Chimera | 1
 Riptide Chimera | 2
 Thassa's Devourer | 3
 Thassa's Emissary | 2
-Thassa, God of the Sea | 1
+Thassa, God of the Sea | 0
 ### Enchantment < U
 Card | Qt
 --- | ---
@@ -1256,7 +1256,7 @@ Abstruse Interference | 4
 Accumulated Knowledge | 4
 Aerial Formation | 1
 Aether Tradewinds | 2
-Aetherize | 2
+Aetherize | 1
 Aetherspouts | 0
 Annul | 6
 Anticipate | 0
@@ -2215,7 +2215,7 @@ Vivid Crag | 1
 ### Creature < G
 Card | Qt
 --- | ---
-Abzan Beastmaster | 4
+Abzan Beastmaster | 3
 Acidic Slime | 2
 Adaptive Snapjaw | 3
 Advocate of the Beast | 4
@@ -2282,8 +2282,8 @@ Foe-Razer Regent | 1
 Fyndhorn Elder | 1
 Gaea's Revenge | 2
 Garruk's Companion | 3
-Garruk's Horde | 2
-Garruk's Packleader | 2
+Garruk's Horde | 0
+Garruk's Packleader | 1
 Gatecreeper Vine | 4
 Gaea's Herald | 1
 Gempalm Strider | 1
@@ -2301,7 +2301,7 @@ Greenwarden of Murasa |
 Grizzled Outcasts | 2
 Groundshaker Sliver | 4
 Groundskeeper | 1
-Gyre Sage | 1
+Gyre Sage | 0
 Harvester Troll | 1
 Herald of the Pantheon | 1
 Heir of the Wilds | 2
@@ -2341,7 +2341,7 @@ Llanowar Empath | 4
 Longshot Squad | 4
 Lumberknot | 1
 Lys Alana Huntmaster | 2
-Managorger Hydra | 1
+Managorger Hydra | 0
 Manaweft Sliver | 2
 Marsh Viper | 4
 Masked Admirers | 1
@@ -2408,7 +2408,7 @@ Skarrg Goliath | 1
 Skylasher | 1
 Slaughterhorn | 2
 Somberwald Alpha | 2
-Soul of the Harvest | 1
+Soul of the Harvest | 0
 Soul of Zendikar | 4
 Soul Swallower | 1
 Spire Tracer | 3
@@ -2559,7 +2559,7 @@ Temur Runemark | 4
 Trail of Mystery | 1
 Trollhide | 3
 Ulvenwald Mysteries | 2
-Utopia Sprawl | 1
+Utopia Sprawl | 2
 Urban Burgeoning | 4
 Verdant Haven | 5
 Vernal Bloom | 1
@@ -2666,6 +2666,7 @@ Skyshroud Claim | 2
 Skyreaping | 3
 Slime Molding | 1
 Stream of Life | 2
+Summer Bloom | 1
 Sylvan Offering | 1
 Sylvan Scrying | 3
 Tempt with Discovery | 1
@@ -3906,7 +3907,7 @@ Card | Qt
 --- | ---
 Cylian Sunsinger | 
 Druid of the Anima | 
-Gahiji, Honored One | 
+Gahiji, Honored One | 0
 Gloryscale Viashino | 
 Godsire | 
 Granger Guildmage | 
@@ -3916,7 +3917,7 @@ Johan |
 Knotvine Mystic | 
 Marath, Will of the Wild | 
 Marisi's Twinclaws | 
-Mayael the Anima | 1
+Mayael the Anima | 0
 Meglonoth | 1
 Mirrorwood Treefolk | 
 Nacatl Hunt-Pride | 
