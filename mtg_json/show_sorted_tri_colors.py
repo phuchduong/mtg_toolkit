@@ -1,7 +1,9 @@
 import json
 import datetime
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
 file_name = "mtg_card_db.json"
+
 
 mtg_db = json.loads(open(file_name).read())
 

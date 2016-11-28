@@ -2364,7 +2364,7 @@ Noose Constrictor | 2
 Nullmage Advocate | 2
 Nylea's Disciple | 4
 Oak Street Innkeeper | 4
-Ondu Giant | 3
+Ondu Giant | 1
 Orochi Leafcaller | 1
 Orochi Sustainer | 1
 Overgrown Battlement | 1
@@ -2463,13 +2463,13 @@ Wall of Mulch | 2
 Wall of Wood | 1
 Wellwisher | 2
 Whirling Dervish | 1
-Whisper of the Wilds | 1
+Whisper of the Wilds | 2
 Wild Mongrel | 1
 Wild Wanderer | 3
 Wirewood Hivemaster | 1
 Wolfbriar Elemental | 1
 Wolfir Silverheart | 2
-Wood Elves | 3
+Wood Elves | 0
 Woodborn Behemoth | 3
 Woodland Bellower | 2
 Wren's Run Packmaster | 1
