@@ -51,8 +51,8 @@ def download_json_db():
 # Reads a json file in a sister directory
 def load_json_file(folder_name, file_name):
     # this function requires....
-    import os
-    import json
+    # import os
+    # import json
 
     # Find MTG JSON DB
     # Your file structure should look like this
