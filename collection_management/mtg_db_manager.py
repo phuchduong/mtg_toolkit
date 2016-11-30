@@ -70,9 +70,6 @@ def load_json_file(folder_name, file_name):
 
     return(json_file)
 
-download_json_db()
-
-
 # Read in the JSON Library
 # mtg_db = load_json_file(folder_name=db_folder_name, file_name=db_file_name)
 # print(str(mtg_db.keys()).encode("utf-8"))
