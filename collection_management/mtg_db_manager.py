@@ -9,6 +9,7 @@ db_file_name = "mtg_card_db.json"
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
+
 # downloads the MTG json database to a sister directory.
 def download_json_db():
     print("Calling function download_json_db()...\n")
@@ -34,6 +35,12 @@ def download_json_db():
     print("Extracting zip folder....")
     zip_folder = zipfile.ZipFile(BytesIO(zip_byte_file))
     json_file = zip_folder.read(internal_filename)
+
+    # Converts to JSON
+    json_file = json_file.decode("utf-8")
+    json_file = json.loads(json_file)
+    json_file = json.dumps(json_file)
+
     print("Extraction... Complete!\n")
 
     # makes folder if it does not exist
@@ -44,12 +51,12 @@ def download_json_db():
     output_path = os.path.join(current_dir, db_folder_name, db_file_name)
     print("Writing to..." + output_path)
     file_writer = open(output_path, 'w')
-    file_writer.write(str(json_file))
+    file_writer.write(json_file)
     print("Writing.... Complete!\n")
 
 
 # Reads a json file in a sister directory
-def load_json_file(folder_name, file_name):
+def load_json_file(folder_name=db_folder_name, file_name=db_file_name):
     # this function requires....
     # import os
     # import json
@@ -63,9 +70,11 @@ def load_json_file(folder_name, file_name):
     # | -- mtg_card_db.json             <-- target file
     #
 
-    file_path = os.path.join(current_dir, "..", folder_name, file_name)
+    file_path = os.path.join(current_dir, folder_name, file_name)
 
     # Ingress
+    text_file = open(file_path, "rb").read().decode('utf8')
+
     json_file = json.loads(open(file_path).read())
 
     return(json_file)
