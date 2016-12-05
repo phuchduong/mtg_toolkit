@@ -73,8 +73,6 @@ def load_json_file(folder_name=db_folder_name, file_name=db_file_name):
     file_path = os.path.join(current_dir, folder_name, file_name)
 
     # Ingress
-    text_file = open(file_path, "rb").read().decode('utf8')
-
     json_file = json.loads(open(file_path).read())
 
     return(json_file)
