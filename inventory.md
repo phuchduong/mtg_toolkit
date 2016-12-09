@@ -466,7 +466,6 @@ Kor Bladewhirl | 1
 Kor Duelist | 1
 Kor Entanglers | 2
 Kor Skyfisher | 1
-Kytheon's Irregulars | 
 Lagonna-Band Trailblazer | 4
 Lost Leonin | 1
 Lotus-Eye Mystics | 3
@@ -562,7 +561,6 @@ Windborn Muse | 1
 Card | Qt
 --- | ---
 Aegis of the Gods | 2
-Ainok Bond-Kin |1
 Angel of Serenity | 1
 Archetype of Courage | 4
 Blinding Angel | 1
@@ -885,7 +883,7 @@ Glacial Wall | 1
 Glint-Nest Crane | 1
 Graceful Adept | 1
 Grand Architect | 1
-Guard Gomazoa | 
+Guard Gomazoa | 1
 Gudul Lurker | 1
 Guile | 1
 Halimar Tidecaller | 2
@@ -1379,7 +1377,7 @@ Stoic Rebuttal | 1
 Stroke of Genius | 1
 Stubborn Denial | 1
 Stymied Hopes | 4
-Sudden Storm | 
+Sudden Storm | 0
 Summoner's Bane | 3
 Sweep Away | 2
 Telling Time | 0
@@ -2297,7 +2295,7 @@ Grave Bramble | 1
 Grave Sifter | 1
 Grazing Gladehart | 2
 Greenside Watcher | 6
-Greenwarden of Murasa | 
+Greenwarden of Murasa | 0
 Grizzled Outcasts | 2
 Groundshaker Sliver | 4
 Groundskeeper | 1
@@ -2448,7 +2446,7 @@ Tuskguard Captain | 2
 Ulvenwald Hydra | 1
 Ulvenwald Observer | 1
 Ulvenwald Tracker | 1
-Undergrowth Scavenger| 4
+Undergrowth Scavenger | 4
 Unstoppable Ash | 1
 Venom Sliver | 2
 Verduran Enchantress | 0
