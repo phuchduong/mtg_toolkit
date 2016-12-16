@@ -9,11 +9,9 @@ card_names = sorted(card_names)
 
 # building headers
 headers = []
+f = open("card_names.csv", "w")
+f.write("Card_Name\n")
 for card_name in card_names:
-    for header in mtg_db[card_name]:
-        if header not in headers:
-            headers.append(header)
+    f.write(card_name + "\n")
 
-# writes file
-f.open
-for card_name in card_names:
+f.close()

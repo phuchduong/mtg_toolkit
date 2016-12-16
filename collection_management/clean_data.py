@@ -10,6 +10,7 @@ mtg_cards = mtg_db.keys()
 
 
 # read in and validate markdown file
+# the prints cards that are not valid
 def validate_inventory_md(filename):
     inventory_pattern = "^.{3,}\s\|\s\d{1,}$"
     # search_bot = re.compile(inventory_pattern)
