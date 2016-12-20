@@ -56,7 +56,7 @@ def download_json_db():
 
 
 # Reads a json file in a sister directory
-def load_json_file(folder_name=db_folder_name, file_name=db_file_name):
+def load_db(folder_name=db_folder_name, file_name=db_file_name):
     # this function requires....
     # import os
     # import json
