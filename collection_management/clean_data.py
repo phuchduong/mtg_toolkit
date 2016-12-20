@@ -12,6 +12,30 @@ inventory_pattern = "^.{3,}\s\|\s\d{1,}$"
 invalid_card_file = "invalid_names.csv"
 
 
+# Takes in a string, proper cases it, then
+# returns the changed string.
+def proper_case(text):
+    text = text.title()
+    text = text.replace("  ", " ")
+    text = text.replace(" A ", " a ")
+    text = text.replace(" At ", " at ")
+    text = text.replace("'S", "'s")
+    text = text.replace(" In ", " in ")
+    text = text.replace(" Into ", " into ")
+    text = text.replace(" From ", " from ")
+    text = text.replace(" To ", " to ")
+    text = text.replace(" The ", " the ")
+    text = text.replace("-O'-", "-o'-")
+    text = text.replace(" By ", " by ")
+    text = text.replace(" For ", " for ")
+    text = text.replace(" Of ", " of ")
+    text = text.replace(" And ", " and ")
+    text = text.replace(" On ", " on ")
+    text = text.replace(" Upon ", " upon ")
+    text = text.replace(" With ", " with ")
+    return text
+
+
 # read in and validate markdown file
 # the prints cards that are not valid
 def print_invalid_cards(inventory_file, pattern, out_file):
@@ -48,36 +72,18 @@ def print_invalid_cards(inventory_file, pattern, out_file):
             # then print out invalid card names
             for card_name in card_names_list:
                 # proper casing
-                card_name = card_name.title()
-                card_name = card_name.replace("  ", " ")
-                card_name = card_name.replace(" A ", " a ")
-                card_name = card_name.replace(" At ", " at ")
-                card_name = card_name.replace("'S", "'s")
-                card_name = card_name.replace(" In ", " in ")
-                card_name = card_name.replace(" Into ", " into ")
-                card_name = card_name.replace(" From ", " from ")
-                card_name = card_name.replace(" To ", " to ")
-                card_name = card_name.replace(" The ", " the ")
-                
-                card_name = card_name.replace("-O'-", "-o'-")
-                card_name = card_name.replace(" By ", " by ")
-                card_name = card_name.replace(" For ", " for ")
-                card_name = card_name.replace(" Of ", " of ")
-                card_name = card_name.replace(" And ", " and ")
-                card_name = card_name.replace(" On ", " on ")
-                card_name = card_name.replace(" Upon ", " upon ")
-                card_name = card_name.replace(" With ", " with ")
+                card_name = proper_case(card_name)
 
                 if card_name not in mtg_cards:
                     invalid_cards.append(card_name)
 
     inv_file.close()  # close the file
 
+    # writes invalid cards to a file
     out_file = open(out_file, "w")
     out_file.write("card_name\n")
     for card in invalid_cards:
         out_file.write("\"" + card + "\"\n")
-
     out_file.close()
 
 print_invalid_cards(
