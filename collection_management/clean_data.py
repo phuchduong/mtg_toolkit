@@ -83,7 +83,7 @@ def print_invalid_cards(inventory_file, pattern, out_file):
     out_file = open(out_file, "w")
     out_file.write("card_name\n")
     for card in invalid_cards:
-        out_file.write("\"" + card + "\"\n")
+        out_file.write("" + card + "\n")
     out_file.close()
 
 print_invalid_cards(
