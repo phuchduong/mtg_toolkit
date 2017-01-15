@@ -15,7 +15,6 @@ def main():
     # cleans, conforms, validates card names
     inventory = clean_card_names(
         inventory=inventory, card_db=mtg_db.keys())
-    print(inventory)
 
 
 # cleans, comforms, validates card names
@@ -68,7 +67,6 @@ def clean_card_names(inventory, card_db):
     out_file = open(invalid_filepath, "w")
     out_file.write("card_name\n")
     for card in invalid_cards:
-        # print(card)
         out_file.write("" + card + "\n")
     out_file.close()
 
@@ -141,7 +139,6 @@ def parse_inv_file(filename):
             # if matches inventory pattern
 
             # parse inventory line
-            print(line)
             line_split = line.split(" | ")
             card_names = line_split[0].strip()
             card_qt = int(line_split[1].strip())
