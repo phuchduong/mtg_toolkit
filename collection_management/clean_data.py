@@ -99,49 +99,6 @@ def proper_case(text):
     return text
 
 
-# deprecated
-# read in and validate markdown file
-# the prints cards that are not valid
-def print_invalid_cards(inventory_file, pattern, out_file):
-
-    # list to store invalid cards
-    invalid_cards = []
-
-    # mispelled card names and their
-    # corrections
-    cms = load_mispelled_words()
-
-    # go through each card name and clean
-    # then validate if in card db. If not
-    # then print out invalid card names
-    for card_name in card_names_list:
-
-        # if card does not appear in card db,
-        # then its invalid. Correct for mispelling
-        if card_name not in mtg_cards:
-            print("before: " + card_name)
-            for mispelling in cms:
-                # print("card_name:       " + card_name)
-                # print("mispelling:      " + mispelling)
-                # print("cms[mispelling]: " + cms[mispelling])
-                card_name = card_name.replace(mispelling, cms[mispelling])
-            print("after:  " + card_name)
-            print("\r")
-            if card_name not in mtg_cards:
-                print("invalid card: " + card_name)
-                invalid_cards.append(card_name)
-
-    inv_file.close()  # close the file
-
-    # writes invalid cards to a file
-    out_file = open(out_file, "w")
-    out_file.write("card_name\n")
-    for card in invalid_cards:
-        # print(card)
-        out_file.write("" + card + "\n")
-    out_file.close()
-
-
 # loads a list of commonly mispelled names
 # and their corrections. returns a dictionary
 # of commonly mispelled words and its corections.
