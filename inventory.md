@@ -80,6 +80,7 @@ Breaker of Armies | 2
 Deathless Behemoth | 3
 Desolation Twin | 1
 Eldrazi Devastator | 4
+Emrakul, the Promised End | 1
 Endbringer | 2
 Endless One | 3
 Kozilek's Channeler | 2
@@ -91,7 +92,7 @@ Void Winnower | 1
 ### Planeswalker < C
 Card | Qt
 --- | ---
-Ugin, the Spirit Dragon | 1
+Ugin, the Spirit Dragon | 2
 ### Sorcery < C
 Card | Qt
 --- | ---
@@ -110,7 +111,7 @@ Altar of the Brood | 2
 Altar of the Lost | 4
 Amulet of Vigor | 1
 Ark of Blight | 1
-Armillary Sphere | 1
+Armillary Sphere | 0
 Ashnod's Altar | 2
 Astral Cornucopia | 2
 Belbe's Armor | 1
@@ -124,7 +125,8 @@ Clock of Omens | 1
 Cloud Key | 1
 Coercive Portal | 1
 Commander's Sphere | 2
-Corrupted Grafstone | 4
+Consulate Turret | 
+Corrupted Grafstone | 0
 Cranial Archive | 3
 Crawlspace | 1
 Crown of Doom | 2
@@ -138,10 +140,12 @@ Decimator Web | 1
 Dreamstone Hedron | 3
 Druidic Satchel | 2
 Dynavolt Tower | 2
-Elixer of Immortality | 4
+Elixir of Immortality | 3
 Eternity Vessel | 1
 Everflowing Chalice | 2
 Expedition Map | 1
+Explosive Apparatus | 1
+Extraplanar Lens | 1
 Font of Mythos | 2
 Gem of Becoming | 2
 Ghoulcaller's Bell | 1
@@ -173,7 +177,7 @@ Nevinyrral's Disk | 1
 Predator, Flagship | 1
 Prism Ring | 0
 Obelisk of Urd | 1
-Orbs of Warding | 1
+Orbs of Warding | 0
 Otherworld Atlas | 2
 Perilous Vault | 1
 Profane Memento | 2
@@ -183,17 +187,16 @@ Pyxis of Pandemonium | 1
 Ratchet Bomb | 1
 Relic of Progenitus | 0
 Sands of Delirium | 1
-Sapphire Medallion | 1
+Sapphire Medallion | 0
 Scroll of Avacyn | 2
 Scroll of the Masters | 1
 Seer's Lantern | 5
 Seer's Sundial | 1
 Semblance Anvil | 1
-Sky Skiff | 1
 Sol Ring | 1
 Spine of Ish Sah | 1
 Springleaf Drum | 3
-Staff of Nin | 1
+Staff of Nin | 0
 Staff of the Death Magus | 5
 Staff of the Mind Magus | 4
 Staff of the Sun Magus | 4
@@ -201,8 +204,8 @@ Sun Droplet | 1
 Surveyor's Scope | 3
 Tablet of the Guilds | 2
 Talon of Pain | 1
+Tamiyo's  Journal | 1
 Tapestry of the Ages | 2
-Tamiyo's  Journal | 0
 Teferi's Puzzle Box | 2
 Temple Bell | 1
 Thought Vessel | 2
@@ -217,6 +220,7 @@ Ur-Golem's Eye | 1
 Vedalken Orrery | 3
 Venser's Journal | 2
 Vial of Dragonfire | 4
+Voltaic Key
 Wanderer's Twig | 1
 Wayfarer's Bauble | 2
 Whetstone | 1
@@ -231,11 +235,13 @@ Cathodion | 1
 Clockwork Beast | 1
 Creepy Doll | 1
 Crenellated Wall | 1
-Guardians of Meletis | 4
+Foundry Assembler | 1
+Guardians of Meletis | 4?
 Hedron Crawler | 0
 Multiform Wonder | 1
 Myr Adapter | 1
 Myr Battlesphere | 1
+Night Market Guard
 One-Eyed Scarecrow | 2
 Opaline Unicor | 4
 Ornithopter | 4
@@ -247,13 +253,14 @@ Runed Servitor | 3
 Shimmer Myr | 1
 Sliver Construct | 3
 Solemn Simulacrum | 0
+Soul of New Phyrexia
 Spire Golem | 1
 Steel Hellkite | 3
 Steel Wall | 1
 Tetravus | 1
 Thopter Assembly | 2
 Viseling | 1
-Walking Atlas | 6
+Walking Atlas | 5
 Wild-Field Scarecrow | 2
 Workshop Assistant | 1
 ### Artifact Equipment < C
@@ -285,7 +292,7 @@ Inventor's Goggles | 1
 Kitesail | 1
 Loxodon Warhammer | 1
 Mask of Avacyn | 1
-Neglected Heirloom | 1
+Neglected Heirloom | 2
 Prowler's Helm | 4
 Ring of Evos Isle | 2
 Ring of Xathrid | 2
@@ -310,6 +317,9 @@ Veteran's Armaments | 2
 Vorrac Battlehorns | 1
 Witches' Eye | 4
 Worldslayer | 1
+### Artifact Vehicles < C
+Mobile Garrison | 1
+Sky Skiff | 1
 ### Land < C
 Card | Qt
 --- | ---
@@ -319,7 +329,8 @@ Buried Ruin | 1
 Corrupted Crossroads | 1
 Crumbling Vestige | 2
 Crystal Vein | 1
-Darksteel Citadel | 3
+Darksteel Citadel | 2
+Drownyard Temple | 1
 Encroaching Wastes | 2
 Evolving Wilds | 12
 Foundry of the Consuls | 3
@@ -332,7 +343,7 @@ Mana Confluence | 1
 Maze's End | 3
 Mikokoro, Center of the Sea | 1
 Myriad Landscape | 0
-Nephalia Academy | 2
+Nephalia Academy | 1
 Nykthos, Shrine to Nyx | 0
 Opal Palace | 0
 Radiant Fountain | 6
@@ -413,6 +424,7 @@ Consul's Lieutenant | 2
 Court Street Denizen | 5
 Crusader of Odric | 1
 Daring Skyjek | 3
+Dauntless Cathar | 1
 Dawnbringer Charioteers | 2
 Doomed Traveler | 4
 Dragon Bell Monk | 5
@@ -427,6 +439,7 @@ Emeria Angel | 1
 Emeria Sheperd | 3
 Enlightened Ascetic | 5
 Evangel of Heliod | 4
+Exquisite Archangel | 1
 Fabled Hero | 3
 Favored Hoplite | 4
 Felidar Cub | 4
@@ -741,7 +754,8 @@ Center Soul | 4
 Channel Harm | 1
 Chastise | 1
 Congregate | 3
-Decide | 2
+Decommission | 1
+Deicide | 2
 Defiant Strike | 4
 Demystify | 1
 Devouring Light | 3
@@ -807,6 +821,7 @@ Card | Qt
 --- | ---
 Aether Adept | 1
 Aether Figment | 3
+Aether Swooper | 1
 Aether Theorist | 1
 Aethersnipe | 1
 Alchemist's Apprentice | 3
@@ -880,7 +895,7 @@ Galerider Sliver | 1
 Gearseeker Serpent | 1
 Ghosthelm Courier | 1
 Glacial Wall | 1
-Glint-Nest Crane | 1
+Glint-Nest Crane | 0
 Graceful Adept | 1
 Grand Architect | 1
 Guard Gomazoa | 1
@@ -961,6 +976,7 @@ Renowned Weaponsmith | 4
 Riddlesmith | 1
 Riptide Survivor | 2
 Rootwater Diver | 2
+Roil Elemental
 Ruination Guide | 4
 Sage of Hours | 1
 Sage Owl | 1
@@ -993,6 +1009,7 @@ Soul Seizer | 1
 Soulsworn Spirit | 1
 Sphinx of Jwar Isle | 2
 Sphinx of Magosi | 2
+Sphinx of the Final Word | 1
 Sphinx of Uthuun | 4
 Sphinx's Disciple | 4
 Spiketail Hatchling | 1
@@ -1100,7 +1117,7 @@ Flooded Shoreline | 1
 Forced Fruition | 1
 Future Sight | 4
 Gaseous Form | 2
-Ghostly Wings | 3
+Ghostly Wings | 4
 Hedron Alignment | 1
 Infinite Reflection | 3
 Invisbility | 3
@@ -1114,6 +1131,7 @@ Leyline of Anticipation | 0
 Malfunction | 1
 Meishin, the Mind Cage | 1
 Memory Erosion | 1
+Metallurgic Summonings | 2
 Military Intelligence | 2
 Mind Control | 1
 Monastery Siege | 2
@@ -1123,6 +1141,7 @@ Omniscience | 1
 Ordeal of Thassa | 2
 Oracle's Insight | 3
 Paralyzing Grasp | 4
+Part the Waterveil | 2
 Phantasmal Terrain | 1
 Propaganda | 1
 Quest for Ula's Temple | 1
@@ -1155,9 +1174,9 @@ Aether Gale | 2
 Allied Strategis | 1
 Amass the Components | 2
 Anchor to the Aether | 2
-Argivian Restoration | 3
+Argivian Restoration | 2
 Artful Dodge | 3
-Blatant Thievery | 1
+Blatant Thievery | 0
 Breakthrough | 1
 Brilliant Plan | 1
 Call To Mind | 1
@@ -1178,7 +1197,7 @@ Donate | 1
 Dreadwaters | 6
 Enter the Infinite | 1
 Eye of Nowhere | 1
-Fabricate | 2
+Fabricate | 1
 Fascination | 3
 Flow of Ideas | 1
 Flux | 2
@@ -1238,7 +1257,7 @@ Trade Secrets | 1
 Traumatize | 1
 Trait Doctoring | 1
 Treasure Cruise | 1
-Treasure Hunt | 4
+Treasure Hunt | 1
 Ugin's Insight | 2
 Uncovered Clues | 5
 Void Snare | 4
@@ -1257,7 +1276,7 @@ Aether Tradewinds | 2
 Aetherize | 1
 Aetherspouts | 0
 Annul | 6
-Anticipate | 0
+Anticipate | 1
 Arcane Denial | 1
 Archive Trap | 1
 Artificer's Epiphany | 4
@@ -1268,12 +1287,14 @@ Bone to Ash | 4
 Boomerang | 2
 Brainstorm | 1
 Broken Ambitions | 1
+Broken Concentration | 1
 Cacking Counterpart | 3
 Careful Considerations | 1
 Calculated Dismissal | 6
 Cancel | 8
 Capsize | 1
 Catalog | 8
+Ceremonious Rejection | 1
 Chain of Vapor | 1
 Comparative Analysis | 1
 Confirm Suspicions | 2
@@ -1297,6 +1318,7 @@ Dissipate | 3
 Dissolve | 2
 Domineering Will | 2
 Dragonlord's Prerogative | 1
+Dramatic Reveresal | 2
 Dream Fracture | 3
 Dream Twist | 1
 Engulf the Shore | 0
@@ -1315,18 +1337,21 @@ Gainsay | 5
 Geist Snatch | 3
 Grip of Amnesia | 1
 Griptide | 4
-Horribly Awry | 4
+Horribly Awry | 2
+High Tide | 1
 Hubris | 4
 Hurkyl's Recall | 2
 Hydrolash | 0
 Icy Blast | 1
 Illusionist's Gambit | 1
+Insidious Will | 1
 Inspiration | 4
 Intellectual Offering | 2
 Into the Roil | 1
 Invasive Surgery | 2
 Ixidor's Will | 1
 Jace's Ingenuity | 4
+Jace's Scrutiny | 1
 Keep Watch | 2
 Kiora's Dismissal | 1
 Learn from the Past | 2
@@ -1378,6 +1403,7 @@ Stroke of Genius | 1
 Stubborn Denial | 1
 Stymied Hopes | 4
 Sudden Storm | 0
+Summary Dismissal | 1
 Summoner's Bane | 3
 Sweep Away | 2
 Telling Time | 0
@@ -1387,6 +1413,7 @@ Thought Scour | 3
 Time Stop | 2
 Trickery Charm | 2
 Turn to Frog | 7
+Turnabout | 1
 Twiddle | 2
 Unity of Purpose | 1
 Unsubstantiate | 2
@@ -1395,7 +1422,7 @@ Vanishment | 1
 Vapor Snag | 2
 Vision Skeins | 1
 Visions of Beyond | 2
-Void Shatter | 3
+Void Shatter | 6
 Voyage's End | 4
 Weave Fate | 4
 Whisk Away | 2
@@ -1405,12 +1432,13 @@ Card | Qt
 --- | ---
 Jace Beleren | 1
 Jace, Memory Adept | 1
+Teferi, Temporal Archmage | 1
 Tezzeret the Seeker | 1
 ### Artifact < U
 Card | Qt
 --- | ---
 Glassblower's Puzzleknot | 3
-Mindlock Orb | 1
+Mindlock Orb | 0
 Silver Myr | 1
 Sky Diamond | 1
 ### Land < U
@@ -1492,6 +1520,7 @@ Hand of Silumgar | 4
 Herald of Leshrac | 1
 Indulgent Aristocrat | 1
 Indulgent Tormentor | 1
+Ironclad Revolutionary | 1
 Kalastria Healer | 4
 Kheru Bloodsucker | 2
 King Macar, the Gold-Cursed | 1
@@ -1555,6 +1584,7 @@ Skirsdag Flayer | 3
 Slum Reaper | 3
 Soulcage Fiend | 3
 Squelching Leeches | 2
+Stallion of Ashmouth | 1
 Sultai Scavenger | 3
 Swarm of Bloodflies | 2
 Syndicate Enforcer | 1
@@ -1641,6 +1671,7 @@ Triskaidekaphobia | 1
 Underworld Conections | 1
 Vampiric Rites | 2
 Viper's Kiss | 4
+Vessel of Malignity | 1
 Virulent Plague | 1
 Visions of Brutality | 1
 Whip of Erebos | 1
@@ -1726,6 +1757,7 @@ Bile Blight | 2
 Complete Disregard | 4
 Cremate | 4
 Cower In Fear | 3
+Cruel Finality | 1
 Cruel Revival | 2
 Crypt Incursion | 6
 Dark Banishing | 2
@@ -1754,6 +1786,7 @@ Murderous Cut | 4
 Necrobite | 2
 Nightmarish End | 4
 Peppersmoke | 1
+Perilous Predicament | 1
 Pharika's Cure | 4
 Reaping the Graves | 1
 Rescue from the Underworld | 4
@@ -1784,6 +1817,7 @@ Vivid Marsh | 1
 Card | Qt
 --- | ---
 Academy Raider | 3
+Aether Chaser | 1
 Afflicted Deserter | 2
 Airdrop Condor | 1
 Akoum Stonewaker | 1
@@ -1939,6 +1973,7 @@ Vile Aggregate | 1
 Village Ironsmith | 1
 Village Messenger | 1
 Vithian Stinger | 2
+Voldaren Duelist | 1
 Wall of Fire | 5
 Warbringer | 3
 War-Name Aspirant | 2
