@@ -1365,7 +1365,7 @@ Memory Lapse | 1
 Mindstatic | 3
 Mizzium Skin | 5
 Muddle the Mixture | 1
-Negate | 7
+Negate | 4
 Neutralizing Blast | 2
 Nullify | 4
 Ojutai's Breath | 4
