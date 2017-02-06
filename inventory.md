@@ -1010,7 +1010,7 @@ Soulsworn Spirit | 1
 Sphinx of Jwar Isle | 2
 Sphinx of Magosi | 2
 Sphinx of the Final Word | 1
-Sphinx of Uthuun | 4
+Sphinx of Uthuun | 0
 Sphinx's Disciple | 4
 Spiketail Hatchling | 1
 Sprite Noble | 1
@@ -1192,7 +1192,7 @@ Deep Analysis | 1
 Devastation Tide | 1
 Diminishing Returns | 2
 Distorting Wake | 2
-Divination | 6
+Divination | 2
 Donate | 1
 Dreadwaters | 6
 Enter the Infinite | 1
@@ -1291,7 +1291,7 @@ Broken Concentration | 1
 Cacking Counterpart | 3
 Careful Considerations | 1
 Calculated Dismissal | 6
-Cancel | 8
+Cancel | 4
 Capsize | 1
 Catalog | 8
 Ceremonious Rejection | 1
@@ -1324,7 +1324,7 @@ Dream Twist | 1
 Engulf the Shore | 0
 Epiphany at the Drownyard | 1
 Essence Flux | 1
-Essence Scatter | 5
+Essence Scatter | 4
 Evacuation | 2
 Excude | 0
 Fated Infatuation | 2
@@ -1350,7 +1350,7 @@ Intellectual Offering | 2
 Into the Roil | 1
 Invasive Surgery | 2
 Ixidor's Will | 1
-Jace's Ingenuity | 4
+Jace's Ingenuity | 1
 Jace's Scrutiny | 1
 Keep Watch | 2
 Kiora's Dismissal | 1
@@ -1365,7 +1365,7 @@ Memory Lapse | 1
 Mindstatic | 3
 Mizzium Skin | 5
 Muddle the Mixture | 1
-Negate | 4
+Negate | 2
 Neutralizing Blast | 2
 Nullify | 4
 Ojutai's Breath | 4
@@ -1383,7 +1383,7 @@ Reach Through Mists | 1
 Reef Worm | 1
 Refocus | 2
 Regress | 1
-Remove Soul | 1
+Remove Soul | 0
 Repulse | 2
 Retraction Helix | 4
 Revolutionary Rebuff | 2
@@ -1708,7 +1708,7 @@ Dutiful Return | 4
 Endemic Plague | 1
 Endless Obedience | 1
 Essence Harvest | 3
-Extinguish All Hope | 2
+Extinguish All Hope | 0
 Festergloom | 2
 Fodder Launch | 1
 Gild | 1
@@ -1728,7 +1728,7 @@ Moan of the Unhallowed | 2
 Morality Shift | 1
 Murderous Compulsion | 3
 Mutilate | 1
-Necromantic Summons | 1
+Necromantic Summons | 0
 Oblivion Strike | 4
 Phthisis | 1
 Painful Truths | 1
@@ -1795,7 +1795,7 @@ Terror | 2
 Targic Slip | 2
 Tribute to Hunger | 2
 Ulcerate | 2
-Ultimate Price | 1
+Ultimate Price | 0
 Undying Evil | 4
 Unholy Hunger | 4
 Unmake the Graves | 4
