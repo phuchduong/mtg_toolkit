@@ -1347,7 +1347,7 @@ Illusionist's Gambit | 1
 Insidious Will | 1
 Inspiration | 4
 Intellectual Offering | 2
-Into the Roil | 1
+Into the Roil | 0
 Invasive Surgery | 2
 Ixidor's Will | 1
 Jace's Ingenuity | 1
@@ -1384,7 +1384,7 @@ Reef Worm | 1
 Refocus | 2
 Regress | 1
 Remove Soul | 0
-Repulse | 2
+Repulse | 1
 Retraction Helix | 4
 Revolutionary Rebuff | 2
 Rites of Refusal | 1
