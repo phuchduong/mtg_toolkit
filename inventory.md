@@ -222,7 +222,7 @@ Venser's Journal | 2
 Vial of Dragonfire | 4
 Voltaic Key
 Wanderer's Twig | 1
-Wayfarer's Bauble | 2
+Wayfarer's Bauble | 0
 Whetstone | 1
 Worn Powerstone | 1
 ### Artifact Creature < C
@@ -381,7 +381,7 @@ Ainok Bond-Kin | 4
 Ajani's Chosen | 1
 Ajani's Pridemate | 3
 Ajani's Sunstriker | 3
-Akroan Skyguard | 4
+Akroan Skyguard | 0
 Anafenza, Kin-Tree Spirit | 1
 Angel of Deliverance | 1
 Angel of Glory's Rise | 1
@@ -475,7 +475,7 @@ Keening Apparition | 4
 Knight of Obligation | 4
 Knight of the White Orchid | 1
 Kongming, "The Sleeping Dragon" | 1
-Kor Bladewhirl | 1
+Kor Bladewhirl | 0
 Kor Duelist | 1
 Kor Entanglers | 2
 Kor Skyfisher | 1
@@ -607,7 +607,7 @@ Animate Wall | 1
 Armament of Nyx | 1
 Arrest | 1
 Aura Fracture | 1
-Banishing Light | 2
+Banishing Light | 0
 Battle Mastery | 3
 Blind Obedience | 1
 Bonds of Faith | 3
@@ -666,7 +666,7 @@ Opal Gargoyle | 1
 Opal Titan | 1
 Oppressive Rays | 4
 Ordeal of Heliod | 3
-Pacifism | 7
+Pacifism | 3
 Path of Bavery | 1
 Quarantine Field | 1
 Rest in Peace | 1
@@ -694,7 +694,7 @@ Vessel of Ephemera | 4
 ### Sorcery < W
 Card | Qt
 --- | ---
-Allied Reinforcements | 1
+Allied Reinforcements | 0
 Angelic Edict | 3
 Angelic Purge | 2
 Archangel's Light | 1
@@ -756,7 +756,7 @@ Chastise | 1
 Congregate | 3
 Decommission | 1
 Deicide | 2
-Defiant Strike | 4
+Defiant Strike | 0
 Demystify | 1
 Devouring Light | 3
 Disenchant | 2
@@ -764,7 +764,7 @@ Divine Verdict | 4
 Encircling Fissure | 1
 Ephemeral Shields | 5
 Erase | 6
-Eyes In the Skies | 4
+Eyes in the Skies | 4
 Faith's Shield | 2
 Fate Forgotten | 5
 Fated Retribution | 2
@@ -776,7 +776,7 @@ Kill Shot | 4
 Make A Stand | 1
 Pillar of Light | 3
 Quiet Purity | 1
-Raise the Alarm | 5
+Raise the Alarm | 1
 Ray of Dissolution | 4
 Rebuke | 1
 Redeem the Lost | 1
@@ -854,7 +854,7 @@ Coral Barrier | 4
 Consecrate Sphinx | 1
 Crookclaw Elder | 1
 Curious Humunculus | 2
-Dakra Mystic | 4
+Dakra Mystic | 2
 Daring Apprentice | 1
 Daring Sleuth | 1
 Daring Thief | 2
@@ -928,7 +928,7 @@ Lore Broker | 1
 Lorthos, the Tidemaker | 1
 Magus of the Jar | 1
 Man-O'-War | 2
-Manic Scribe | 1
+Manic Scribe | 0
 Master of Predicaments | 1
 Master of the Veil | 1
 Master Transmuter | 1
@@ -987,7 +987,7 @@ Sapphire Drake | 2
 Scalpelexis | 1
 Scroll Thief | 4
 Scourge of Fleets | 4
-Screeching Skaab | 4
+Screeching Skaab | 0
 Sea Gate Oracle | 2
 Sealock Monster | 5
 Seasinger | 1
@@ -1094,7 +1094,7 @@ Conjured Currency | 1
 Containment Membrane | 4
 Copy Enchantment | 2
 Curse of Inertia | 1
-Curse of the Bloody Tome | 1
+Curse of the Bloody Tome | 0
 Dampening Pulse | 4
 Day of the Dragon | 1
 Dictate of Kruphix | 7
@@ -1146,7 +1146,7 @@ Phantasmal Terrain | 1
 Propaganda | 1
 Quest for Ula's Temple | 1
 Quiet Contemplation | 1
-Reduce In Stature | 3
+Reduce in Stature | 3
 Retreat to Coralhelm | 3
 Singing Bell Strike | 2
 Skywise Teachings | 1
@@ -1238,7 +1238,7 @@ Shared Discovery | 1
 Sight Beyond Sight | 1
 Silent Departure | 4
 Skyscribing | 1
-Sleep | 1
+Sleep | 0
 Slip Through Space | 1
 Stolen Identity | 2
 Strategic Planning | 1
@@ -1276,7 +1276,7 @@ Aether Tradewinds | 2
 Aetherize | 1
 Aetherspouts | 0
 Annul | 6
-Anticipate | 1
+Anticipate | 0
 Arcane Denial | 1
 Archive Trap | 1
 Artificer's Epiphany | 4
@@ -1371,7 +1371,7 @@ Nullify | 4
 Ojutai's Breath | 4
 Opportunity | 3
 Outwit | 1
-Peel from Reality | 5
+Peel from Reality | 0
 Polymorphous Rush | 2
 Pongify | 2
 Psychic Rebuttal | 2
@@ -1506,7 +1506,7 @@ Festering Newt | 5
 Fiend of the Shadows | 1
 Fleshbag Marauder | 2
 Forlorn Pseudamma | 3
-Ghoulraiser | 3
+Ghoulraiser | 0
 Ghoulsteed | 1
 Gloom Surgeon | 1
 Gnawing Zombie | 1
@@ -1547,7 +1547,7 @@ Nightscape Familiar | 1
 Ob Nixilis, Unshackled | 1
 Pain Seer | 1
 Paragon of Open Graves | 2
-Phyrexian Gargantua | 1
+Phyrexian Gargantua | 0
 Pitiless Horde | 2
 Plague Rats | 2
 Plagued Rusalka | 1
@@ -1673,7 +1673,7 @@ Vampiric Rites | 2
 Viper's Kiss | 4
 Vessel of Malignity | 1
 Virulent Plague | 1
-Visions of Brutality | 1
+Visions of Brutality | 0
 Whip of Erebos | 1
 Zombie Infestation | 2
 ### Sorcery < B
@@ -1691,7 +1691,7 @@ Corrupt | 4
 Damnable Pact | 1
 Dark Deal | 2
 Dark Petition | 2
-Dead Drop | 2
+Dead Drop | 0
 Dead Reckoning | 1
 Death's Caress | 4
 Death's Duet | 1
@@ -1702,7 +1702,7 @@ Devouring Greed | 1
 Dirge of Dread | 1
 Drain Life | 1
 Drown in Sorrows | 3
-Duress | 3
+Duress | 0
 Disentomb | 2
 Dutiful Return | 4
 Endemic Plague | 1
@@ -1734,12 +1734,12 @@ Phthisis | 1
 Painful Truths | 1
 Plague Wind | 1
 Raise Dead | 2
-Read the Bones | 8
+Read the Bones | 4
 Ruinous Path | 1
 Sanguimancy | 4
 Shamble Back | 2
 Shrivel | 2
-Sign In Blood | 6
+Sign in Blood | 2
 Skulltap | 1
 Stain the Mind | 1
 Tasigur's Cruelty | 3
@@ -1751,12 +1751,12 @@ Worst Fears | 1
 ### Instant < B
 Card | Qt
 --- | ---
-Altar'sReap | 7
+Altar's Reap | 7
 Annihiliate | 1
 Bile Blight | 2
 Complete Disregard | 4
 Cremate | 4
-Cower In Fear | 3
+Cower in Fear | 3
 Cruel Finality | 1
 Cruel Revival | 2
 Crypt Incursion | 6
@@ -1765,7 +1765,7 @@ Dark Betrayal | 4
 Dark Dabbling | 3
 Dark Ritual | 1
 Death Denied | 1
-Death Wind | 4
+Death Wind | 1
 Doom Blade | 1
 Fated Return | 1
 Feeding Frenzy | 1
@@ -1781,13 +1781,13 @@ Grisly Spectacle | 1
 Howl From Beyond | 1
 Human Frailty | 1
 Merciless Resolve | 4
-Murder | 1
-Murderous Cut | 4
+Murder | 0
+Murderous Cut | 2
 Necrobite | 2
 Nightmarish End | 4
 Peppersmoke | 1
 Perilous Predicament | 1
-Pharika's Cure | 4
+Pharika's Cure | 0
 Reaping the Graves | 1
 Rescue from the Underworld | 4
 Silence the Believer | 1
@@ -1797,7 +1797,7 @@ Tribute to Hunger | 2
 Ulcerate | 2
 Ultimate Price | 0
 Undying Evil | 4
-Unholy Hunger | 4
+Unholy Hunger | 2
 Unmake the Graves | 4
 Vile Rebirth | 5
 ## Artifact < B
@@ -1822,7 +1822,7 @@ Afflicted Deserter | 2
 Airdrop Condor | 1
 Akoum Stonewaker | 1
 Akroan Conscriptor | 4
-Akroan Crusader | 4
+Akroan Crusader | 0
 Aladdin | 1
 Anaba Shaman | 1
 Anger | 1
@@ -1903,7 +1903,7 @@ Kessig Malcontents | 1
 Kolaghan Forerunners | 1
 Kragma Butcher | 5
 Krenko's Enforcer | 4
-Labrynth Champion | 2
+Labyrinth Champion | 0
 Lavaborn Muse | 1
 Lightning Berserker | 1
 Lightning Shrieker | 2
@@ -1936,7 +1936,7 @@ Rubblebelt Maaka | 4
 Ruinous Gremlin | 1
 Rummaging Goblin | 4
 Sanguinary Mage | 3
-Satyr Hoplite | 4
+Satyr Hoplite | 0
 Satyr Nyx-Smith | 4
 Scab-Clan Berserker | 1
 Screamreach Brawler | 4
@@ -2765,7 +2765,7 @@ Seedtime | 1
 Setessan Tactics | 1
 Shape the Sands | 4
 Sheltering Word | 2
-Slice In Twain | 1
+Slice in Twain | 1
 Solidarity of Heroes | 4
 Sprouting Vines | 1
 Summoning Trap | 1
@@ -3134,7 +3134,7 @@ Selesnya Guildgate | 14
 Selesnya Sanctuary | 2
 Temple Garden | 1
 Temple of Plenty | 1
-Tranquil Expense | 2
+Tranquil Expanse | 2
 Vitu-Ghazi, the City-Tree | 1
 ## Blue + Black, Dimir
 ### Creature < U/B
@@ -3453,7 +3453,7 @@ Card | Qt
 Card | Qt
 --- | ---
 Blightning | 1
-Bump In the Night | 4
+Bump in the Night | 4
 Din of the Fireherd | 1
 Dreadbore | 1
 Morgue Burst | 5
@@ -3541,7 +3541,7 @@ Card | Qt
 --- | ---
 Deadly Allure | 2
 Death Frenzy | 1
-Drown In Filth | 6
+Drown in Filth | 6
 Gaze of Granite | 1
 Jarad's Orders | 3
 Kin-Tree Invocation | 2
