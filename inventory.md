@@ -144,7 +144,7 @@ Elixir of Immortality | 3
 Eternity Vessel | 1
 Everflowing Chalice | 2
 Expedition Map | 1
-Explosive Apparatus | 1
+Explosive Apparatus | 0
 Extraplanar Lens | 1
 Font of Mythos | 2
 Gem of Becoming | 2
@@ -155,7 +155,7 @@ Grindclock | 3
 Hall of Triumph | 2
 Helvault | 1
 Heroe's Podium | 1
-Howling Mine | 2
+Howling Mine | 0
 Isochron Scepter | 1
 Ivory Tower | 1
 Jandor's Saddlebags | 1
@@ -207,7 +207,7 @@ Talon of Pain | 1
 Tamiyo's  Journal | 1
 Tapestry of the Ages | 2
 Teferi's Puzzle Box | 2
-Temple Bell | 1
+Temple Bell | 0
 Thought Vessel | 2
 Tormod's Crypt | 4
 Tower of Fortunes | 1
@@ -228,7 +228,7 @@ Worn Powerstone | 1
 ### Artifact Creature < C
 Card | Qt
 --- | ---
-Arcbound Stinger | 1
+Arcbound Stinger | 0
 Ancestral Statue | 2
 Burnished Hart | 1
 Cathodion | 1
@@ -238,7 +238,7 @@ Crenellated Wall | 1
 Foundry Assembler | 1
 Guardians of Meletis | 4?
 Hedron Crawler | 0
-Multiform Wonder | 1
+Multiform Wonder | 0
 Myr Adapter | 1
 Myr Battlesphere | 1
 Night Market Guard
@@ -249,7 +249,7 @@ Palladium Myr | 1
 Phyrexian Revoker | 2
 Pilgrim's Eye | 0
 Precursor Golem | 1
-Runed Servitor | 3
+Runed Servitor | 1
 Shimmer Myr | 1
 Sliver Construct | 3
 Solemn Simulacrum | 0
@@ -329,13 +329,13 @@ Buried Ruin | 1
 Corrupted Crossroads | 1
 Crumbling Vestige | 2
 Crystal Vein | 1
-Darksteel Citadel | 2
+Darksteel Citadel | 0
 Drownyard Temple | 1
 Encroaching Wastes | 2
-Evolving Wilds | 12
+Evolving Wilds | 0
 Foundry of the Consuls | 3
 Gargoyle Castle | 1
-Ghost Quarter | 7
+Ghost Quarter | 0
 Haunted Fengraf | 5
 Holdout Settlement | 2
 Mage-Ring Network | 1
@@ -358,7 +358,7 @@ Sliver Hive | 1
 Tectonic Edge | 2
 Temple of the False God | 7
 Terrain Generator | 0
-Terramorphic Expense | 1
+Terramorphic Expanse | 0
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
 Transguild Promenade | 5
@@ -546,7 +546,7 @@ Tag-Nar Swordsmith | 1
 Thalia, Guardian of Thraben | 1
 Thraben Doomsayer | 1
 Thraben Heretic | 3
-Thraben Inspector | 1
+Thraben Inspector | 0
 Tragic Poet | 1
 True Believer | 1
 Totem-Guide Hartebeest | 2
@@ -696,7 +696,7 @@ Card | Qt
 --- | ---
 Allied Reinforcements | 0
 Angelic Edict | 3
-Angelic Purge | 2
+Angelic Purge | 0
 Archangel's Light | 1
 Breath of Life | 3
 Cataclysm | 1
@@ -819,7 +819,7 @@ Vivid Meadow | 1
 ### Creature < U
 Card | Qt
 --- | ---
-Aether Adept | 1
+Aether Adept | 0
 Aether Figment | 3
 Aether Swooper | 1
 Aether Theorist | 1
@@ -847,13 +847,13 @@ Captain of the Mists | 1
 Cephalid Pathmage | 1
 Chromeshell Crab | 1
 Clinging Anemones | 2
-Clone | 1
+Clone | 0
 Cloudfin Raptor | 4
 Cognivore | 1
 Coral Barrier | 4
 Consecrate Sphinx | 1
 Crookclaw Elder | 1
-Curious Humunculus | 2
+Curious Homunculus | 0
 Dakra Mystic | 2
 Daring Apprentice | 1
 Daring Sleuth | 1
@@ -882,7 +882,7 @@ Eldrazi Skyspawner | 4
 Elgaud Shieldmate | 2
 Elite Arcanist | 1
 Erdwal Illuminator | 1
-Esperzoa | 1
+Esperzoa | 0
 Experiment Aviator | 1
 Faerie Impostor | 1
 Faerie Miscreant | 4
@@ -903,7 +903,7 @@ Gudul Lurker | 1
 Guile | 1
 Halimar Tidecaller | 2
 Havengul Runebinder | 1
-Hedron Crab | 5
+Hedron Crab | 1
 Hightide Hermit | 1
 Hover Barrier | 2
 Hoverguard Sweepers | 2
@@ -913,7 +913,7 @@ Information Dealer | 1
 Inkwell Leviathan | 1
 Ixidron | 2
 Jace's Archivist | 2
-Jace's Phantasm | 3
+Jace's Phantasm | 0
 Janjeet Sentry | 1
 Jushi Apprentice | 2
 Kami of the Cresent Moon | 2
@@ -921,13 +921,13 @@ Kederekt Leviathan | 1
 Kheru Spellsnatcher | 2
 Kraken Hatchling | 5
 Kraken of the Straits | 3
-Krovikan Mist | 2
+Krovikan Mist | 0
 Laboratory Maniac | 1
-Lord of the Unreal | 1
+Lord of the Unreal | 0
 Lore Broker | 1
 Lorthos, the Tidemaker | 1
 Magus of the Jar | 1
-Man-O'-War | 2
+Man-O'-War | 0
 Manic Scribe | 0
 Master of Predicaments | 1
 Master of the Veil | 1
@@ -958,8 +958,8 @@ Palace Familiar | 4
 Paragon of Gathering Mists | 1
 Pestermite | 1
 Phantasmal Abomination | 1
-Phantasmal Bear | 2
-Phantasmal Dragon | 5
+Phantasmal Bear | 0
+Phantasmal Dragon | 1
 Phantom Warrior | 4
 Phyrexian Ingester | 2
 Prescient Chimera | 4
@@ -1097,7 +1097,7 @@ Curse of Inertia | 1
 Curse of the Bloody Tome | 0
 Dampening Pulse | 4
 Day of the Dragon | 1
-Dictate of Kruphix | 7
+Dictate of Kruphix | 3
 Diplomatic Immunity | 1
 Dismiss into Dream | 1
 Domestication | 1
@@ -1151,7 +1151,7 @@ Retreat to Coralhelm | 3
 Singing Bell Strike | 2
 Skywise Teachings | 1
 Soul Barrier | 2
-Sphinx's Tutelage | 4
+Sphinx's Tutelage | 0
 Spreading Seas | 2
 Steal Artifact | 3
 Sunken City | 1
@@ -1239,7 +1239,7 @@ Sight Beyond Sight | 1
 Silent Departure | 4
 Skyscribing | 1
 Sleep | 0
-Slip Through Space | 1
+Slip Through Space | 0
 Stolen Identity | 2
 Strategic Planning | 1
 Switcheroo | 3
@@ -1256,7 +1256,7 @@ Tome Scour | 5
 Trade Secrets | 1
 Traumatize | 1
 Trait Doctoring | 1
-Treasure Cruise | 1
+Treasure Cruise | 0
 Treasure Hunt | 1
 Ugin's Insight | 2
 Uncovered Clues | 5
@@ -1285,7 +1285,7 @@ Blue Sun's Zenith | 2
 Blustersquall | 4
 Bone to Ash | 4
 Boomerang | 2
-Brainstorm | 1
+Brainstorm | 0
 Broken Ambitions | 1
 Broken Concentration | 1
 Cacking Counterpart | 3
@@ -1312,7 +1312,7 @@ Deny Existence | 3
 Discombobulate | 1
 Disdainful Stroke | 4
 Dismiss | 3
-Dispel | 7
+Dispel | 0
 Disperse | 5
 Dissipate | 3
 Dissolve | 2
@@ -1323,7 +1323,7 @@ Dream Fracture | 3
 Dream Twist | 1
 Engulf the Shore | 0
 Epiphany at the Drownyard | 1
-Essence Flux | 1
+Essence Flux | 0
 Essence Scatter | 4
 Evacuation | 2
 Excude | 0
@@ -1364,8 +1364,8 @@ Mana Leak | 5
 Memory Lapse | 1
 Mindstatic | 3
 Mizzium Skin | 5
-Muddle the Mixture | 1
-Negate | 2
+Muddle the Mixture | 0
+Negate | 0
 Neutralizing Blast | 2
 Nullify | 4
 Ojutai's Breath | 4
@@ -1404,7 +1404,7 @@ Stubborn Denial | 1
 Stymied Hopes | 4
 Sudden Storm | 0
 Summary Dismissal | 1
-Summoner's Bane | 3
+Summoner's Bane | 0
 Sweep Away | 2
 Telling Time | 0
 Thassa's Rebuff | 3
@@ -1417,11 +1417,11 @@ Turnabout | 1
 Twiddle | 2
 Unity of Purpose | 1
 Unsubstantiate | 2
-Unsummon | 2
+Unsummon | 0
 Vanishment | 1
 Vapor Snag | 2
 Vision Skeins | 1
-Visions of Beyond | 2
+Visions of Beyond | 0
 Void Shatter | 6
 Voyage's End | 4
 Weave Fate | 4
@@ -1565,7 +1565,7 @@ Risen Executioner | 1
 Rush of Vitality | 1
 Ruthless Ripper | 0
 Sangromancer | 2
-Sanitarium Skeleton | 3
+Sanitarium Skeleton | 2
 Scavenger Drake | 1
 Sedraxis Alchemist | 1
 Seizan, Perverter of Truth | 1
@@ -1665,7 +1665,7 @@ Sanguine Bond | 2
 Shade's Form | 1
 Shadows of the Past | 3
 Shrieking Affliction | 2
-Sinister Concoction | 1
+Sinister Concoction | 0
 Stab Wound | 4
 Triskaidekaphobia | 1
 Underworld Conections | 1
@@ -1759,7 +1759,7 @@ Cremate | 4
 Cower in Fear | 3
 Cruel Finality | 1
 Cruel Revival | 2
-Crypt Incursion | 6
+Crypt Incursion | 3
 Dark Banishing | 2
 Dark Betrayal | 4
 Dark Dabbling | 3
@@ -1883,7 +1883,7 @@ Goblin Shortcutter | 4
 Goblin Warchief | 1
 Goldnight Castigator | 1
 Gore-House Chainwalker | 4
-Guttersnipe | 3
+Guttersnipe | 1
 Hamlet Goliath | 1
 Hanweir Lancer | 1
 Hardened Berserker | 4
