@@ -759,7 +759,7 @@ Deicide | 2
 Defiant Strike | 0
 Demystify | 1
 Devouring Light | 3
-Disenchant | 2
+Disenchant | 1
 Divine Verdict | 4
 Encircling Fissure | 1
 Ephemeral Shields | 5
