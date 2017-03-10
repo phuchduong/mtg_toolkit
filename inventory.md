@@ -1,4 +1,4 @@
-# Inventory
+f# Inventory
 Colorless |
 --- |
 [Creature](#creature--c) |
@@ -220,7 +220,7 @@ Ur-Golem's Eye | 1
 Vedalken Orrery | 3
 Venser's Journal | 2
 Vial of Dragonfire | 4
-Voltaic Key
+Voltaic Key | 1
 Wanderer's Twig | 1
 Wayfarer's Bauble | 0
 Whetstone | 1
@@ -241,7 +241,7 @@ Hedron Crawler | 0
 Multiform Wonder | 0
 Myr Adapter | 1
 Myr Battlesphere | 1
-Night Market Guard
+Night Market Guard | 1
 One-Eyed Scarecrow | 2
 Opaline Unicor | 4
 Ornithopter | 4
@@ -976,7 +976,7 @@ Renowned Weaponsmith | 4
 Riddlesmith | 1
 Riptide Survivor | 2
 Rootwater Diver | 2
-Roil Elemental
+Roil Elemental | 1
 Ruination Guide | 4
 Sage of Hours | 1
 Sage Owl | 1
@@ -1354,7 +1354,7 @@ Jace's Ingenuity | 1
 Jace's Scrutiny | 1
 Keep Watch | 2
 Kiora's Dismissal | 1
-Learn from the Past | 2
+Learn from the Past | 0
 Liquify | 1
 Long-Term Plans | 0
 Lost in the Mist | 1
