@@ -17,6 +17,8 @@ Qt | Card | TCG Player | Deck
 4 | Great Furnace | 1.24 | Battle Deck
 4 | Hallowed Fountain | 14.99 | Modern Tutelage Fog
 2 | Howling Mine | 1.34 | Modern Tutelage Fog
+2 | Imprisoned in the Moon | 0.40 | Frontier Shores
+1 | Inventor's Fair | $1.49 | Frontier Shores
 1 | Jace's Phantasm | 1.5 | Modern Mill
 4 | Leyline of Sanctity | 12.99 | Modern Tutelage Fog: Sideboard
 4 | Leyline of the Void | 16.1 | Modern Mill
@@ -32,7 +34,7 @@ Qt | Card | TCG Player | Deck
 4 | Seat of the Synod | 1.52 | Modern Mill
 3 | Shelldock Isle | 5.94 | Modern Mill
 3 | Shelldock Isle | 5.94 | Modern Tutelage Fog
-3 | "Shu Yun |  the Silent Tempest" | 1.33 | Modern Mill
+3 | "Shu Yun, the Silent Tempest" | 1.33 | Modern Mill
 2 | Supreme Verdict | 4.99 | Modern Tutelage Fog
 1 | Supreme Verdict | 4.99 | Modern Tutelage Fog: Sideboard
 3 | Visions of Beyond | 5.5 | Modern Mill: Sideboard
