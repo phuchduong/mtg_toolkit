@@ -217,7 +217,7 @@ Ugin's Nexus | 1
 Unstable Obelisk | 2
 Unwinding Clock | 1
 Ur-Golem's Eye | 1
-Vedalken Orrery | 3
+Vedalken Orrery | 2
 Venser's Journal | 2
 Vial of Dragonfire | 4
 Voltaic Key | 1
@@ -260,7 +260,7 @@ Steel Wall | 1
 Tetravus | 1
 Thopter Assembly | 2
 Viseling | 1
-Walking Atlas | 5
+Walking Atlas | 4
 Wild-Field Scarecrow | 2
 Workshop Assistant | 1
 ### Artifact Equipment < C
@@ -830,11 +830,11 @@ Aphetto Runecaster | 1
 Apprentice Wizard | 1
 Arbiter of the Ideal | 3
 Arcanis the Omnipotent | 2
-Archaeomancer | 4
+Archaeomancer | 3
 Archivist | 2
 Artisan of Forms | 1
 Aura Thief | 1
-Augur of Bolas | 2
+Augur of Bolas | 1
 Azure Mage | 2
 Battlefield Thaumaturge | 3
 Beguiler of Wills | 1
@@ -870,7 +870,7 @@ Djinn of Infinite Deceits | 1
 Doorkeeper | 2
 Dragon's Eye Savant | 3
 Dreamborn Muse | 1
-Dreamscape Artist | 4
+Dreamscape Artist | 3
 Drift of Phantasms | 3
 Drowner Initiate | 2
 Drowner of Hope | 1
@@ -931,7 +931,7 @@ Man-O'-War | 0
 Manic Scribe | 0
 Master of Predicaments | 1
 Master of the Veil | 1
-Master Transmuter | 1
+Master Transmuter | 0
 Maze Glider | 3
 Meletis Charlatan | 1
 Merchant of Secrets | 1
@@ -943,7 +943,7 @@ Mistfire Adept | 2
 Mistfire Weaver | 4
 Mistform Sliver | 1
 Mizzium Meddler | 2
-Mnemonic Wall | 5
+Mnemonic Wall | 4
 Monastery Flock | 6
 Monastery Loremaster | 3
 Mothdust Changeling | 2
@@ -1009,7 +1009,7 @@ Soul Seizer | 1
 Soulsworn Spirit | 1
 Sphinx of Jwar Isle | 2
 Sphinx of Magosi | 2
-Sphinx of the Final Word | 1
+Sphinx of the Final Word | 2
 Sphinx of Uthuun | 0
 Sphinx's Disciple | 4
 Spiketail Hatchling | 1
@@ -1026,7 +1026,7 @@ Stormsurge Kraken | 1
 Stormtide Leviathan | 2
 Stronghold Machinist | 1
 Tandem Lookout | 1
-Thada Adel, Acquisitor | 1
+Thada Adel, Acquisitor | 0
 Thought Harvester | 2
 Thousand Winds | 1
 Thriving Turtle | 1
@@ -1035,14 +1035,14 @@ Tidebinder Mage | 3
 Tomorrow, Azami's Familiar | 1
 Tower Geist | 4
 Treasure Mage | 1
-Trinket Mage | 3
+Trinket Mage | 2
 Triton Fortune Hunter | 4
 Tromokratis | 2
 Turtleshell Changeling | 1
 Ulamog's Reclaimer | 1
 Undead Alchemist | 1
 Uyo, Silent Prophet | 1
-Vedalken Archmage | 1
+Vedalken Archmage | 0
 Vedalken Engineer | 1
 Vedalken Entrancer | 4
 Voidmage Apprentice | 2
@@ -1079,7 +1079,7 @@ Thassa, God of the Sea | 0
 ### Enchantment < U
 Card | Qt
 --- | ---
-Annex | 1
+Annex | 0
 Aqueous Form | 4
 Arcae Laboratory | 1
 Arcane Melee | 2
@@ -1134,7 +1134,7 @@ Memory Erosion | 1
 Metallurgic Summonings | 2
 Military Intelligence | 2
 Mind Control | 1
-Monastery Siege | 2
+Monastery Siege | 1
 Mystic Remora | 1
 Oath of Jace | 2
 Omniscience | 1
@@ -1209,7 +1209,7 @@ Increasing Confusion | 1
 Index | 1
 Interpret the Signs | 1
 Into the Void | 1
-Inundate | 1
+Inundate | 0
 Last Thoughts | 4
 Mass Appeal | 1
 Mind Sculpt  | 4
@@ -1222,7 +1222,7 @@ Peer Pressure | 1
 Pieces of the Puzzle | 0
 Pore Over the Pages | 0
 Prosperity | 3
-Pull from the Deep | 2
+Pull from the Deep | 1
 Reconstruction | 1
 Reduce to Dreams | 1
 Rise of Eagles | 4
@@ -1262,8 +1262,8 @@ Ugin's Insight | 2
 Uncovered Clues | 5
 Void Snare | 4
 Voidwalk | 1
-Wash Out | 1
-Whelming Wave | 3
+Wash Out | 0
+Whelming Wave | 2
 Windfall | 1
 Write into Being | 4
 ### Instant < U
@@ -1277,11 +1277,11 @@ Aetherize | 1
 Aetherspouts | 0
 Annul | 6
 Anticipate | 0
-Arcane Denial | 1
+Arcane Denial | 0
 Archive Trap | 1
 Artificer's Epiphany | 4
 Backslide | 1
-Blue Sun's Zenith | 2
+Blue Sun's Zenith | 1
 Blustersquall | 4
 Bone to Ash | 4
 Boomerang | 2
@@ -1297,21 +1297,21 @@ Catalog | 8
 Ceremonious Rejection | 1
 Chain of Vapor | 1
 Comparative Analysis | 1
-Confirm Suspicions | 2
-Contradict | 4
+Confirm Suspicions | 1
+Contradict | 3
 Counterlash | 1
 Countermand | 1
 Counterspell | 2
 Crippling Chill | 7
 Crypsis | 4
-Cryptic Command | 1
+Cryptic Command | 0
 Cyclonic Rift | 2
 Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
 Discombobulate | 1
 Disdainful Stroke | 4
-Dismiss | 3
+Dismiss | 2
 Dispel | 0
 Disperse | 5
 Dissipate | 3
@@ -1319,14 +1319,14 @@ Dissolve | 2
 Domineering Will | 2
 Dragonlord's Prerogative | 1
 Dramatic Reveresal | 2
-Dream Fracture | 3
+Dream Fracture | 2
 Dream Twist | 1
 Engulf the Shore | 0
 Epiphany at the Drownyard | 1
 Essence Flux | 0
 Essence Scatter | 4
-Evacuation | 2
-Excude | 0
+Evacuation | 1
+Exclude | 1
 Fated Infatuation | 2
 Flash of Insight | 2
 Flashfreeze | 1
@@ -1373,12 +1373,12 @@ Opportunity | 3
 Outwit | 1
 Peel from Reality | 0
 Polymorphous Rush | 2
-Pongify | 2
+Pongify | 1
 Psychic Rebuttal | 2
 Psychic Spiral | 2
 Quicken | 2
 Rakshasa's Disdain | 5
-Rapid Hybridization | 1
+Rapid Hybridization | 0
 Reach Through Mists | 1
 Reef Worm | 1
 Refocus | 2
@@ -1388,7 +1388,7 @@ Repulse | 1
 Retraction Helix | 4
 Revolutionary Rebuff | 2
 Rites of Refusal | 1
-Scatter Arc | 2
+Scatter Arc | 1
 Second Guess | 1
 Silumgar's Scorn | 1
 Snap | 1
@@ -1396,10 +1396,10 @@ Spell Blast | 3
 Spell Rupture | 1
 Spell Shrivel | 4
 Spy Network | 1
-Squelch | 1
+Squelch | 0
 Statue of Denial | 4
 Stoic Rebuttal | 1
-Stroke of Genius | 1
+Stroke of Genius | 0
 Stubborn Denial | 1
 Stymied Hopes | 4
 Sudden Storm | 0
@@ -1422,7 +1422,7 @@ Vanishment | 1
 Vapor Snag | 2
 Vision Skeins | 1
 Visions of Beyond | 0
-Void Shatter | 6
+Void Shatter | 7
 Voyage's End | 4
 Weave Fate | 4
 Whisk Away | 2
