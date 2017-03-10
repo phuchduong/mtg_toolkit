@@ -127,7 +127,7 @@ Coercive Portal | 1
 Commander's Sphere | 2
 Consulate Turret | 
 Corrupted Grafstone | 0
-Cranial Archive | 3
+Cranial Archive | 0
 Crawlspace | 1
 Crown of Doom | 2
 Crucible of Worlds | 1
