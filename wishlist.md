@@ -61,6 +61,14 @@ Instill Energy | Naya |
 Explorer Scope | Talrand |
 Tireless Tracker | Karametra |
 Future Sight | Karametra |
+Chancellor of the Spires | Baral |
+Curious Homunculus | Baral |
+Floodgate | Baral |
+Gilded Lotus | Baral |
+Rhystic Study | Baral |
+Stone Calendar | Baral |
+Trophy Mage | Baral |
+Wayfarer's Bauble | Baral |
 ### MTG Products
 Item | 
 ---|

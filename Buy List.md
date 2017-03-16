@@ -7,6 +7,7 @@ Qt | Card | TCG Player | Deck
 1 | Chancellor of the Spires | | Baral
 4 | Chromatic Star | $3.49  | Modern Illusions
 3 | Chronozoa | 1.74 | Pauper Affinity
+1 | Curious Homunculus | | Baral
 1 | Darkslick Shores | 8.74 | Modern Mill
 4 | Dawn Charm | 0.98 | Modern Tutelage Fog
 1 | Engulf the Shore | | Baral
