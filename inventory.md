@@ -3357,7 +3357,7 @@ Goblin Electromancer | 5
 Goblin Flectomancer | 1
 Goblin Test Pilot | 2
 Herald of Kozilek | 0
-Hypersonic Dragon | 1
+Hypersonic Dragon (f) | 1
 Izzet Chronarch | 1
 Jhoira of the Ghitu | 1
 Marchesa's Smuggler | 1
@@ -3376,18 +3376,22 @@ Spellheart Chimera | 3
 Stormcaller of Keranos | 3
 Stormchaser Chimera | 3
 Wee Dragonauts | 1
+
 ### Enchantment Creature < U/R
 Card | Qt
 --- | ---
 Keranos, God of Storms | 1
+
 ### Enchantment < U/R
 Card | Qt
 --- | ---
 Mirror Sheen | 1
+
 ### Planeswalker < U/R
 Card | Qt
 --- | ---
 Ral Zarek | 2
+
 ### Sorcery < U/R
 Card | Qt
 --- | ---
@@ -3395,6 +3399,7 @@ Blast of Genius | 2
 Epic Experiment | 1
 Master the Way | 4
 Mystic Retrieval | 3
+
 ### Instant < U/R
 Card | Qt
 --- | ---
@@ -3409,12 +3414,14 @@ Steam Augury | 4
 Thoughtflare | 1
 Turn // Burn | 4
 Winterflame | 2
+
 ### Artifact < U/R
 Card | Qt
 --- | ---
 Izzet Cluestone | 3
 Izzet Keyrune | 3
 Izzet Signet | 1
+
 ### Land < U/R
 Card | Qt
 --- | ---
@@ -3424,11 +3431,13 @@ Izzet Guildgate | 21
 Shivan Reef | 3
 Swiftwater Cliffs | 9
 Temple of Epiphany | 1
+
 ## Blue + Green, Simic
 ### Creature < U/G
 Card | Qt
 --- | ---
 Altered Ego | 2
+Beetleform Mage (f) | 1
 Biovisionary | 1
 Bounding Krasis | 3
 Coiling Oracle | 2
@@ -3458,26 +3467,35 @@ Skyrider Elf | 3
 Species Gorger | 4
 Trygon Predator | 1
 Vigean Hydropon | 1
-Void Grafter | 1
+Void Grafter (f) | 1
 Vorel of the Hull Clade | 1
 Zameck Guildmage | 2
+
 ### Enchantment Creature < U/G
 Card | Qt
 --- | ---
 Kruphix, God of Horizons | 2
+
 ### Enchantment < U/G
 Card | Qt
 --- | ---
 Bred For the Hunt | 3
-Krasis Incubation | 3
-Leafdrake Roost | 1
 Ongoing Investigation | 3
 Secret Plans | 2
+
+### Enchantment Aura < U/G
+Card | Qt
+--- | ---
+Krasis Incubation | 3
+Leafdrake Roost | 1
+
 ### Planeswalker < U/G
 Card | Qt
 --- | ---
 Kiora, Master of the Depths | 1
+Kiora, the Crashing Wave (f) | 1
 Kiora, the Crashing Wave | 1
+
 ### Sorcery < U/G
 Card | Qt
 --- | ---
@@ -3485,6 +3503,7 @@ Give // Take | 1
 Tracker's Instincts | 1
 Unexpected Results | 1
 Urban Evolution | 5
+
 ### Instant < U/G
 Card | Qt
 --- | ---
@@ -3492,14 +3511,16 @@ Biomass Mutation | 1
 Bioshift | 4
 Ethereal Ambush | 5
 Mystic Genesis | 1
-Plasm Capture | 3
+Plasm Capture | 4
 Simic Charm | 2
+
 ### Artifact < U/G
 Card | Qt
 --- | ---
 Simic Cluestone | 4
 Simic Keyrune | 2
 Simic Signet | 1
+
 ### Land < U/G
 Card | Qt
 --- | ---
@@ -3511,6 +3532,7 @@ Temple of Mystery | 1
 Thornwood Falls | 10
 Yavimaya Coast | 1
 Woodland Stream | 3
+
 ## Black + Red, Rakdos
 ### Creature < B/R
 Card | Qt
