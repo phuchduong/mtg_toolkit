@@ -3086,25 +3086,26 @@ Truefire Paladin | 1
 Viashino Firstblade | 5
 Weapons Trainer | 2
 Wojek Halberdiers | 4
+
 ### Enchantment Creature < W/R
 Card | Qt
 --- | ---
 Gleam of Battle | 4
 Legion's Initiative | 1
-### Enchantment < W/R
-Card | Qt
---- | ---
-Desperate Stand | 4
+
 ### Planeswalker < W/R
 Card | Qt
 --- | ---
+
 ### Sorcery < W/R
 Card | Qt
 --- | ---
-Arrows of Justice | 3
+Desperate Stand | 4
+
 ### Instant < W/R
 Card | Qt
 --- | ---
+Arrows of Justice | 3
 Boros Charm | 1
 Deflecting Palm | 1
 Martial Glory | 4
@@ -3115,11 +3116,13 @@ Shattering Blow | 2
 War Flare | 2
 Warleader's Helix | 3
 Wear // Tear | 4
+
 ### Artifact < W/R
 Card | Qt
 --- | ---
 Boros Cluestone | 5
 Boros Signet | 4
+
 ### Land < W/R
 Card | Qt
 --- | ---
@@ -3132,6 +3135,7 @@ Slayer's Stronghold | 1
 Stone Quarry | 1
 Temple of Triumph | 1
 Wind-Scarred Crag | 4
+
 ### Creature < W/G
 Card | Qt
 --- | ---
@@ -3154,29 +3158,38 @@ Risen Sanctuary | 3
 Selvala, Explorer Returned | 1
 Selesnya Evangel | 2
 Sigarda, Heron's Grace | 1
-Trostani's Summoner | 5
+Trostani's Summoner (f) | 1
+Trostani's Summoner | 4
 Veteran Cathar | 1
 Veteran Warleader | 1
 Vitu-Ghazi Guildmage | 1
 Voice of Resurgence | 1
 Wayfaring Temple | 1
 Wilt-Leaf Cavaliers | 1
+
 ## White + Green, Selesnya
 ### Enchantment Creature < W/G
 Card | Qt
 --- | ---
 Karametra, God of Harvest | 1
+
 ### Enchantment < W/G
 Card | Qt
 --- | ---
-Armadillo Cloak | 1
 Growing Ranks | 2
+
+### Enchantment Aura < W/G
+Card | Qt
+--- | ---
+Armadillo Cloak | 1
 Pollenbright Wings | 2
 Unflinching Courage | 3
+
 ### Planeswalker < W/G
 Card | Qt
 --- | ---
 Ajani, Mentor of Heroes | 1
+
 ### Sorcery < W/G
 Card | Qt
 --- | ---
@@ -3184,6 +3197,7 @@ Alive // Well | 3
 Call of the Conclave | 2
 Coursers' Accord | 4
 Travel Preparations | 1
+
 ### Instant < W/G
 Card | Qt
 --- | ---
@@ -3196,6 +3210,7 @@ Reap What Is Sown | 3
 Seed Spark | 1
 Selesnya Charm | 3
 Sigil Blessing | 2
+
 ### Artifact < W/G
 Card | Qt
 --- | ---
@@ -3204,6 +3219,7 @@ Dromoka Monument | 1
 Selesnya Cluestone | 5
 Selesnya Keyrune | 2
 Selesnya Signet | 2
+
 ### Land < W/G
 Card | Qt
 --- | ---
@@ -3218,6 +3234,7 @@ Temple Garden | 1
 Temple of Plenty | 1
 Tranquil Expanse | 2
 Vitu-Ghazi, the City-Tree | 1
+
 ## Blue + Black, Dimir
 ### Creature < U/B
 Card | Qt
