@@ -2117,7 +2117,7 @@ Peak Eruption | 4
 Portent of Betrayal | 4
 Processor Assault | 4
 Pyroclasm | 1
-Radiant Flames | 4t
+Radiant Flames | 4
 Reckless Charge | 1
 Recoup | 1
 Rite to Ruin | 1
@@ -2152,6 +2152,7 @@ Wheel of Fate | 2
 Wild Guess | 4
 Wildfire | 1
 Wild Guess | 1
+
 ### Instant < R
 Card | Qt
 --- | ---
@@ -3248,10 +3249,11 @@ Dimir Infiltrator | 1
 Dinrova Horror | 1
 Diregraf Captain | 1
 Disciple of Deceit | 4
+Dragonlord Silumgar | 1
 Duskmantle Guildmage | 1
 Fathom Feeder | 1
-Forbidden Alchemy | 1
 Glen Elendra Liege | 1
+Gisa and Geralf | 1
 Grimgrin, Corpse-Born | 1
 Haunter of Nightveil | 5
 Lurking Informant | 2
@@ -3266,22 +3268,30 @@ Ruthless Deathfang | 2
 Shipwreck Singer | 3
 Simlumgar, the Drifting Death | 2
 Siren of the Silent Song | 1
-Tidehollow Stix | 1
 Ulamog's Nullifier | 3
 Wrexial, the Risen Deep | 1
+
+### Artifact Creature < U/B
+Card | Qt
+--- | ---
+Tidehollow Stix | 1
+
 ### Enchantment Creature < U/B
 Card | Qt
 --- | ---
 Phenix, God of Deception | 1
+
 ### Enchantment < U/B
 Card | Qt
 --- | ---
 Dire Undercurrents | 1
 Soul Ransom | 1
+
 ### Planeswalker < U/B
 Card | Qt
 --- | ---
 Ashiok, Nightmare Weaver | 1
+
 ### Sorcery < U/B
 Card | Qt
 --- | ---
@@ -3296,6 +3306,7 @@ Psychic Drain | 1
 Psychic Intrusion | 2
 Reap the Seagraf | 4
 Twisted Justice | 1
+
 ### Instant < U/B
 Card | Qt
 --- | ---
@@ -3304,6 +3315,7 @@ Countersquall | 1
 Clutch of the Undercity | 1
 Dimir Charm | 2
 Far // Away | 3
+Forbidden Alchemy | 1
 Induce Paranoia | 1
 Lim-Dul's Vault | 1
 Perplex | 1
@@ -3311,6 +3323,7 @@ Psychic Strike | 4
 Silumgar's Command | 1
 Soul Manipulation | 1
 Warped Physique | 2
+
 ### Artifact < U/B
 Card | Qt
 --- | ---
