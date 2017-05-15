@@ -2550,94 +2550,104 @@ Noble Quarry | 1
 Nylea's Emissary | 1
 Nyxborn Wolf | 4
 Spirespine | 2
+
 ### Enchantment < G
 Card | Qt
 --- | ---
 Abundance | 1
-Ancestral Mask | 1
-Alpha Authority 4 |
-Aspect of Mongoose | 1
 Assault Formation | 4
 Beastmaster Ascension | 1
 Bow of Nylea | 1
 Bower Passage | 2
-Carapace | 1
 Carpet of Flowers | 1
 Concordant Crossroads | 1
 Crawling Sensation | 2
 Crop Sigil | 1
 Curse of Predation | 0
 Descendants' Path | 1
-Dictate of Karametra | 2
-Dragon Fangs | 1
+Dictate of Karametra (f) | 1
+Dictate of Karametra | 1
 Elemental Bond | 1
-Elvish Guidance | 1
 Enchantress's Presence | 1
 Exploration | 1
 Fecundity | 1
 Feed the Pack | 1
 Fertile Ground | 1
 Font of Fertility | 8
-Forced Adaptation | 3
 From Beyond | 6
 Frontier Siege | 3
-Fruit of the First Tree | 1
 Gaea's Touch | 1
 Greater Good | 1
 Ground Seal | 1
-Karametra's Favor | 4
 Hall of Gemstone | 1
+Hibernation's End | 1
 Honden of Life's Web | 1
 Instill Energy | 1
 Into the Wilds | 1
 Lifeforce | 1
-Lure | 4
 Lurking Predators | 1
 Mana Bloom | 1
 Manabond | 1
-Market Festival | 5
-Nylea's Presence | 4
 Oath of Nissa | 1
 Oath of the Ancient Wood | 1
 Obscuring Aether | 3
 Ooze Flux | 2
-Ordeal of Nylea | 3
 Parallel Lives | 1
 Primal Rage | 1
+Retreat To Kazandu | 1
+Rites of Flourishing | 1
+Sight of the Scalelords | 1
+Spawning Grounds | 0
+Strength of the Fallen | 4
+Trail of Mystery | 1
+Ulvenwald Mysteries | 2
+Vernal Bloom | 1
+Vessel of Nascency | 1
+Wild Defiance | 1
+Wild Pair | 1
+Wolfcaller's Howl | 1
+Zendikar Resurgent | 4
+Zendikar's Roil | 1
+
+### Enchantment Aura < G
+Card | Qt
+--- | ---
+Alpha Authority | 4
+Ancestral Mask | 1
+Aspect of Mongoose | 1
+Carapace | 1
+Dragon Fangs | 1
+Elvish Guidance | 1
+Forced Adaptation | 3
+Fruit of the First Tree | 1
+Karametra's Favor (f) | 1
+Karametra's Favor | 3
+Lure | 4
+Market Festival | 5
+Nylea's Presence | 4
+Ordeal of Nylea | 3
 Rancor | 1
 Raised By Wolves | 3
 Regeneration | 2
-Retreat To Kazandu | 1
-Rites of Flourishing | 1
 Seton's Desire | 1
 Sheltered Aerie | 4
-Sight of the Scalelords | 1
-Spawning Grounds | 0
 Squirrel Nest | 1
-Strength of the Fallen | 4
 Temur Runemark | 4
-Trail of Mystery | 1
 Trollhide | 3
-Ulvenwald Mysteries | 2
-Utopia Sprawl | 2
 Urban Burgeoning | 4
+Utopia Sprawl | 2
 Verdant Haven | 5
-Vernal Bloom | 1
-Vessel of Nascency | 1
 Vineweft | 4
-Weirding Wood | 3
-Wild Defiance | 1
+Weirding Wood | 2
 Wild Growth | 4
-Wild Pair | 1
-Wolfcaller's Howl | 1
 Wreath of Geists | 1
-Zendikar Resurgent | 4
-Zendikar's Roil | 1
+
 ### Planeswalker < G
 Card | Qt
 --- | ---
 Nissa, Voice of Zendikar | 1
 Nissa, Worldwaker | 1
+
 ### Sorcery < G
 Card | Qt
 --- | ---
