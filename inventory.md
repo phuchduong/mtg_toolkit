@@ -2070,8 +2070,8 @@ Awe For the Guilds | 4
 Banefire | 1
 Barrage of Boulders | 4
 Bathe in Dragonfire | 4
-Boiling Earth | 4
 Bolt of Keranos | 4
+Boiling Earth | 4
 Breaking Point | 1
 Browbeat | 2
 Cone of Flame | 2
@@ -2094,7 +2094,9 @@ Flurry of Horn | 4
 From the Ashes | 1
 Goblin Rally | 3
 Harness by Force | 2
+Hijack | 1
 Hordeling Outburst | 2
+Infernal Plunge | 1
 Jokulhaups | 1
 Krenko's Command | 5
 Lava Axe | 4
@@ -2115,12 +2117,14 @@ Peak Eruption | 4
 Portent of Betrayal | 4
 Processor Assault | 4
 Pyroclasm | 1
+Radiant Flames | 4t
 Reckless Charge | 1
 Recoup | 1
 Rite to Ruin | 1
 Roast | 3
 Roiling Terrain | 2
 Rolling Temblor | 1
+Spark Creativity | 1
 Scouring Sands | 4
 Scrapyard Salvo | 1
 Seismic Rupture | 1
@@ -2148,7 +2152,6 @@ Wheel of Fate | 2
 Wild Guess | 4
 Wildfire | 1
 Wild Guess | 1
-## Red
 ### Instant < R
 Card | Qt
 --- | ---
@@ -2158,6 +2161,7 @@ Blazing Salvo | 1
 Boil | 1
 Brightstone Ritual | 1
 Brimstone Volley | 1
+Bring Low | 1
 Brood Monitor | 2
 Brute Strength | 1
 Burn Away | 1
@@ -2178,6 +2182,7 @@ Electrickery | 4
 Enrage | 1
 Expedite | 1
 Fall of the Hammer | 4
+Fated Conflagration (f) | 1
 Fated Conflagration | 1
 Fiery Conclusion | 1
 Fiery Impulse | 5
@@ -2211,6 +2216,7 @@ Rush of Adrenaline | 2
 Rush of Blood | 1
 Sarkhan's Triumph | 2
 Searing Blood | 2
+Seething Song | 1
 Shatter | 7
 Shock | 4
 Shrapnel Blast | 3
@@ -2236,19 +2242,23 @@ Violent Eruption | 1
 Volcanic Geyser | 4
 Weapon Surge | 4
 Wild Ricochet | 2
+
 ### Artifact < R
 Card | Qt
 --- | ---
 Pyrite Spellbomb | 1
-Staff of the Flame Magus | 4
+Pyromancer's Goggles | 1
+
 ### Land < R
 Card | Qt
 --- | ---
+Blighted Gorge | 1
 Dwarven Ruins | 1
 Forgotten Cave | 1
 Looming Spires | 6
 Smoldering Crater | 1
 Vivid Crag | 1
+
 ## Green
 ### Creature < G
 Card | Qt
@@ -2264,6 +2274,7 @@ Ant Queen | 1
 Anthousa, Setessan Hero | 2
 Arbor Colossus | 2 
 Arbor Elf | 6
+Azusa, Lost but Seeking (p) | 1
 Axebane Guardian | 3
 Bane of Progress | 1
 Baloth Woodcrasher | 1
@@ -2276,7 +2287,9 @@ Boneyard Wurm | 1
 Borderland Ranger | 5
 Bosk Banneret | 1
 Brawn | 2
+Briarpack Alpha (f) | 1
 Briarbridge Patrol | 1
+Brood Monitor (f) | 1
 Brood Monitor | 1
 Byway Courier | 5
 Cartographer | 1
@@ -2320,7 +2333,7 @@ Foe-Razer Regent | 1
 Fyndhorn Elder | 1
 Gaea's Revenge | 2
 Garruk's Companion | 3
-Garruk's Horde | 0
+Garruk's Horde | 1
 Garruk's Packleader | 1
 Gatecreeper Vine | 4
 Gaea's Herald | 1
@@ -2348,6 +2361,7 @@ Herdchaser Dragon | 3
 Hermit of the Natterknolls | 1
 Hero of Leina Tower | 2
 Heroes' Bane | 2
+Highspire Artisan | 1
 Hinterland Logger | 2
 Honored Hierarch | 1
 Hooting Mandrills | 1
@@ -2402,7 +2416,8 @@ Noose Constrictor | 2
 Nullmage Advocate | 2
 Nylea's Disciple | 4
 Oak Street Innkeeper | 4
-Ondu Giant | 1
+Ondu Giant | 2
+Oracle of Mul Daya | 1
 Orochi Leafcaller | 1
 Orochi Sustainer | 1
 Overgrown Battlement | 1
@@ -2415,10 +2430,11 @@ Plated Crusher | 1
 Priest of Titania | 1
 Primordial Sage | 1
 Quick Sliver | 1
-Rampaging Baloths | 2
-Ravenous Baloth | 1
+Rampaging Baloths | 1
+Ravenous Baloth | 0
 Reclamation Sage | 2
 Reverent Hunter | 1
+Riparian Tiger | 1
 Roaring Primadox | 4
 Roaring Slagwurm | 1
 Rot Shambler | 2
@@ -2434,6 +2450,8 @@ Scourge of Skola Vale | 1
 Scute Mob | 1
 Servant of the Conduit | 1
 Servant of the Scale | 4
+Setessan Oathsworn (f) | 2
+Setessan Starbreaker (f) | 1
 Shaman of Forgotten Ways | 1
 Shaman of Spring | 5
 Shanodin Dryads | 2
@@ -2446,6 +2464,7 @@ Skarrg Goliath | 1
 Skylasher | 1
 Slaughterhorn | 2
 Somberwald Alpha | 2
+Somberwald Stag | 1
 Soul of the Harvest | 0
 Soul of Zendikar | 4
 Soul Swallower | 1
@@ -2463,7 +2482,7 @@ Sylvan Primordial | 2
 Sylvan Ranger | 1
 Sylvan Safekeeper | 1
 Tajuru Warcaller | 2
-Temur Sabertooth | 3
+Temur Sabertooth | 2
 Temur War Shaman | 1
 Terastodon | 2
 Terra Stomper | 2
@@ -2507,14 +2526,17 @@ Wild Wanderer | 3
 Wirewood Hivemaster | 1
 Wolfbriar Elemental | 1
 Wolfir Silverheart | 2
-Wood Elves | 0
+Wood Elves | 2
 Woodborn Behemoth | 3
 Woodland Bellower | 2
+Woodland Sleuth (f) | 1
 Wren's Run Packmaster | 1
+Yavimaya Elder | 2
 Yavimaya Enchantress | 1
 Yavimaya Scion | 1
 Yisan, the Wanderer Bard | 1
 Young Wolf | 4
+
 ### Enchantment Creature < G
 Card | Qt
 --- | ---
