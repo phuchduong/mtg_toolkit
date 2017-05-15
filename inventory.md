@@ -3567,18 +3567,26 @@ Spawn of Rix Maadi | 3
 Spike Jester | 4
 Stromkirk Captain | 2
 Swift Warkite | 3
+Undead Leotau (f) | 1
+
 ### Enchantment Creature < B/R
 Card | Qt
 --- | ---
-Mogis, God of Slaughter | 1
+Mogis, God of Slaughter | 2
+
 ### Enchantment < B/R
 Card | Qt
 --- | ---
-Deviant Glee | 4
 Dralnu's Crusade | 1
 Havoc Festival | 2
 Retribution of the Ancients | 1
 Spiteful Visions | 1
+
+### Enchantment Aura < B/R
+Card | Qt
+--- | ---
+Deviant Glee | 4
+
 ### Planeswalker < B/R
 Card | Qt
 --- | ---
@@ -3596,6 +3604,7 @@ Skull Rend | 4
 Toil // Trouble | 4
 Torrent of Souls | 1
 Tyrannize | 1
+
 ### Instant < B/R
 Card | Qt
 --- | ---
@@ -3604,6 +3613,7 @@ Kolaghan's Command | 1
 Showstopper | 2
 Terminate | 1
 Wrecking Ball | 2
+
 ### Artifact < B/R
 Card | Qt
 --- | ---
@@ -3612,6 +3622,7 @@ Rakdos Cluestone | 5
 Rakdos Keyrune | 2
 Rakdos Riteknife | 1
 Rakdos Signet | 1
+
 ### Land < B/R
 Card | Qt
 --- | ---
@@ -3624,16 +3635,17 @@ Rakdos Guildgate | 17
 Smoldering Marsh | 1
 Stensia Bloodhall | 1
 Sulfurous Springs | 1
+
 ## Black + Green, Golgari
 ### Creature < B/G
 Card | Qt
 --- | ---
 Archers' Parapet | 8
-Autumnal Gloom | 1
 Baloth Null | 2
 Catacomb Sifter | 2
-Corpsejack Menace | 1
-Dreg Mangler | 4
+Corpsejack Menace (f) | 1
+Dreg Mangler (f) | 1
+Dreg Mangler | 3
 Drooling Groodion | 3
 Elves of Deep Shadow | 1
 Gnarlroot Trapper | 4
@@ -3649,27 +3661,32 @@ Rot Farm Skeleton | 5
 Shaman of the Pack | 2
 Shambling Shell | 2
 Sluiceway Scorpion | 3
-The Gitrog Monster | 2
+The Gitrog Monster (f) | 1
+The Gitrog Monster | 1
 Trestle Troll | 4
 Varolz, the Scar-Striped | 1
 Wall of Mulch | 1
+
 ### Enchantment Creature < B/G
 Card | Qt
 --- | ---
 Nyx Weaver | 5
 Pharika, God of Affliction | 2
+
 ### Enchantment < B/G
 Card | Qt
 --- | ---
-Autumnal Gloom | 2
+Autumnal Gloom | 3
 Dark Heart of the Wood | 1
 Golgari Germination | 1
 Necrogenesis | 2
+
 ### Planeswalker < B/G
 Card | Qt
 --- | ---
 Garruk, Apex Predator | 2
 Vraska the Unseen | 1
+
 ### Sorcery < B/G
 Card | Qt
 --- | ---
@@ -3681,18 +3698,21 @@ Jarad's Orders | 3
 Kin-Tree Invocation | 2
 Rolling Spoil | 1
 Treasure Find | 1
+
 ### Instant < B/G
 Card | Qt
 --- | ---
 Gaze of the Gorgon | 2
 Grim Contest | 6
 Putrefy | 2
+
 ### Artifact < B/G
 Card | Qt
 --- | ---
 Golgari Cluestone | 5
 Golgari Keyrune | 3
 Golgari Signet | 1
+
 ### Land < B/G
 Card | Qt
 --- | ---
@@ -3705,6 +3725,7 @@ Hissing Quagmire | 1
 Llanowar Wastes | 2
 Tainted Wood | 1
 Temple of Malady | 3
+
 ## Red + Green, Gruul
 ### Creature < R/G
 Card | Qt
@@ -3716,7 +3737,7 @@ Boggart Ram-Gang | 1
 Borborygmos Enraged | 1
 Burning-Tree Emissary | 3
 Deus of Calamity | 1
-Dragonlord Atarka | 1
+Dragonlord Atarka (pf) | 1
 Fanatic of Xenagos | 2
 Feral Animist | 3
 Ghor-Clan Rampager | 2
@@ -3737,14 +3758,17 @@ Skarrg Guildmage | 1
 Spellbreaker Behemoth | 2
 Ulrich's Kindred | 1
 Valley Rannet | 2
+Voltaic Brawler | 1
 Zendikar Incarnate | 2
 Zhur-Taa Ancient | 3
 Zhur-Taa Druid | 5
 Zhur-Taa Swine | 2
+
 ### Enchantment Creature < R/G
 Card | Qt
 --- | ---
 Xenagos, God of Revels | 1
+
 ### Enchantment < R/G
 Card | Qt
 --- | ---
@@ -3752,12 +3776,18 @@ Fires of Yavimaya | 2
 Impromptu Raid | 1
 Killer Instinct | 1
 Predatory Advantage | 1
+
+### Enchantment Aura < R/G
+Card | Qt
+--- | ---
 Runes of the Deus | 1
+
 ### Planeswalker < R/G
 Card | Qt
 --- | ---
 Arlinn Kord | 1
 Xenagos, the Reveler | 1
+
 ### Sorcery < R/G
 Card | Qt
 --- | ---
@@ -3771,6 +3801,7 @@ Revel of the Fallen God | 3
 Savage Twister | 2
 Vengeful Rebirth | 2
 Wreak Havoc | 2
+
 ### Instant < R/G
 Card | Qt
 --- | ---
@@ -3780,6 +3811,7 @@ Gruul Charm | 2
 Manamorphose | 1
 Pit Fight | 5
 Signal the Clans | 2
+
 ### Artifact < R/G
 Card | Qt
 --- | ---
@@ -3788,6 +3820,7 @@ Gruul Cluestone | 5
 Gruul Keyrune | 3
 Gruul Signet | 2
 Mossfire Egg | 1
+
 ### Land < R/G
 Card | Qt
 --- | ---
@@ -3802,6 +3835,7 @@ Rootbound Crag | 1
 Rugged Highlands | 6
 Skarrg, the Rage Pits | 1
 Temple of Abandon | 3
+
 ## WUG
 ### Creature < Bant
 Card | Qt
@@ -3836,11 +3870,13 @@ Sunscape Master |
 Treva's Attendant | 
 Treva, the Renewer | 
 Waveskimmer Aven | 
+
 ### Enchantment < Bant
 Card | Qt
 --- | ---
 Crystallization | 
 Finest Hour | 
+
 ### Sorcery < Bant
 Card | Qt
 --- | ---
@@ -3850,6 +3886,7 @@ Clarion Ultimatum |
 Demand | 
 Supply | 
 Wargate | 
+
 ### Instant < Bant
 Card | Qt
 --- | ---
@@ -3857,10 +3894,12 @@ Bant Charm |
 Flurry of Wings | 
 Resounding Silence | 
 Treva's Charm | 
+
 ### Artifact < Bant
 Card | Qt
 --- | ---
 Obelisk of Bant | 
+
 ### Land < Bant
 Card | Qt
 --- | ---
@@ -3868,6 +3907,7 @@ Aysen Abbey |
 Irrigation Ditch | 
 Seaside Citadel | 
 Treva's Ruins | 1
+
 ## WUB
 ### Creature < Esper
 Card | Qt
@@ -3899,10 +3939,15 @@ Stormscape Apprentice |
 Stormscape Battlemage | 
 Stormscape Master | 
 Sydri, Galvanic Genius | 
-Tower Gargoyle | 1
 Wandering Mage | 
 Windwright Mage | 
 Zur the Enchanter | 
+
+### Artifact Creature < Esper
+Card | Qt
+--- | ---
+Tower Gargoyle | 1
+
 ### Sorcery < Esper
 Card | Qt
 --- | ---
@@ -3916,12 +3961,14 @@ Esper Charm |
 Punish Ignorance | 
 Resounding Wave | 
 Trial | 
+
 ### Artifact < Esper
 Card | Qt
 --- | ---
 Etherwrought Page | 
 Obelisk of Esper | 
 Thopter Foundry | 1
+
 ### Land < Esper
 Card | Qt
 --- | ---
@@ -3929,6 +3976,7 @@ Ancient Spring |
 Arcane Sanctum | 
 Dromar's Cavern | 
 Wizards' School | 
+
 ## UBR
 ### Creature < Grixis
 Card | Qt
@@ -3963,16 +4011,19 @@ Shadow Guildmage |
 Sol'kanar the Swamp King | 
 Tetsuo Umezawa | 
 Thraximundar | 1
+
 ### Enchantment < Grixis
 Card | Qt
 --- | ---
 Elder Mastery | 
 Elemental Augury | 
 Phyrexian Tyranny | 
+
 ### Planeswalker < Grixis
 Card | Qt
 --- | ---
 Nicol Bolas, Planeswalker | 
+
 ### Sorcery < Grixis
 Card | Qt
 --- | ---
@@ -3984,16 +4035,19 @@ Fall |
 Resounding Scream | 
 Rise | 
 Slave of Bolas | 
+
 ### Instant < Grixis
 Card | Qt
 --- | ---
 Crosis's Charm | 1
 Grixis Charm | 1
+
 ### Artifact < Grixis
 Card | Qt
 --- | ---
 Obelisk of Grixis | 1
 Unscythe, Killer of Kings | 
+
 ### Land < Grixis
 Card | Qt
 --- | ---
@@ -4001,6 +4055,7 @@ Castle Sengir |
 Crosis's Catacombs | 
 Crumbling Necropolis | 
 Sulfur Vent | 
+
 ## BRG
 ### Creature < Jund
 Card | Qt
@@ -4033,6 +4088,7 @@ Thunderscape Master |
 Vaevictis Asmadi | 
 Viashino Slaughtermaster | 
 Xira Arien | 
+
 ### Enchantment < Jund
 Card | Qt
 --- | ---
@@ -4041,6 +4097,7 @@ Dragon Appeasement |
 Earthlink | 
 Keldon Mantle | 
 Sangrite Backlash | 
+
 ### Sorcery < Jund
 Card | Qt
 --- | ---
@@ -4049,6 +4106,7 @@ Flesh |
 Lavalanche | 
 Misfortune | 
 Violent Ultimatum | 
+
 ### Instant < Jund
 Card | Qt
 --- | ---
@@ -4057,10 +4115,12 @@ Hit |
 Jund Charm | 
 Resounding Thunder | 
 Run | 
+
 ### Artifact < Jund
 Card | Qt
 --- | ---
 Obelisk of Jund | 
+
 ### Land < Jund
 Card | Qt
 --- | ---
@@ -4068,6 +4128,7 @@ Darigaaz's Caldera |
 Geothermal Crevice | 
 Koskun Keep | 
 Savage Lands | 
+
 ## WRG
 ### Creature < Naya
 Card | Qt
@@ -4106,12 +4167,14 @@ Thornscape Battlemage |
 Thornscape Master | 
 Uril, the Miststalker | 
 Woolly Thoctar | 
+
 ### Enchantment < Naya
 Card | Qt
 --- | ---
 Mayael's Aria | 
 Trace of Abundance | 
 Winter's Night | 
+
 ### Sorcery < Naya
 Card | Qt
 --- | ---
@@ -4119,16 +4182,19 @@ Fiery Justice |
 Pure | 
 Simple | 
 Titanic Ultimatum | 
+
 ### Instant < Naya
 Card | Qt
 --- | ---
 Naya Charm | 
 Resounding Roar | 
 Rith's Charm | 
+
 ### Artifact < Naya
 Card | Qt
 --- | ---
 Obelisk of Naya | 
+
 ### Land < Naya
 Card | Qt
 --- | ---
@@ -4136,6 +4202,7 @@ An-Havva Township |
 Jungle Shrine | 
 Rith's Grove | 
 Tinder Farm | 
+
 ## WBG
 ### Creature < Abzan
 Card | Qt
@@ -4152,32 +4219,38 @@ Necravolver |
 Siege Rhino | 
 Teneb, the Harvester | 
 Warden of the First Tree | 
+
 ### Enchantment < Abzan
 Card | Qt
 --- | ---
 Abzan Ascendancy | 2
 Overgrown Estate | 
+
 ### Sorcery < Abzan
 Card | Qt
 --- | ---
 Crime | 
-Duneblast | 1
+Duneblast (f) | 1
 Punishment | 
+
 ### Instant < Abzan
 Card | Qt
 --- | ---
 Abzan Charm | 1
 Ready | 
 Willing | 
+
 ### Artifact < Abzan
 Card | Qt
 --- | ---
 Abzan Banner | 5
+
 ### Land < Abzan
 Card | Qt
 --- | ---
 Murmuring Bosk | 
 Sandsteppe Citadel | 
+
 ## WUR
 ### Creature < Jeskai
 Card | Qt
@@ -4196,16 +4269,19 @@ Shu Yun, the Silent Tempest |
 Soulfire Grand Master | 
 Warden of the Eye | 2
 Zedruu the Greathearted | 1
+
 ### Enchantment < Jeskai
 Card | Qt
 --- | ---
 Jeskai Ascendancy | 
 Wild Research | 
+
 ### Sorcery < Jeskai
 Card | Qt
 --- | ---
 Catch | 1
 Release | 1
+
 ### Instant < Jeskai
 Card | Qt
 --- | ---
@@ -4214,14 +4290,17 @@ Flying Crane Technique | 1
 Jeskai Charm | 2
 Odds | 
 When | 
+
 ### Artifact < Jeskai
 Card | Qt
 --- | ---
 Jeskai Banner | 4
+
 ### Land < Jeskai
 Card | Qt
 --- | ---
 Mystic Monastery | 3
+
 ## UBG
 ### Creature < Sultai
 Card | Qt
@@ -4242,28 +4321,34 @@ The Mimeoplasm |
 Torrent Elemental | 
 Urborg Elf | 1
 Vorosh, the Hunter | 
+
 ### Enchantment < Sultai
 Card | Qt
 --- | ---
 Sultai Ascendancy | 
+
 ### Sorcery < Sultai
 Card | Qt
 --- | ---
 Villainous Wealth | 1
+
 ### Instant < Sultai
 Card | Qt
 --- | ---
 Bound | 
 Determined | 
 Sultai Charm | 1
+
 ### Artifact < Sultai
 Card | Qt
 --- | ---
 Sultai Banner | 2
+
 ### Land < Sultai
 Card | Qt
 --- | ---
 Opulent Palace | 4
+
 ## WBR
 ### Creature < Mardu
 Card | Qt
@@ -4313,6 +4398,7 @@ Cetavolver |
 Intet, the Dreamer | 
 Maelstrom Wanderer | 
 Rattleclaw Mystic | 
+Rattleclaw Mystic (f) |  1
 Riku of Two Reflections | 
 Savage Knuckleblade | 1
 Shaman of the Great Hunt | 
