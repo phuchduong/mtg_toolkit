@@ -1,4 +1,4 @@
-f# Inventory
+# Inventory
 Colorless |
 --- |
 [Creature](#creature--c) |
@@ -25,7 +25,7 @@ White | Blue | Black | Red | Green
 W/U Azorius | W/B Orzhov | W/R Boros | W/G Selesnya | U/B Dimir
 --- | --- | --- | --- | ---
 [Creature](#creature--w/u) | [Creature](#creature--w/b) | [Creature](#creature--w/r) | [Creature](#creature--w/g) | [Creature](#creature--u/b) | 
-[Enchantment Creature](#enchantment creature--w/u) | [Enchantment Creature](#enchantment creature--w/b) | [Enchantment Creature](#enchantment creature--w/r) | [Enchantment Creature](#enchantment creature--w/g) | [Enchantment Creature](#enchantment creature--u/b) | 
+[Enchantment Creature](#enchantment-creature--w/u) | [Enchantment Creature](#enchantment-creature--w/b) | [Enchantment Creature](#enchantment-creature--w/r) | [Enchantment Creature](#enchantment-creature--w/g) | [Enchantment Creature](#enchantment-creature--u/b) | 
 [Enchantment](#enchantment--w/u) | [Enchantment](#enchantment--w/b) | [Enchantment](#enchantment--w/r) | [Enchantment](#enchantment--w/g) | [Enchantment](#enchantment--u/b) | 
 [Planeswalker](#planeswalker--w/u) | [Planeswalker](#planeswalker--w/b) | [Planeswalker](#planeswalker--w/r) | [Planeswalker](#planeswalker--w/g) | [Planeswalker](#planeswalker--u/b) | 
 [Instant](#instant--w/u) | [Instant](#instant--w/b) | [Instant](#instant--w/r) | [Instant](#instant--w/g) | [Instant](#instant--u/b) | 
@@ -35,7 +35,7 @@ W/U Azorius | W/B Orzhov | W/R Boros | W/G Selesnya | U/B Dimir
 U/R Izzet | U/G Simic | B/R Rakdos | B/G Golgari | R/G Gruul
 --- | --- | --- | --- | ---
 [Creature](#creature--u/r) | [Creature](#creature--u/g) | [Creature](#creature--b/r) | [Creature](#creature--b/g) | [Creature](#creature--r/g) | 
-[Enchantment Creature](#enchantment creature--u/r) | [Enchantment Creature](#enchantment creature--u/g) | [Enchantment Creature](#enchantment creature--b/r) | [Enchantment Creature](#enchantment creature--b/g) | [Enchantment Creature](#enchantment creature--r/g) | 
+[Enchantment Creature](#enchantment-creature--u/r) | [Enchantment Creature](#enchantment-creature--u/g) | [Enchantment Creature](#enchantment-creature--b/r) | [Enchantment Creature](#enchantment-creature--b/g) | [Enchantment Creature](#enchantment-creature--r/g) | 
 [Enchantment](#enchantment--u/r) | [Enchantment](#enchantment--u/g) | [Enchantment](#enchantment--b/r) | [Enchantment](#enchantment--b/g) | [Enchantment](#enchantment--r/g) | 
 [Planeswalker](#planeswalker--u/r) | [Planeswalker](#planeswalker--u/g) | [Planeswalker](#planeswalker--b/r) | [Planeswalker](#planeswalker--b/g) | [Planeswalker](#planeswalker--r/g) | 
 [Sorcery](#sorcery--u/r) | [Sorcery](#sorcery--u/g) | [Sorcery](#sorcery--b/r) | [Sorcery](#sorcery--b/g) | [Sorcery](#sorcery--r/g) | 
