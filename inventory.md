@@ -2000,58 +2000,63 @@ Aggressive Mining | 1
 Barrage of Expendables | 3
 Battle Strain | 1
 Berserkers' Onslaught | 1
-Burning Anger | 1
 Burning Earth | 1
 Burning Vengeance | 1
 Circle of Flame | 1
 Crucible of Fire | 1
-Curse of Chaos | 2
-Curse of the Nightly Hunt | 1
 Dictate of the Twin Gods | 4
+Font of Ire | 5
+Goblinslide | 3
+Grip of Chaos | 1
+Guild Feud | 1
+Hammer of Purphoros | 1
+Harness the Storm | 1
+Honden of Infinite Rage | 1
+Impact Tremors | 5
+Knowledge And Power | 4
+Leyline of Punishment | 1
+Might Makes Right | 3
+Molten Nursery | 5
+Oath of Chandra | 1
+Possibility Storm | 2
+Pyroconvergence | 1
+Retreat To Valakut | 3
+Seal of Fire | 1
+Smoke | 1
+Stensia Masquerade | 3
+Sulfuric Vortex | 1
+Vessel of Volatility | 3
+War Cadence | 0
+Warstorm Surge | 0
+Where Ancients Tread | 0
+Witch Hunt | 0
+
+### Enchantment Aura > R
+Card | Qt
+--- | ---
+Burning Anger | 1
+Curse of Chaos | 1
+Curse of the Nightly Hunt | 1
 Dragon Breath | 1
 Dragon Grip | 3
 Dragon Mantle | 2
 Epiphany Storm | 4
 Eternal Warrior | 1
 Flaming Sword | 1
-Font of Ire | 5
 Furor of the Bitten | 2
 Goblin War Paint | 4
-Goblinslide | 3
-Grip of Chaos | 1
-Guild Feud | 1
-Hammer of Purphoros | 1
 Hammerhand | 3
-Harness the Storm | 1
-Honden of Infinite Rage | 1
-Impact Tremors | 5
-Infernal Plunge | 1 
-Knowledge And Power | 4
-Leyline of Punishment | 1
+Infectious Rage | 1
 Lightning Talons | 4
 Mardu Runemark | 5
 Messenger's Speed | 2
-Might Makes Right | 3
-Oath of Chandra | 1
-Possibility Storm | 2
-Pyroconvergence | 1
-Retreat To Valakut | 3
-Seal of Fire | 1
 Shiv's Embrace | 2
-Smoke | 1
-Stensia Masquerade | 3
-Sulfuric Vortex | 1
 Thunderous Might | 2
-Vessel of Volatility | 3
 Volcanic Strength | 1
-War Cadence | 0
-Warstorm Surge | 0
-Where Ancients Tread | 0
-Witch Hunt | 0
-## Red
+
 ### Planeswalker < R
 Tibalt, the Fiend-Blooded | 1
-## Red
+
 ### Sorcery < R
 Card | Qt
 --- | ---
