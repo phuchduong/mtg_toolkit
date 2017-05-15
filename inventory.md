@@ -14,7 +14,7 @@ Colorless |
 White | Blue | Black | Red | Green
 --- | --- | --- | --- | ---
 [Creature](#creature--w) | [Creature](#creature--u) | [Creature](#creature--b) | [Creature](#creature--r) | [Creature](#creature--g) | 
-[Enchantment Creature](#enchantment creature--w) | [Enchantment Creature](#enchantment creature--u) | [Enchantment Creature](#enchantment creature--b) | [Enchantment Creature](#enchantment creature--r) | [Enchantment Creature](#enchantment creature--g) | 
+[Enchantment Creature](#enchantment-creature--w) | [Enchantment Creature](#enchantment-creature--u) | [Enchantment Creature](#enchantment-creature--b) | [Enchantment Creature](#enchantment-creature--r) | [Enchantment Creature](#enchantment-creature--g) | 
 [Enchantment](#enchantment--w) | [Enchantment](#enchantment--u) | [Enchantment](#enchantment--b) | [Enchantment](#enchantment--r) | [Enchantment](#enchantment--g) | 
 [Planeswalker](#planeswalker--w) | [Planeswalker](#planeswalker--u) | [Planeswalker](#planeswalker--b) | [Planeswalker](#planeswalker--r) | [Planeswalker](#planeswalker--g) | 
 [Sorcery](#sorcery--w) | [Sorcery](#sorcery--u) | [Sorcery](#sorcery--b) | [Sorcery](#sorcery--r) | [Sorcery](#sorcery--g) | 
