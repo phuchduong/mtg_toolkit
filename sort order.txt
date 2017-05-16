@@ -1,0 +1,12 @@
+Artifact
+Artifact Creature
+Artifact Equipment
+Artifact Enchantment
+Creature
+Enchantment
+Enchantment Aura
+Enchantment Creature
+Instant
+Land
+Planeswalker
+Sorcery
