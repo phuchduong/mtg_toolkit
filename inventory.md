@@ -1386,14 +1386,6 @@ Weave Fate | 4
 Whisk Away | 2
 Words of Wisdom | 1
 
-### Planeswalker < U
-Card | Qt
---- | ---
-Jace Beleren | 1
-Jace, Memory Adept | 1
-Teferi, Temporal Archmage | 1
-Tezzeret the Seeker | 1
-
 ### Land < U
 Card | Qt
 --- | ---
@@ -1408,6 +1400,14 @@ Skyline Cascade | 7
 Soaring Seacliff | 1
 Vivid Creek | 2
 
+### Planeswalker < U
+Card | Qt
+--- | ---
+Jace Beleren | 1
+Jace, Memory Adept | 1
+Teferi, Temporal Archmage | 1
+Tezzeret the Seeker | 1
+
 ### Sorcery < U
 Card | Qt
 --- | ---
@@ -1417,7 +1417,7 @@ Allied Strategis | 1
 Amass the Components | 2
 Anchor to the Aether | 2
 Argivian Restoration | 2
-Artful Dodge | 3
+Artful Dodge | 0
 Blatant Thievery | 0
 Breakthrough | 1
 Brilliant Plan | 1
@@ -1425,41 +1425,44 @@ Call To Mind | 1
 Churning Eddy | 1
 Clutch of Currents | 3
 Coastal Discovery | 2
+Coax from the Blind Eternities | 2
 Compulsive Research | 2
 Concentrate | 2
 Counsel of the Soratami | 1
 Curse of the Swine | 1
-Day's Undoing | 0
+Day's Undoing | 4
 Deep Analysis | 1
 Devastation Tide | 1
 Diminishing Returns | 2
 Distorting Wake | 2
-Divination | 2
+Divination | 3
 Donate | 1
-Dreadwaters | 6
+Drag Under | 1
+Dreadwaters (f) | 1
+Dreadwaters | 3
 Enter the Infinite | 1
 Eye of Nowhere | 1
 Fabricate | 1
 Fascination | 3
-Flow of Ideas | 1
+Flow of Ideas | 2
 Flux | 2
 Glimpse the Future | 2
 Hands of Binding | 3
-Hidden Strings | 4
+Hidden Strings | 5
 Inaction Injunction | 4
 Increasing Confusion | 1
 Index | 1
-Interpret the Signs | 1
+Interpret the Signs (f) | 1
 Into the Void | 1
 Inundate | 0
 Last Thoughts | 4
 Mass Appeal | 1
 Mind Sculpt  | 4
-Mind's Desire | 0
-Nagging Thoughts | 0
+Mind's Desire | 2
+Nagging Thoughts | 2
 Ojutai's Summons | 4
 Order of Succession | 1
-Part the Waterveil | 0
+Part the Waterveil | 4, 4t
 Peer Pressure | 1
 Pieces of the Puzzle | 0
 Pore Over the Pages | 0
@@ -1661,6 +1664,7 @@ Witch's Familiar | 4
 Wight of Precinct Six | 1
 Xathrid Necromancer | 1
 Vampire Nighthawk | 2
+
 ### Enchantment Creature < B
 Card | Qt
 --- | ---
@@ -1676,6 +1680,7 @@ Herald of Torment | 1
 Master of the Feast | 1
 Nighthowler | 1
 Thoughtrender Lamia | 3
+
 ### Enchantment < B
 Card | Qt
 --- | ---
@@ -1731,6 +1736,7 @@ Virulent Plague | 1
 Visions of Brutality | 0
 Whip of Erebos | 1
 Zombie Infestation | 2
+
 ### Sorcery < B
 Card | Qt
 --- | ---
@@ -1803,6 +1809,7 @@ Tormented Thoughts | 4
 Transgress the Mind | 1
 Wit's End | 1
 Worst Fears | 1
+
 ### Instant < B
 Card | Qt
 --- | ---
@@ -1859,6 +1866,7 @@ Vile Rebirth | 5
 Card | Qt
 --- | ---
 Leaden Myr | 1
+
 ## Land < B
 Card | Qt
 --- | ---
@@ -1867,6 +1875,7 @@ Blighted Fen | 2
 Mortuary Mire | 3
 Peat Bog | 1
 Vivid Marsh | 1
+
 ## Red
 ### Creature < R
 Card | Qt
@@ -2172,7 +2181,7 @@ Peak Eruption | 4
 Portent of Betrayal | 4
 Processor Assault | 4
 Pyroclasm | 1
-Radiant Flames | 4
+Radiant Flames | 4t
 Reckless Charge | 1
 Recoup | 1
 Rite to Ruin | 1
