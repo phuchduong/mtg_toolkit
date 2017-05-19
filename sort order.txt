@@ -2,6 +2,7 @@ Artifact
 Artifact Creature
 Artifact Equipment
 Artifact Enchantment
+Artifact Vehicles
 Creature
 Enchantment
 Enchantment Aura
