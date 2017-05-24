@@ -314,11 +314,6 @@ Ruin Processor | 4
 Ulamog the Ceaseless Hunger | 0
 Void Winnower | 1
 
-### Sorcery < C
-Card | Qt
---- | ---
-Gruesome Slaughter | 1
-
 ### Instant < C
 Card | Qt
 --- | ---
@@ -363,25 +358,31 @@ Ruins of Oran-Rief | 1
 Rupture Spire | 2
 Seraph Sanctuary | 1
 Shimmering Grotto | 2
-Shrie of the Forsaken Gods | 2
+Shrine of the Forsaken Gods | 2
 Sliver Hive | 1
 Tectonic Edge | 2
-Temple of the False God | 7
+Temple of the False God | 6
 Terrain Generator | 0
 Terramorphic Expanse | 0
 Thespian Stage | 2
 Tomb of the Spirit Dragon | 3
 Transguild Promenade | 5
 Unknown Shores | 5
-Urborg, Tomb of Yawgmoth | 1
+Urborg, Tomb of Yawgmoth (p) | 1
 Uzra's Factory | 1
 Urza's Mine | 2
 Urza's Power Plant | 2
 Urza's Tower | 1
-Warped Landscape | 4
-Windswept Heath | 2
+Warped Landscape | 2
+Windswept Heath | 1
 Wooded Foothills | 1
 Zoetic Cavern | 2
+
+### Sorcery < C
+Card | Qt
+--- | ---
+Gruesome Slaughter | 1
+
 ## White
 ### Creature < W
 Card | Qt
