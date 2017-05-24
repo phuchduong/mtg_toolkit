@@ -384,6 +384,17 @@ Card | Qt
 Gruesome Slaughter | 1
 
 ## White
+
+### Artifact Equipment < W
+Card | Qt
+--- | ---
+Godsend | 1
+
+### Artifact Enchantment < W
+Card | Qt
+--- | ---
+Spear of Heliod | 2
+
 ### Creature < W
 Card | Qt
 --- | ---
@@ -588,25 +599,6 @@ Whipcorder | 2
 White Knight | 1
 Windborn Muse | 1
 
-### Enchantment Creature < W
-Card | Qt
---- | ---
-Aegis of the Gods | 2
-Angel of Serenity | 1
-Archetype of Courage | 4
-Blinding Angel | 0
-Celestial Archon | 2
-Eidolon of Countless Battles | 2
-Eidolon of Rhetoric | 3
-Ghostblade Eidolon | 3
-Heliod's Emissary | 4
-Heliod, God of the Sun | 1
-Hopeful Eidolon | 3
-Nyx-Fleece Ram | 2
-Nyxborn Shieldmate | 4
-Observant Alseid | 4
-Spirit of the Labyrinth | 1
-
 ### Enchantment < W
 Card | Qt
 --- | ---
@@ -673,6 +665,138 @@ Suspension Field | 1
 Valor in Akros | 1
 Vessel of Ephemera | 4
 
+### Enchantment Aura < W
+Card | Qt
+--- | ---
+Angelic Gift | 4
+Animate Wall | 1
+Armament of Nyx | 1
+Arrest | 1
+Battle Mastery | 3
+Blind Obedience | 1
+Bonds of Faith | 3
+Brainwash | 1
+Call To Serve | 2
+Chosen By Heliod | 4
+Curse of the Forsaken | 1
+Defang | 1
+Divine Favor | 4
+Dragon Scales | 1
+Ethereal Armor | 3
+Forced Worship | 1
+Gift of Immortality | 1
+Gleam of Authority | 1
+Gryff's Boon | 1
+Guildscorn Ward | 2
+Holy Mantle | 1
+Inviolability | 1
+Knightly Valor | 4
+Murder Investigation | 3
+Oppressive Rays | 4
+Ordeal of Heliod | 3
+Pacifism | 3
+Sage's Reverie | 1
+Spectra Ward | 2
+Soul Tithe | 3
+Suppression Bonds | 1
+Sunbond | 4
+Triclopean Sight | 1
+
+### Enchantment Creature < W
+Card | Qt
+--- | ---
+Aegis of the Gods | 2
+Angel of Serenity | 1
+Archetype of Courage | 4
+Blinding Angel | 0
+Celestial Archon | 2
+Eidolon of Countless Battles | 2
+Eidolon of Rhetoric | 3
+Ghostblade Eidolon | 3
+Heliod's Emissary | 4
+Heliod, God of the Sun | 1
+Hopeful Eidolon | 3
+Nyx-Fleece Ram | 2
+Nyxborn Shieldmate | 4
+Observant Alseid | 4
+Spirit of the Labyrinth | 1
+
+### Instant < W
+Card | Qt
+--- | ---
+Abzan Advantage | 4
+Acolyte's Reward | 1
+Ajani's Presence | 1
+Akroma's Blessing | 1
+Artful Maneuver | 4
+Aura Blast | 1
+Avenging Arrow | 1
+Bar the Door | 1
+Brave the Elements | 4
+Celestial Flare | 5
+Center Soul | 4
+Channel Harm | 1
+Chastise | 1
+Congregate | 3
+Decommission | 1
+Deicide | 2
+Defiant Strike | 0
+Demystify | 1
+Devouring Light | 3
+Disenchant | 1
+Divine Verdict | 4
+Encircling Fissure | 1
+Ephemeral Shields | 5
+Erase | 6
+Eyes in the Skies | 4
+Faith's Shield | 2
+Fate Forgotten | 5
+Fated Retribution | 1
+Feat of Resistance | 0
+Gideon's Phalanx | 1
+Gods Willing | 2
+Humble the Brute | 3
+Kill Shot | 4
+Make A Stand | 1
+Pillar of Light | 3
+Quiet Purity | 1
+Raise the Alarm | 1
+Ray of Dissolution | 4
+Rebuke | 1
+Redeem the Lost | 1
+Renounce the Guilds | 1
+Reprisal | 3
+Riot Control | 4
+Rootborn Defenses | 4
+Safe Passage | 3
+Sandblast | 4
+Scale Blessing | 1
+Secure the Wastes | 1
+Smite | 4
+Smite the Monstrous | 5
+Solidarity | 2
+Spare From Evil | 2
+Strength of Arms | 3
+Swords to Plowshares | 1
+Take Up Arms | 4
+Trostani's Judgment | 4
+Valorous Stance | 1
+Wing Shards | 3
+
+### Land < W
+Card | Qt
+--- | ---
+Blighted Steppe | 2
+Drifting Meadow | 1
+New Benalia | 1
+Nomad Stadium | 1
+Ruins of Trokair | 1
+Sandstone Bridge | 1
+Secluded Steppe | 7
+Sejiri Steppe | 2
+Serra's Sanctum | 1
+Vivid Meadow | 1
+
 ### Sorcery < W
 Card | Qt
 --- | ---
@@ -719,84 +843,6 @@ Triplicate Spirits | 5
 Unified Front | 1
 Wake the Reflections | 4
 Wrath of God | 1
-### Instant < W
-Card | Qt
---- | ---
-Abzan Advantage | 4
-Acolyte's Reward | 1
-Ajani's Presence | 1
-Akroma's Blessing | 1
-Artful Maneuver | 4
-Aura Blast | 1
-Avenging Arrow | 1
-Bar the Door | 1
-Brave the Elements | 4
-Celestial Flare | 5
-Center Soul | 4
-Channel Harm | 1
-Chastise | 1
-Congregate | 3
-Decommission | 1
-Deicide | 2
-Defiant Strike | 0
-Demystify | 1
-Devouring Light | 3
-Disenchant | 1
-Divine Verdict | 4
-Encircling Fissure | 1
-Ephemeral Shields | 5
-Erase | 6
-Eyes in the Skies | 4
-Faith's Shield | 2
-Fate Forgotten | 5
-Fated Retribution | 2
-Feat of Resistance | 3
-Gideon's Phalanx | 1
-Gods Willing | 2
-Humble the Brute | 3
-Kill Shot | 4
-Make A Stand | 1
-Pillar of Light | 3
-Quiet Purity | 1
-Raise the Alarm | 1
-Ray of Dissolution | 4
-Rebuke | 1
-Redeem the Lost | 1
-Renounce the Guilds | 1
-Reprisal | 3
-Riot Control | 4
-Rootborn Defenses | 4
-Safe Passage | 3
-Sandblast | 4
-Scale Blessing | 1
-Secure the Wastes | 1
-Smite | 4
-Smite the Monstrous | 5
-Solidarity | 2
-Spare From Evil | 2
-Strength of Arms | 3
-Swords to Plowshares | 1
-Take Up Arms | 4
-Trostani's Judgment | 4
-Valorous Stance | 1
-Wing Shards | 3
-### Artifact < W
-Card | Qt
---- | ---
-Godsend | 1
-### Land < W
-Card | Qt
---- | ---
-Blighted Steppe | 2
-Drifting Meadow | 1
-New Benalia | 1
-Nomad Stadium | 1
-Ruins of Trokair | 1
-Sandstone Bridge | 1
-Secluded Steppe | 7
-Sejiri Steppe | 2
-Serra's Sanctum | 1
-Vivid Meadow | 1
 
 ## Blue
 
