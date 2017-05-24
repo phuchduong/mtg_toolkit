@@ -495,7 +495,7 @@ Kor Entanglers | 2
 Kor Skyfisher | 1
 Kytheon's Irregulars
 Lagonna-Band Trailblazer | 4
-Linvala, the Preserver
+Linvala, the Preserver | 1
 Lost Leonin | 1
 Lotus-Eye Mystics | 3
 Luminate Primordial | 2
@@ -505,7 +505,7 @@ Mardu Hordechief | 2
 Mardu Woe-Reaper | 1
 Maze Sentinel | 4
 Mentor of the Meek | 1
-Mesa Enchantress | 2
+Mesa Enchantress | 1
 Midnight Guard | 4
 Mikaeus, the Lunarch | 1
 Militant Inquisitor | 1
@@ -520,7 +520,7 @@ Phantom General | 1
 Pikemen | 2
 Precinct Captain | 2
 Preeminent Captain | 1
-Precinct Captain | 2
+Precinct Captain | 1
 Purity | 1
 Razor Hippogriff | 1
 Relic Seeker | 2
@@ -531,18 +531,19 @@ Salvage Scout | 1
 Sentinel of the Eternal Watch | 1
 Sentinel Sliver | 1
 Seraph of Dawn | 3
-Seraph of the Masses | 1
+Seraph of the Masses | 3
 Seraph of the Sword | 1
 Serene Master | 1
 Serene Steward | 1
 Serra Angel | 4
 Serra Avatar | 1
-Shadow Glider | 3
+Shadow Glider | 0
 Shield Bearer | 1
 Shieldhide Dragon | 2
+Silent Sentinel (f) | 1
 Silent Sentinel | 1
 Silver Knight | 2
-Silverchase Fox | 2
+Silverchase Fox | 1
 Skyhunter Skirmisher | 1
 Soul of Theros | 1
 Soul Warden | 5
@@ -586,31 +587,26 @@ Wall of Essence | 2
 Whipcorder | 2
 White Knight | 1
 Windborn Muse | 1
+
 ### Enchantment Creature < W
 Card | Qt
 --- | ---
 Aegis of the Gods | 2
 Angel of Serenity | 1
 Archetype of Courage | 4
-Blinding Angel | 1
+Blinding Angel | 0
 Celestial Archon | 2
-Champion of the Parish | 1
-Dawnbringer Charioteers | 1
 Eidolon of Countless Battles | 2
 Eidolon of Rhetoric | 3
-Emeria Shepherd | 3
-Fabled Hero | 1
 Ghostblade Eidolon | 3
 Heliod's Emissary | 4
 Heliod, God of the Sun | 1
-Hixus, Prison Warden | 1
-Hopeful Eidolon | 4
-Kytheon's Irregulars | 1
-Maze Sentinel | 4
+Hopeful Eidolon | 3
 Nyx-Fleece Ram | 2
 Nyxborn Shieldmate | 4
 Observant Alseid | 4
 Spirit of the Labyrinth | 1
+
 ### Enchantment < W
 Card | Qt
 --- | ---
@@ -618,20 +614,10 @@ Absolute Law | 1
 Always Watching | 1
 Angelic Accord | 2
 Angelic Benediction | 1
-Angelic Gift | 4
-Animate Wall | 1
-Armament of Nyx | 1
-Arrest | 1
 Aura Fracture | 1
 Banishing Light | 0
-Battle Mastery | 3
-Blind Obedience | 1
-Bonds of Faith | 3
-Brainwash | 1
 Brave the Sands | 2
-Call To Serve | 2
 Castle | 1
-Chosen By Heliod | 4
 Circle of Protection: Artifacts | 2
 Circle of Protection: Black | 4
 Circle of Protection: Blue | 3
@@ -639,74 +625,54 @@ Circle of Protection: Green | 3
 Circle of Protection: Red | 2
 Circle of Protection: White | 3
 Cradle of Vitality | 1
-Curse of the Forsaken | 2
-Dragon Scales | 1
-Defang | 1
 Dictate of Heliod | 2
-Divine Favor | 4
 Divine Presence | 1
+Enduring Renewal | 1
 Echoes of the Kin Tree | 2
 Enduring Renewal | 1
-Ethereal Armor | 3
 Fanatical Devotion | 1
 First Response | 2
 Font of Vigor | 2
-Forced Worship | 1
 Fortified Area | 1
 Ghostly Prison | 2
-Gift of Immortality | 1
-Gleam of Authority | 1
-Gryff's Boon | 1
-Guildscorn Ward | 2
 Hold the Gates | 3
-Holy Mantle | 1
 Honden of Cleansing Fire | 1
 Hoofprints of the Stag | 1
-Indestructibility | 1
+Indestructibility | 0
 Intangible Virtue | 5
-Inviolability | 1
 Isolation Zone | 1
 Karma | 2
-Knightly Valor | 4
 Lightform | 1
 Martyr's Cause | 1
 Mastery of the Unseen | 1
-Murder Investigation | 3
-Mystic Barrier | 1
+Mystic Barrier | 0
 Myth Realized | 1
 Oath of Gideon | 1
-Olivion Ring | 2
+Oblivion Ring | 1
 Opal Caryatid | 1
 Opal Champion | 1
 Opal Gargoyle | 1
 Opal Titan | 1
-Oppressive Rays | 4
-Ordeal of Heliod | 3
-Pacifism | 3
 Path of Bavery | 1
 Quarantine Field | 1
 Rest in Peace | 1
 Retreat to Emeria | 3
 Sacred Ground | 1
-Sage's Reverie | 1
 Seal of Cleansing | 1
 Serra's Blessing | 1
-Sigil of the Empty Throne | 4
+Sigil of the Empty Throne | 3
 Silkwrap | 1
 Skybind | 2
-Spear of Heliod | 2
-Spectra Ward | 2
 Sphere of Safety | 2
 Spirit Bonds | 1
 Spiritual Asylum | 1
-Soul Tithe | 3
 Soulcatchers' Aerie | 1
-Suppression Bonds | 1
-Sunbond | 4
-Suspension Field | 2
-Triclopean Sight | 1
+Statis Snare | 1
+Suspension Field (f) | 1
+Suspension Field | 1
 Valor in Akros | 1
 Vessel of Ephemera | 4
+
 ### Sorcery < W
 Card | Qt
 --- | ---
