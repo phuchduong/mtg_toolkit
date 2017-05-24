@@ -70,46 +70,17 @@ Color:
 C > W > U > B > R > G
 
 Super Type: 
-Creature > Enchantment Creature > Enchantment > Sorcery > Instant > Artifact > Artifact Creature > Artifact Equipment > Land
+Artifact > Artifact Creature > Artifact Equipment > Artifact Enchantment > Artifact Vehicles > Creature > Enchantment > Enchantment Aura > Enchantment Creature > Instant > Land > Planeswalker > Sorcery
+
 ## Colorless
-### Creature < C
-Card | Qt
---- | ---
-Artisan of Kozilek | 2
-Breaker of Armies | 2
-Deathless Behemoth | 3
-Desolation Twin | 1
-Eldrazi Devastator | 4
-Emrakul, the Promised End | 1
-Endbringer | 2
-Endless One | 3
-Kozilek's Channeler | 2
-Matter Reshaper | 1
-Ruin Processor | 4
-Ulamog the Ceaseless Hunger | 0
-Void Winnower | 1
-## Colorless
-### Planeswalker < C
-Card | Qt
---- | ---
-Ugin, the Spirit Dragon | 2
-### Sorcery < C
-Card | Qt
---- | ---
-Gruesome Slaughter | 1
-### Instant < C
-Card | Qt
---- | ---
-Scour From Existence | 4
-Titan's Presence | 1
 ### Artifact < C
 Card | Qt
 --- | ---
 Alhammarret's Archive | 2
 Aligned Hedron Network | 2
-Altar of the Brood | 2
+Altar of the Brood | 0
 Altar of the Lost | 4
-Amulet of Vigor | 1
+Amulet of Vigor | 0
 Ark of Blight | 1
 Armillary Sphere | 0
 Ashnod's Altar | 2
@@ -122,25 +93,26 @@ Cellar Door | 2
 Chalice of Life | 1
 Chromatic Lantern | 1
 Clock of Omens | 1
-Cloud Key | 1
+Cloud Key | 0
 Coercive Portal | 1
 Commander's Sphere | 2
-Consulate Turret | 
+Consulate Turret | 1
 Corrupted Grafstone | 0
 Cranial Archive | 0
 Crawlspace | 1
 Crown of Doom | 2
 Crucible of Worlds | 1
 Crystal Ball | 2
-Crptolith Fragment | 1
+Cryptolith Fragment | 1
 Darksteel Ingot | 2
 Darksteel Pendant | 1
 Deadlock Trap | 1
 Decimator Web | 1
 Dreamstone Hedron | 3
-Druidic Satchel | 2
+Druidic Satchel | 0
 Dynavolt Tower | 2
-Elixir of Immortality | 3
+Elixir of Immortality | 1
+Emerald Medallion | 1
 Eternity Vessel | 1
 Everflowing Chalice | 2
 Expedition Map | 1
@@ -152,7 +124,8 @@ Ghoulcaller's Bell | 1
 Glasses of Urza | 2
 Grafdigger's Cage | 1
 Grindclock | 3
-Hall of Triumph | 2
+Hall of Triumph (f) | 1
+Hall of Triumph | 1
 Helvault | 1
 Heroe's Podium | 1
 Howling Mine | 0
@@ -170,16 +143,16 @@ Mana Web | 2
 Manalith | 2
 Meteorite | 5
 Millstone | 2
-Mind Stone | 3
+Mind Stone | 2
 Mirari | 1
 Mirrorworks | 0
 Nevinyrral's Disk | 1
-Predator, Flagship | 1
-Prism Ring | 0
 Obelisk of Urd | 1
 Orbs of Warding | 0
 Otherworld Atlas | 2
 Perilous Vault | 1
+Predator, Flagship | 1
+Prism Ring | 0
 Profane Memento | 2
 Prophetic Prism | 4
 Prototype Portal | 1
@@ -195,14 +168,14 @@ Seer's Sundial | 1
 Semblance Anvil | 1
 Sol Ring | 1
 Spine of Ish Sah | 1
-Springleaf Drum | 3
+Springleaf Drum | 0
 Staff of Nin | 0
-Staff of the Death Magus | 5
+Staff of the Death Magus | 4
 Staff of the Mind Magus | 4
 Staff of the Sun Magus | 4
 Sun Droplet | 1
 Surveyor's Scope | 3
-Tablet of the Guilds | 2
+Tablet of the Guilds | 1
 Talon of Pain | 1
 Tamiyo's  Journal | 1
 Tapestry of the Ages | 2
@@ -210,7 +183,7 @@ Teferi's Puzzle Box | 2
 Temple Bell | 0
 Thought Vessel | 2
 Tormod's Crypt | 4
-Tower of Fortunes | 1
+Tower of Fortunes | 0
 Trading Post | 2
 Traveler's Amulet | 4
 Ugin's Nexus | 1
@@ -225,6 +198,7 @@ Wanderer's Twig | 1
 Wayfarer's Bauble | 0
 Whetstone | 1
 Worn Powerstone | 1
+
 ### Artifact Creature < C
 Card | Qt
 --- | ---
@@ -236,10 +210,10 @@ Clockwork Beast | 1
 Creepy Doll | 1
 Crenellated Wall | 1
 Foundry Assembler | 1
-Guardians of Meletis | 4?
+Guardians of Meletis | 0
 Hedron Crawler | 0
 Multiform Wonder | 0
-Myr Adapter | 1
+Myr Adapter | 0
 Myr Battlesphere | 1
 Night Market Guard | 1
 One-Eyed Scarecrow | 2
@@ -253,16 +227,17 @@ Runed Servitor | 1
 Shimmer Myr | 1
 Sliver Construct | 3
 Solemn Simulacrum | 0
-Soul of New Phyrexia
+Soul of New Phyrexia | 1
 Spire Golem | 1
 Steel Hellkite | 3
 Steel Wall | 1
 Tetravus | 1
 Thopter Assembly | 2
 Viseling | 1
-Walking Atlas | 4
+Walking Atlas | 5
 Wild-Field Scarecrow | 2
 Workshop Assistant | 1
+
 ### Artifact Equipment < C
 Card | Qt
 --- | ---
@@ -317,9 +292,44 @@ Veteran's Armaments | 2
 Vorrac Battlehorns | 1
 Witches' Eye | 4
 Worldslayer | 1
+
 ### Artifact Vehicles < C
 Mobile Garrison | 1
 Sky Skiff | 1
+
+### Creature < C
+Card | Qt
+--- | ---
+Artisan of Kozilek | 2
+Breaker of Armies | 2
+Deathless Behemoth | 3
+Desolation Twin | 1
+Eldrazi Devastator | 4
+Emrakul, the Promised End | 1
+Endbringer | 2
+Endless One | 3
+Kozilek's Channeler | 2
+Matter Reshaper | 1
+Ruin Processor | 4
+Ulamog the Ceaseless Hunger | 0
+Void Winnower | 1
+
+### Sorcery < C
+Card | Qt
+--- | ---
+Gruesome Slaughter | 1
+
+### Instant < C
+Card | Qt
+--- | ---
+Scour From Existence | 4
+Titan's Presence | 1
+
+### Planeswalker < C
+Card | Qt
+--- | ---
+Ugin, the Spirit Dragon | 2
+
 ### Land < C
 Card | Qt
 --- | ---
