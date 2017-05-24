@@ -388,14 +388,14 @@ Gruesome Slaughter | 1
 Card | Qt
 --- | ---
 Abzan Battle Priest | 2
-Ainok Bond-Kin | 4
+Ainok Bond-Kin | 5
 Ajani's Chosen | 1
 Ajani's Pridemate | 3
 Ajani's Sunstriker | 3
 Akroan Skyguard | 0
-Anafenza, Kin-Tree Spirit | 1
-Angel of Deliverance | 1
-Angel of Glory's Rise | 1
+Anafenza, Kin-Tree Spirit (f) | 1
+Angel of Deliverance (pf) | 1
+Angel of Glory's Rise (f) | 1
 Angel of Jubilation | 1
 Angel of Serenity | 1
 Angelic Skirmisher | 1
@@ -403,7 +403,8 @@ Angelic Wall | 5
 Apex Hawks | 1
 Arashin Cleric | 1
 Arashin Foremost | 1
-Archangel | 1
+Ardent Militia | 1
+Archangel | 0
 Armory Guard | 4
 Auramancer | 8
 Avacynian Missionaries | 1
@@ -413,6 +414,7 @@ Azorius Justiciar | 2
 Ballyrush Banneret | 2
 Banisher Priest | 3
 Basilica Guards | 3
+Battlegrace Angel | 1
 Benevolent Bodyguard | 2
 Benalish Hero | 1
 Blessed Orator | 1
@@ -421,7 +423,7 @@ Blinding Angel | 1
 Bonescythe Sliver | 1
 Boonweaver Giant | 1
 Bygone Bishop | 4
-Capashen Knight | 1
+Capashen Knight (f) | 1
 Captain of the Watch | 2
 Cathar's Companion | 5
 Cavalry Pegasus | 4
@@ -443,7 +445,7 @@ Dragon Hunter | 1
 Dragonscale General | 1
 Drogskol Cavalry | 2
 Dromoka Captain | 2
-Eagle of the Watch | 1
+Eagle of the Watch (f) | 1
 Elite Inquisitor | 1
 Elite Scaleguard | 3
 Emeria Angel | 1
@@ -453,7 +455,8 @@ Evangel of Heliod | 4
 Exquisite Archangel | 1
 Fabled Hero | 3
 Favored Hoplite | 4
-Felidar Cub | 4
+Felidar Cub (f) | 1
+Felidar Cub | 3
 Felidar Sovereign | 1
 Fencing Ace | 4
 Fiend Hunter | 3
@@ -469,7 +472,7 @@ Guardians of Akrasa | 2
 Guardian of the Gateless | 2
 Gustcloak Savior | 1
 Healer of the Pride | 1
-Heliod's Pilgrim | 4
+Heliod's Pilgrim | 3
 Herald of Anafenza | 2
 Herald of Dromoka | 4
 Hero of Ioras | 2
@@ -490,7 +493,9 @@ Kor Bladewhirl | 0
 Kor Duelist | 1
 Kor Entanglers | 2
 Kor Skyfisher | 1
+Kytheon's Irregulars
 Lagonna-Band Trailblazer | 4
+Linvala, the Preserver
 Lost Leonin | 1
 Lotus-Eye Mystics | 3
 Luminate Primordial | 2
