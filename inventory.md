@@ -787,14 +787,14 @@ Wing Shards | 3
 Card | Qt
 --- | ---
 Blighted Steppe | 2
-Drifting Meadow | 1
-New Benalia | 1
+Drifting Meadow | 0
+New Benalia | 0
 Nomad Stadium | 1
 Ruins of Trokair | 1
 Sandstone Bridge | 1
-Secluded Steppe | 7
+Secluded Steppe | 6
 Sejiri Steppe | 2
-Serra's Sanctum | 1
+Serra's Sanctum | 0
 Vivid Meadow | 1
 
 ### Sorcery < W
@@ -805,7 +805,7 @@ Angelic Edict | 3
 Angelic Purge | 0
 Archangel's Light | 1
 Breath of Life | 3
-Cataclysm | 1
+Cataclysm (f) | 1
 Cleansing Meditation | 1
 Dawn To Dusk | 4
 Declaration in Stone | 1
@@ -817,7 +817,8 @@ Glare of Heresy | 4
 Hive Stirrings | 2
 Increasing Devotion | 1
 Knight Watch | 3
-Launch the Fleet | 3
+Launch the Fleet (f) | 1
+Launch the Fleet | 2
 Lyev Decree | 4
 Mass Calcify | 1
 Not Forgotten | 3
@@ -825,18 +826,20 @@ Ondu Rising | 1
 Open the Armory | 1
 Open the Vaults | 1
 Paraselene | 2
-Planar Cleansing | 3
-Planar Outburst | 1
-Plea for Guidance | 2
-Profound Journey | 2
+Planar Cleansing | 1
+Planar Outburst | 3
+Plea for Guidance | 1
+Profound Journey (f) | 1
+Profound Journey | 1
 Revoke Existence | 4
 Rush of Battle | 4
 Sheer Drop | 2
-Shoulder To Shoulder | 2
-Solemn Offering | 4
+Shoulder to Shoulder | 2
+Solemn Offering | 5
 Soul Summons | 3
 Spectral Procession | 3
-Sudden Disappearance | 2
+Sudden Disappearance (f) | 1
+Sudden Disappearance | 1
 Sunlance | 2
 Swift Reckoning | 2
 Triplicate Spirits | 5
@@ -851,11 +854,12 @@ Card | Qt
 --- | ---
 Glassblower's Puzzleknot | 3
 Mindlock Orb | 0
-Sky Diamond | 1
+Sky Diamond | 0
 
 ### Artifact Creature < U
 Card | Qt
 --- | ---
+Merchant's Dockhand | 1
 Silver Myr | 1
 
 ### Artifact Enchantment < U
@@ -876,7 +880,7 @@ Alhammarret, High Arbiter | 1
 Aphetto Runecaster | 1
 Apprentice Wizard | 1
 Arbiter of the Ideal (f) | 1
-Arbiter of the Ideal | 3
+Arbiter of the Ideal | 2
 Arcanis the Omnipotent (f) | 1
 Arcanis the Omnipotent | 1
 Archaeomancer | 3
@@ -1578,15 +1582,15 @@ Chimney Imp | 1
 Corpse Connoisseur | 1
 Cruel Sadist | 1
 Crypt Sliver | 1
-Deathbringer Regent | 2
+Deathbringer Regent (f) | 2
 Dead Reveler | 3
 Demonlord of Ashmouth | 1
-Despoiler of Souls | 1
+Despoiler of Souls (f) | 1
 Disciple of Griselbrand | 1
 Disciple of Phenax | 4
 Disowned Ancestor | 3
 Drainpipe Vermin | 4
-Dread Defiler | 1
+Dread Defiler (f) | 1
 Dutiful Attendant | 2
 Eater of Hope | 2
 Endrek Sahr, Master Breeder | 1
@@ -1595,21 +1599,23 @@ Falkenrath Noble | 2
 Fallen Angel | 2
 Felhide Petrifier | 3
 Festering Goblin | 1
-Festering Newt | 5
+Festering Newt (f) | 1
+Festering Newt | 4
 Fiend of the Shadows | 1
-Fleshbag Marauder | 2
+Fleshbag Marauder | 0
 Forlorn Pseudamma | 3
 Ghoulraiser | 0
 Ghoulsteed | 1
 Gloom Surgeon | 1
+Gluttonous Zombie | 1
 Gnawing Zombie | 1
-Gravedigger | 3
+Gravedigger | 0
 Gray Merchant of Asphodel | 4
 Grim Haruspex | 1
 Grim Roustabout | 4
 Gurmag Angler | 1
 Gurmag Swiftwing | 2
-Hand of Silumgar | 4
+Hand of Silumgar | 0
 Herald of Leshrac | 1
 Indulgent Aristocrat | 1
 Indulgent Tormentor | 1
@@ -1617,7 +1623,7 @@ Ironclad Revolutionary | 1
 Kalastria Healer | 4
 Kheru Bloodsucker | 2
 King Macar, the Gold-Cursed | 1
-Korlash, Heir To Blackblade | 1
+Korlash, Heir To Blackblade (f) | 1
 Leeching Sliver | 1
 Liliana's Shade | 2
 Lord of the Undead | 1
@@ -1628,7 +1634,8 @@ Marshmist Titan | 4
 Maze Abomination | 5
 Mer-Ek Nightblade | 2
 Merciless Executioner | 1
-Mind Raker | 4
+Mind Raker (f) | 1
+Mind Raker | 3
 Minister of Pain | 2
 Mogis's Marauder | 4
 Mortivore | 1
@@ -1652,7 +1659,8 @@ Rakshasa Gravecaller | 1
 Rancid Rats | 1
 Ravenous Demon | 1
 Ravenous Rats | 5
-Reassembling Skeleton | 2
+Reassembling Skeleton (f) | 1
+Reassembling Skeleton | 1
 Revenant | 1
 Risen Executioner | 1
 Rush of Vitality | 1
