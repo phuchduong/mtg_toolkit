@@ -1668,16 +1668,17 @@ Ruthless Ripper | 0
 Sangromancer | 2
 Sanitarium Skeleton | 2
 Scavenger Drake | 1
-Sedraxis Alchemist | 1
+Sedraxis Alchemist (f) | 1
 Seizan, Perverter of Truth | 1
 Sengir Vampire | 4
 Sepulchral Primordial | 2
 Servant of Nefarox | 3
-Servant of Tymaret | 4
+Servant of Tymaret (f) | 1
+Servant of Tymaret | 3
 Shadowborn Apostle | 5
 Shadowborn Demon | 1
 Sifter of Skulls | 1
-Sightless Ghoul | 1
+Sightless Ghoul | 0
 Silent Specter | 1
 Silumgar Assassin | 1
 Skirge Familiar | 1
