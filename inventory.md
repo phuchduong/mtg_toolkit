@@ -1699,6 +1699,7 @@ Treacherous Pit-Dweller | 1
 Typhoid Rats | 4
 Ubul Sar Gatekeepers | 4
 Unbreathing Horde | 1
+Vampire Nighthawk | 2
 Veilborn Ghoul | 2
 Vulturous Aven | 4
 Wall of Blood | 1
@@ -1707,7 +1708,6 @@ Wall of Limbs | 2
 Witch's Familiar | 4
 Wight of Precinct Six | 1
 Xathrid Necromancer | 1
-Vampire Nighthawk | 2
 
 ### Enchantment Creature < B
 Card | Qt
