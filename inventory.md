@@ -1277,7 +1277,7 @@ Cancel | 4
 Capsize | 1
 Careful Considerations | 1
 Catalog | 8
-Ceremonious Rejection | 3
+Ceremonious Rejection | 0
 Chain of Vapor | 1
 Comparative Analysis | 1
 Confirm Suspicions | 2
@@ -1293,7 +1293,7 @@ Cryptic Command | 1
 Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
-Disallow | 1
+Disallow | 0
 Discombobulate | 1
 Disdainful Stroke (f) | 1
 Disdainful Stroke | 3
@@ -1311,7 +1311,7 @@ Dream Twist | 1
 Engulf the Shore | 0
 Epiphany at the Drownyard | 1
 Essence Flux | 1
-Essence Scatter | 4
+Essence Scatter | 0
 Evacuation | 1
 Exclude | 1
 Fated Infatuation | 2
@@ -1325,7 +1325,7 @@ Geist Snatch | 3
 Grip of Amnesia | 1
 Griptide | 4
 High Tide | 1
-Horribly Awry | 6
+Horribly Awry | 2
 Hubris | 4
 Hurkyl's Recall | 2
 Hydrolash | 0
@@ -1412,7 +1412,7 @@ Vanishment | 1
 Vapor Snag | 0
 Vision Skeins | 1
 Visions of Beyond | 0
-Void Shatter | 7
+Void Shatter | 4
 Voyage's End | 4
 Weave Fate | 4
 Whisk Away | 2
