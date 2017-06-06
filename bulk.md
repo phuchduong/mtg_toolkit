@@ -31,6 +31,7 @@ U/R | U/G | B/R | B/G | R/G
 ### Creature < C
 Card |
 --- |
+
 Kozilek's Pathfinder | 
 Scion of Ugin | 
 ### Artifact < C
@@ -38,6 +39,7 @@ Card |
 --- |
 Alchemist's Vial | 
 Amulet of Kroog |
+Ancestral Statue |
 Angel's Tomb | 
 Ashnod's Transmogrant |
 Barbed Sextant | 
@@ -57,6 +59,7 @@ Warden of the Wall |
 ### Artifact Creature < C
 Card |
 --- |
+Accomplished Automaton |
 Anvilwrought Raptor | 
 Armored Transport | 
 Battering Ram | 
@@ -66,13 +69,16 @@ Clay Statue |
 Clockwork Steed | 
 Custodian of the Trove | 
 Dragonloft Idol | 
+Filigree Crawler |
+Foundry Assembler |
 Galvanic Juggernaut | 
 Gargoyle Sentinel | 
 Gold-Forged Sentinel | 
-Grapeshot Catapult | 
-Guardian Automaton | 
+Grapeshot Catapult |
+Guardian Automaton |
 Haunted Guardian | 
 Hewed Stone Retainers | 
+Iron League Steed |
 Juggernaut | 
 Keeper of the Lens | 
 Millennial Gargoyle | 
@@ -82,6 +88,7 @@ Phyrexian Hulk |
 Patagia Golem | 
 Primal Clay | 
 Ramroller | 
+Reservoir Walker |
 Runaway Carriage | 
 Street Sweeper | 
 Thraben Gargoyle | 

@@ -76,9 +76,10 @@ Artifact > Artifact Creature > Artifact Equipment > Artifact Enchantment > Artif
 ### Artifact < C
 Card | Qt
 --- | ---
+Aetherflux Reservoir | 1
 Alhammarret's Archive | 2
 Aligned Hedron Network | 2
-Altar of the Brood | 0
+Altar of the Brood | 2
 Altar of the Lost | 4
 Amulet of Vigor | 0
 Ark of Blight | 1
@@ -97,7 +98,7 @@ Cloud Key | 0
 Coercive Portal | 1
 Commander's Sphere | 2
 Consulate Turret | 1
-Corrupted Grafstone | 0
+Corrupted Grafstone | 4
 Cranial Archive | 0
 Crawlspace | 1
 Crown of Doom | 2
@@ -108,14 +109,15 @@ Darksteel Ingot | 2
 Darksteel Pendant | 1
 Deadlock Trap | 1
 Decimator Web | 1
+Dragon's Claw | 1
 Dreamstone Hedron | 3
 Druidic Satchel | 0
 Dynavolt Tower | 2
-Elixir of Immortality | 1
+Elixir of Immortality | 2
 Emerald Medallion | 1
 Eternity Vessel | 1
 Everflowing Chalice | 2
-Expedition Map | 1
+Expedition Map | 2
 Explosive Apparatus | 0
 Extraplanar Lens | 1
 Font of Mythos | 2
@@ -139,26 +141,29 @@ Lantern of Insight | 1
 Lens of Clarity | 4
 Long-Forgotten Gohei | 1
 Loreseeker's Stone | 1
+Magnifying Glass | 1
 Mana Web | 2
 Manalith | 2
 Meteorite | 5
 Millstone | 2
 Mind Stone | 2
 Mirari | 1
-Mirrorworks | 0
+Mirrorworks | 1
 Nevinyrral's Disk | 1
 Obelisk of Urd | 1
 Orbs of Warding | 0
 Otherworld Atlas | 2
+Pacification Array | 1
+Panharmonicon | 1
 Perilous Vault | 1
 Predator, Flagship | 1
 Prism Ring | 0
 Profane Memento | 2
-Prophetic Prism | 4
+Prophetic Prism | 7
 Prototype Portal | 1
 Pyxis of Pandemonium | 1
 Ratchet Bomb | 1
-Relic of Progenitus | 0
+Relic of Progenitus | 2
 Sands of Delirium | 1
 Sapphire Medallion | 0
 Scroll of Avacyn | 2
@@ -171,7 +176,9 @@ Spine of Ish Sah | 1
 Springleaf Drum | 0
 Staff of Nin | 0
 Staff of the Death Magus | 4
-Staff of the Mind Magus | 4
+Staff of the Flame Magus | 4
+Staff of the Mind Magus (f) | 1
+Staff of the Mind Magus | 3
 Staff of the Sun Magus | 4
 Sun Droplet | 1
 Surveyor's Scope | 3
@@ -182,11 +189,13 @@ Tapestry of the Ages | 2
 Teferi's Puzzle Box | 2
 Temple Bell | 0
 Thought Vessel | 2
+Thousand-Year Elixir | 1
 Tormod's Crypt | 4
 Tower of Fortunes | 0
 Trading Post | 2
 Traveler's Amulet | 4
 Ugin's Nexus | 1
+Universal Solvent | 1
 Unstable Obelisk | 2
 Unwinding Clock | 1
 Ur-Golem's Eye | 1
@@ -200,21 +209,22 @@ Whetstone | 1
 Worn Powerstone | 1
 
 ### Artifact Creature < C
-Card | Qt
---- | ---
+Card | Inventory | Trade
+---- | --------- | -----
+Accomplished Automation | 2
 Arcbound Stinger | 0
-Ancestral Statue | 2
 Burnished Hart | 1
 Cathodion | 1
 Clockwork Beast | 1
-Creepy Doll | 1
+Consulate Skygate | 1
+Crackdown Construct | 1
+Creepy Doll (f) | 1
 Crenellated Wall | 1
-Foundry Assembler | 1
 Guardians of Meletis | 0
 Hedron Crawler | 0
 Multiform Wonder | 0
 Myr Adapter | 0
-Myr Battlesphere | 1
+Myr Battlesphere | 
 Night Market Guard | 1
 One-Eyed Scarecrow | 2
 Opaline Unicor | 4
