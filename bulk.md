@@ -43,6 +43,7 @@ Ancestral Statue |
 Angel's Tomb | 
 Ashnod's Transmogrant |
 Barbed Sextant | 
+Bottle of Suleiman |
 Briber's Purse |
 Explosive Apparatus |
 Flowstone Armor | 

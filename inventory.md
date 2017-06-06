@@ -88,7 +88,7 @@ Ashnod's Altar | 2
 Astral Cornucopia | 2
 Belbe's Armor | 1
 Blinkmoth Urn | 1
-Bottle of Suleiman | 1
+Bottle of Suleiman | Bulk
 Bubbling Cauldron | 3
 Cellar Door | 2
 Chalice of Life | 1
@@ -105,6 +105,7 @@ Crown of Doom | 2
 Crucible of Worlds | 1
 Crystal Ball | 2
 Cryptolith Fragment | 1
+Damping Matrix | 1
 Darksteel Ingot | 2
 Darksteel Pendant | 1
 Deadlock Trap | 0
@@ -206,6 +207,7 @@ Voltaic Key | 1
 Wanderer's Twig | 1
 Wayfarer's Bauble | 0
 Whetstone | 1
+Witchbane Orb | 2
 Worn Powerstone | 1
 
 ### Artifact Creature < C
@@ -218,13 +220,13 @@ Cathodion | 1
 Clockwork Beast | 1
 Consulate Skygate | 1
 Crackdown Construct | 1
-Creepy Doll (f) | 1
+Creepy Doll (f) | 0
 Crenellated Wall | 1
 Guardians of Meletis | 0
 Hedron Crawler | 0
 Multiform Wonder | 0
 Myr Adapter | 0
-Myr Battlesphere | 
+Myr Battlesphere | 0
 Night Market Guard | 1
 One-Eyed Scarecrow | 2
 Opaline Unicor | 4
@@ -239,7 +241,7 @@ Sliver Construct | 3
 Solemn Simulacrum | 0
 Soul of New Phyrexia | 1
 Spire Golem | 1
-Steel Hellkite | 3
+Steel Hellkite | 2
 Steel Wall | 1
 Tetravus | 1
 Thopter Assembly | 2
@@ -1545,7 +1547,7 @@ Thassa's Bounty | 4
 Time Ebb | 3
 Time Reversal | 1
 Tome Scour | 5
-Trade Secrets | 1t
+Trade Secrets | 0
 Traumatize | 2
 Trait Doctoring | 1
 Treasure Cruise | 1
