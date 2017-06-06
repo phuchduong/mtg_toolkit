@@ -1277,9 +1277,9 @@ Aerial Formation | 1
 Aether Tradewinds (f) | 1
 Aether Tradewinds | 1
 Aetherize | 1
-Aetherspouts | 1
+Aetherspouts | 0
 Annul | 6
-Anticipate (f) | 1
+Anticipate (f) | 0
 Anticipate | 1
 Arcane Denial | 0
 Archive Trap | 1
@@ -1287,7 +1287,7 @@ Artificer's Epiphany | 5
 Backslide | 1
 Blue Sun's Zenith | 2
 Blustersquall | 4
-Bone to Ash | 4
+Bone to Ash | 3
 Boomerang | 2
 Brainstorm | 1
 Broken Ambitions | 1
@@ -1310,7 +1310,7 @@ Crippling Chill | 8
 Cyclonic Rift | 2
 Crypsis (f) | 1
 Crypsis | 3
-Cryptic Command | 1
+Cryptic Command | 0
 Dampen Thought | 1
 Deflection | 1
 Deny Existence | 3
@@ -1358,7 +1358,7 @@ Intellectual Offering | 2
 Into the Roil | 0
 Invasive Surgery | 2
 Ixidor's Will | 1
-Jace's Ingenuity | 1
+Jace's Ingenuity | 0
 Jace's Scrutiny | 1
 Keep Watch | 2
 Kiora's Dismissal | 1
@@ -1407,7 +1407,7 @@ Spy Network | 1
 Squelch | 0
 Statue of Denial | 4
 Stoic Rebuttal | 1
-Stroke of Genius | 1
+Stroke of Genius | 0
 Stubborn Denial | 1
 Stymied Hopes | 4
 Sudden Storm | 0
@@ -1416,9 +1416,9 @@ Summoner's Bane | 0
 Swan Song | 1
 Sweep Away | 2
 Take into Custody | 1
-Telling Time | 1
+Telling Time | 0
 Thassa's Rebuff | 3
-Think Twice | 1
+Think Twice | 0 f
 Thought Scour | 3
 Time Stop | 2
 Totally Lost (f) | 1
