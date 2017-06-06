@@ -98,7 +98,7 @@ Cloud Key | 0
 Coercive Portal | 1
 Commander's Sphere | 2
 Consulate Turret | 1
-Corrupted Grafstone | 4
+Corrupted Grafstone | 0
 Cranial Archive | 0
 Crawlspace | 1
 Crown of Doom | 2
@@ -107,21 +107,21 @@ Crystal Ball | 2
 Cryptolith Fragment | 1
 Darksteel Ingot | 2
 Darksteel Pendant | 1
-Deadlock Trap | 1
+Deadlock Trap | 0
 Decimator Web | 1
 Dragon's Claw | 1
 Dreamstone Hedron | 3
 Druidic Satchel | 0
-Dynavolt Tower | 2
+Dynavolt Tower | 0
 Elixir of Immortality | 2
 Emerald Medallion | 1
 Eternity Vessel | 1
-Everflowing Chalice | 2
+Everflowing Chalice | 1
 Expedition Map | 2
 Explosive Apparatus | 0
-Extraplanar Lens | 1
-Font of Mythos | 2
-Gem of Becoming | 2
+Extraplanar Lens | 0
+Font of Mythos | 1
+Gem of Becoming | 1
 Ghoulcaller's Bell | 1
 Glasses of Urza | 2
 Grafdigger's Cage | 1
@@ -209,8 +209,8 @@ Whetstone | 1
 Worn Powerstone | 1
 
 ### Artifact Creature < C
-Card | Inventory | Trade
----- | --------- | -----
+Card | Inventory |
+---- | --------- |
 Accomplished Automation | 2
 Arcbound Stinger | 0
 Burnished Hart | 1
