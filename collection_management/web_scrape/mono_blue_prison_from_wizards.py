@@ -16,3 +16,5 @@ deck_soup = page_soup.find_all("div", {"class": "deck-list-text"})
 # Extract card count quantities from deck
 card_counts = page_soup.find_all("a", {"class": "card-name"})
 # Extract card information from deck
+
+input("Press any key to end.")

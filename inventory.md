@@ -79,7 +79,7 @@ Card | Qt
 Aetherflux Reservoir | 1
 Alhammarret's Archive | 2
 Aligned Hedron Network | 2
-Altar of the Brood | 2
+Altar of the Brood | 1
 Altar of the Lost | 4
 Amulet of Vigor | 0
 Ark of Blight | 1
@@ -149,15 +149,15 @@ Meteorite | 5
 Millstone | 2
 Mind Stone | 2
 Mirari | 1
-Mirrorworks | 1
-Nevinyrral's Disk | 1
+Mirrorworks | 0
+Nevinyrral's Disk | -
 Obelisk of Urd | 1
 Orbs of Warding | 0
 Otherworld Atlas | 2
 Pacification Array | 1
 Panharmonicon | 1
 Perilous Vault | 1
-Predator, Flagship | 1
+Predator, Flagship | 0
 Prism Ring | 0
 Profane Memento | 2
 Prophetic Prism | 7
@@ -198,9 +198,9 @@ Traveler's Amulet | 4
 Ugin's Nexus | 1
 Universal Solvent | 1
 Unstable Obelisk | 2
-Unwinding Clock | 1
+Unwinding Clock | 0
 Ur-Golem's Eye | 1
-Vedalken Orrery | 2
+Vedalken Orrery | 1
 Venser's Journal | 2
 Vial of Dragonfire | 4
 Voltaic Key | 1
@@ -241,7 +241,7 @@ Sliver Construct | 3
 Solemn Simulacrum | 0
 Soul of New Phyrexia | 1
 Spire Golem | 1
-Steel Hellkite | 2
+Steel Hellkite | 1
 Steel Wall | 1
 Tetravus | 1
 Thopter Assembly | 2
@@ -264,7 +264,7 @@ Brawler's Plate | 1
 Captain's Claws | 1
 Cathar's Shield | 1
 Chariot of Victory | 1
-Darksteel Plate | 1
+Darksteel Plate | 0
 Dragon Throne of Tarkir | 1
 Executioner's Hood | 3
 Fireshrieker | 1
@@ -1195,11 +1195,11 @@ Monastery Siege | 1
 Mystic Remora | 1
 Oath of Jace (f) | 1
 Oath of Jace | 2
-Omniscience | 1
+Omniscience | 0
 Propaganda | 1
 Quest for Ula's Temple | 1
 Quiet Contemplation | 1
-Retreat to Coralhelm | 4
+Retreat to Coralhelm | 3
 Skywise Teachings | 1
 Soul Barrier | 2
 Sphinx's Tutelage | 0
@@ -1493,7 +1493,7 @@ Donate | 1
 Drag Under | 1
 Dreadwaters (f) | 1
 Dreadwaters | 3
-Enter the Infinite | 1
+Enter the Infinite | 0
 Eye of Nowhere | 1
 Fabricate | 1
 Fascination | 3
@@ -1554,7 +1554,7 @@ Temporal Trespass | 1
 Tempt with Reflections | 1
 Thassa's Bounty | 4
 Time Ebb | 3
-Time Reversal | 1
+Time Reversal | 0
 Tome Scour | 5
 Trade Secrets | 0
 Traumatize | 2
