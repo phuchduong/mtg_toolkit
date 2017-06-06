@@ -84,7 +84,7 @@ Altar of the Lost | 4
 Amulet of Vigor | 0
 Ark of Blight | 1
 Armillary Sphere | 0
-Ashnod's Altar | 2
+Ashnod's Altar | 1
 Astral Cornucopia | 2
 Belbe's Armor | 1
 Blinkmoth Urn | 1
@@ -172,7 +172,7 @@ Scroll of the Masters | 1
 Seer's Lantern | 5
 Seer's Sundial | 1
 Semblance Anvil | 1
-Sol Ring | 1
+Sol Ring | 0
 Spine of Ish Sah | 1
 Springleaf Drum | 0
 Staff of Nin | 0
@@ -215,7 +215,7 @@ Card | Inventory |
 ---- | --------- |
 Accomplished Automation | 2
 Arcbound Stinger | 0
-Burnished Hart | 1
+Burnished Hart | 0
 Cathodion | 1
 Clockwork Beast | 1
 Consulate Skygate | 1
@@ -238,7 +238,7 @@ Precursor Golem | 1
 Runed Servitor | 1
 Shimmer Myr | 1
 Sliver Construct | 3
-Solemn Simulacrum | 0
+Solemn Simulacrum | 1
 Soul of New Phyrexia | 1
 Spire Golem | 1
 Steel Hellkite | 1
@@ -247,7 +247,7 @@ Tetravus | 1
 Thopter Assembly | 2
 Viseling | 1
 Walking Atlas | 5
-Wild-Field Scarecrow | 2
+Wild-Field Scarecrow | 1
 Workshop Assistant | 1
 
 ### Artifact Equipment < C
@@ -298,7 +298,7 @@ Spidersilk Net | 3
 Stoneforge Masterwork | 1
 Stormrider Rig | 1
 Swiftfoot Boots | 4
-Sword of the Animist | 3
+Sword of the Animist | 2
 Vanguard's Shield | 1
 Veteran's Armaments | 2
 Vorrac Battlehorns | 1
@@ -354,7 +354,7 @@ Evolving Wilds | 0
 Foundry of the Consuls | 3
 Gargoyle Castle | 1
 Ghost Quarter | 0
-Haunted Fengraf | 5
+Haunted Fengraf | 4
 Holdout Settlement | 2
 Inventor's Fair | 1
 Mage-Ring Network | 1
@@ -1580,12 +1580,12 @@ Abhorrent Overlord | 1
 Acid-Spewer Dragon | 1
 Agent of the Fates | 1
 Ambuscade Shaman | 1
-Baleful Force | 1
+Baleful Force | 0
 Bascilica Screecher | 3
 Black Cat | 4
 Black Oak of Odunos | 3
 Blightcaster | 6
-Blood Artist | 1
+Blood Artist | 0
 Blood Bairn | 4
 Blood Host | 1
 Blood Pet | 1
@@ -1603,7 +1603,7 @@ Chimney Imp | 1
 Corpse Connoisseur | 1
 Cruel Sadist | 1
 Crypt Sliver | 1
-Deathbringer Regent (f) | 2
+Deathbringer Regent (f) | 1
 Dead Reveler | 3
 Demonlord of Ashmouth | 1
 Despoiler of Souls (f) | 1
@@ -1631,15 +1631,15 @@ Gloom Surgeon | 1
 Gluttonous Zombie | 1
 Gnawing Zombie | 1
 Gravedigger | 0
-Gray Merchant of Asphodel | 4
-Grim Haruspex | 1
+Gray Merchant of Asphodel | 3
+Grim Haruspex | 0
 Grim Roustabout | 4
 Gurmag Angler | 1
 Gurmag Swiftwing | 2
 Hand of Silumgar | 0
-Herald of Leshrac | 1
-Indulgent Aristocrat | 1
-Indulgent Tormentor | 1
+Herald of Leshrac | 0
+Indulgent Aristocrat | 0
+Indulgent Tormentor | 0
 Ironclad Revolutionary | 1
 Kalastria Healer | 4
 Kheru Bloodsucker | 2
@@ -1654,7 +1654,7 @@ Mardu Strike Leader | 1
 Marshmist Titan | 4
 Maze Abomination | 5
 Mer-Ek Nightblade | 2
-Merciless Executioner | 1
+Merciless Executioner | 0
 Mind Raker (f) | 1
 Mind Raker | 3
 Minister of Pain | 2
@@ -1665,14 +1665,14 @@ Necropolis Fiend | 1
 Night Market Lookout | 1
 Nightmare | 1
 Nightscape Familiar | 1
-Ob Nixilis, Unshackled | 1
+Ob Nixilis, Unshackled | 0
 Pain Seer | 1
 Paragon of Open Graves | 2
 Phyrexian Gargantua | 0
 Pitiless Horde | 2
 Plague Rats | 2
 Plagued Rusalka | 1
-Pontiff of Blight | 1
+Pontiff of Blight | 0
 Priest of the Blood Rite | 1
 Pulse Tracker | 1
 Rakdos Drake | 3
@@ -1680,7 +1680,7 @@ Rakshasa Gravecaller | 1
 Rancid Rats | 1
 Ravenous Demon | 1
 Ravenous Rats | 5
-Reassembling Skeleton (f) | 1
+Reassembling Skeleton (f) | 0
 Reassembling Skeleton | 1
 Revenant | 1
 Risen Executioner | 1
@@ -1692,7 +1692,7 @@ Scavenger Drake | 1
 Sedraxis Alchemist (f) | 1
 Seizan, Perverter of Truth | 1
 Sengir Vampire | 4
-Sepulchral Primordial | 2
+Sepulchral Primordial | 1
 Servant of Nefarox | 3
 Servant of Tymaret (f) | 1
 Servant of Tymaret | 3
@@ -1749,7 +1749,7 @@ Thoughtrender Lamia | 3
 ### Enchantment < B
 Card | Qt
 --- | ---
-Animate Dead | 1
+Animate Dead | 0
 Bereavement | 1
 Blight | 1
 Blood Reckoning | 2
@@ -1764,13 +1764,13 @@ Curse of Thirst | 4
 Deadly Wanderings | 1
 Death Pit Offering | 1
 Deathgrip | 1
-Dictate of Erebos | 3
+Dictate of Erebos | 2
 Endless Ranks of the Dead | 4
 Eternal Thirst | 4
 Evil Presence | 3
 Feast on the Fallen | 3
-Grave Betrayal | 2
-Greed | 1
+Grave Betrayal | 1
+Greed | 0
 Heartless Summoning | 1
 Hedonist's Trove | 1
 Homicidal Seclusion | 1
@@ -1779,27 +1779,27 @@ Mark of the Vampire | 4
 Murderous Betrayal | 1
 Necromancer's Stockpile | 1
 Night Dealings | 1
-Palace Siege | 1
+Palace Siege | 0
 Pestilence | 2
-Price of Knowledge | 1
+Price of Knowledge | 0
 Prowess of the Fair | 1
 Raiders' Spoils | 2
 Quag Sickness | 4
-Retreat To Hagra | 4
+Retreat To Hagra | 3
 Sanguine Bond | 2
 Shade's Form | 1
-Shadows of the Past | 3
+Shadows of the Past | 2
 Shrieking Affliction | 2
 Sinister Concoction | 0
 Stab Wound | 4
 Triskaidekaphobia | 1
-Underworld Conections | 1
-Vampiric Rites | 2
+Underworld Conections | 0
+Vampiric Rites | 1
 Viper's Kiss | 4
 Vessel of Malignity | 1
-Virulent Plague | 1
+Virulent Plague | 0
 Visions of Brutality | 0
-Whip of Erebos | 1
+Whip of Erebos | 0
 Zombie Infestation | 2
 
 ### Sorcery < B
@@ -1813,7 +1813,7 @@ Biting Rain | 2
 Bitter Revelation | 6
 Bone Splinters | 6
 Coercion | 3
-Corrupt | 4
+Corrupt | 3
 Damnable Pact | 1
 Dark Deal | 2
 Dark Petition | 2
@@ -1821,7 +1821,7 @@ Dead Drop | 0
 Dead Reckoning | 1
 Death's Caress | 4
 Death's Duet | 1
-Decree of Pain | 1
+Decree of Pain | 0
 Despise | 2
 Destroy the Evidence | 4
 Devouring Greed | 1
@@ -1837,14 +1837,14 @@ Essence Harvest | 3
 Extinguish All Hope | 0
 Festergloom | 2
 Fodder Launch | 1
-Gild | 1
+Gild | 0
 Gisa's Bidding | 2
 Ghoulcaller's Chant | 3
 Hand of Death | 3
 Harrowing Journey | 1
 Infest | 1
 Infinite Obliteration | 3
-Languish | 1
+Languish | 0
 Liliana's Indignation | 4
 Liturgy of Blood | 4
 Macabre Waltz | 6
@@ -1853,19 +1853,19 @@ Mind Rot | 6
 Moan of the Unhallowed | 2
 Morality Shift | 1
 Murderous Compulsion | 3
-Mutilate | 1
+Mutilate | 0
 Necromantic Summons | 0
 Oblivion Strike | 4
 Phthisis | 1
 Painful Truths | 1
-Plague Wind | 1
+Plague Wind | 0
 Raise Dead | 2
-Read the Bones | 4
-Ruinous Path | 1
+Read the Bones | 3
+Ruinous Path | 0
 Sanguimancy | 4
 Shamble Back | 2
 Shrivel | 2
-Sign in Blood | 2
+Sign in Blood | 1
 Skulltap | 1
 Stain the Mind | 1
 Tasigur's Cruelty | 3
@@ -1878,7 +1878,7 @@ Worst Fears | 1
 ### Instant < B
 Card | Qt
 --- | ---
-Altar's Reap | 7
+Altar's Reap | 6
 Annihiliate | 1
 Bile Blight | 2
 Complete Disregard | 4
@@ -1893,8 +1893,8 @@ Dark Dabbling | 3
 Dark Ritual | 1
 Death Denied | 1
 Death Wind | 1
-Doom Blade | 1
-Fated Return | 1
+Doom Blade | 0
+Fated Return | 0
 Feeding Frenzy | 1
 Foul Renewal | 1
 Foul-Tongue Shriek | 4
@@ -1918,7 +1918,7 @@ Pharika's Cure | 0
 Reaping the Graves | 1
 Rescue from the Underworld | 4
 Silence the Believer | 1
-Terror | 2
+Terror | 1
 Targic Slip | 2
 Tribute to Hunger | 2
 Ulcerate | 2
@@ -1935,9 +1935,9 @@ Leaden Myr | 1
 ## Land < B
 Card | Qt
 --- | ---
-Barren Moor | 3
+Barren Moor | 1
 Blighted Fen | 2
-Mortuary Mire | 3
+Mortuary Mire | 2
 Peat Bog | 1
 Vivid Marsh | 1
 
