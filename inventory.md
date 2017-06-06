@@ -306,7 +306,7 @@ Witches' Eye | 4
 Worldslayer | 1
 
 ### Artifact Vehicles < C
-Mobile Garrison | 1
+Mobile Garrison | 3
 Sky Skiff | 1
 
 ### Creature < C
@@ -314,8 +314,9 @@ Card | Qt
 --- | ---
 Artisan of Kozilek | 2
 Breaker of Armies | 2
+Conduit of Ruin | 1
 Deathless Behemoth | 3
-Desolation Twin | 1
+Desolation Twin | 2
 Eldrazi Devastator | 4
 Emrakul, the Promised End | 1
 Endbringer | 2
@@ -355,6 +356,7 @@ Gargoyle Castle | 1
 Ghost Quarter | 0
 Haunted Fengraf | 5
 Holdout Settlement | 2
+Inventor's Fair | 1
 Mage-Ring Network | 1
 Mana Confluence | 1
 Maze's End | 3
@@ -372,6 +374,7 @@ Seraph Sanctuary | 1
 Shimmering Grotto | 2
 Shrine of the Forsaken Gods | 2
 Sliver Hive | 1
+Sunscorched Desert | 1
 Tectonic Edge | 2
 Temple of the False God | 6
 Terrain Generator | 0
@@ -385,7 +388,7 @@ Uzra's Factory | 1
 Urza's Mine | 2
 Urza's Power Plant | 2
 Urza's Tower | 1
-Warped Landscape | 2
+Warped Landscape | 3
 Windswept Heath | 1
 Wooded Foothills | 1
 Zoetic Cavern | 2
@@ -397,10 +400,16 @@ Gruesome Slaughter | 1
 
 ## White
 
+### Artifact < W
+Implement of Improvement | 1
+
 ### Artifact Equipment < W
 Card | Qt
 --- | ---
 Godsend | 1
+
+### Artifact Vehicle < W
+Peacewalker Colossus
 
 ### Artifact Enchantment < W
 Card | Qt
