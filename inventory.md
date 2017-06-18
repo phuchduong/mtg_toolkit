@@ -213,37 +213,37 @@ Worn Powerstone | 1
 ### Artifact Creature < C
 Card | Inventory |
 ---- | --------- |
-Accomplished Automation | 2
+Accomplished Automation | 0
 Arcbound Stinger | 0
 Burnished Hart | 0
 Cathodion | 1
-Clockwork Beast | 1
-Consulate Skygate | 1
-Crackdown Construct | 1
+Clockwork Beast | 0
+Consulate Skygate | 0
+Crackdown Construct | 0
 Creepy Doll (f) | 0
-Crenellated Wall | 1
+Crenellated Wall | 0
 Guardians of Meletis | 0
 Hedron Crawler | 0
 Multiform Wonder | 0
 Myr Adapter | 0
 Myr Battlesphere | 0
 Night Market Guard | 1
-One-Eyed Scarecrow | 2
+One-Eyed Scarecrow | 0
 Opaline Unicor | 4
 Ornithopter | 4
 Palladium Myr | 1
 Phyrexian Revoker | 2
 Pilgrim's Eye | 0
 Precursor Golem | 1
-Runed Servitor | 1
+Runed Servitor | 0
 Shimmer Myr | 1
-Sliver Construct | 3
+Sliver Construct | 0
 Solemn Simulacrum | 1
 Soul of New Phyrexia | 1
 Spire Golem | 1
 Steel Hellkite | 1
-Steel Wall | 1
-Tetravus | 1
+Steel Wall | 0
+Tetravus | 0
 Thopter Assembly | 2
 Viseling | 1
 Walking Atlas | 5
@@ -1720,7 +1720,7 @@ Treacherous Pit-Dweller | 1
 Typhoid Rats | 4
 Ubul Sar Gatekeepers | 4
 Unbreathing Horde | 1
-Vampire Nighthawk | 2
+Vampire Nighthawk | 1
 Veilborn Ghoul | 2
 Vulturous Aven | 4
 Wall of Blood | 1
@@ -2686,7 +2686,7 @@ Card | Qt
 --- | ---
 Abundance | 1
 Assault Formation | 4
-Beastmaster Ascension | 1
+Beastmaster Ascension | 0
 Bow of Nylea | 1
 Bower Passage | 2
 Carpet of Flowers | 1
@@ -2704,7 +2704,7 @@ Fecundity | 1
 Feed the Pack | 1
 Fertile Ground | 1
 Font of Fertility | 8
-From Beyond | 6
+From Beyond | 5
 Frontier Siege | 3
 Gaea's Touch | 1
 Greater Good | 1
@@ -2722,7 +2722,7 @@ Oath of Nissa | 1
 Oath of the Ancient Wood | 1
 Obscuring Aether | 3
 Ooze Flux | 2
-Parallel Lives | 1
+Parallel Lives | 0
 Primal Rage | 1
 Retreat To Kazandu | 1
 Rites of Flourishing | 1
@@ -3800,7 +3800,7 @@ Wall of Mulch | 1
 Card | Qt
 --- | ---
 Nyx Weaver | 5
-Pharika, God of Affliction | 2
+Pharika, God of Affliction | 1
 
 ### Enchantment < B/G
 Card | Qt
@@ -3813,8 +3813,8 @@ Necrogenesis | 2
 ### Planeswalker < B/G
 Card | Qt
 --- | ---
-Garruk, Apex Predator | 2
-Vraska the Unseen | 1
+Garruk, Apex Predator | 1
+Vraska the Unseen | 0
 
 ### Sorcery < B/G
 Card | Qt
