@@ -12,7 +12,8 @@ file_end <- length(lines)
 
 card_df <- data.frame(
     cname=character(),
-    qty=integer()
+    qty=integer(),
+    stringsAsFactors = FALSE
 )
 
 junk <- c()
@@ -30,11 +31,14 @@ for( i in 1:file_end ){
     if (is_card) {
         card_list <- str_split(string = line, pattern = "\\s\\|\\s")[[1]]
         print(card_list)
-        print(card_list[0])
         print(card_list[1])
-        card_df[new_row, "cname"] <- card_list[0]
-        card_df[new_row, "qty"] <- card_list[1]
+        print(card_list[2])
+        card_df[new_row, "cname"] <- card_list[1]
+        card_df[new_row, "qty"] <- card_list[2]
     } else {
         junk <- c(junk, c=line)
     }
 }
+
+write.csv(x = junk, file = "md_to_csv junk.csv", row.names = FALSE)
+write.csv(x = card_df, file = "card qty.csv", row.names = FALSE)
