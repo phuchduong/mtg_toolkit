@@ -1,5 +1,5 @@
 $start = (Get-Date).Milisecond
-For ($i=0; $i -lt 174; $i++){
+For ($i=0; $i -lt 150; $i++){
     Write-Host $i
     python .\get_cards_prices.py
     Write-Host "Waiting... 3 seconds before next iteration..."
