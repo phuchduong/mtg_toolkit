@@ -12,7 +12,7 @@ import pandas as pd                         # data frame structure
 from datetime import datetime               # clock
 
 # read in existing csv table
-df = pd.read_csv("tcg_prices.csv")
+df = pd.read_csv("tcg_prices.csv", encoding="latin1")
 before = len(df)        # last row index +1
 cur_index = len(df)     # last row index +1
 
