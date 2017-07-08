@@ -27,7 +27,7 @@ sets = sets.fillna("")
 
 # finds the first "not done" set to scrape
 not_done = sets["status"] != "done"
-set_name = sets[not_done].loc[0]["set_name"]
+set_name = sets[not_done].iloc[0]["set_name"]
 
 
 print("parsing... " + set_name)
