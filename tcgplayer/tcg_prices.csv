@@ -987,7 +987,7 @@ Spineless Thug,1B,7th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:01:06.307845
 Spirit Link,W,7th Edition,U,$1.43,$0.36,$0.14,2017-07-08 02:01:06.307845
 Spitting Earth,1R,7th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:01:06.307845
 Squall,2G,7th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:01:06.307845
-Staging Check Nov 5th,,7th Edition,C,N/A,N/A,N/A,2017-07-08 02:01:06.307845
+Staging Check Nov 5th,,7th Edition,C,,,,2017-07-08 02:01:06.307845
 Standing Troops,2W,7th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:01:06.307845
 Starlight,1W,7th Edition,U,$1.17,$0.20,$0.05,2017-07-08 02:01:06.307845
 Static Orb,3,7th Edition,R,$7.59,$6.39,$5.09,2017-07-08 02:01:06.307845
@@ -1055,3 +1055,2346 @@ Worship,3W,7th Edition,R,$22.98,$7.97,$5.35,2017-07-08 02:01:06.307845
 Wrath of God,2WW,7th Edition,R,$6.59,$5.49,$4.32,2017-07-08 02:01:06.307845
 Yavimaya Enchantress,2G,7th Edition,U,$1.00,$0.26,$0.10,2017-07-08 02:01:06.307845
 Yawgmoth's Edict,1B,7th Edition,U,$1.17,$0.20,$0.05,2017-07-08 02:01:06.307845
+Abyssal Specter-staging-test,2BB,8th Edition,U,$1.20,$0.21,$0.06,2017-07-08 02:07:28.141397
+Air Elemental,3UU,8th Edition,U,$1.19,$0.21,$0.05,2017-07-08 02:07:28.141397
+Aladdin's Ring,8,8th Edition,R,$1.29,$0.30,$0.11,2017-07-08 02:07:28.141397
+Ambition's Cost,3B,8th Edition,U,$1.59,$0.58,$0.20,2017-07-08 02:07:28.141397
+Anaba Shaman,3R,8th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:28.141397
+Angel of Mercy,4W,8th Edition,U,$1.17,$0.19,$0.07,2017-07-08 02:07:28.141397
+Angelic Page,1W,8th Edition,C,$1.16,$0.17,$0.04,2017-07-08 02:07:28.141397
+Archivist,2UU,8th Edition,R,$1.38,$0.42,$0.15,2017-07-08 02:07:28.141397
+Ardent Militia,4W,8th Edition,U,$1.17,$0.19,$0.05,2017-07-08 02:07:28.141397
+Avatar of Hope,6WW,8th Edition,R,$1.59,$0.65,$0.35,2017-07-08 02:07:28.141397
+Aven Cloudchaser,3W,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Aven Fisher,3U,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Aven Flock,4W,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Balance of Power,3UU,8th Edition,R,$1.41,$0.41,$0.18,2017-07-08 02:07:28.141397
+Balduvian Barbarians,1RR,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Beast of Burden,6,8th Edition,R,$1.09,$0.34,$0.19,2017-07-08 02:07:28.141397
+Birds of Paradise,G,8th Edition,R,$10.07,$7.15,$5.17,2017-07-08 02:07:28.141397
+Blanchwood Armor,2G,8th Edition,U,$0.94,$0.33,$0.11,2017-07-08 02:07:28.141397
+Blaze,XR,8th Edition,U,$0.92,$0.28,$0.11,2017-07-08 02:07:28.141397
+Blessed Reversal,1W,8th Edition,R,$1.41,$0.43,$0.15,2017-07-08 02:07:28.141397
+Blinding Angel,3WW,8th Edition,R,$3.10,$1.98,$0.98,2017-07-08 02:07:28.141397
+Blood Moon,2R,8th Edition,R,$51.73,$29.49,$15.00,2017-07-08 02:07:28.141397
+Bloodshot Cyclops,5R,8th Edition,R,$1.63,$0.35,$0.23,2017-07-08 02:07:28.141397
+Bog Imp,1B,8th Edition,C,$1.14,$0.17,$0.04,2017-07-08 02:07:28.141397
+Bog Wraith,3B,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Boil,3R,8th Edition,U,$2.02,$0.75,$0.15,2017-07-08 02:07:28.141397
+Boomerang,UU,8th Edition,C,$1.18,$0.18,$0.05,2017-07-08 02:07:28.141397
+Brass Herald,6,8th Edition,R,$1.24,$0.50,$0.24,2017-07-08 02:07:28.141397
+Bribery,3UU,8th Edition,R,$25.07,$18.95,$14.80,2017-07-08 02:07:28.141397
+Call of the Wild,2GG,8th Edition,R,$1.98,$0.34,$0.14,2017-07-08 02:07:28.141397
+Canopy Spider,1G,8th Edition,C,$1.17,$0.18,$0.04,2017-07-08 02:07:28.141397
+Canyon Wildcat,1R,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Carrion Wall,1BB,8th Edition,U,$0.98,$0.19,$0.04,2017-07-08 02:07:28.141397
+Catalog,2U,8th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:28.141397
+Chastise,3W,8th Edition,U,$0.98,$0.23,$0.08,2017-07-08 02:07:28.141397
+Choke,2G,8th Edition,U,$15.00,$3.89,$1.45,2017-07-08 02:07:28.141397
+Cinder Wall,R,8th Edition,C,$1.15,$0.16,$0.03,2017-07-08 02:07:28.141397
+Circle of Protection: Black,1W,8th Edition,U,$0.50,$0.17,$0.07,2017-07-08 02:07:28.141397
+Circle of Protection: Blue,1W,8th Edition,U,$0.60,$0.20,$0.07,2017-07-08 02:07:28.141397
+Circle of Protection: Green,1W,8th Edition,U,$0.88,$0.23,$0.07,2017-07-08 02:07:28.141397
+Circle of Protection: Red,1W,8th Edition,U,$0.49,$0.20,$0.07,2017-07-08 02:07:28.141397
+Circle of Protection: White,1W,8th Edition,U,$0.73,$0.25,$0.07,2017-07-08 02:07:28.141397
+City of Brass,,8th Edition,R,$6.99,$4.53,$3.29,2017-07-08 02:07:28.141397
+Coastal Hornclaw,4U,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Coastal Piracy,2UU,8th Edition,R,$5.00,$1.05,$0.61,2017-07-08 02:07:28.141397
+Coastal Tower,,8th Edition,U,$1.39,$0.43,$0.25,2017-07-08 02:07:28.141397
+Coat of Arms,5,8th Edition,R,$10.64,$7.96,$4.85,2017-07-08 02:07:28.141397
+Coercion,2B,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Collective Unconscious,4GG,8th Edition,R,$1.54,$0.55,$0.25,2017-07-08 02:07:28.141397
+Concentrate,2UU,8th Edition,U,$1.19,$0.23,$0.08,2017-07-08 02:07:28.141397
+Confiscate,4UU,8th Edition,U,$1.25,$0.26,$0.10,2017-07-08 02:07:28.141397
+Coral Eel,1U,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Cowardice,3UU,8th Edition,R,$1.47,$0.33,$0.14,2017-07-08 02:07:28.141397
+Craw Wurm,4GG,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Creeping Mold,2GG,8th Edition,U,$0.98,$0.20,$0.05,2017-07-08 02:07:28.141397
+Crossbow Infantry,1W,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Crystal Rod,1,8th Edition,U,$0.98,$0.19,$0.05,2017-07-08 02:07:28.141397
+Curiosity,U,8th Edition,U,$1.34,$0.40,$0.14,2017-07-08 02:07:28.141397
+Daring Apprentice,1UU,8th Edition,R,$1.40,$0.38,$0.20,2017-07-08 02:07:28.141397
+Dark Banishing,2B,8th Edition,C,$0.94,$0.16,$0.05,2017-07-08 02:07:28.141397
+Death Pit Offering,2BB,8th Edition,R,$1.36,$0.37,$0.19,2017-07-08 02:07:28.141397
+Death Pits of Rath,3BB,8th Edition,R,$1.16,$0.46,$0.26,2017-07-08 02:07:28.141397
+Deathgazer,3B,8th Edition,U,$1.15,$0.18,$0.04,2017-07-08 02:07:28.141397
+Deepwood Ghoul,2B,8th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:28.141397
+Defense Grid,2,8th Edition,R,$8.40,$5.65,$3.98,2017-07-08 02:07:28.141397
+Deflection,3U,8th Edition,R,$1.29,$0.33,$0.13,2017-07-08 02:07:28.141397
+Dehydration,3U,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Demolish,3R,8th Edition,U,$1.17,$0.19,$0.05,2017-07-08 02:07:28.141397
+Demystify,W,8th Edition,C,$0.94,$0.16,$0.05,2017-07-08 02:07:28.141397
+Diabolic Tutor,2BB,8th Edition,U,$0.95,$0.43,$0.20,2017-07-08 02:07:28.141397
+Dingus Egg,4,8th Edition,R,$2.98,$0.34,$0.11,2017-07-08 02:07:28.141397
+Disrupting Scepter,3,8th Edition,R,$1.39,$0.38,$0.12,2017-07-08 02:07:28.141397
+Distorting Lens,2,8th Edition,R,$1.39,$0.42,$0.24,2017-07-08 02:07:28.141397
+Diving Griffin,1WW,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Drudge Skeletons,1B,8th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:28.141397
+Dusk Imp,2B,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Dwarven Demolition Team,2R,8th Edition,U,$1.17,$0.20,$0.05,2017-07-08 02:07:28.141397
+Eager Cadet,W,8th Edition,C,$1.19,$0.23,$0.05,2017-07-08 02:07:28.141397
+Eastern Paladin,2BB,8th Edition,R,$1.07,$0.33,$0.19,2017-07-08 02:07:28.141397
+Elfhame Palace,,8th Edition,U,$3.00,$0.30,$0.10,2017-07-08 02:07:28.141397
+Elite Archers,5W,8th Edition,R,$1.29,$0.33,$0.16,2017-07-08 02:07:28.141397
+Elite Javelineer,2W,8th Edition,U,$1.17,$0.19,$0.05,2017-07-08 02:07:28.141397
+Elvish Champion,1GG,8th Edition,R,$8.79,$4.24,$3.24,2017-07-08 02:07:28.141397
+Elvish Lyrist,G,8th Edition,U,$0.98,$0.20,$0.08,2017-07-08 02:07:28.141397
+Elvish Pioneer,G,8th Edition,C,$1.17,$0.20,$0.05,2017-07-08 02:07:28.141397
+Elvish Piper,3G,8th Edition,R,$9.59,$7.10,$3.49,2017-07-08 02:07:28.141397
+Elvish Scrapper,G,8th Edition,U,$1.11,$0.23,$0.07,2017-07-08 02:07:28.141397
+Emperor Crocodile,3G,8th Edition,R,$1.09,$0.31,$0.10,2017-07-08 02:07:28.141397
+Enormous Baloth,6G,8th Edition,U,$1.18,$0.21,$0.05,2017-07-08 02:07:28.141397
+Enrage,XR,8th Edition,U,$0.98,$0.18,$0.06,2017-07-08 02:07:28.141397
+Ensnaring Bridge,3,8th Edition,R,$55.83,$41.80,$30.71,2017-07-08 02:07:28.141397
+Evacuation,3UU,8th Edition,R,$2.92,$1.49,$0.49,2017-07-08 02:07:28.141397
+Execute,2B,8th Edition,U,$1.18,$0.20,$0.06,2017-07-08 02:07:28.141397
+Fallen Angel,3BB,8th Edition,R,$1.31,$0.34,$0.12,2017-07-08 02:07:28.141397
+Fear,BB,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Fecundity,2G,8th Edition,U,$5.00,$0.42,$0.20,2017-07-08 02:07:28.141397
+Fertile Ground,1G,8th Edition,C,$1.17,$0.21,$0.05,2017-07-08 02:07:28.141397
+Fighting Drake,2UU,8th Edition,U,$1.16,$0.18,$0.05,2017-07-08 02:07:28.141397
+Flash Counter,1U,8th Edition,C,$0.94,$0.17,$0.05,2017-07-08 02:07:28.141397
+Flashfires,3R,8th Edition,U,$0.99,$0.19,$0.05,2017-07-08 02:07:28.141397
+Fleeting Image,2U,8th Edition,R,$1.29,$0.30,$0.07,2017-07-08 02:07:28.141397
+Flight,U,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Flying Carpet,4,8th Edition,R,$1.52,$0.31,$0.13,2017-07-08 02:07:28.141397
+Fodder Cannon,4,8th Edition,U,$1.17,$0.19,$0.04,2017-07-08 02:07:28.141397
+Foratog,2G,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Forest (347),,8th Edition,L,$0.51,$0.25,$0.09,2017-07-08 02:07:28.141397
+Forest (348),,8th Edition,L,$0.75,$0.24,$0.12,2017-07-08 02:07:28.141397
+Forest (349),,8th Edition,L,$0.50,$0.25,$0.19,2017-07-08 02:07:28.141397
+Forest (350),,8th Edition,L,$0.52,$0.25,$0.12,2017-07-08 02:07:28.141397
+Fugitive Wizard,U,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Fungusaur,3G,8th Edition,R,$1.30,$0.32,$0.14,2017-07-08 02:07:28.141397
+Furnace of Rath,1RRR,8th Edition,R,$2.91,$1.16,$0.88,2017-07-08 02:07:28.141397
+Fyndhorn Elder,2G,8th Edition,U,$1.00,$0.23,$0.07,2017-07-08 02:07:28.141397
+Gaea's Herald,1G,8th Edition,R,$1.68,$0.79,$0.49,2017-07-08 02:07:28.141397
+Giant Badger,1GG,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Giant Cockroach,3B,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Giant Growth,G,8th Edition,C,$1.16,$0.17,$0.04,2017-07-08 02:07:28.141397
+Giant Octopus,3U,8th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:28.141397
+Giant Spider,3G,8th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:28.141397
+Glorious Anthem,1WW,8th Edition,R,$5.00,$0.94,$0.67,2017-07-08 02:07:28.141397
+Glory Seeker,1W,8th Edition,C,$1.15,$0.16,$0.03,2017-07-08 02:07:28.141397
+Gluttonous Zombie,4B,8th Edition,U,$1.17,$0.19,$0.07,2017-07-08 02:07:28.141397
+Goblin Chariot,2R,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Goblin Glider,1R,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Goblin King,1RR,8th Edition,R,$10.00,$1.89,$0.87,2017-07-08 02:07:28.141397
+Goblin Raider,1R,8th Edition,C,$0.95,$0.15,$0.03,2017-07-08 02:07:28.141397
+Grave Pact,1BBB,8th Edition,R,$15.88,$13.66,$10.99,2017-07-08 02:07:28.141397
+Gravedigger,3B,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Grizzly Bears,1G,8th Edition,C,$1.16,$0.16,$0.05,2017-07-08 02:07:28.141397
+Guerrilla Tactics,1R,8th Edition,U,$1.16,$0.18,$0.05,2017-07-08 02:07:28.141397
+Hammer of Bogardan,1RR,8th Edition,R,$1.98,$0.42,$0.18,2017-07-08 02:07:28.141397
+Healing Salve,W,8th Edition,C,$1.15,$0.16,$0.03,2017-07-08 02:07:28.141397
+Hibernation,2U,8th Edition,U,$2.00,$0.50,$0.17,2017-07-08 02:07:28.141397
+Hill Giant,3R,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Holy Day,W,8th Edition,C,$1.35,$0.25,$0.07,2017-07-08 02:07:28.141397
+Holy Strength,W,8th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:28.141397
+Honor Guard,W,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Horned Troll,2G,8th Edition,C,$1.13,$0.15,$0.04,2017-07-08 02:07:28.141397
+Horned Turtle,2U,8th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:28.141397
+Howling Mine,2,8th Edition,R,$4.54,$2.65,$1.61,2017-07-08 02:07:28.141397
+Hulking Cyclops,3RR,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Hunted Wumpus,3G,8th Edition,U,$5.00,$0.20,$0.07,2017-07-08 02:07:28.141397
+Index,U,8th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:28.141397
+Inferno,5RR,8th Edition,R,$1.30,$0.33,$0.14,2017-07-08 02:07:28.141397
+Inspiration,3U,8th Edition,C,$1.15,$0.15,$0.05,2017-07-08 02:07:28.141397
+Intrepid Hero,2W,8th Edition,R,$3.00,$0.94,$0.70,2017-07-08 02:07:28.141397
+Intruder Alarm,2U,8th Edition,R,$13.99,$6.00,$4.59,2017-07-08 02:07:28.141397
+Invisibility,UU,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Iron Star,1,8th Edition,U,$0.94,$0.19,$0.06,2017-07-08 02:07:28.141397
+Island (335),,8th Edition,L,$0.50,$0.25,$0.13,2017-07-08 02:07:28.141397
+Island (336),,8th Edition,L,$0.51,$0.24,$0.12,2017-07-08 02:07:28.141397
+Island (337),,8th Edition,L,$0.98,$0.43,$0.20,2017-07-08 02:07:28.141397
+Island (338),,8th Edition,L,$0.56,$0.26,$0.14,2017-07-08 02:07:28.141397
+Ivory Cup,1,8th Edition,U,$0.94,$0.18,$0.05,2017-07-08 02:07:28.141397
+Ivory Mask,2WW,8th Edition,R,$1.70,$0.77,$0.49,2017-07-08 02:07:28.141397
+Jayemdae Tome,4,8th Edition,R,$1.27,$0.30,$0.11,2017-07-08 02:07:28.141397
+Karma,2WW,8th Edition,U,$1.19,$0.21,$0.07,2017-07-08 02:07:28.141397
+Larceny,3BB,8th Edition,R,$1.40,$0.41,$0.12,2017-07-08 02:07:28.141397
+Lava Axe,4R,8th Edition,C,$1.15,$0.15,$0.03,2017-07-08 02:07:28.141397
+Lava Hounds,2RR,8th Edition,R,$1.30,$0.32,$0.11,2017-07-08 02:07:28.141397
+Lesser Gargadon,2RR,8th Edition,U,$1.17,$0.20,$0.05,2017-07-08 02:07:28.141397
+Lhurgoyf,2GG,8th Edition,R,$1.35,$0.41,$0.18,2017-07-08 02:07:28.141397
+Lightning Blast,3R,8th Edition,U,$0.94,$0.18,$0.05,2017-07-08 02:07:28.141397
+Lightning Elemental,3R,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Living Terrain,2GG,8th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:28.141397
+Llanowar Behemoth,3GG,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Lone Wolf,2G,8th Edition,C,$0.98,$0.18,$0.05,2017-07-08 02:07:28.141397
+Looming Shade,2B,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Lord of the Undead,1BB,8th Edition,R,$13.19,$8.80,$7.45,2017-07-08 02:07:28.141397
+Lure,1GG,8th Edition,U,$0.94,$0.20,$0.06,2017-07-08 02:07:28.141397
+Maggot Carrier,B,8th Edition,C,$3.00,$0.16,$0.05,2017-07-08 02:07:28.141397
+Mahamoti Djinn,4UU,8th Edition,R,$1.31,$0.33,$0.10,2017-07-08 02:07:28.141397
+Mana Clash,R,8th Edition,R,$1.35,$0.40,$0.20,2017-07-08 02:07:28.141397
+Mana Leak,1U,8th Edition,C,$1.38,$0.41,$0.24,2017-07-08 02:07:28.141397
+Maro,2GG,8th Edition,R,$1.29,$0.32,$0.13,2017-07-08 02:07:28.141397
+Master Decoy,1W,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Master Healer,4W,8th Edition,R,$1.30,$0.32,$0.13,2017-07-08 02:07:28.141397
+Megrim,2B,8th Edition,U,$1.30,$0.30,$0.13,2017-07-08 02:07:28.141397
+Merchant of Secrets,2U,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Merchant Scroll,1U,8th Edition,U,$8.48,$4.59,$3.33,2017-07-08 02:07:28.141397
+Might of Oaks,3G,8th Edition,R,$1.08,$0.38,$0.20,2017-07-08 02:07:28.141397
+Millstone,2,8th Edition,R,$1.31,$0.35,$0.10,2017-07-08 02:07:28.141397
+Mind Bend,U,8th Edition,R,$1.09,$0.30,$0.13,2017-07-08 02:07:28.141397
+Mind Rot,2B,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Mind Slash,1BB,8th Edition,U,$1.38,$0.48,$0.10,2017-07-08 02:07:28.141397
+Mind Sludge,4B,8th Edition,U,$0.94,$0.20,$0.07,2017-07-08 02:07:28.141397
+Mogg Sentry,R,8th Edition,R,$1.29,$0.31,$0.13,2017-07-08 02:07:28.141397
+Monstrous Growth,1G,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Moss Monster,3GG,8th Edition,C,$1.15,$0.15,$0.04,2017-07-08 02:07:28.141397
+Mountain (343),,8th Edition,L,$0.53,$0.25,$0.13,2017-07-08 02:07:28.141397
+Mountain (344),,8th Edition,L,$0.75,$0.28,$0.12,2017-07-08 02:07:28.141397
+Mountain (345),,8th Edition,L,$0.52,$0.26,$0.16,2017-07-08 02:07:28.141397
+Mountain (346),,8th Edition,L,$0.49,$0.24,$0.11,2017-07-08 02:07:28.141397
+Murderous Betrayal,BBB,8th Edition,R,$1.99,$0.32,$0.15,2017-07-08 02:07:28.141397
+Nantuko Disciple,3G,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Natural Affinity,2G,8th Edition,R,$1.43,$0.46,$0.20,2017-07-08 02:07:28.141397
+Naturalize,1G,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Nausea,1B,8th Edition,C,$1.15,$0.15,$0.05,2017-07-08 02:07:28.141397
+Nekrataal,2BB,8th Edition,U,$1.18,$0.21,$0.05,2017-07-08 02:07:28.141397
+Nightmare,5B,8th Edition,R,$1.30,$0.32,$0.10,2017-07-08 02:07:28.141397
+Noble Purpose,3WW,8th Edition,R,$1.39,$0.47,$0.33,2017-07-08 02:07:28.141397
+Norwood Ranger,G,8th Edition,C,$1.15,$0.15,$0.04,2017-07-08 02:07:28.141397
+Obliterate,6RR,8th Edition,R,$15.00,$2.70,$1.50,2017-07-08 02:07:28.141397
+Ogre Taskmaster,3R,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Okk,1R,8th Edition,R,$1.28,$0.31,$0.10,2017-07-08 02:07:28.141397
+Oracle's Attendants,3W,8th Edition,R,$1.31,$0.32,$0.10,2017-07-08 02:07:28.141397
+Orcish Artillery,1RR,8th Edition,U,$0.94,$0.18,$0.04,2017-07-08 02:07:28.141397
+Orcish Spy,R,8th Edition,C,$1.13,$0.15,$0.05,2017-07-08 02:07:28.141397
+Pacifism,1W,8th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:28.141397
+Panic Attack,2R,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Patagia Golem,4,8th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:28.141397
+Peach Garden Oath,W,8th Edition,U,$1.08,$0.24,$0.10,2017-07-08 02:07:28.141397
+Persecute,2BB,8th Edition,R,$10.00,$0.66,$0.32,2017-07-08 02:07:28.141397
+Phantom Warrior,1UU,8th Edition,U,$0.57,$0.19,$0.06,2017-07-08 02:07:28.141397
+Phyrexian Arena,1BB,8th Edition,R,$10.82,$4.71,$2.55,2017-07-08 02:07:28.141397
+Phyrexian Colossus,7,8th Edition,R,$1.25,$0.30,$0.13,2017-07-08 02:07:28.141397
+Phyrexian Hulk,6,8th Edition,U,$0.94,$0.19,$0.06,2017-07-08 02:07:28.141397
+Phyrexian Plaguelord,3BB,8th Edition,R,$1.99,$0.33,$0.13,2017-07-08 02:07:28.141397
+Plague Beetle,B,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Plague Wind,7BB,8th Edition,R,$3.22,$2.10,$0.99,2017-07-08 02:07:28.141397
+Plains (331),,8th Edition,L,$0.50,$0.24,$0.12,2017-07-08 02:07:28.141397
+Plains (332),,8th Edition,L,$0.59,$0.25,$0.12,2017-07-08 02:07:28.141397
+Plains (333),,8th Edition,L,$0.65,$0.25,$0.12,2017-07-08 02:07:28.141397
+Plains (334),,8th Edition,L,$0.52,$0.26,$0.12,2017-07-08 02:07:28.141397
+Planar Portal,6,8th Edition,R,$5.69,$4.35,$3.25,2017-07-08 02:07:28.141397
+Plow Under,3GG,8th Edition,R,$5.10,$1.35,$0.48,2017-07-08 02:07:28.141397
+Primeval Force,2GGG,8th Edition,R,$1.74,$0.30,$0.11,2017-07-08 02:07:28.141397
+Primeval Shambler,4B,8th Edition,U,$1.17,$0.20,$0.05,2017-07-08 02:07:28.141397
+Puppeteer,2U,8th Edition,U,$1.17,$0.20,$0.07,2017-07-08 02:07:28.141397
+Pyroclasm,1R,8th Edition,U,$2.00,$0.54,$0.15,2017-07-08 02:07:28.141397
+Pyrotechnics,4R,8th Edition,U,$1.16,$0.18,$0.06,2017-07-08 02:07:28.141397
+Raging Goblin,R,8th Edition,C,$0.94,$0.18,$0.05,2017-07-08 02:07:28.141397
+Rain of Blades,W,8th Edition,U,$0.98,$0.19,$0.05,2017-07-08 02:07:28.141397
+Raise Dead,B,8th Edition,C,$1.16,$0.16,$0.05,2017-07-08 02:07:28.141397
+Rampant Growth,1G,8th Edition,C,$1.16,$0.18,$0.05,2017-07-08 02:07:28.141397
+Ravenous Rats,1B,8th Edition,C,$1.00,$0.18,$0.05,2017-07-08 02:07:28.141397
+Razorfoot Griffin,3W,8th Edition,C,$1.13,$0.15,$0.05,2017-07-08 02:07:28.141397
+Redeem,1W,8th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:28.141397
+Reflexes,R,8th Edition,C,$1.14,$0.15,$0.03,2017-07-08 02:07:28.141397
+Regeneration,1G,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Relentless Assault,2RR,8th Edition,R,$2.10,$0.61,$0.18,2017-07-08 02:07:28.141397
+Remove Soul,1U,8th Edition,C,$1.16,$0.18,$0.05,2017-07-08 02:07:28.141397
+Revive,1G,8th Edition,U,$3.00,$0.20,$0.06,2017-07-08 02:07:28.141397
+Rewind,2UU,8th Edition,U,$15.00,$0.41,$0.16,2017-07-08 02:07:28.141397
+Rhox,4GG,8th Edition,R,$1.49,$0.31,$0.15,2017-07-08 02:07:28.141397
+Ridgeline Rager,2R,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Rod of Ruin,4,8th Edition,U,$1.15,$0.19,$0.05,2017-07-08 02:07:28.141397
+Rolling Stones,1W,8th Edition,R,$1.69,$0.55,$0.35,2017-07-08 02:07:28.141397
+Royal Assassin,1BB,8th Edition,R,$1.52,$0.75,$0.46,2017-07-08 02:07:28.141397
+Rukh Egg,3R,8th Edition,R,$2.96,$0.34,$0.15,2017-07-08 02:07:28.141397
+Rushwood Dryad,1G,8th Edition,C,$1.14,$0.16,$0.05,2017-07-08 02:07:28.141397
+Sabretooth Tiger,2R,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Sacred Ground,1W,8th Edition,R,$3.00,$0.43,$0.23,2017-07-08 02:07:28.141397
+Sacred Nectar,1W,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Sage of Lat-Nam,1U,8th Edition,R,$1.30,$0.33,$0.15,2017-07-08 02:07:28.141397
+Sage Owl,1U,8th Edition,C,$1.34,$0.16,$0.04,2017-07-08 02:07:28.141397
+Salt Marsh,,8th Edition,U,$1.15,$0.40,$0.20,2017-07-08 02:07:28.141397
+Samite Healer,1W,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Sanctimony,1W,8th Edition,U,$1.19,$0.21,$0.07,2017-07-08 02:07:28.141397
+Savannah Lions,W,8th Edition,R,$1.62,$0.65,$0.37,2017-07-08 02:07:28.141397
+Scathe Zombies,2B,8th Edition,C,$1.15,$0.15,$0.03,2017-07-08 02:07:28.141397
+Sea Eagle,1U,8th Edition,C,$1.17,$0.20,$0.09,2017-07-08 02:07:28.141397
+Sea Monster,4UU,8th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:28.141397
+Searing Wind,8R,8th Edition,R,$1.37,$0.44,$0.22,2017-07-08 02:07:28.141397
+Seasoned Marshal,2WW,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Seismic Assault,RRR,8th Edition,R,$12.88,$5.33,$2.89,2017-07-08 02:07:28.141397
+Serpent Warrior,2B,8th Edition,C,$1.14,$0.16,$0.05,2017-07-08 02:07:28.141397
+Serra Angel,3WW,8th Edition,R,$7.98,$0.41,$0.20,2017-07-08 02:07:28.141397
+Sever Soul,3BB,8th Edition,U,$1.18,$0.18,$0.05,2017-07-08 02:07:28.141397
+Severed Legion,1BB,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Shatter,1R,8th Edition,C,$1.13,$0.16,$0.04,2017-07-08 02:07:28.141397
+Shifting Sky,2U,8th Edition,R,$1.32,$0.33,$0.11,2017-07-08 02:07:28.141397
+Shivan Dragon,4RR,8th Edition,R,$1.31,$0.36,$0.10,2017-07-08 02:07:28.141397
+Shivan Oasis,,8th Edition,U,$3.00,$0.27,$0.10,2017-07-08 02:07:28.141397
+Shock,R,8th Edition,C,$0.95,$0.19,$0.06,2017-07-08 02:07:28.141397
+Shock Troops,3R,8th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:28.141397
+Silverback Ape,3GG,8th Edition,U,$1.28,$0.29,$0.14,2017-07-08 02:07:28.141397
+Sizzle,2R,8th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:28.141397
+Skull of Orm,3,8th Edition,R,$1.52,$0.55,$0.32,2017-07-08 02:07:28.141397
+Slay,2B,8th Edition,U,$1.18,$0.19,$0.07,2017-07-08 02:07:28.141397
+Sneaky Homunculus,1U,8th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:28.141397
+Solidarity,3W,8th Edition,C,$0.95,$0.15,$0.04,2017-07-08 02:07:28.141397
+Soul Feast,3BB,8th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:28.141397
+Spellbook,0,8th Edition,U,$5.00,$0.67,$0.43,2017-07-08 02:07:28.141397
+Spiketail Hatchling,1U,8th Edition,U,$2.50,$0.20,$0.07,2017-07-08 02:07:28.141397
+Spined Wurm,4G,8th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:28.141397
+Spineless Thug,1B,8th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:28.141397
+Spirit Link,W,8th Edition,U,$0.95,$0.37,$0.19,2017-07-08 02:07:28.141397
+Spitting Spider,3GG,8th Edition,U,$1.16,$0.19,$0.07,2017-07-08 02:07:28.141397
+Spreading Algae,G,8th Edition,U,$1.01,$0.26,$0.09,2017-07-08 02:07:28.141397
+Standing Troops,2W,8th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:28.141397
+Star Compass,2,8th Edition,U,$1.38,$0.48,$0.09,2017-07-08 02:07:28.141397
+Staunch Defenders,3WW,8th Edition,U,$1.17,$0.19,$0.04,2017-07-08 02:07:28.141397
+Steal Artifact,2UU,8th Edition,U,$0.94,$0.20,$0.07,2017-07-08 02:07:28.141397
+Stone Rain,2R,8th Edition,C,$1.16,$0.18,$0.05,2017-07-08 02:07:28.141397
+Storm Crow,1U,8th Edition,C,$0.83,$0.20,$0.03,2017-07-08 02:07:28.141397
+Story Circle,1WW,8th Edition,R,$1.99,$0.85,$0.48,2017-07-08 02:07:28.141397
+Stream of Life,XG,8th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:28.141397
+Sudden Impact,3R,8th Edition,U,$0.98,$0.19,$0.06,2017-07-08 02:07:28.141397
+Suntail Hawk,W,8th Edition,C,$1.15,$0.16,$0.03,2017-07-08 02:07:28.141397
+Sunweb,3W,8th Edition,R,$1.31,$0.36,$0.14,2017-07-08 02:07:28.141397
+Swamp (339),,8th Edition,L,$0.53,$0.25,$0.14,2017-07-08 02:07:28.141397
+Swamp (340),,8th Edition,L,$1.02,$0.43,$0.24,2017-07-08 02:07:28.141397
+Swamp (341),,8th Edition,L,$0.80,$0.31,$0.19,2017-07-08 02:07:28.141397
+Swamp (342),,8th Edition,L,$0.58,$0.30,$0.19,2017-07-08 02:07:28.141397
+Swarm of Rats,1B,8th Edition,U,$5.00,$1.28,$0.71,2017-07-08 02:07:28.141397
+Sword Dancer,1W,8th Edition,U,$1.17,$0.19,$0.04,2017-07-08 02:07:28.141397
+Teferi's Puzzle Box,4,8th Edition,R,$7.99,$5.75,$4.39,2017-07-08 02:07:28.141397
+Telepathy,U,8th Edition,U,$0.94,$0.21,$0.07,2017-07-08 02:07:28.141397
+Temporal Adept,1UU,8th Edition,R,$1.53,$0.50,$0.36,2017-07-08 02:07:28.141397
+Thieves' Auction,4RRR,8th Edition,R,$4.99,$2.74,$1.27,2017-07-08 02:07:28.141397
+Thieving Magpie,2UU,8th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:28.141397
+Thorn Elemental,5GG,8th Edition,R,$1.53,$0.53,$0.18,2017-07-08 02:07:28.141397
+Throne of Bone,1,8th Edition,U,$0.98,$0.19,$0.05,2017-07-08 02:07:28.141397
+Tidal Kraken,5UUU,8th Edition,R,$1.00,$0.45,$0.28,2017-07-08 02:07:28.141397
+Trade Routes,1U,8th Edition,R,$1.35,$0.45,$0.25,2017-07-08 02:07:28.141397
+Trained Armodon,1GG,8th Edition,C,$1.15,$0.15,$0.04,2017-07-08 02:07:28.141397
+Treasure Trove,2UU,8th Edition,U,$0.98,$0.19,$0.06,2017-07-08 02:07:28.141397
+Tremor,R,8th Edition,C,$1.15,$0.15,$0.04,2017-07-08 02:07:28.141397
+Tundra Wolves,W,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Twiddle,U,8th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:28.141397
+Two-Headed Dragon,4RR,8th Edition,R,$2.31,$1.34,$0.42,2017-07-08 02:07:28.141397
+Underworld Dreams,BBB,8th Edition,R,$4.19,$3.23,$1.99,2017-07-08 02:07:28.141397
+Unholy Strength,B,8th Edition,C,$0.94,$0.15,$0.05,2017-07-08 02:07:28.141397
+Unsummon,U,8th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:28.141397
+Urborg Volcano,,8th Edition,U,$3.00,$0.33,$0.13,2017-07-08 02:07:28.141397
+Urza's Armor,6,8th Edition,R,$1.09,$0.30,$0.10,2017-07-08 02:07:28.141397
+Urza's Mine,,8th Edition,U,$5.12,$3.39,$2.40,2017-07-08 02:07:28.141397
+Urza's Power Plant,,8th Edition,U,$5.12,$3.39,$2.37,2017-07-08 02:07:28.141397
+Urza's Tower,,8th Edition,U,$15.00,$3.59,$2.49,2017-07-08 02:07:28.141397
+Vampiric Spirit,2BB,8th Edition,R,$1.29,$0.31,$0.09,2017-07-08 02:07:28.141397
+Venerable Monk,2W,8th Edition,C,$1.15,$0.15,$0.05,2017-07-08 02:07:28.141397
+Vengeance,3W,8th Edition,U,$1.17,$0.19,$0.05,2017-07-08 02:07:28.141397
+Verduran Enchantress,1GG,8th Edition,R,$2.49,$0.60,$0.35,2017-07-08 02:07:28.141397
+Vernal Bloom,3G,8th Edition,R,$3.59,$2.43,$1.34,2017-07-08 02:07:28.141397
+Vexing Arcanix,4,8th Edition,R,$1.29,$0.32,$0.10,2017-07-08 02:07:28.141397
+Viashino Sandstalker,1RR,8th Edition,U,$0.94,$0.20,$0.05,2017-07-08 02:07:28.141397
+Vicious Hunger,BB,8th Edition,C,$0.95,$0.16,$0.04,2017-07-08 02:07:28.141397
+Vine Trellis,1G,8th Edition,C,$0.94,$0.18,$0.05,2017-07-08 02:07:28.141397
+Vizzerdrix,6U,8th Edition,R,$1.28,$0.30,$0.11,2017-07-08 02:07:28.141397
+Volcanic Hammer,1R,8th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:28.141397
+Wall of Air,1UU,8th Edition,U,$1.17,$0.21,$0.06,2017-07-08 02:07:28.141397
+Wall of Spears,3,8th Edition,U,$0.99,$0.20,$0.06,2017-07-08 02:07:28.141397
+Wall of Stone,1RR,8th Edition,U,$1.93,$0.23,$0.10,2017-07-08 02:07:28.141397
+Wall of Swords,3W,8th Edition,U,$1.16,$0.19,$0.06,2017-07-08 02:07:28.141397
+Warped Devotion,2B,8th Edition,R,$1.35,$0.38,$0.23,2017-07-08 02:07:28.141397
+Western Paladin,2BB,8th Edition,R,$1.32,$0.35,$0.18,2017-07-08 02:07:28.141397
+Wind Drake,2U,8th Edition,C,$1.14,$0.15,$0.03,2017-07-08 02:07:28.141397
+Wing Snare,2G,8th Edition,U,$1.16,$0.18,$0.05,2017-07-08 02:07:28.141397
+Wood Elves,2G,8th Edition,C,$1.17,$0.20,$0.05,2017-07-08 02:07:28.141397
+Wooden Sphere,1,8th Edition,U,$1.18,$0.18,$0.04,2017-07-08 02:07:28.141397
+Worship,3W,8th Edition,R,$21.98,$8.79,$5.99,2017-07-08 02:07:28.141397
+Wrath of God,2WW,8th Edition,R,$9.59,$5.48,$3.25,2017-07-08 02:07:28.141397
+Wrath of Marit Lage,3UU,8th Edition,U,$1.00,$0.21,$0.07,2017-07-08 02:07:28.141397
+Yavimaya Enchantress,2G,8th Edition,U,$3.00,$0.21,$0.05,2017-07-08 02:07:28.141397
+Zombify,3B,8th Edition,U,$5.00,$0.49,$0.20,2017-07-08 02:07:28.141397
+Zur's Weirding,3U,8th Edition,R,$1.12,$0.44,$0.23,2017-07-08 02:07:28.141397
+Adarkar Wastes,,9th Edition,R,$13.42,$7.22,$4.93,2017-07-08 02:07:35.202649
+Air Elemental,3UU,9th Edition,U,$1.16,$0.19,$0.06,2017-07-08 02:07:35.202649
+Aladdin's Ring,8,9th Edition,R,$1.32,$0.33,$0.13,2017-07-08 02:07:35.202649
+Anaba Shaman,3R,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Anaconda,3G,9th Edition,U,$1.18,$0.20,$0.09,2017-07-08 02:07:35.202649
+Anarchist,4R,9th Edition,U,$1.19,$0.21,$0.09,2017-07-08 02:07:35.202649
+Ancient Silverback,4GG,9th Edition,R,$1.07,$0.34,$0.16,2017-07-08 02:07:35.202649
+Angel of Mercy,4W,9th Edition,U,$1.18,$0.21,$0.06,2017-07-08 02:07:35.202649
+Angel's Feather,2,9th Edition,U,$1.19,$0.21,$0.09,2017-07-08 02:07:35.202649
+Angelic Blessing,2W,9th Edition,C,$1.16,$0.17,$0.04,2017-07-08 02:07:35.202649
+Annex,2UU,9th Edition,U,$1.21,$0.23,$0.10,2017-07-08 02:07:35.202649
+Archivist,2UU,9th Edition,R,$1.29,$0.33,$0.18,2017-07-08 02:07:35.202649
+Aven Cloudchaser,3W,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Aven Fisher,3U,9th Edition,C,$1.15,$0.17,$0.02,2017-07-08 02:07:35.202649
+Aven Flock,4W,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Aven Windreader,3UU,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Azure Drake,3U,9th Edition,U,$1.17,$0.18,$0.06,2017-07-08 02:07:35.202649
+Balduvian Barbarians,1RR,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Baleful Stare,2U,9th Edition,U,$1.17,$0.18,$0.03,2017-07-08 02:07:35.202649
+Ballista Squad,3W,9th Edition,U,$1.16,$0.19,$0.07,2017-07-08 02:07:35.202649
+Battle of Wits,3UU,9th Edition,R,$2.86,$0.38,$0.18,2017-07-08 02:07:35.202649
+Battlefield Forge,,9th Edition,R,$7.52,$1.87,$0.86,2017-07-08 02:07:35.202649
+Beast of Burden,6,9th Edition,R,$1.09,$0.37,$0.19,2017-07-08 02:07:35.202649
+Biorhythm,6GG,9th Edition,R,$1.49,$0.59,$0.24,2017-07-08 02:07:35.202649
+Blackmail,B,9th Edition,U,$5.00,$3.00,$1.98,2017-07-08 02:07:35.202649
+Blanchwood Armor,2G,9th Edition,U,$1.27,$0.30,$0.10,2017-07-08 02:07:35.202649
+Blaze,XR,9th Edition,U,$1.28,$0.28,$0.10,2017-07-08 02:07:35.202649
+Blessed Orator,3W,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Blinding Angel,3WW,9th Edition,R,$3.37,$2.27,$1.86,2017-07-08 02:07:35.202649
+Blinking Spirit,3W,9th Edition,R,$1.31,$0.32,$0.18,2017-07-08 02:07:35.202649
+Blood Moon,2R,9th Edition,R,$48.45,$31.30,$15.00,2017-07-08 02:07:35.202649
+Bloodfire Colossus,6RR,9th Edition,R,$1.31,$0.33,$0.12,2017-07-08 02:07:35.202649
+Bog Imp,1B,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Bog Wraith,3B,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Boiling Seas,3R,9th Edition,U,$1.04,$0.35,$0.15,2017-07-08 02:07:35.202649
+Booby Trap,6,9th Edition,R,$1.27,$0.53,$0.30,2017-07-08 02:07:35.202649
+Boomerang,UU,9th Edition,C,$1.20,$0.21,$0.05,2017-07-08 02:07:35.202649
+Bottle Gnomes,3,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Brushland,,9th Edition,R,$19.98,$12.57,$9.45,2017-07-08 02:07:35.202649
+Caves of Koilos,,9th Edition,R,$3.94,$2.14,$0.40,2017-07-08 02:07:35.202649
+Chastise,3W,9th Edition,U,$1.24,$0.26,$0.10,2017-07-08 02:07:35.202649
+Circle of Protection: Black,1W,9th Edition,U,$1.19,$0.46,$0.23,2017-07-08 02:07:35.202649
+Circle of Protection: Red,1W,9th Edition,U,$1.49,$0.29,$0.09,2017-07-08 02:07:35.202649
+Clone,3U,9th Edition,R,$1.63,$0.67,$0.31,2017-07-08 02:07:35.202649
+Coat of Arms,5,9th Edition,R,$10.75,$7.89,$5.10,2017-07-08 02:07:35.202649
+Coercion,2B,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Confiscate,4UU,9th Edition,U,$1.20,$0.24,$0.10,2017-07-08 02:07:35.202649
+Consume Spirit,X1B,9th Edition,U,$1.19,$0.21,$0.05,2017-07-08 02:07:35.202649
+Contaminated Bond,1B,9th Edition,C,$0.69,$0.17,$0.05,2017-07-08 02:07:35.202649
+Coral Eel,1U,9th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:35.202649
+Counsel of the Soratami,2U,9th Edition,C,$0.94,$0.17,$0.05,2017-07-08 02:07:35.202649
+Cowardice,3UU,9th Edition,R,$1.31,$0.32,$0.14,2017-07-08 02:07:35.202649
+Crafty Pathmage,2U,9th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:35.202649
+Craw Wurm,4GG,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Creeping Mold,2GG,9th Edition,U,$1.18,$0.21,$0.07,2017-07-08 02:07:35.202649
+Crossbow Infantry,1W,9th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:35.202649
+Cruel Edict,1B,9th Edition,U,$1.36,$0.41,$0.14,2017-07-08 02:07:35.202649
+Dancing Scimitar,4,9th Edition,U,$1.18,$0.19,$0.07,2017-07-08 02:07:35.202649
+Daring Apprentice,1UU,9th Edition,R,$1.07,$0.37,$0.19,2017-07-08 02:07:35.202649
+Dark Banishing,2B,9th Edition,C,$0.95,$0.16,$0.04,2017-07-08 02:07:35.202649
+Death Pits of Rath,3BB,9th Edition,R,$1.27,$0.54,$0.20,2017-07-08 02:07:35.202649
+Deathgazer,3B,9th Edition,U,$1.18,$0.19,$0.04,2017-07-08 02:07:35.202649
+Defense Grid,2,9th Edition,R,$13.33,$6.18,$4.09,2017-07-08 02:07:35.202649
+Dehydration,3U,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Demolish,3R,9th Edition,U,$1.18,$0.20,$0.04,2017-07-08 02:07:35.202649
+Demon's Horn,2,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Demystify,W,9th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:35.202649
+Diabolic Tutor,2BB,9th Edition,U,$0.95,$0.49,$0.14,2017-07-08 02:07:35.202649
+Disrupting Scepter,3,9th Edition,R,$1.07,$0.32,$0.10,2017-07-08 02:07:35.202649
+Dragon's Claw,2,9th Edition,U,$1.20,$0.23,$0.10,2017-07-08 02:07:35.202649
+Dream Prowler,2UU,9th Edition,U,$0.98,$0.20,$0.04,2017-07-08 02:07:35.202649
+Drudge Skeletons,1B,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Eager Cadet,W,9th Edition,C,$1.00,$0.18,$0.05,2017-07-08 02:07:35.202649
+Early Harvest,1GG,9th Edition,R,$1.70,$0.74,$0.48,2017-07-08 02:07:35.202649
+Elvish Bard,3GG,9th Edition,U,$1.17,$0.19,$0.05,2017-07-08 02:07:35.202649
+Elvish Berserker,G,9th Edition,C,$0.94,$0.16,$0.05,2017-07-08 02:07:35.202649
+Elvish Champion,1GG,9th Edition,R,$9.59,$5.14,$4.48,2017-07-08 02:07:35.202649
+Elvish Piper,3G,9th Edition,R,$9.98,$6.89,$4.96,2017-07-08 02:07:35.202649
+Elvish Warrior,GG,9th Edition,C,$0.94,$0.15,$0.05,2017-07-08 02:07:35.202649
+Emperor Crocodile,3G,9th Edition,R,$1.28,$0.30,$0.14,2017-07-08 02:07:35.202649
+Enfeeblement,BB,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Enormous Baloth,6G,9th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:35.202649
+Enrage,XR,9th Edition,U,$1.18,$0.19,$0.07,2017-07-08 02:07:35.202649
+Evacuation,3UU,9th Edition,R,$2.33,$1.66,$0.92,2017-07-08 02:07:35.202649
+Execute,2B,9th Edition,U,$1.17,$0.19,$0.07,2017-07-08 02:07:35.202649
+Exhaustion,2U,9th Edition,U,$1.75,$0.38,$0.23,2017-07-08 02:07:35.202649
+Fear,BB,9th Edition,C,$0.94,$0.17,$0.04,2017-07-08 02:07:35.202649
+Fellwar Stone,2,9th Edition,U,$1.42,$0.68,$0.23,2017-07-08 02:07:35.202649
+Festering Goblin,B,9th Edition,C,$0.94,$0.18,$0.05,2017-07-08 02:07:35.202649
+Final Punishment,3BB,9th Edition,R,$1.31,$0.33,$0.15,2017-07-08 02:07:35.202649
+Firebreathing,R,9th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:35.202649
+Fishliver Oil,1U,9th Edition,C,$1.16,$0.18,$0.05,2017-07-08 02:07:35.202649
+Flame Wave,3RRRR,9th Edition,U,$1.18,$0.21,$0.08,2017-07-08 02:07:35.202649
+Flashfires,3R,9th Edition,U,$1.19,$0.22,$0.09,2017-07-08 02:07:35.202649
+Fleeting Image,2U,9th Edition,R,$1.31,$0.33,$0.10,2017-07-08 02:07:35.202649
+Flight,U,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Flowstone Crusher,3RR,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Flowstone Shambler,2R,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Flowstone Slide,X2RR,9th Edition,R,$1.09,$0.31,$0.12,2017-07-08 02:07:35.202649
+Foot Soldiers,3W,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Force of Nature,2GGGG,9th Edition,R,$1.30,$0.33,$0.12,2017-07-08 02:07:35.202649
+Forest (347),,9th Edition,L,$0.51,$0.24,$0.12,2017-07-08 02:07:35.202649
+Forest (348),,9th Edition,L,$0.51,$0.25,$0.19,2017-07-08 02:07:35.202649
+Forest (349),,9th Edition,L,$0.74,$0.23,$0.16,2017-07-08 02:07:35.202649
+Forest (350),,9th Edition,L,$1.00,$0.36,$0.24,2017-07-08 02:07:35.202649
+Form of the Dragon,4RRR,9th Edition,R,$1.65,$0.72,$0.39,2017-07-08 02:07:35.202649
+Foul Imp,BB,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Fugitive Wizard,U,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Furnace of Rath,1RRR,9th Edition,R,$2.46,$1.43,$0.99,2017-07-08 02:07:35.202649
+Giant Cockroach,3B,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Giant Growth,G,9th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:35.202649
+Giant Octopus,3U,9th Edition,C,$1.18,$0.18,$0.05,2017-07-08 02:07:35.202649
+Giant Spider,3G,9th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:35.202649
+Gift of Estates,1W,9th Edition,U,$2.89,$1.41,$0.95,2017-07-08 02:07:35.202649
+Glorious Anthem,1WW,9th Edition,R,$2.00,$0.96,$0.29,2017-07-08 02:07:35.202649
+Glory Seeker,1W,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Gluttonous Zombie,4B,9th Edition,U,$1.18,$0.19,$0.07,2017-07-08 02:07:35.202649
+Goblin Balloon Brigade,R,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Goblin Brigand,1R,9th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:35.202649
+Goblin Chariot,2R,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Goblin King,1RR,9th Edition,R,$4.50,$3.09,$1.99,2017-07-08 02:07:35.202649
+Goblin Mountaineer,R,9th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:35.202649
+Goblin Piker,1R,9th Edition,C,$1.13,$0.15,$0.04,2017-07-08 02:07:35.202649
+Goblin Raider,1R,9th Edition,C,$1.14,$0.15,$0.05,2017-07-08 02:07:35.202649
+Goblin Sky Raider,2R,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Grave Pact,1BBB,9th Edition,R,$15.88,$13.50,$9.25,2017-07-08 02:07:35.202649
+Gravedigger,3B,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Greater Good,2GG,9th Edition,R,$16.48,$12.02,$9.18,2017-07-08 02:07:35.202649
+Grizzly Bears,1G,9th Edition,C,$0.94,$0.15,$0.05,2017-07-08 02:07:35.202649
+Groundskeeper,G,9th Edition,U,$1.27,$0.30,$0.10,2017-07-08 02:07:35.202649
+Guerrilla Tactics,1R,9th Edition,U,$1.17,$0.19,$0.06,2017-07-08 02:07:35.202649
+Hell's Caretaker,3B,9th Edition,R,$9.11,$6.76,$5.37,2017-07-08 02:07:35.202649
+Highway Robber,2BB,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Hill Giant,3R,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Hollow Dogs,4B,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Holy Day,W,9th Edition,C,$0.87,$0.27,$0.11,2017-07-08 02:07:35.202649
+Holy Strength,W,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Honor Guard,W,9th Edition,C,$1.15,$0.16,$0.01,2017-07-08 02:07:35.202649
+Horned Turtle,2U,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Horror of Horrors,3BB,9th Edition,U,$1.18,$0.19,$0.05,2017-07-08 02:07:35.202649
+Howling Mine,2,9th Edition,R,$5.41,$2.85,$2.01,2017-07-08 02:07:35.202649
+Hunted Wumpus,3G,9th Edition,U,$1.18,$0.21,$0.07,2017-07-08 02:07:35.202649
+Hypnotic Specter,1BB,9th Edition,R,$3.11,$1.77,$0.99,2017-07-08 02:07:35.202649
+Icy Manipulator,4,9th Edition,U,$1.05,$0.33,$0.15,2017-07-08 02:07:35.202649
+Imaginary Pet,1U,9th Edition,R,$1.33,$0.35,$0.15,2017-07-08 02:07:35.202649
+Index,U,9th Edition,C,$1.22,$0.27,$0.05,2017-07-08 02:07:35.202649
+Infantry Veteran,W,9th Edition,C,$1.15,$0.16,$0.01,2017-07-08 02:07:35.202649
+Inspirit,2W,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Island (335),,9th Edition,L,$0.94,$0.24,$0.12,2017-07-08 02:07:35.202649
+Island (336),,9th Edition,L,$0.48,$0.25,$0.15,2017-07-08 02:07:35.202649
+Island (337),,9th Edition,L,$0.89,$0.38,$0.23,2017-07-08 02:07:35.202649
+Island (338),,9th Edition,L,$0.47,$0.24,$0.11,2017-07-08 02:07:35.202649
+Ivory Mask,2WW,9th Edition,R,$1.53,$0.81,$0.65,2017-07-08 02:07:35.202649
+Jade Statue,4,9th Edition,R,$1.07,$0.34,$0.16,2017-07-08 02:07:35.202649
+Jester's Cap,4,9th Edition,R,$4.91,$2.68,$1.69,2017-07-08 02:07:35.202649
+Kami of Old Stone,3W,9th Edition,U,$1.18,$0.20,$0.07,2017-07-08 02:07:35.202649
+Karplusan Forest,,9th Edition,R,$13.05,$5.35,$1.99,2017-07-08 02:07:35.202649
+Karplusan Yeti,3RR,9th Edition,R,$1.50,$0.30,$0.11,2017-07-08 02:07:35.202649
+Kavu Climber,3GG,9th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:35.202649
+King Cheetah,3G,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Kird Ape,R,9th Edition,U,$3.80,$1.39,$0.48,2017-07-08 02:07:35.202649
+Kraken's Eye,2,9th Edition,U,$1.18,$0.18,$0.07,2017-07-08 02:07:35.202649
+Lava Axe,4R,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Leonin Skyhunter,WW,9th Edition,U,$1.00,$0.29,$0.10,2017-07-08 02:07:35.202649
+Levitation,2UU,9th Edition,U,$0.98,$0.21,$0.07,2017-07-08 02:07:35.202649
+Ley Druid,2G,9th Edition,U,$1.17,$0.20,$0.07,2017-07-08 02:07:35.202649
+Lightning Elemental,3R,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Llanowar Behemoth,3GG,9th Edition,U,$1.15,$0.19,$0.06,2017-07-08 02:07:35.202649
+Llanowar Elves,G,9th Edition,C,$1.18,$0.21,$0.05,2017-07-08 02:07:35.202649
+Llanowar Wastes,,9th Edition,R,$7.49,$2.75,$1.14,2017-07-08 02:07:35.202649
+Looming Shade,2B,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Lord of the Undead,1BB,9th Edition,R,$15.59,$10.54,$8.89,2017-07-08 02:07:35.202649
+Loxodon Warhammer,3,9th Edition,R,$2.08,$1.19,$0.56,2017-07-08 02:07:35.202649
+Lumengrid Warden,1U,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Magnivore,2RR,9th Edition,R,$1.35,$0.35,$0.15,2017-07-08 02:07:35.202649
+Mahamoti Djinn,4UU,9th Edition,R,$1.30,$0.32,$0.11,2017-07-08 02:07:35.202649
+Mana Clash,R,9th Edition,R,$1.54,$0.56,$0.18,2017-07-08 02:07:35.202649
+Mana Leak,1U,9th Edition,C,$1.40,$0.43,$0.10,2017-07-08 02:07:35.202649
+Marble Titan,3W,9th Edition,R,$1.09,$0.36,$0.23,2017-07-08 02:07:35.202649
+Maro,2GG,9th Edition,R,$1.09,$0.34,$0.10,2017-07-08 02:07:35.202649
+Master Decoy,1W,9th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:35.202649
+Master Healer,4W,9th Edition,R,$1.29,$0.31,$0.10,2017-07-08 02:07:35.202649
+Megrim,2B,9th Edition,U,$1.30,$0.34,$0.14,2017-07-08 02:07:35.202649
+Mending Hands,W,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Might of Oaks,3G,9th Edition,R,$1.36,$0.39,$0.20,2017-07-08 02:07:35.202649
+Millstone,2,9th Edition,R,$1.32,$0.35,$0.13,2017-07-08 02:07:35.202649
+Mind Bend,U,9th Edition,R,$1.30,$0.32,$0.14,2017-07-08 02:07:35.202649
+Mind Rot,2B,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Mindslicer,2BB,9th Edition,R,$7.98,$4.67,$3.32,2017-07-08 02:07:35.202649
+Mogg Sentry,R,9th Edition,R,$1.39,$0.43,$0.16,2017-07-08 02:07:35.202649
+Mortivore,2BB,9th Edition,R,$2.30,$1.24,$0.80,2017-07-08 02:07:35.202649
+Mountain (343),,9th Edition,L,$0.99,$0.26,$0.19,2017-07-08 02:07:35.202649
+Mountain (344),,9th Edition,L,$0.89,$0.25,$0.11,2017-07-08 02:07:35.202649
+Mountain (345),,9th Edition,L,$1.78,$0.30,$0.23,2017-07-08 02:07:35.202649
+Mountain (346),,9th Edition,L,$0.51,$0.25,$0.15,2017-07-08 02:07:35.202649
+Nantuko Husk,2B,9th Edition,U,$1.26,$0.27,$0.07,2017-07-08 02:07:35.202649
+Natural Affinity,2G,9th Edition,R,$1.35,$0.41,$0.25,2017-07-08 02:07:35.202649
+Natural Spring,3GG,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Naturalize,1G,9th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:35.202649
+Needle Storm,2G,9th Edition,U,$0.69,$0.19,$0.05,2017-07-08 02:07:35.202649
+Nekrataal,2BB,9th Edition,U,$0.69,$0.21,$0.06,2017-07-08 02:07:35.202649
+Nightmare,5B,9th Edition,R,$1.30,$0.30,$0.10,2017-07-08 02:07:35.202649
+Norwood Ranger,G,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Ogre Taskmaster,3R,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Oracle's Attendants,3W,9th Edition,R,$1.45,$0.32,$0.10,2017-07-08 02:07:35.202649
+Orcish Artillery,1RR,9th Edition,U,$1.18,$0.20,$0.08,2017-07-08 02:07:35.202649
+Order of the Sacred Bell,3G,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Ornithopter,0,9th Edition,U,$1.40,$0.44,$0.20,2017-07-08 02:07:35.202649
+Overgrowth,2G,9th Edition,C,$0.99,$0.30,$0.15,2017-07-08 02:07:35.202649
+Pacifism,1W,9th Edition,C,$0.94,$0.17,$0.05,2017-07-08 02:07:35.202649
+Paladin en-Vec,1WW,9th Edition,R,$2.24,$0.89,$0.66,2017-07-08 02:07:35.202649
+Panic Attack,2R,9th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:35.202649
+Peace of Mind,1W,9th Edition,U,$0.98,$0.23,$0.06,2017-07-08 02:07:35.202649
+Pegasus Charger,2W,9th Edition,C,$0.94,$0.17,$0.05,2017-07-08 02:07:35.202649
+Persecute,2BB,9th Edition,R,$1.79,$0.73,$0.40,2017-07-08 02:07:35.202649
+Phantom Warrior,1UU,9th Edition,U,$1.18,$0.20,$0.07,2017-07-08 02:07:35.202649
+Phyrexian Arena,1BB,9th Edition,R,$8.47,$5.08,$2.58,2017-07-08 02:07:35.202649
+Phyrexian Gargantua,4BB,9th Edition,U,$1.15,$0.19,$0.04,2017-07-08 02:07:35.202649
+Phyrexian Hulk,6,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Plagiarize,3U,9th Edition,R,$1.07,$0.33,$0.17,2017-07-08 02:07:35.202649
+Plague Beetle,B,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Plague Wind,7BB,9th Edition,R,$3.51,$2.15,$1.44,2017-07-08 02:07:35.202649
+Plains (331),,9th Edition,L,$0.94,$0.21,$0.07,2017-07-08 02:07:35.202649
+Plains (332),,9th Edition,L,$0.50,$0.24,$0.13,2017-07-08 02:07:35.202649
+Plains (333),,9th Edition,L,$0.99,$0.24,$0.15,2017-07-08 02:07:35.202649
+Plains (334),,9th Edition,L,$0.51,$0.25,$0.14,2017-07-08 02:07:35.202649
+Polymorph,3U,9th Edition,R,$3.75,$0.98,$0.55,2017-07-08 02:07:35.202649
+Puppeteer,2U,9th Edition,U,$1.18,$0.20,$0.07,2017-07-08 02:07:35.202649
+Pyroclasm,1R,9th Edition,U,$1.52,$0.57,$0.20,2017-07-08 02:07:35.202649
+Quicksand,,9th Edition,U,$1.18,$0.20,$0.04,2017-07-08 02:07:35.202649
+Raging Goblin,R,9th Edition,C,$0.69,$0.18,$0.05,2017-07-08 02:07:35.202649
+Raise Dead,B,9th Edition,C,$1.15,$0.17,$0.04,2017-07-08 02:07:35.202649
+Rampant Growth,1G,9th Edition,C,$1.17,$0.19,$0.05,2017-07-08 02:07:35.202649
+Rathi Dragon,2RR,9th Edition,R,$1.48,$0.50,$0.25,2017-07-08 02:07:35.202649
+Ravenous Rats,1B,9th Edition,C,$0.94,$0.17,$0.05,2017-07-08 02:07:35.202649
+Razortooth Rats,2B,9th Edition,C,$0.94,$0.18,$0.05,2017-07-08 02:07:35.202649
+Reclaim,G,9th Edition,C,$0.94,$0.16,$0.05,2017-07-08 02:07:35.202649
+Reflexes,R,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Regeneration,1G,9th Edition,U,$1.17,$0.18,$0.05,2017-07-08 02:07:35.202649
+Relentless Assault,2RR,9th Edition,R,$2.84,$0.67,$0.37,2017-07-08 02:07:35.202649
+Reminisce,2U,9th Edition,U,$1.17,$0.20,$0.06,2017-07-08 02:07:35.202649
+Remove Soul,1U,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Reverse Damage,1WW,9th Edition,R,$1.50,$0.40,$0.18,2017-07-08 02:07:35.202649
+Rewind,2UU,9th Edition,U,$0.96,$0.45,$0.19,2017-07-08 02:07:35.202649
+Righteousness,W,9th Edition,R,$1.27,$0.30,$0.10,2017-07-08 02:07:35.202649
+River Bear,3G,9th Edition,U,$1.20,$0.21,$0.10,2017-07-08 02:07:35.202649
+Rod of Ruin,4,9th Edition,U,$1.16,$0.18,$0.04,2017-07-08 02:07:35.202649
+Rogue Kavu,1R,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Rootbreaker Wurm,5GG,9th Edition,U,$1.20,$0.21,$0.06,2017-07-08 02:07:35.202649
+Rootwalla,2G,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Royal Assassin,1BB,9th Edition,R,$2.01,$0.81,$0.46,2017-07-08 02:07:35.202649
+Rukh Egg,3R,9th Edition,R,$1.29,$0.33,$0.10,2017-07-08 02:07:35.202649
+Sacred Ground,1W,9th Edition,R,$1.29,$0.53,$0.23,2017-07-08 02:07:35.202649
+Sacred Nectar,1W,9th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:35.202649
+Sage Aven,3U,9th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:35.202649
+Samite Healer,1W,9th Edition,C,$1.15,$0.17,$0.03,2017-07-08 02:07:35.202649
+Sanctum Guardian,1WW,9th Edition,U,$1.18,$0.20,$0.07,2017-07-08 02:07:35.202649
+Sandstone Warrior,2RR,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Savannah Lions,W,9th Edition,R,$6.68,$0.78,$0.42,2017-07-08 02:07:35.202649
+Scaled Wurm,7G,9th Edition,C,$1.14,$0.15,$0.04,2017-07-08 02:07:35.202649
+Scathe Zombies,2B,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Sea Monster,4UU,9th Edition,C,$0.94,$0.15,$0.04,2017-07-08 02:07:35.202649
+Sea's Claim,U,9th Edition,C,$1.98,$0.44,$0.09,2017-07-08 02:07:35.202649
+Seasoned Marshal,2WW,9th Edition,U,$1.17,$0.19,$0.05,2017-07-08 02:07:35.202649
+Seedborn Muse,3GG,9th Edition,R,$27.49,$21.22,$19.00,2017-07-08 02:07:35.202649
+Seething Song,2R,9th Edition,C,$2.00,$0.75,$0.40,2017-07-08 02:07:35.202649
+Sengir Vampire,3BB,9th Edition,R,$1.34,$0.37,$0.15,2017-07-08 02:07:35.202649
+Serpent Warrior,2B,9th Edition,C,$1.14,$0.15,$0.01,2017-07-08 02:07:35.202649
+Serra Angel,3WW,9th Edition,R,$1.50,$0.50,$0.16,2017-07-08 02:07:35.202649
+Serra's Blessing,1W,9th Edition,U,$2.00,$0.66,$0.32,2017-07-08 02:07:35.202649
+Shard Phoenix,4R,9th Edition,R,$4.77,$0.36,$0.18,2017-07-08 02:07:35.202649
+Shatter,1R,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Shivan Dragon,4RR,9th Edition,R,$1.35,$0.42,$0.10,2017-07-08 02:07:35.202649
+Shivan Reef,,9th Edition,R,$8.24,$3.86,$1.80,2017-07-08 02:07:35.202649
+Shock,R,9th Edition,C,$0.94,$0.19,$0.06,2017-07-08 02:07:35.202649
+Sift,3U,9th Edition,C,$1.15,$0.16,$0.05,2017-07-08 02:07:35.202649
+Silklash Spider,3GG,9th Edition,R,$1.29,$0.65,$0.21,2017-07-08 02:07:35.202649
+Skyhunter Prowler,2W,9th Edition,C,$1.14,$0.16,$0.05,2017-07-08 02:07:35.202649
+Slate of Ancestry,4,9th Edition,R,$3.84,$2.47,$1.49,2017-07-08 02:07:35.202649
+Slay,2B,9th Edition,U,$1.18,$0.20,$0.04,2017-07-08 02:07:35.202649
+Sleight of Hand,U,9th Edition,C,$10.00,$4.53,$3.25,2017-07-08 02:07:35.202649
+Soul Feast,3BB,9th Edition,U,$1.18,$0.20,$0.07,2017-07-08 02:07:35.202649
+Soul Warden,W,9th Edition,U,$1.98,$1.02,$0.50,2017-07-08 02:07:35.202649
+Spellbook,0,9th Edition,U,$1.14,$0.67,$0.35,2017-07-08 02:07:35.202649
+Spined Wurm,4G,9th Edition,C,$1.16,$0.16,$0.04,2017-07-08 02:07:35.202649
+Spineless Thug,1B,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Spirit Link,W,9th Edition,U,$1.89,$0.55,$0.25,2017-07-08 02:07:35.202649
+Stone Rain,2R,9th Edition,C,$1.17,$0.20,$0.05,2017-07-08 02:07:35.202649
+Storage Matrix,3,9th Edition,R,$1.49,$0.72,$0.38,2017-07-08 02:07:35.202649
+Storm Crow,1U,9th Edition,C,$0.98,$0.23,$0.05,2017-07-08 02:07:35.202649
+Story Circle,1WW,9th Edition,R,$2.25,$0.90,$0.70,2017-07-08 02:07:35.202649
+Stream of Life,XG,9th Edition,U,$1.24,$0.25,$0.11,2017-07-08 02:07:35.202649
+Sudden Impact,3R,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Sulfurous Springs,,9th Edition,R,$6.05,$4.50,$3.29,2017-07-08 02:07:35.202649
+Summer Bloom,1G,9th Edition,U,$12.00,$2.25,$0.75,2017-07-08 02:07:35.202649
+Suntail Hawk,W,9th Edition,C,$0.94,$0.16,$0.04,2017-07-08 02:07:35.202649
+Swamp (339),,9th Edition,L,$0.49,$0.23,$0.19,2017-07-08 02:07:35.202649
+Swamp (340),,9th Edition,L,$0.51,$0.25,$0.16,2017-07-08 02:07:35.202649
+Swamp (341),,9th Edition,L,$0.95,$0.26,$0.19,2017-07-08 02:07:35.202649
+Swamp (342),,9th Edition,L,$0.94,$0.25,$0.11,2017-07-08 02:07:35.202649
+Swarm of Rats,1B,9th Edition,U,$1.95,$1.22,$0.79,2017-07-08 02:07:35.202649
+Tanglebloom,1,9th Edition,U,$1.18,$0.20,$0.06,2017-07-08 02:07:35.202649
+Teferi's Puzzle Box,4,9th Edition,R,$7.99,$5.52,$4.29,2017-07-08 02:07:35.202649
+Telepathy,U,9th Edition,U,$1.17,$0.21,$0.07,2017-07-08 02:07:35.202649
+Tempest of Light,2W,9th Edition,U,$1.21,$0.22,$0.06,2017-07-08 02:07:35.202649
+Temporal Adept,1UU,9th Edition,R,$3.04,$0.75,$0.40,2017-07-08 02:07:35.202649
+Thieving Magpie,2UU,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Thought Courier,1U,9th Edition,U,$1.18,$0.20,$0.09,2017-07-08 02:07:35.202649
+Thran Golem,5,9th Edition,R,$1.30,$0.31,$0.13,2017-07-08 02:07:35.202649
+Threaten,2R,9th Edition,U,$1.17,$0.21,$0.07,2017-07-08 02:07:35.202649
+Thundermare,5R,9th Edition,R,$1.00,$0.51,$0.20,2017-07-08 02:07:35.202649
+Tidal Kraken,5UUU,9th Edition,R,$1.49,$0.61,$0.40,2017-07-08 02:07:35.202649
+Tidings,3UU,9th Edition,U,$0.94,$0.33,$0.10,2017-07-08 02:07:35.202649
+Time Ebb,2U,9th Edition,C,$0.94,$0.17,$0.04,2017-07-08 02:07:35.202649
+Trade Routes,1U,9th Edition,R,$1.49,$0.56,$0.16,2017-07-08 02:07:35.202649
+Trained Armodon,1GG,9th Edition,C,$1.14,$0.16,$0.04,2017-07-08 02:07:35.202649
+Traumatize,3UU,9th Edition,R,$3.07,$1.85,$1.39,2017-07-08 02:07:35.202649
+Treasure Trove,2UU,9th Edition,U,$1.18,$0.20,$0.05,2017-07-08 02:07:35.202649
+Tree Monkey,G,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Treetop Bracers,1G,9th Edition,C,$0.94,$0.16,$0.05,2017-07-08 02:07:35.202649
+Underground River,,9th Edition,R,$6.68,$4.35,$2.82,2017-07-08 02:07:35.202649
+Underworld Dreams,BBB,9th Edition,R,$5.39,$3.07,$2.00,2017-07-08 02:07:35.202649
+Unholy Strength,B,9th Edition,C,$0.94,$0.17,$0.05,2017-07-08 02:07:35.202649
+Ur-Golem's Eye,4,9th Edition,U,$0.98,$0.23,$0.07,2017-07-08 02:07:35.202649
+Urza's Mine,,9th Edition,U,$12.00,$4.00,$2.49,2017-07-08 02:07:35.202649
+Urza's Power Plant,,9th Edition,U,$6.33,$3.91,$3.12,2017-07-08 02:07:35.202649
+Urza's Tower,,9th Edition,U,$5.99,$3.96,$2.98,2017-07-08 02:07:35.202649
+Utopia Tree,1G,9th Edition,R,$3.99,$1.50,$1.09,2017-07-08 02:07:35.202649
+Venerable Monk,2W,9th Edition,C,$1.16,$0.16,$0.04,2017-07-08 02:07:35.202649
+Vengeance,3W,9th Edition,U,$1.17,$0.19,$0.03,2017-07-08 02:07:35.202649
+Verdant Force,5GGG,9th Edition,R,$1.65,$0.70,$0.29,2017-07-08 02:07:35.202649
+Verduran Enchantress,1GG,9th Edition,R,$1.82,$0.67,$0.39,2017-07-08 02:07:35.202649
+Veteran Cavalier,WW,9th Edition,C,$1.16,$0.17,$0.05,2017-07-08 02:07:35.202649
+Viashino Sandstalker,1RR,9th Edition,U,$1.18,$0.20,$0.09,2017-07-08 02:07:35.202649
+Viridian Shaman,2G,9th Edition,U,$1.18,$0.21,$0.05,2017-07-08 02:07:35.202649
+Vizzerdrix,6U,9th Edition,R,$1.31,$0.30,$0.10,2017-07-08 02:07:35.202649
+Volcanic Hammer,1R,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Vulshok Morningstar,2,9th Edition,U,$1.18,$0.21,$0.08,2017-07-08 02:07:35.202649
+Wanderguard Sentry,4U,9th Edition,C,$1.15,$0.16,$0.02,2017-07-08 02:07:35.202649
+Warrior's Honor,2W,9th Edition,C,$1.15,$0.16,$0.04,2017-07-08 02:07:35.202649
+Weathered Wayfarer,W,9th Edition,R,$13.99,$10.19,$8.58,2017-07-08 02:07:35.202649
+Web,G,9th Edition,U,$1.17,$0.21,$0.06,2017-07-08 02:07:35.202649
+Weird Harvest,XGG,9th Edition,R,$1.99,$0.81,$0.50,2017-07-08 02:07:35.202649
+Whip Sergeant,2R,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Wildfire,4RR,9th Edition,R,$1.36,$0.40,$0.18,2017-07-08 02:07:35.202649
+Will-o'-the-Wisp,B,9th Edition,R,$4.79,$2.25,$0.99,2017-07-08 02:07:35.202649
+Wind Drake,2U,9th Edition,C,$1.14,$0.16,$0.02,2017-07-08 02:07:35.202649
+Withering Gaze,2U,9th Edition,U,$1.00,$0.19,$0.07,2017-07-08 02:07:35.202649
+Wood Elves,2G,9th Edition,C,$1.18,$0.21,$0.05,2017-07-08 02:07:35.202649
+Worship,3W,9th Edition,R,$17.95,$9.91,$6.19,2017-07-08 02:07:35.202649
+Wrath of God,2WW,9th Edition,R,$7.98,$5.23,$3.49,2017-07-08 02:07:35.202649
+Wurm's Tooth,2,9th Edition,U,$1.18,$0.19,$0.06,2017-07-08 02:07:35.202649
+Yavimaya Coast,,9th Edition,R,$5.40,$2.51,$1.14,2017-07-08 02:07:35.202649
+Yavimaya Enchantress,2G,9th Edition,U,$1.19,$0.21,$0.07,2017-07-08 02:07:35.202649
+Yawgmoth Demon,4BB,9th Edition,R,$1.50,$0.33,$0.16,2017-07-08 02:07:35.202649
+Zealous Inquisitor,2W,9th Edition,U,$1.18,$0.20,$0.06,2017-07-08 02:07:35.202649
+Zodiac Monkey,1G,9th Edition,C,$1.15,$0.17,$0.05,2017-07-08 02:07:35.202649
+Zombify,3B,9th Edition,U,$1.45,$0.49,$0.19,2017-07-08 02:07:35.202649
+Zur's Weirding,3U,9th Edition,R,$1.37,$0.67,$0.25,2017-07-08 02:07:35.202649
+Aegis Automaton,2,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Aerial Modification,4W,Aether Revolt,U,$2.21,$0.19,$0.02,2017-07-08 02:07:42.033712
+Aeronaut Admiral,3W,Aether Revolt,U,$2.23,$0.21,$0.01,2017-07-08 02:07:42.033712
+Aether Chaser,1R,Aether Revolt,C,$2.18,$0.16,$0.01,2017-07-08 02:07:42.033712
+Aether Herder,3G,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Aether Inspector,3W,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Aether Poisoner,1B,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Aether Swooper,1U,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Aethergeode Miner,1W,Aether Revolt,R,$2.00,$0.32,$0.08,2017-07-08 02:07:42.033712
+Aethersphere Harvester,3,Aether Revolt,R,$7.00,$1.18,$0.50,2017-07-08 02:07:42.033712
+Aetherstream Leopard,2G,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Aethertide Whale,4UU,Aether Revolt,R,$5.00,$0.32,$0.08,2017-07-08 02:07:42.033712
+Aetherwind Basker,4GGG,Aether Revolt,M,$5.00,$0.98,$0.35,2017-07-08 02:07:42.033712
+Aid from the Cowl,3GG,Aether Revolt,R,$3.00,$0.25,$0.08,2017-07-08 02:07:42.033712
+Airdrop Aeronauts,3WW,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Ajani Unyielding,4GW,Aether Revolt,M,$15.99,$3.54,$2.00,2017-07-08 02:07:42.033712
+Ajani's Aid,2GW,Aether Revolt,R,$1.39,$0.35,$0.10,2017-07-08 02:07:42.033712
+Ajani's Comrade,1G,Aether Revolt,U,$0.79,$0.28,$0.10,2017-07-08 02:07:42.033712
+"Ajani, Valiant Protector",4GW,Aether Revolt,M,$8.50,$5.74,$3.00,2017-07-08 02:07:42.033712
+Alley Evasion,W,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Alley Strangler,2B,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Audacious Infiltrator,1W,Aether Revolt,C,$2.17,$0.14,$0.01,2017-07-08 02:07:42.033712
+Augmenting Automaton,1,Aether Revolt,C,$2.17,$0.14,$0.01,2017-07-08 02:07:42.033712
+Baral's Expertise,3UU,Aether Revolt,R,$4.73,$0.89,$0.24,2017-07-08 02:07:42.033712
+"Baral, Chief of Compliance",1U,Aether Revolt,R,$8.84,$3.78,$1.50,2017-07-08 02:07:42.033712
+Barricade Breaker,7,Aether Revolt,U,$2.23,$0.21,$0.01,2017-07-08 02:07:42.033712
+Bastion Enforcer,2W,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Bastion Inventor,5U,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Battle at the Bridge,XB,Aether Revolt,R,$1.31,$0.30,$0.10,2017-07-08 02:07:42.033712
+Call for Unity,3WW,Aether Revolt,R,$3.00,$0.29,$0.03,2017-07-08 02:07:42.033712
+Caught in the Brights,2W,Aether Revolt,C,$6.00,$0.14,$0.01,2017-07-08 02:07:42.033712
+Chandra's Revolution,3R,Aether Revolt,C,$2.15,$0.14,$0.01,2017-07-08 02:07:42.033712
+Cogwork Assembler,3,Aether Revolt,U,$2.26,$0.23,$0.01,2017-07-08 02:07:42.033712
+Consulate Crackdown,3WW,Aether Revolt,R,$1.99,$0.25,$0.05,2017-07-08 02:07:42.033712
+Consulate Dreadnought,1,Aether Revolt,U,$2.27,$0.24,$0.04,2017-07-08 02:07:42.033712
+Consulate Turret,3,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Conviction,1W,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Countless Gears Renegade,1W,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Crackdown Construct,4,Aether Revolt,U,$2.33,$0.26,$0.04,2017-07-08 02:07:42.033712
+Cruel Finality,2B,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Daredevil Dragster,3,Aether Revolt,U,$2.24,$0.22,$0.01,2017-07-08 02:07:42.033712
+Daring Demolition,2BB,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Dark Intimations,2UBR,Aether Revolt,R,$7.00,$0.74,$0.25,2017-07-08 02:07:42.033712
+Dawnfeather Eagle,4W,Aether Revolt,C,$2.25,$0.15,$0.01,2017-07-08 02:07:42.033712
+Deadeye Harpooner,2W,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Decommission,2W,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Defiant Salvager,2B,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Deft Dismissal,3W,Aether Revolt,U,$2.24,$0.21,$0.01,2017-07-08 02:07:42.033712
+Destructive Tampering,2R,Aether Revolt,C,$2.13,$0.14,$0.01,2017-07-08 02:07:42.033712
+Disallow,1UU,Aether Revolt,R,$8.70,$6.78,$4.55,2017-07-08 02:07:42.033712
+Dispersal Technician,4U,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Druid of the Cowl,1G,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Efficient Construction,3U,Aether Revolt,U,$2.20,$0.18,$0.01,2017-07-08 02:07:42.033712
+Emblem - Tezzeret the Schemer,,Aether Revolt,T,$1.45,$0.28,$0.01,2017-07-08 02:07:42.033712
+Embraal Gear-Smasher,2R,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Enraged Giant,5R,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Etherium Cell Token,,Aether Revolt,T,$1.13,$0.15,$0.02,2017-07-08 02:07:42.033712
+Exquisite Archangel,5WW,Aether Revolt,M,$3.00,$0.94,$0.50,2017-07-08 02:07:42.033712
+Fatal Push,B,Aether Revolt,U,$30.00,$9.00,$6.44,2017-07-08 02:07:42.033712
+Felidar Guardian,3W,Aether Revolt,U,$1.95,$0.35,$0.05,2017-07-08 02:07:42.033712
+Fen Hauler,6B,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Filigree Crawler,4,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Foundry Assembler,5,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Foundry Hornet,3B,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Fourth Bridge Prowler,B,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Freejam Regent,4RR,Aether Revolt,R,$5.00,$0.30,$0.05,2017-07-08 02:07:42.033712
+Frontline Rebel,2R,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Ghirapur Osprey,2W,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Gifted Aetherborn,BB,Aether Revolt,U,$5.00,$0.61,$0.25,2017-07-08 02:07:42.033712
+Glint-Sleeve Siphoner,1B,Aether Revolt,R,$5.00,$1.02,$0.40,2017-07-08 02:07:42.033712
+Gonti's Aether Heart,6,Aether Revolt,M,$5.49,$1.04,$0.25,2017-07-08 02:07:42.033712
+Gonti's Machinations,B,Aether Revolt,U,$2.21,$0.19,$0.02,2017-07-08 02:07:42.033712
+Greenbelt Rampager,G,Aether Revolt,R,$2.50,$1.29,$0.01,2017-07-08 02:07:42.033712
+Greenwheel Liberator,1G,Aether Revolt,R,$3.00,$0.46,$0.08,2017-07-08 02:07:42.033712
+Gremlin Infestation,3R,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Gremlin Token,,Aether Revolt,T,$0.95,$0.15,$0.02,2017-07-08 02:07:42.033712
+Heart of Kiran,2,Aether Revolt,M,$23.97,$13.25,$8.74,2017-07-08 02:07:42.033712
+Herald of Anguish,5BB,Aether Revolt,M,$10.90,$2.50,$0.80,2017-07-08 02:07:42.033712
+Heroic Intervention,1G,Aether Revolt,R,$3.00,$1.50,$0.99,2017-07-08 02:07:42.033712
+Hidden Herbalists,1G,Aether Revolt,U,$2.24,$0.23,$0.04,2017-07-08 02:07:42.033712
+Hidden Stockpile,WB,Aether Revolt,U,$1.35,$0.25,$0.06,2017-07-08 02:07:42.033712
+Highspire Infusion,1G,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Hinterland Drake,2U,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Hope of Ghirapur,1,Aether Revolt,R,$7.00,$0.57,$0.12,2017-07-08 02:07:42.033712
+Hungry Flames,2R,Aether Revolt,U,$2.26,$0.23,$0.01,2017-07-08 02:07:42.033712
+Ice Over,1U,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Illusionist's Stratagem,3U,Aether Revolt,U,$2.23,$0.21,$0.01,2017-07-08 02:07:42.033712
+Implement of Combustion,1,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Implement of Examination,3,Aether Revolt,C,$2.15,$0.14,$0.01,2017-07-08 02:07:42.033712
+Implement of Ferocity,1,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Implement of Improvement,1,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Implement of Malice,1,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Indomitable Creativity,XRRR,Aether Revolt,M,$5.75,$0.99,$0.28,2017-07-08 02:07:42.033712
+Inspiring Roar,3W,Aether Revolt,C,$0.95,$0.15,$0.04,2017-07-08 02:07:42.033712
+Inspiring Statuary,3,Aether Revolt,R,$6.89,$0.74,$0.25,2017-07-08 02:07:42.033712
+Invigorated Rampage,1R,Aether Revolt,U,$1.00,$0.24,$0.05,2017-07-08 02:07:42.033712
+Ironclad Revolutionary,4BB,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Irontread Crusher,4,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Kari Zev's Expertise,1RR,Aether Revolt,R,$3.00,$0.77,$0.25,2017-07-08 02:07:42.033712
+"Kari Zev, Skyship Raider",1R,Aether Revolt,R,$5.00,$0.50,$0.09,2017-07-08 02:07:42.033712
+Lathnu Sailback,4R,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Leave in the Dust,3U,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Lifecraft Awakening,XG,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Lifecraft Cavalry,4G,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Lifecrafter's Bestiary,3,Aether Revolt,R,$2.95,$0.99,$0.60,2017-07-08 02:07:42.033712
+Lifecrafter's Gift,3G,Aether Revolt,U,$2.21,$0.19,$0.01,2017-07-08 02:07:42.033712
+Lightning Runner,3RR,Aether Revolt,M,$5.75,$0.84,$0.25,2017-07-08 02:07:42.033712
+Maulfist Revolutionary,1GG,Aether Revolt,U,$2.22,$0.20,$0.02,2017-07-08 02:07:42.033712
+Maverick Thopterist,3UR,Aether Revolt,U,$2.19,$0.18,$0.01,2017-07-08 02:07:42.033712
+Mechanized Production,2UU,Aether Revolt,M,$6.79,$2.43,$0.95,2017-07-08 02:07:42.033712
+Merchant's Dockhand,1,Aether Revolt,R,$3.00,$0.29,$0.04,2017-07-08 02:07:42.033712
+Metallic Mimic,2,Aether Revolt,R,$8.28,$5.99,$4.17,2017-07-08 02:07:42.033712
+Metallic Rebuke,2U,Aether Revolt,C,$2.17,$0.16,$0.03,2017-07-08 02:07:42.033712
+Midnight Entourage,2BB,Aether Revolt,R,$5.00,$0.32,$0.09,2017-07-08 02:07:42.033712
+Mobile Garrison,3,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Monstrous Onslaught,3GG,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Narnam Renegade,G,Aether Revolt,U,$1.19,$0.25,$0.09,2017-07-08 02:07:42.033712
+Natural Obsolescence,1G,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Negate,1U,Aether Revolt,C,$2.14,$0.15,$0.03,2017-07-08 02:07:42.033712
+Night Market Aeronaut,3B,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Night Market Guard,3,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Oath of Ajani,GW,Aether Revolt,R,$4.00,$0.58,$0.15,2017-07-08 02:07:42.033712
+Ornithopter,0,Aether Revolt,U,$2.25,$0.24,$0.05,2017-07-08 02:07:42.033712
+Outland Boar,2RG,Aether Revolt,U,$2.24,$0.22,$0.01,2017-07-08 02:07:42.033712
+Pacification Array,1,Aether Revolt,U,$2.20,$0.18,$0.02,2017-07-08 02:07:42.033712
+Paradox Engine,5,Aether Revolt,M,$14.99,$6.89,$2.20,2017-07-08 02:07:42.033712
+Peacewalker Colossus,3,Aether Revolt,R,$3.00,$0.44,$0.09,2017-07-08 02:07:42.033712
+Peema Aether-Seer,3G,Aether Revolt,U,$2.22,$0.19,$0.02,2017-07-08 02:07:42.033712
+Pendulum of Patterns,2,Aether Revolt,C,$0.70,$0.14,$0.04,2017-07-08 02:07:42.033712
+Perilous Predicament,4B,Aether Revolt,U,$2.23,$0.21,$0.01,2017-07-08 02:07:42.033712
+Pia's Revolution,2R,Aether Revolt,R,$1.75,$0.42,$0.10,2017-07-08 02:07:42.033712
+Planar Bridge,6,Aether Revolt,M,$9.99,$2.07,$0.99,2017-07-08 02:07:42.033712
+Precise Strike,R,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Prey Upon,G,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Prizefighter Construct,5,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Quicksmith Rebel,3R,Aether Revolt,R,$2.32,$0.29,$0.04,2017-07-08 02:07:42.033712
+Quicksmith Spy,3U,Aether Revolt,R,$2.27,$0.26,$0.08,2017-07-08 02:07:42.033712
+Ragavan Token,,Aether Revolt,T,$1.95,$0.34,$0.04,2017-07-08 02:07:42.033712
+Ravenous Intruder,1R,Aether Revolt,U,$1.22,$0.22,$0.02,2017-07-08 02:07:42.033712
+Reckless Racer,2R,Aether Revolt,U,$2.23,$0.21,$0.01,2017-07-08 02:07:42.033712
+Release the Gremlins,XX1,Aether Revolt,R,$2.99,$0.61,$0.15,2017-07-08 02:07:42.033712
+Renegade Map,1,Aether Revolt,C,$2.50,$0.15,$0.02,2017-07-08 02:07:42.033712
+Renegade Rallier,1GW,Aether Revolt,U,$3.00,$0.42,$0.14,2017-07-08 02:07:42.033712
+Renegade Wheelsmith,1RW,Aether Revolt,U,$2.23,$0.20,$0.03,2017-07-08 02:07:42.033712
+Renegade's Getaway,2B,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Reservoir Walker,5,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Resourceful Return,1B,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Restoration Specialist,1W,Aether Revolt,U,$2.23,$0.19,$0.01,2017-07-08 02:07:42.033712
+Reverse Engineer,3UU,Aether Revolt,U,$1.43,$0.26,$0.05,2017-07-08 02:07:42.033712
+Ridgescale Tusker,3GG,Aether Revolt,U,$1.25,$0.19,$0.03,2017-07-08 02:07:42.033712
+Rishkar's Expertise,4GG,Aether Revolt,R,$4.99,$0.57,$0.20,2017-07-08 02:07:42.033712
+"Rishkar, Peema Renegade",2G,Aether Revolt,R,$8.75,$1.98,$0.75,2017-07-08 02:07:42.033712
+Rogue Refiner,1GU,Aether Revolt,U,$1.28,$0.30,$0.10,2017-07-08 02:07:42.033712
+Salvage Scuttler,4U,Aether Revolt,U,$2.24,$0.20,$0.01,2017-07-08 02:07:42.033712
+Scrap Trawler,3,Aether Revolt,R,$2.19,$0.54,$0.25,2017-07-08 02:07:42.033712
+Scrapper Champion,3R,Aether Revolt,U,$2.20,$0.18,$0.01,2017-07-08 02:07:42.033712
+Scrounging Bandar,1G,Aether Revolt,C,$2.15,$0.14,$0.01,2017-07-08 02:07:42.033712
+Secret Salvage,3BB,Aether Revolt,R,$2.23,$0.25,$0.07,2017-07-08 02:07:42.033712
+Servo Schematic,2,Aether Revolt,U,$2.19,$0.19,$0.04,2017-07-08 02:07:42.033712
+Shielded Aether Thief,1U,Aether Revolt,U,$2.20,$0.18,$0.02,2017-07-08 02:07:42.033712
+Shipwreck Moray,3U,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Shock,R,Aether Revolt,C,$2.19,$0.19,$0.05,2017-07-08 02:07:42.033712
+Siege Modification,1RR,Aether Revolt,U,$2.22,$0.20,$0.01,2017-07-08 02:07:42.033712
+Silkweaver Elite,2G,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Skyship Plunderer,1U,Aether Revolt,U,$6.00,$0.22,$0.01,2017-07-08 02:07:42.033712
+Sly Requisitioner,4B,Aether Revolt,U,$2.23,$0.21,$0.01,2017-07-08 02:07:42.033712
+Solemn Recruit,1WW,Aether Revolt,R,$5.00,$0.30,$0.10,2017-07-08 02:07:42.033712
+Spire of Industry,,Aether Revolt,R,$8.76,$3.20,$1.50,2017-07-08 02:07:42.033712
+Spire Patrol,2WU,Aether Revolt,U,$2.24,$0.21,$0.01,2017-07-08 02:07:42.033712
+Sram's Expertise,2WW,Aether Revolt,R,$5.50,$1.14,$0.50,2017-07-08 02:07:42.033712
+"Sram, Senior Edificer",1W,Aether Revolt,R,$6.00,$0.95,$0.25,2017-07-08 02:07:42.033712
+Submerged Boneyard,,Aether Revolt,C,$0.85,$0.12,$0.05,2017-07-08 02:07:42.033712
+Sweatworks Brawler,3R,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Take into Custody,U,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Tezzeret the Schemer,2UB,Aether Revolt,M,$19.99,$3.21,$1.72,2017-07-08 02:07:42.033712
+Tezzeret's Betrayal,3UB,Aether Revolt,R,$1.45,$0.45,$0.11,2017-07-08 02:07:42.033712
+Tezzeret's Simulacrum,3,Aether Revolt,U,$3.25,$0.75,$0.25,2017-07-08 02:07:42.033712
+Tezzeret's Touch,1UB,Aether Revolt,U,$1.95,$0.24,$0.02,2017-07-08 02:07:42.033712
+"Tezzeret, Master of Metal",4UB,Aether Revolt,M,$13.66,$5.67,$3.50,2017-07-08 02:07:42.033712
+Thopter Arrest,2W,Aether Revolt,U,$2.24,$0.22,$0.01,2017-07-08 02:07:42.033712
+Tranquil Expanse,,Aether Revolt,C,$0.49,$0.15,$0.07,2017-07-08 02:07:42.033712
+Treasure Keeper,4,Aether Revolt,U,$2.32,$0.25,$0.02,2017-07-08 02:07:42.033712
+Trophy Mage,2U,Aether Revolt,U,$1.21,$0.21,$0.05,2017-07-08 02:07:42.033712
+Unbridled Growth,G,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Universal Solvent,1,Aether Revolt,C,$2.16,$0.14,$0.01,2017-07-08 02:07:42.033712
+Untethered Express,4,Aether Revolt,U,$2.23,$0.20,$0.01,2017-07-08 02:07:42.033712
+Vengeful Rebel,2B,Aether Revolt,U,$2.22,$0.19,$0.01,2017-07-08 02:07:42.033712
+Verdant Automaton,2,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Walking Ballista,XX,Aether Revolt,R,$15.59,$11.95,$7.68,2017-07-08 02:07:42.033712
+Watchful Automaton,3,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Welder Automaton,3,Aether Revolt,C,$2.17,$0.15,$0.01,2017-07-08 02:07:42.033712
+Weldfast Engineer,1BR,Aether Revolt,U,$2.26,$0.24,$0.01,2017-07-08 02:07:42.033712
+Whir of Invention,XUUU,Aether Revolt,R,$2.99,$0.84,$0.45,2017-07-08 02:07:42.033712
+Wind-Kin Raiders,4UU,Aether Revolt,U,$2.24,$0.22,$0.01,2017-07-08 02:07:42.033712
+Winding Constrictor,BG,Aether Revolt,U,$2.80,$0.73,$0.35,2017-07-08 02:07:42.033712
+Wrangle,1R,Aether Revolt,C,$2.16,$0.15,$0.01,2017-07-08 02:07:42.033712
+Yahenni's Expertise,2BB,Aether Revolt,R,$12.00,$1.02,$0.40,2017-07-08 02:07:42.033712
+"Yahenni, Undying Partisan",BG,Aether Revolt,R,$4.00,$0.99,$0.60,2017-07-08 02:07:42.033712
+Anathemancer,1BR,Alara Reborn,U,$1.18,$0.20,$0.09,2017-07-08 02:07:48.346635
+Architects of Will,2UB,Alara Reborn,C,$1.34,$0.38,$0.20,2017-07-08 02:07:48.346635
+Ardent Plea,1WU,Alara Reborn,U,$3.99,$1.42,$0.70,2017-07-08 02:07:48.346635
+Arsenal Thresher,2(W/B)U,Alara Reborn,C,$1.14,$0.15,$0.02,2017-07-08 02:07:48.346635
+Aven Mimeomancer,1WU,Alara Reborn,R,$1.40,$0.44,$0.18,2017-07-08 02:07:48.346635
+Bant Sojourners,1GWU,Alara Reborn,C,$1.15,$0.15,$0.04,2017-07-08 02:07:48.346635
+Bant Sureblade,(G/U)W,Alara Reborn,C,$1.17,$0.20,$0.09,2017-07-08 02:07:48.346635
+Behemoth Sledge,1GW,Alara Reborn,U,$50.00,$0.34,$0.15,2017-07-08 02:07:48.346635
+Bird Soldier Token,,Alara Reborn,T,$0.94,$0.19,$0.08,2017-07-08 02:07:48.346635
+Bituminous Blast,3BR,Alara Reborn,U,$1.24,$0.25,$0.08,2017-07-08 02:07:48.346635
+Blitz Hellion,3RG,Alara Reborn,R,$1.32,$0.32,$0.10,2017-07-08 02:07:48.346635
+Bloodbraid Elf,2RG,Alara Reborn,U,$9.99,$1.89,$0.50,2017-07-08 02:07:48.346635
+Brainbite,2UB,Alara Reborn,C,$1.15,$0.15,$0.03,2017-07-08 02:07:48.346635
+Breath of Malfegor,3BR,Alara Reborn,C,$1.16,$0.18,$0.05,2017-07-08 02:07:48.346635
+Captured Sunlight,2GW,Alara Reborn,C,$1.14,$0.15,$0.05,2017-07-08 02:07:48.346635
+Cerodon Yearling,RW,Alara Reborn,C,$0.95,$0.19,$0.05,2017-07-08 02:07:48.346635
+Cloven Casting,5UR,Alara Reborn,R,$1.32,$0.32,$0.09,2017-07-08 02:07:48.346635
+Colossal Might,RG,Alara Reborn,C,$1.17,$0.20,$0.05,2017-07-08 02:07:48.346635
+Crystallization,(G/U)W,Alara Reborn,C,$1.18,$0.20,$0.05,2017-07-08 02:07:48.346635
+Dauntless Escort,1GW,Alara Reborn,R,$2.99,$1.59,$0.51,2017-07-08 02:07:48.346635
+Deadshot Minotaur,3RG,Alara Reborn,C,$1.98,$0.39,$0.18,2017-07-08 02:07:48.346635
+Deathbringer Thoctar,4BR,Alara Reborn,R,$1.17,$0.44,$0.15,2017-07-08 02:07:48.346635
+Defiler of Souls,3BBR,Alara Reborn,M,$4.00,$2.23,$1.45,2017-07-08 02:07:48.346635
+Demonic Dread,1BR,Alara Reborn,C,$2.49,$0.46,$0.22,2017-07-08 02:07:48.346635
+Demonspine Whip,BR,Alara Reborn,U,$1.17,$0.19,$0.06,2017-07-08 02:07:48.346635
+Deny Reality,3UB,Alara Reborn,C,$1.16,$0.16,$0.05,2017-07-08 02:07:48.346635
+Double Negative,UUR,Alara Reborn,U,$1.22,$0.25,$0.11,2017-07-08 02:07:48.346635
+Dragon Appeasement,3BRG,Alara Reborn,U,$1.18,$0.19,$0.06,2017-07-08 02:07:48.346635
+Dragon Broodmother,2RRRG,Alara Reborn,M,$17.09,$12.66,$10.00,2017-07-08 02:07:48.346635
+Dragon Token,,Alara Reborn,T,$2.00,$0.72,$0.47,2017-07-08 02:07:48.346635
+Drastic Revelation,2UBR,Alara Reborn,U,$1.16,$0.18,$0.05,2017-07-08 02:07:48.346635
+Enigma Sphinx,4WUB,Alara Reborn,R,$1.55,$0.57,$0.20,2017-07-08 02:07:48.346635
+Enlisted Wurm,4GW,Alara Reborn,U,$1.18,$0.20,$0.06,2017-07-08 02:07:48.346635
+Esper Sojourners,WUB,Alara Reborn,C,$1.15,$0.15,$0.05,2017-07-08 02:07:48.346635
+Esper Stormblade,(W/B)U,Alara Reborn,C,$0.94,$0.18,$0.05,2017-07-08 02:07:48.346635
+Ethercaste Knight,WU,Alara Reborn,C,$0.94,$0.17,$0.05,2017-07-08 02:07:48.346635
+Etherium Abomination,3UB,Alara Reborn,C,$1.15,$0.15,$0.03,2017-07-08 02:07:48.346635
+Ethersworn Shieldmage,1WU,Alara Reborn,C,$0.94,$0.16,$0.05,2017-07-08 02:07:48.346635
+Etherwrought Page,1WUB,Alara Reborn,U,$1.22,$0.24,$0.10,2017-07-08 02:07:48.346635
+Fieldmist Borderpost,1WU,Alara Reborn,C,$1.21,$0.23,$0.05,2017-07-08 02:07:48.346635
+Fight to the Death,RW,Alara Reborn,R,$1.25,$0.55,$0.15,2017-07-08 02:07:48.346635
+Filigree Angel,5WWU,Alara Reborn,R,$1.50,$0.50,$0.16,2017-07-08 02:07:48.346635
+Finest Hour,2GWU,Alara Reborn,R,$3.58,$2.30,$1.23,2017-07-08 02:07:48.346635
+Firewild Borderpost,1RG,Alara Reborn,C,$1.19,$0.23,$0.10,2017-07-08 02:07:48.346635
+Flurry of Wings,GWU,Alara Reborn,U,$1.18,$0.20,$0.09,2017-07-08 02:07:48.346635
+Giant Ambush Beetle,3(B/G)R,Alara Reborn,U,$1.16,$0.17,$0.04,2017-07-08 02:07:48.346635
+Glassdust Hulk,3WU,Alara Reborn,C,$1.14,$0.15,$0.05,2017-07-08 02:07:48.346635
+Glory of Warfare,2RW,Alara Reborn,R,$2.99,$1.13,$0.43,2017-07-08 02:07:48.346635
+Gloryscale Viashino,1RGW,Alara Reborn,U,$1.16,$0.19,$0.08,2017-07-08 02:07:48.346635
+Godtracker of Jund,1RG,Alara Reborn,C,$1.15,$0.15,$0.04,2017-07-08 02:07:48.346635
+Gorger Wurm,3RG,Alara Reborn,C,$1.15,$0.15,$0.02,2017-07-08 02:07:48.346635
+Grixis Grimblade,(U/R)B,Alara Reborn,C,$1.00,$0.20,$0.05,2017-07-08 02:07:48.346635
+Grixis Sojourners,1UBR,Alara Reborn,C,$1.15,$0.15,$0.01,2017-07-08 02:07:48.346635
+Grizzled Leotau,GW,Alara Reborn,C,$1.18,$0.19,$0.05,2017-07-08 02:07:48.346635
+Identity Crisis,2WWBB,Alara Reborn,R,$1.32,$0.34,$0.15,2017-07-08 02:07:48.346635
+Igneous Pouncer,4BR,Alara Reborn,C,$1.15,$0.15,$0.05,2017-07-08 02:07:48.346635
+Illusory Demon,1UB,Alara Reborn,U,$1.18,$0.19,$0.04,2017-07-08 02:07:48.346635
+Intimidation Bolt,1RW,Alara Reborn,U,$0.99,$0.29,$0.10,2017-07-08 02:07:48.346635
+"Jenara, Asura of War",GWU,Alara Reborn,M,$9.98,$3.92,$2.50,2017-07-08 02:07:48.346635
+Jhessian Zombies,4UB,Alara Reborn,C,$1.15,$0.16,$0.05,2017-07-08 02:07:48.346635
+Jund Hackblade,(B/G)R,Alara Reborn,C,$1.14,$0.17,$0.05,2017-07-08 02:07:48.346635
+Jund Sojourners,BRG,Alara Reborn,C,$1.14,$0.15,$0.04,2017-07-08 02:07:48.346635
+"Karrthus, Tyrant of Jund",4BRG,Alara Reborn,M,$21.42,$13.00,$8.51,2017-07-08 02:07:48.346635
+Kathari Bomber,1BR,Alara Reborn,C,$1.15,$0.15,$0.02,2017-07-08 02:07:48.346635
+Kathari Remnant,2UB,Alara Reborn,U,$1.21,$0.23,$0.07,2017-07-08 02:07:48.346635
+Knight of New Alara,2GW,Alara Reborn,R,$1.75,$0.83,$0.37,2017-07-08 02:07:48.346635
+Knotvine Paladin,GW,Alara Reborn,R,$1.57,$0.55,$0.25,2017-07-08 02:07:48.346635
+Lavalanche,XBRG,Alara Reborn,R,$1.57,$0.60,$0.29,2017-07-08 02:07:48.346635
+Leonin Armorguard,2GW,Alara Reborn,C,$1.15,$0.15,$0.04,2017-07-08 02:07:48.346635
+Lich Lord of Unx,1UB,Alara Reborn,R,$12.29,$5.89,$4.86,2017-07-08 02:07:48.346635
+Lightning Reaver,3BR,Alara Reborn,R,$1.59,$0.85,$0.39,2017-07-08 02:07:48.346635
+Lizard Token,,Alara Reborn,T,$0.94,$0.21,$0.05,2017-07-08 02:07:48.346635
+Lord of Extinction,3BG,Alara Reborn,M,$20.39,$16.49,$12.20,2017-07-08 02:07:48.346635
+Lorescale Coatl,1GU,Alara Reborn,U,$2.00,$0.48,$0.10,2017-07-08 02:07:48.346635
+Madrush Cyclops,1BRG,Alara Reborn,R,$1.32,$0.33,$0.11,2017-07-08 02:07:48.346635
+Maelstrom Nexus,WUBRG,Alara Reborn,M,$11.39,$8.73,$6.90,2017-07-08 02:07:48.346635
+Maelstrom Pulse,1BG,Alara Reborn,R,$29.99,$21.38,$16.90,2017-07-08 02:07:48.346635
+Mage Slayer,1RG,Alara Reborn,U,$2.00,$1.24,$0.59,2017-07-08 02:07:48.346635
+Magefire Wings,UR,Alara Reborn,C,$1.15,$0.15,$0.04,2017-07-08 02:07:48.346635
+Magic QA Oct 8th,2,Alara Reborn,C,,,,2017-07-08 02:07:48.346635
+Marisi's Twinclaws,2(R/W)G,Alara Reborn,U,$1.17,$0.19,$0.06,2017-07-08 02:07:48.346635
+Marrow Chomper,3BG,Alara Reborn,U,$1.23,$0.25,$0.11,2017-07-08 02:07:48.346635
+Mask of Riddles,UB,Alara Reborn,U,$1.08,$0.36,$0.19,2017-07-08 02:07:48.346635
+Mayael's Aria,RGW,Alara Reborn,R,$7.49,$3.95,$2.49,2017-07-08 02:07:48.346635
+Meddling Mage,WU,Alara Reborn,R,$9.33,$6.52,$4.66,2017-07-08 02:07:48.346635
+Messenger Falcons,2(G/U)W,Alara Reborn,U,$1.18,$0.19,$0.08,2017-07-08 02:07:48.346635
+Mind Funeral,1UB,Alara Reborn,U,$8.99,$3.75,$2.12,2017-07-08 02:07:48.346635
+Mistvein Borderpost,1UB,Alara Reborn,C,$1.17,$0.21,$0.05,2017-07-08 02:07:48.346635
+Monstrous Carabid,3BR,Alara Reborn,C,$1.02,$0.37,$0.20,2017-07-08 02:07:48.346635
+Morbid Bloom,4BG,Alara Reborn,U,$1.18,$0.20,$0.07,2017-07-08 02:07:48.346635
+Mycoid Shepherd,1GGW,Alara Reborn,R,$1.36,$0.38,$0.20,2017-07-08 02:07:48.346635
+Naya Hushblade,(R/W)G,Alara Reborn,C,$1.16,$0.19,$0.05,2017-07-08 02:07:48.346635
+Naya Sojourners,2RGW,Alara Reborn,C,$1.14,$0.15,$0.01,2017-07-08 02:07:48.346635
+Necromancer's Covenant,3WBB,Alara Reborn,R,$2.00,$0.64,$0.21,2017-07-08 02:07:48.346635
+Nemesis of Reason,3UB,Alara Reborn,R,$16.91,$6.29,$4.64,2017-07-08 02:07:48.346635
+Nulltread Gargantuan,1GU,Alara Reborn,U,$1.50,$0.27,$0.18,2017-07-08 02:07:48.346635
+Offering to Asha,2WU,Alara Reborn,C,$1.15,$0.15,$0.04,2017-07-08 02:07:48.346635
+Pale Recluse,4GW,Alara Reborn,C,$1.18,$0.20,$0.05,2017-07-08 02:07:48.346635
+Predatory Advantage,3RG,Alara Reborn,R,$1.29,$0.31,$0.17,2017-07-08 02:07:48.346635
+Putrid Leech,BG,Alara Reborn,C,$1.15,$0.17,$0.05,2017-07-08 02:07:48.346635
+Qasali Pridemage,GW,Alara Reborn,C,$4.44,$1.99,$0.82,2017-07-08 02:07:48.346635
+Reborn Hope,GW,Alara Reborn,U,$1.18,$0.19,$0.08,2017-07-08 02:07:48.346635
+Retaliator Griffin,1RGW,Alara Reborn,R,$1.37,$0.41,$0.20,2017-07-08 02:07:48.346635
+Rhox Brute,2RG,Alara Reborn,C,$1.16,$0.16,$0.01,2017-07-08 02:07:48.346635
+Sages of the Anima,3GU,Alara Reborn,R,$1.09,$0.33,$0.18,2017-07-08 02:07:48.346635
+Sanctum Plowbeast,4WU,Alara Reborn,C,$1.14,$0.15,$0.04,2017-07-08 02:07:48.346635
+Sangrite Backlash,(B/G)R,Alara Reborn,C,$1.16,$0.15,$0.05,2017-07-08 02:07:48.346635
+Sanity Gnawers,1BR,Alara Reborn,U,$1.17,$0.18,$0.06,2017-07-08 02:07:48.346635
+Sen Triplets,2WUB,Alara Reborn,M,$49.99,$21.97,$17.26,2017-07-08 02:07:48.346635
+Sewn-Eye Drake,2(U/R)B,Alara Reborn,C,$1.15,$0.15,$0.03,2017-07-08 02:07:48.346635
+Shield of the Righteous,WU,Alara Reborn,U,$1.16,$0.18,$0.07,2017-07-08 02:07:48.346635
+Sigil Captain,1GWW,Alara Reborn,U,$1.27,$0.29,$0.10,2017-07-08 02:07:48.346635
+Sigil of the Nayan Gods,1GW,Alara Reborn,C,$1.15,$0.17,$0.05,2017-07-08 02:07:48.346635
+Sigiled Behemoth,4GW,Alara Reborn,C,$1.16,$0.16,$0.01,2017-07-08 02:07:48.346635
+Singe-Mind Ogre,2BR,Alara Reborn,C,$1.15,$0.15,$0.03,2017-07-08 02:07:48.346635
+Skyclaw Thrash,3UR,Alara Reborn,U,$1.17,$0.18,$0.05,2017-07-08 02:07:48.346635
+Slave of Bolas,3(U/R)B,Alara Reborn,U,$1.30,$0.40,$0.15,2017-07-08 02:07:48.346635
+Soul Manipulation,1UB,Alara Reborn,C,$1.18,$0.22,$0.05,2017-07-08 02:07:48.346635
+Soulquake,3UUBB,Alara Reborn,R,$1.28,$0.30,$0.09,2017-07-08 02:07:48.346635
+Sovereigns of Lost Alara,4WU,Alara Reborn,R,$5.99,$3.16,$1.90,2017-07-08 02:07:48.346635
+Spellbound Dragon,3UR,Alara Reborn,R,$1.73,$0.79,$0.35,2017-07-08 02:07:48.346635
+Spellbreaker Behemoth,1RGG,Alara Reborn,R,$2.00,$0.81,$0.35,2017-07-08 02:07:48.346635
+Sphinx of the Steel Wind,5WUB,Alara Reborn,M,$5.00,$1.45,$0.86,2017-07-08 02:07:48.346635
+Stormcaller's Boon,2WU,Alara Reborn,C,$1.15,$0.15,$0.04,2017-07-08 02:07:48.346635
+Stun Sniper,RW,Alara Reborn,U,$0.98,$0.20,$0.07,2017-07-08 02:07:48.346635
+Tainted Sigil,1WB,Alara Reborn,U,$1.45,$0.46,$0.22,2017-07-08 02:07:48.346635
+Talon Trooper,1WU,Alara Reborn,C,$1.16,$0.16,$0.05,2017-07-08 02:07:48.346635
+Terminate,BR,Alara Reborn,C,$3.96,$1.49,$0.65,2017-07-08 02:07:48.346635
+Thopter Foundry,(W/B)U,Alara Reborn,U,$8.99,$1.10,$0.32,2017-07-08 02:07:48.346635
+Thought Hemorrhage,2BR,Alara Reborn,R,$1.53,$0.33,$0.10,2017-07-08 02:07:48.346635
+Thraximundar,4UBR,Alara Reborn,M,$9.28,$1.74,$1.00,2017-07-08 02:07:48.346635
+Time Sieve,UB,Alara Reborn,R,$16.99,$10.44,$7.75,2017-07-08 02:07:48.346635
+Trace of Abundance,(R/W)G,Alara Reborn,C,$1.15,$0.18,$0.05,2017-07-08 02:07:48.346635
+Unbender Tine,2WU,Alara Reborn,U,$1.18,$0.19,$0.08,2017-07-08 02:07:48.346635
+"Unscythe, Killer of Kings",UBBR,Alara Reborn,R,$3.46,$1.59,$0.89,2017-07-08 02:07:48.346635
+"Uril, the Miststalker",2RGW,Alara Reborn,M,$8.39,$5.57,$4.15,2017-07-08 02:07:48.346635
+Valley Rannet,4RG,Alara Reborn,C,$1.14,$0.15,$0.04,2017-07-08 02:07:48.346635
+Vectis Dominator,1WB,Alara Reborn,C,$0.94,$0.16,$0.05,2017-07-08 02:07:48.346635
+Vedalken Ghoul,UB,Alara Reborn,C,$0.94,$0.20,$0.05,2017-07-08 02:07:48.346635
+Vedalken Heretic,GU,Alara Reborn,R,$1.30,$0.32,$0.11,2017-07-08 02:07:48.346635
+Veinfire Borderpost,1BR,Alara Reborn,C,$1.23,$0.24,$0.05,2017-07-08 02:07:48.346635
+Vengeful Rebirth,4RG,Alara Reborn,U,$1.17,$0.18,$0.04,2017-07-08 02:07:48.346635
+Violent Outburst,1RG,Alara Reborn,C,$19.97,$0.75,$0.45,2017-07-08 02:07:48.346635
+Vithian Renegades,1RG,Alara Reborn,U,$1.22,$0.23,$0.06,2017-07-08 02:07:48.346635
+Wall of Denial,1WU,Alara Reborn,U,$4.99,$1.62,$0.61,2017-07-08 02:07:48.346635
+Wargate,XGWU,Alara Reborn,R,$5.99,$4.41,$3.00,2017-07-08 02:07:48.346635
+Wildfield Borderpost,1GW,Alara Reborn,C,$1.18,$0.23,$0.10,2017-07-08 02:07:48.346635
+Winged Coatl,1GU,Alara Reborn,C,$1.18,$0.22,$0.05,2017-07-08 02:07:48.346635
+Zealous Persecution,WB,Alara Reborn,U,$2.00,$0.60,$0.05,2017-07-08 02:07:48.346635
+Zombie Wizard Token,,Alara Reborn,T,$1.25,$0.33,$0.16,2017-07-08 02:07:48.346635
+Aesthir Glider (Clouds),3,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Aesthir Glider (Moon),3,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Agent of Stromgald,R,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Agent of Stromgald (Woman Holding Staff),R,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Arcane Denial (Axe),1U,Alliances,C,$3.50,$0.69,$0.45,2017-07-08 02:07:54.539645
+Arcane Denial (Sword),1U,Alliances,C,$2.09,$0.67,$0.45,2017-07-08 02:07:54.539645
+Ashnod's Cylix,2,Alliances,R,$3.33,$0.34,$0.15,2017-07-08 02:07:54.539645
+Astrolabe,3,Alliances,C,$1.15,$0.17,$0.05,2017-07-08 02:07:54.539645
+Astrolabe (Globe),3,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Awesome Presence,U,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Awesome Presence (Man Being Chased),U,Alliances,C,$0.95,$0.18,$0.05,2017-07-08 02:07:54.539645
+Balduvian Dead,3B,Alliances,U,$1.18,$0.19,$0.05,2017-07-08 02:07:54.539645
+Balduvian Horde,2RR,Alliances,R,$1.36,$0.35,$0.13,2017-07-08 02:07:54.539645
+Balduvian Trading Post,,Alliances,R,$3.41,$0.44,$0.20,2017-07-08 02:07:54.539645
+Balduvian War-Makers,4R,Alliances,C,$0.95,$0.17,$0.05,2017-07-08 02:07:54.539645
+Balduvian War-Makers (Gen. Varchild Flavor),4R,Alliances,C,$1.16,$0.17,$0.03,2017-07-08 02:07:54.539645
+Benthic Explorers,3U,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Benthic Explorers (On the Rocks),3U,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Bestial Fury,2R,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Bestial Fury (Facing Left),2R,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Bounty of the Hunt,3GG,Alliances,U,$1.22,$0.21,$0.09,2017-07-08 02:07:54.539645
+Browse,2UU,Alliances,U,$0.99,$0.20,$0.05,2017-07-08 02:07:54.539645
+Burnout,1R,Alliances,U,$0.99,$0.20,$0.09,2017-07-08 02:07:54.539645
+Carrier Pigeons,3W,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Carrier Pigeons (Hand),3W,Alliances,C,$1.17,$0.18,$0.04,2017-07-08 02:07:54.539645
+Casting of Bones,2B,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Casting of Bones (Hooded Figure),2B,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Chaos Harlequin,2RR,Alliances,R,$3.32,$0.32,$0.12,2017-07-08 02:07:54.539645
+Contagion,3BB,Alliances,U,$1.37,$0.38,$0.20,2017-07-08 02:07:54.539645
+Deadly Insect (Bird),4G,Alliances,C,$1.16,$0.17,$0.04,2017-07-08 02:07:54.539645
+Deadly Insect (Red Robe),4G,Alliances,C,$11.00,$0.16,$0.05,2017-07-08 02:07:54.539645
+Death Spark,R,Alliances,U,$1.19,$0.21,$0.10,2017-07-08 02:07:54.539645
+Diminishing Returns,2UU,Alliances,R,$5.00,$0.46,$0.20,2017-07-08 02:07:54.539645
+Diseased Vermin,2B,Alliances,U,$0.99,$0.25,$0.07,2017-07-08 02:07:54.539645
+Dystopia,1BB,Alliances,R,$1.98,$0.71,$0.42,2017-07-08 02:07:54.539645
+Elvish Bard,3GG,Alliances,U,$1.18,$0.20,$0.06,2017-07-08 02:07:54.539645
+Elvish Ranger (Female),2G,Alliances,C,$1.17,$0.19,$0.05,2017-07-08 02:07:54.539645
+Elvish Ranger (Male),2G,Alliances,C,$0.95,$0.18,$0.05,2017-07-08 02:07:54.539645
+Elvish Spirit Guide,2G,Alliances,U,$8.17,$4.68,$3.14,2017-07-08 02:07:54.539645
+Energy Arc,WU,Alliances,U,$0.99,$0.20,$0.07,2017-07-08 02:07:54.539645
+Enslaved Scout,2R,Alliances,C,$0.95,$0.17,$0.05,2017-07-08 02:07:54.539645
+Enslaved Scout (Horses),2R,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Errand of Duty,1W,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Errand of Duty (Page Holding Sword),1W,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Exile,2W,Alliances,R,$2.87,$0.98,$0.60,2017-07-08 02:07:54.539645
+False Demise (Cave-in),2U,Alliances,C,$0.94,$0.17,$0.03,2017-07-08 02:07:54.539645
+False Demise (Underwater),2U,Alliances,C,$0.95,$0.17,$0.03,2017-07-08 02:07:54.539645
+Fatal Lore,2BB,Alliances,R,$3.31,$0.33,$0.17,2017-07-08 02:07:54.539645
+Feast or Famine (Falling into Pit),3B,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Feast or Famine (Knife),3B,Alliances,C,$0.95,$0.17,$0.05,2017-07-08 02:07:54.539645
+Fevered Strength,2B,Alliances,C,$1.15,$0.17,$0.05,2017-07-08 02:07:54.539645
+Fevered Strength (Foaming at Mouth),2B,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Floodwater Dam,3,Alliances,R,$3.32,$0.33,$0.14,2017-07-08 02:07:54.539645
+Force of Will,3UU,Alliances,U,$102.98,$75.55,$57.00,2017-07-08 02:07:54.539645
+Foresight,1U,Alliances,C,$1.17,$0.18,$0.08,2017-07-08 02:07:54.539645
+Foresight (White Dress),1U,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Fyndhorn Druid,2G,Alliances,C,$0.94,$0.17,$0.06,2017-07-08 02:07:54.539645
+Fyndhorn Druid (Facing Right),2G,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Gargantuan Gorilla,4GGG,Alliances,R,$3.35,$0.35,$0.17,2017-07-08 02:07:54.539645
+Gift of the Woods,G,Alliances,C,$0.95,$0.17,$0.05,2017-07-08 02:07:54.539645
+Gift of the Woods (Girl/Lynx),G,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Gorilla Berserkers,3GG,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Gorilla Berserkers (Closed Mouth),3GG,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Gorilla Chieftain (2 Gorillas),2GG,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Gorilla Chieftain (4 Gorillas),2GG,Alliances,C,$0.95,$0.16,$0.05,2017-07-08 02:07:54.539645
+Gorilla Shaman,R,Alliances,C,$1.00,$0.31,$0.14,2017-07-08 02:07:54.539645
+Gorilla Shaman (Holding Baby),R,Alliances,C,$1.19,$0.21,$0.05,2017-07-08 02:07:54.539645
+Gorilla War Cry,1R,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Gorilla War Cry (Red Club),1R,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Guerrilla Tactics (Cliff),1R,Alliances,C,$1.17,$0.17,$0.04,2017-07-08 02:07:54.539645
+Guerrilla Tactics (Kneeling Knight),1R,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Gustha's Scepter,0,Alliances,R,$3.41,$0.45,$0.25,2017-07-08 02:07:54.539645
+Hail Storm,1GG,Alliances,U,$0.98,$0.19,$0.05,2017-07-08 02:07:54.539645
+Heart of Yavimaya,,Alliances,R,$3.35,$0.49,$0.20,2017-07-08 02:07:54.539645
+Helm of Obedience,4,Alliances,R,$59.35,$17.88,$9.88,2017-07-08 02:07:54.539645
+Inheritance,W,Alliances,U,$0.99,$0.26,$0.14,2017-07-08 02:07:54.539645
+Insidious Bookworms,B,Alliances,C,$1.17,$0.18,$0.04,2017-07-08 02:07:54.539645
+Insidious Bookworms (Single),B,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Ivory Gargoyle,4W,Alliances,R,$1.07,$0.35,$0.14,2017-07-08 02:07:54.539645
+Juniper Order Advocate,2W,Alliances,U,$0.99,$0.19,$0.07,2017-07-08 02:07:54.539645
+Kaysa,3GG,Alliances,R,$4.99,$1.81,$1.19,2017-07-08 02:07:54.539645
+Keeper of Tresserhorn,5B,Alliances,R,$3.32,$0.32,$0.13,2017-07-08 02:07:54.539645
+Kjeldoran Escort,2WW,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Kjeldoran Escort (Green Blanketed Dog),2WW,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Kjeldoran Home Guard,3W,Alliances,U,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Kjeldoran Outpost,,Alliances,R,$6.99,$4.03,$2.76,2017-07-08 02:07:54.539645
+Kjeldoran Pride (Bear),1W,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Kjeldoran Pride (Eagle),1W,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Krovikan Horror,3B,Alliances,R,$3.60,$0.55,$0.25,2017-07-08 02:07:54.539645
+Krovikan Plague,2B,Alliances,U,$1.18,$0.19,$0.05,2017-07-08 02:07:54.539645
+Lake of the Dead,,Alliances,R,$33.00,$11.96,$8.00,2017-07-08 02:07:54.539645
+Lat-Nam's Legacy (Book),1U,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Lat-Nam's Legacy (Scroll),1U,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Library of Lat-Nam,4U,Alliances,R,$1.07,$0.34,$0.20,2017-07-08 02:07:54.539645
+Lim-Dul's High Guard,1BB,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Lim-Dul's High Guard (Red Armor),1BB,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Lim-Dul's Paladin,2BR,Alliances,U,$1.22,$0.23,$0.10,2017-07-08 02:07:54.539645
+Lim-Dul's Vault,UB,Alliances,U,$2.99,$0.79,$0.43,2017-07-08 02:07:54.539645
+Lodestone Bauble,0,Alliances,R,$3.46,$0.67,$0.24,2017-07-08 02:07:54.539645
+Lord of Tresserhorn,1UBR,Alliances,R,$3.81,$0.85,$0.47,2017-07-08 02:07:54.539645
+Martyrdom,1WW,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Martyrdom (Wounded on Ground),1WW,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Misfortune,1BRG,Alliances,R,$3.35,$0.34,$0.18,2017-07-08 02:07:54.539645
+Mishra's Groundbreaker,4,Alliances,U,$1.18,$0.20,$0.05,2017-07-08 02:07:54.539645
+Misinformation,B,Alliances,U,$1.18,$0.20,$0.08,2017-07-08 02:07:54.539645
+Mystic Compass,2,Alliances,U,$1.23,$0.23,$0.08,2017-07-08 02:07:54.539645
+Nature's Blessing,2WG,Alliances,U,$0.98,$0.19,$0.07,2017-07-08 02:07:54.539645
+Nature's Chosen,G,Alliances,U,$0.98,$0.22,$0.11,2017-07-08 02:07:54.539645
+Nature's Wrath,4GG,Alliances,R,$1.09,$0.39,$0.24,2017-07-08 02:07:54.539645
+Noble Steeds,2W,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Noble Steeds (Trees in Forefront),2W,Alliances,C,$0.94,$0.17,$0.04,2017-07-08 02:07:54.539645
+Omen of Fire,3RR,Alliances,R,$3.39,$0.38,$0.21,2017-07-08 02:07:54.539645
+Phantasmal Fiend (Close-up),3B,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Phantasmal Fiend (Doorway),3B,Alliances,C,$1.16,$0.17,$0.04,2017-07-08 02:07:54.539645
+Phantasmal Sphere,1U,Alliances,R,$3.32,$0.32,$0.15,2017-07-08 02:07:54.539645
+Phelddagrif,1WUG,Alliances,R,$8.95,$4.74,$3.49,2017-07-08 02:07:54.539645
+Phyrexian Boon,2B,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Phyrexian Boon (Man Held Aloft),2B,Alliances,C,$0.94,$0.16,$0.05,2017-07-08 02:07:54.539645
+Phyrexian Devourer,6,Alliances,R,$16.00,$5.91,$4.00,2017-07-08 02:07:54.539645
+Phyrexian Portal,3,Alliances,R,$3.36,$0.35,$0.15,2017-07-08 02:07:54.539645
+Phyrexian War Beast,3,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Phyrexian War Beast (Facing Right),3,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Pillage,1RR,Alliances,U,$1.04,$0.32,$0.17,2017-07-08 02:07:54.539645
+Primitive Justice,1R,Alliances,U,$0.98,$0.19,$0.04,2017-07-08 02:07:54.539645
+Pyrokinesis,4RR,Alliances,U,$2.00,$0.37,$0.13,2017-07-08 02:07:54.539645
+Reinforcements (Line-up),W,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Reinforcements (Orc),W,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Reprisal (Green Monster),1W,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Reprisal (Red Dragon),1W,Alliances,C,$1.18,$0.19,$0.04,2017-07-08 02:07:54.539645
+Ritual of the Machine,2BB,Alliances,R,$3.65,$0.78,$0.29,2017-07-08 02:07:54.539645
+Rogue Skycaptain,2R,Alliances,R,$3.31,$0.33,$0.14,2017-07-08 02:07:54.539645
+Royal Decree,2WW,Alliances,R,$3.37,$0.35,$0.18,2017-07-08 02:07:54.539645
+Royal Herbalist,W,Alliances,C,$1.17,$0.17,$0.04,2017-07-08 02:07:54.539645
+Royal Herbalist (Man),W,Alliances,C,$4.96,$0.17,$0.05,2017-07-08 02:07:54.539645
+Scarab of the Unseen,2,Alliances,U,$1.18,$0.19,$0.05,2017-07-08 02:07:54.539645
+Scars of the Veteran,4W,Alliances,U,$1.17,$0.18,$0.06,2017-07-08 02:07:54.539645
+School of the Unseen,,Alliances,U,$1.18,$0.18,$0.05,2017-07-08 02:07:54.539645
+Seasoned Tactician,2W,Alliances,U,$1.17,$0.19,$0.05,2017-07-08 02:07:54.539645
+Sheltered Valley,,Alliances,R,$1.32,$0.38,$0.11,2017-07-08 02:07:54.539645
+Shield Sphere,0,Alliances,U,$2.50,$1.50,$0.11,2017-07-08 02:07:54.539645
+Sol Grail,3,Alliances,U,$0.99,$0.20,$0.10,2017-07-08 02:07:54.539645
+Soldevi Adnate,1B,Alliances,C,$0.67,$0.19,$0.08,2017-07-08 02:07:54.539645
+Soldevi Adnate (Woman),1B,Alliances,C,$0.95,$0.20,$0.09,2017-07-08 02:07:54.539645
+Soldevi Digger,2,Alliances,R,$3.48,$0.50,$0.24,2017-07-08 02:07:54.539645
+Soldevi Excavations,,Alliances,R,$9.99,$3.23,$2.00,2017-07-08 02:07:54.539645
+Soldevi Heretic,2U,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Soldevi Heretic (Blue Robe),2U,Alliances,C,$0.94,$0.16,$0.05,2017-07-08 02:07:54.539645
+Soldevi Sage (2 Candles),1U,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Soldevi Sage (Old Woman),1U,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Soldevi Sentry,1,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Soldevi Sentry (Close-Up),1,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Soldevi Steam Beast,5,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Soldevi Steam Beast (Purple Sun),5,Alliances,C,$1.17,$0.17,$0.04,2017-07-08 02:07:54.539645
+Soldier of Fortune,R,Alliances,U,$0.98,$0.20,$0.09,2017-07-08 02:07:54.539645
+Spiny Starfish,2U,Alliances,U,$0.98,$0.22,$0.10,2017-07-08 02:07:54.539645
+Splintering Wind,2GG,Alliances,R,$3.37,$0.35,$0.18,2017-07-08 02:07:54.539645
+Stench of Decay,1BB,Alliances,C,$1.16,$0.16,$0.04,2017-07-08 02:07:54.539645
+Stench of Decay (Red Flower),1BB,Alliances,C,$1.15,$0.16,$0.05,2017-07-08 02:07:54.539645
+Storm Cauldron,5,Alliances,R,$2.32,$0.86,$0.24,2017-07-08 02:07:54.539645
+Storm Crow (Flying Left),1U,Alliances,C,$1.19,$0.20,$0.05,2017-07-08 02:07:54.539645
+Storm Crow (Flying Right),1U,Alliances,C,$1.19,$0.20,$0.05,2017-07-08 02:07:54.539645
+Storm Elemental,5U,Alliances,U,$1.17,$0.18,$0.07,2017-07-08 02:07:54.539645
+Storm Shaman (Female),2R,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Storm Shaman (Male),2R,Alliances,C,$10.00,$0.17,$0.03,2017-07-08 02:07:54.539645
+Stromgald Spy,3B,Alliances,U,$1.17,$0.19,$0.07,2017-07-08 02:07:54.539645
+Suffocation,1U,Alliances,U,$0.99,$0.18,$0.07,2017-07-08 02:07:54.539645
+Surge of Strength,RG,Alliances,U,$0.98,$0.23,$0.08,2017-07-08 02:07:54.539645
+Sustaining Spirit,1W,Alliances,R,$3.39,$0.46,$0.25,2017-07-08 02:07:54.539645
+Swamp Mosquito (Brown Trees),1B,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Swamp Mosquito (Fallen Tree),1B,Alliances,C,$1.17,$0.18,$0.05,2017-07-08 02:07:54.539645
+Sworn Defender,2WW,Alliances,R,$3.33,$0.34,$0.21,2017-07-08 02:07:54.539645
+Taste of Paradise,3G,Alliances,C,$1.16,$0.16,$0.02,2017-07-08 02:07:54.539645
+Taste of Paradise (Holding Fruit),3G,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Thawing Glaciers,,Alliances,R,$17.00,$8.86,$7.06,2017-07-08 02:07:54.539645
+Thought Lash,2UU,Alliances,R,$14.98,$3.64,$2.29,2017-07-08 02:07:54.539645
+Tidal Control,1UU,Alliances,R,$3.42,$0.42,$0.22,2017-07-08 02:07:54.539645
+Tornado,4G,Alliances,R,$3.35,$0.41,$0.24,2017-07-08 02:07:54.539645
+Undergrowth,G,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Undergrowth (Holding Axe),G,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Unlikely Alliance,1W,Alliances,U,$1.18,$0.19,$0.07,2017-07-08 02:07:54.539645
+Urza's Engine,5,Alliances,U,$0.99,$0.20,$0.03,2017-07-08 02:07:54.539645
+Varchild's Crusader,3R,Alliances,C,$1.17,$0.18,$0.04,2017-07-08 02:07:54.539645
+Varchild's Crusader (Castle),3R,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Varchild's War-Riders,1R,Alliances,R,$4.18,$1.23,$0.70,2017-07-08 02:07:54.539645
+Veteran's Voice,R,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Veteran's Voice (Side-by-side),R,Alliances,C,$1.16,$0.16,$0.05,2017-07-08 02:07:54.539645
+Viscerid Armor,1U,Alliances,C,$1.17,$0.17,$0.05,2017-07-08 02:07:54.539645
+Viscerid Armor (Crashing Wave),1U,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Viscerid Drone,1U,Alliances,U,$1.18,$0.19,$0.07,2017-07-08 02:07:54.539645
+Wandering Mage,WUB,Alliances,R,$3.32,$0.32,$0.15,2017-07-08 02:07:54.539645
+Whip Vine,2G,Alliances,C,$1.16,$0.18,$0.05,2017-07-08 02:07:54.539645
+Whip Vine (Ensnared Bird),2G,Alliances,C,$0.94,$0.16,$0.05,2017-07-08 02:07:54.539645
+Whirling Catapult,4,Alliances,U,$0.98,$0.20,$0.04,2017-07-08 02:07:54.539645
+Wild Aesthir,2W,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Wild Aesthir (Blue Mountains),2W,Alliances,C,$0.94,$0.17,$0.05,2017-07-08 02:07:54.539645
+Winter's Night,WRG,Alliances,R,$3.35,$0.34,$0.14,2017-07-08 02:07:54.539645
+Yavimaya Ancients,3GG,Alliances,C,$0.94,$0.18,$0.05,2017-07-08 02:07:54.539645
+Yavimaya Ancients (Rearing Horse),3GG,Alliances,C,$1.16,$0.17,$0.05,2017-07-08 02:07:54.539645
+Yavimaya Ants,2GG,Alliances,U,$1.17,$0.20,$0.05,2017-07-08 02:07:54.539645
+Air Elemental,3UU,Alpha Edition,U,$15.29,$10.54,$9.34,2017-07-08 02:08:00.805174
+Ancestral Recall,U,Alpha Edition,R,"$15,036.04","$11,767.52","$8,499.00",2017-07-08 02:08:00.805174
+Animate Artifact,3U,Alpha Edition,U,$15.00,$11.90,$8.58,2017-07-08 02:08:00.805174
+Animate Dead,1B,Alpha Edition,U,$295.00,$92.28,$70.00,2017-07-08 02:08:00.805174
+Animate Wall,W,Alpha Edition,R,$164.99,$131.83,$116.96,2017-07-08 02:08:00.805174
+Ankh of Mishra,2,Alpha Edition,R,$345.39,$237.40,$235.00,2017-07-08 02:08:00.805174
+Armageddon,3W,Alpha Edition,R,,$329.99,,2017-07-08 02:08:00.805174
+Aspect of Wolf,1G,Alpha Edition,R,$295.00,$182.47,$122.47,2017-07-08 02:08:00.805174
+Bad Moon,1B,Alpha Edition,R,$288.02,$224.96,$160.00,2017-07-08 02:08:00.805174
+Badlands,,Alpha Edition,R,,$800.00,,2017-07-08 02:08:00.805174
+Badlands,,Alpha Edition,R,"$1,888.61",$999.50,$800.00,2017-07-08 02:08:00.805174
+Balance,1W,Alpha Edition,R,,$449.96,,2017-07-08 02:08:00.805174
+Basalt Monolith,3,Alpha Edition,U,$86.99,$55.82,$37.49,2017-07-08 02:08:00.805174
+Bayou,,Alpha Edition,R,,"$1,444.98",,2017-07-08 02:08:00.805174
+Bayou,,Alpha Edition,R,"$2,976.35","$2,560.67","$2,144.98",2017-07-08 02:08:00.805174
+Benalish Hero,W,Alpha Edition,C,$3.47,$2.35,$1.75,2017-07-08 02:08:00.805174
+Berserk,G,Alpha Edition,U,$308.22,$306.36,$304.49,2017-07-08 02:08:00.805174
+Birds of Paradise,G,Alpha Edition,R,"$2,032.19","$1,628.09","$1,223.99",2017-07-08 02:08:00.805174
+Black Knight,BB,Alpha Edition,U,$96.49,$93.50,$59.99,2017-07-08 02:08:00.805174
+Black Lotus,0,Alpha Edition,R,,"$5,669.62",,2017-07-08 02:08:00.805174
+Black Vise,1,Alpha Edition,U,$195.00,$170.50,$105.98,2017-07-08 02:08:00.805174
+Black Ward,W,Alpha Edition,U,$17.78,$6.22,$3.49,2017-07-08 02:08:00.805174
+Blaze of Glory,W,Alpha Edition,R,$153.99,$152.49,$87.99,2017-07-08 02:08:00.805174
+Blessing,WW,Alpha Edition,R,$164.99,$137.49,$109.99,2017-07-08 02:08:00.805174
+Blue Elemental Blast,U,Alpha Edition,C,$19.92,$13.39,$10.07,2017-07-08 02:08:00.805174
+Blue Ward,W,Alpha Edition,U,$9.99,$7.60,$5.49,2017-07-08 02:08:00.805174
+Bog Wraith,3B,Alpha Edition,U,$10.55,$8.55,$4.34,2017-07-08 02:08:00.805174
+Braingeyser,XUU,Alpha Edition,R,$950.00,$650.00,$350.00,2017-07-08 02:08:00.805174
+Burrowing,R,Alpha Edition,U,$14.96,$6.33,$1.93,2017-07-08 02:08:00.805174
+Camouflage,G,Alpha Edition,U,$99.79,$69.89,$20.10,2017-07-08 02:08:00.805174
+Castle,3W,Alpha Edition,U,$13.50,$10.14,$7.51,2017-07-08 02:08:00.805174
+Celestial Prism,3,Alpha Edition,U,$15.75,$7.91,$6.60,2017-07-08 02:08:00.805174
+Channel,GG,Alpha Edition,U,$39.98,$30.31,$28.31,2017-07-08 02:08:00.805174
+Chaos Orb,2,Alpha Edition,R,$863.99,$694.50,$525.00,2017-07-08 02:08:00.805174
+Chaoslace,R,Alpha Edition,R,$275.00,$101.73,$40.48,2017-07-08 02:08:00.805174
+Circle of Protection: Blue,1W,Alpha Edition,C,$11.95,$7.99,$6.99,2017-07-08 02:08:00.805174
+Circle of Protection: Green,1W,Alpha Edition,C,$5.99,$4.39,$3.00,2017-07-08 02:08:00.805174
+Circle of Protection: Red,1W,Alpha Edition,C,$11.37,$7.47,$4.99,2017-07-08 02:08:00.805174
+Circle of Protection: White,1W,Alpha Edition,C,$10.22,$7.61,$2.26,2017-07-08 02:08:00.805174
+Clockwork Beast,6,Alpha Edition,R,$188.24,$107.49,$98.03,2017-07-08 02:08:00.805174
+Clone,3U,Alpha Edition,U,$50.99,$39.45,$19.00,2017-07-08 02:08:00.805174
+Cockatrice,3GG,Alpha Edition,R,$164.99,$144.04,$87.99,2017-07-08 02:08:00.805174
+Consecrate Land,W,Alpha Edition,U,$15.75,$8.36,$6.99,2017-07-08 02:08:00.805174
+Conservator,4,Alpha Edition,U,$18.98,$6.44,$4.29,2017-07-08 02:08:00.805174
+Contract from Below,B,Alpha Edition,R,$329.97,$273.63,$217.29,2017-07-08 02:08:00.805174
+Control Magic,2UU,Alpha Edition,U,$54.00,$49.49,$44.98,2017-07-08 02:08:00.805174
+Conversion,2WW,Alpha Edition,U,$24.99,$7.12,$4.55,2017-07-08 02:08:00.805174
+Copper Tablet,2,Alpha Edition,U,$23.75,$16.14,$15.00,2017-07-08 02:08:00.805174
+Copy Artifact,1U,Alpha Edition,R,,$589.17,,2017-07-08 02:08:00.805174
+Counterspell,UU,Alpha Edition,U,$295.70,$249.76,$244.99,2017-07-08 02:08:00.805174
+Craw Wurm,4GG,Alpha Edition,C,$9.45,$7.96,$7.59,2017-07-08 02:08:00.805174
+Creature Bond,1U,Alpha Edition,C,$5.00,$2.27,$1.70,2017-07-08 02:08:00.805174
+Crusade,WW,Alpha Edition,R,$501.64,$500.82,$500.00,2017-07-08 02:08:00.805174
+Crystal Rod,1,Alpha Edition,U,$12.60,$5.91,$4.55,2017-07-08 02:08:00.805174
+Cursed Land,2BB,Alpha Edition,U,$14.98,$7.33,$5.69,2017-07-08 02:08:00.805174
+Cyclopean Tomb,4,Alpha Edition,R,$259.53,$234.29,$224.09,2017-07-08 02:08:00.805174
+Dark Ritual,B,Alpha Edition,C,$91.19,$49.99,$39.99,2017-07-08 02:08:00.805174
+Darkpact,BBB,Alpha Edition,R,$153.99,$109.99,$80.00,2017-07-08 02:08:00.805174
+Death Ward,W,Alpha Edition,C,$9.45,$3.24,$2.11,2017-07-08 02:08:00.805174
+Deathgrip,BB,Alpha Edition,U,$14.96,$10.76,$10.12,2017-07-08 02:08:00.805174
+Deathlace,B,Alpha Edition,R,$194.58,$90.00,$85.00,2017-07-08 02:08:00.805174
+Demonic Attorney,1BB,Alpha Edition,R,$100.00,$96.49,$92.98,2017-07-08 02:08:00.805174
+Demonic Hordes,3BBB,Alpha Edition,R,$184.17,$183.71,$150.01,2017-07-08 02:08:00.805174
+Demonic Tutor,1B,Alpha Edition,U,$357.05,$261.21,$205.99,2017-07-08 02:08:00.805174
+Dingus Egg,4,Alpha Edition,R,$164.99,$128.98,$107.99,2017-07-08 02:08:00.805174
+Disenchant,1W,Alpha Edition,C,$34.95,$29.99,$25.49,2017-07-08 02:08:00.805174
+Disintegrate,XR,Alpha Edition,C,$10.48,$5.70,$4.73,2017-07-08 02:08:00.805174
+Disrupting Scepter,3,Alpha Edition,R,,$645.27,,2017-07-08 02:08:00.805174
+Dragon Whelp,2RR,Alpha Edition,U,$46.49,$33.25,$28.93,2017-07-08 02:08:00.805174
+Drain Life,1B,Alpha Edition,C,,$10.99,$9.38,2017-07-08 02:08:00.805174
+Drain Power,UU,Alpha Edition,R,$220.29,$126.09,$72.98,2017-07-08 02:08:00.805174
+Drudge Skeletons,1B,Alpha Edition,C,$8.98,$3.04,$1.99,2017-07-08 02:08:00.805174
+Dwarven Demolition Team,2R,Alpha Edition,U,$30.45,$16.59,$11.77,2017-07-08 02:08:00.805174
+Dwarven Warriors,2R,Alpha Edition,C,$9.99,$3.00,$2.37,2017-07-08 02:08:00.805174
+Earth Elemental,3RR,Alpha Edition,U,$14.99,$8.08,$7.43,2017-07-08 02:08:00.805174
+Earthbind,R,Alpha Edition,C,$9.45,$6.24,$4.34,2017-07-08 02:08:00.805174
+Earthquake,XR,Alpha Edition,R,$227.99,$216.53,$181.09,2017-07-08 02:08:00.805174
+Elvish Archers,1G,Alpha Edition,R,$595.00,$324.99,$235.00,2017-07-08 02:08:00.805174
+Evil Presence,B,Alpha Edition,U,$15.75,$12.00,$8.54,2017-07-08 02:08:00.805174
+False Orders,R,Alpha Edition,C,$9.45,$2.75,$2.05,2017-07-08 02:08:00.805174
+Farmstead,WWW,Alpha Edition,R,$262.87,$134.96,$109.99,2017-07-08 02:08:00.805174
+Fastbond,G,Alpha Edition,R,$395.00,$310.00,$224.99,2017-07-08 02:08:00.805174
+Fear,BB,Alpha Edition,C,$9.45,$2.95,$2.02,2017-07-08 02:08:00.805174
+Feedback,2U,Alpha Edition,U,$11.05,$8.51,$3.58,2017-07-08 02:08:00.805174
+Fire Elemental,3RR,Alpha Edition,U,$14.51,$11.16,$6.41,2017-07-08 02:08:00.805174
+Fireball,XR,Alpha Edition,C,$33.25,$18.13,$16.29,2017-07-08 02:08:00.805174
+Firebreathing,R,Alpha Edition,C,$9.45,$2.99,$1.90,2017-07-08 02:08:00.805174
+Flashfires,3R,Alpha Edition,U,$19.00,$14.73,$9.02,2017-07-08 02:08:00.805174
+Flight,U,Alpha Edition,C,$8.98,$3.54,$1.97,2017-07-08 02:08:00.805174
+Fog,G,Alpha Edition,C,$25.00,$8.49,$7.19,2017-07-08 02:08:00.805174
+Force of Nature,2GGGG,Alpha Edition,R,$445.63,$422.18,$398.72,2017-07-08 02:08:00.805174
+Forcefield,3,Alpha Edition,R,"$8,922.97","$4,701.46",$479.95,2017-07-08 02:08:00.805174
+Forest (A),,Alpha Edition,L,$9.06,$5.44,$3.75,2017-07-08 02:08:00.805174
+Forest (B),,Alpha Edition,L,$9.18,$6.37,$5.00,2017-07-08 02:08:00.805174
+Forest (Version 2),,Alpha Edition,L,,$4.99,,2017-07-08 02:08:00.805174
+Fork,RR,Alpha Edition,R,,$740.89,,2017-07-08 02:08:00.805174
+Frozen Shade,2B,Alpha Edition,C,$9.45,$4.22,$3.29,2017-07-08 02:08:00.805174
+Fungusaur,3G,Alpha Edition,R,$375.00,$198.14,$87.99,2017-07-08 02:08:00.805174
+Gaea's Liege,3GGG,Alpha Edition,R,$261.94,$248.16,$234.37,2017-07-08 02:08:00.805174
+Gauntlet of Might,4,Alpha Edition,R,$450.00,$379.50,$349.99,2017-07-08 02:08:00.805174
+Giant Growth,G,Alpha Edition,C,$13.46,$11.40,$5.99,2017-07-08 02:08:00.805174
+Giant Spider,3G,Alpha Edition,C,$9.45,$5.36,$3.80,2017-07-08 02:08:00.805174
+Glasses of Urza,1,Alpha Edition,U,$18.00,$8.99,$8.99,2017-07-08 02:08:00.805174
+Gloom,2B,Alpha Edition,U,$99.99,$41.00,$39.95,2017-07-08 02:08:00.805174
+Goblin Balloon Brigade,R,Alpha Edition,U,$26.25,$25.64,$22.95,2017-07-08 02:08:00.805174
+Goblin King,1RR,Alpha Edition,R,$516.08,$499.99,$385.00,2017-07-08 02:08:00.805174
+Granite Gargoyle,2R,Alpha Edition,R,$121.33,$114.22,$107.10,2017-07-08 02:08:00.805174
+Gray Ogre,2R,Alpha Edition,C,$8.98,$2.49,$1.71,2017-07-08 02:08:00.805174
+Green Ward,W,Alpha Edition,U,$9.50,$5.84,$3.01,2017-07-08 02:08:00.805174
+Grizzly Bears,1G,Alpha Edition,C,$10.99,$4.57,$3.80,2017-07-08 02:08:00.805174
+Guardian Angel,XW,Alpha Edition,C,$9.45,$2.85,$1.52,2017-07-08 02:08:00.805174
+Healing Salve,W,Alpha Edition,C,$8.98,$3.04,$1.78,2017-07-08 02:08:00.805174
+Helm of Chatzuk,1,Alpha Edition,R,$142.99,$116.49,$89.99,2017-07-08 02:08:00.805174
+Hill Giant,3R,Alpha Edition,C,$9.45,$2.67,$1.89,2017-07-08 02:08:00.805174
+Holy Armor,W,Alpha Edition,C,$9.45,$2.81,$1.70,2017-07-08 02:08:00.805174
+Holy Strength,W,Alpha Edition,C,$9.45,$2.91,$2.33,2017-07-08 02:08:00.805174
+Howl from Beyond,XB,Alpha Edition,C,$9.45,$2.92,$1.94,2017-07-08 02:08:00.805174
+Howling Mine,2,Alpha Edition,R,$269.68,$249.83,$229.98,2017-07-08 02:08:00.805174
+Hurloon Minotaur,1RR,Alpha Edition,C,$9.99,$2.94,$1.90,2017-07-08 02:08:00.805174
+Hurricane,XG,Alpha Edition,U,$17.99,$14.23,$9.97,2017-07-08 02:08:00.805174
+Hypnotic Specter,1BB,Alpha Edition,U,$159.99,$134.19,$108.38,2017-07-08 02:08:00.805174
+Ice Storm,2g,Alpha Edition,U,$125.00,$35.70,$34.64,2017-07-08 02:08:00.805174
+Icy Manipulator,4,Alpha Edition,U,$152.25,$114.75,$110.00,2017-07-08 02:08:00.805174
+Illusionary Mask,2,Alpha Edition,R,$274.99,$215.96,$199.95,2017-07-08 02:08:00.805174
+Instill Energy,G,Alpha Edition,U,$36.75,$21.34,$19.22,2017-07-08 02:08:00.805174
+Invisibility,UU,Alpha Edition,C,$12.00,$3.49,$2.00,2017-07-08 02:08:00.805174
+Iron Star,1,Alpha Edition,U,$9.39,$5.99,$3.50,2017-07-08 02:08:00.805174
+Ironclaw Orcs,1R,Alpha Edition,C,$3.99,$2.58,$2.31,2017-07-08 02:08:00.805174
+Ironroot Treefolk,4G,Alpha Edition,C,$8.98,$3.35,$1.90,2017-07-08 02:08:00.805174
+Island (A),,Alpha Edition,L,$15.99,$9.59,$8.50,2017-07-08 02:08:00.805174
+Island (B),,Alpha Edition,L,$10.43,$8.85,$6.21,2017-07-08 02:08:00.805174
+Island (Version 1),,Alpha Edition,L,,$7.00,,2017-07-08 02:08:00.805174
+Island (Version 2),,Alpha Edition,L,,$8.00,,2017-07-08 02:08:00.805174
+Island Sanctuary,1W,Alpha Edition,R,$218.50,$145.99,$109.99,2017-07-08 02:08:00.805174
+Ivory Cup,1,Alpha Edition,U,$7.67,$7.60,$5.20,2017-07-08 02:08:00.805174
+Jade Monolith,4,Alpha Edition,R,$153.99,$137.25,$109.99,2017-07-08 02:08:00.805174
+Jade Statue,4,Alpha Edition,U,$37.00,$17.84,$15.72,2017-07-08 02:08:00.805174
+Jayemdae Tome,4,Alpha Edition,R,,$84.40,,2017-07-08 02:08:00.805174
+Juggernaut,4,Alpha Edition,U,$65.00,$53.99,$50.00,2017-07-08 02:08:00.805174
+Jump,U,Alpha Edition,C,$9.45,$2.32,$1.74,2017-07-08 02:08:00.805174
+Karma,2WW,Alpha Edition,U,$13.43,$12.99,$11.49,2017-07-08 02:08:00.805174
+Keldon Warlord,2RR,Alpha Edition,U,$13.04,$7.89,$4.47,2017-07-08 02:08:00.805174
+Kormus Bell,4,Alpha Edition,R,$225.00,$101.61,$72.00,2017-07-08 02:08:00.805174
+Kudzu,1GG,Alpha Edition,R,$145.08,$95.81,$68.01,2017-07-08 02:08:00.805174
+Lance,W,Alpha Edition,U,$16.71,$7.40,$2.50,2017-07-08 02:08:00.805174
+Ley Druid,2G,Alpha Edition,U,$16.49,$8.94,$6.65,2017-07-08 02:08:00.805174
+Library of Leng,1,Alpha Edition,U,$43.49,$19.99,$10.94,2017-07-08 02:08:00.805174
+Lich,BBBB,Alpha Edition,R,$449.88,$412.44,$375.00,2017-07-08 02:08:00.805174
+Lifeforce,GG,Alpha Edition,U,$11.42,$8.79,$6.40,2017-07-08 02:08:00.805174
+Lifelace,G,Alpha Edition,R,$105.43,$91.99,$64.95,2017-07-08 02:08:00.805174
+Lifetap,UU,Alpha Edition,U,$15.75,$10.49,$5.70,2017-07-08 02:08:00.805174
+Lightning Bolt,R,Alpha Edition,C,$170.99,$143.96,$105.97,2017-07-08 02:08:00.805174
+Living Artifact,G,Alpha Edition,R,$175.45,$153.99,$109.99,2017-07-08 02:08:00.805174
+Living Lands,3G,Alpha Edition,R,$164.99,$155.53,$129.99,2017-07-08 02:08:00.805174
+Living Wall,4,Alpha Edition,U,$22.00,$14.28,$8.50,2017-07-08 02:08:00.805174
+Llanowar Elves,G,Alpha Edition,C,$43.01,$23.44,$20.45,2017-07-08 02:08:00.805174
+Lord of Atlantis,UU,Alpha Edition,R,$465.92,$423.38,$320.00,2017-07-08 02:08:00.805174
+Lord of the Pit,4BBB,Alpha Edition,R,,$199.64,,2017-07-08 02:08:00.805174
+Lure,1GG,Alpha Edition,U,$9.49,$7.02,$3.49,2017-07-08 02:08:00.805174
+Magical Hack,U,Alpha Edition,R,$205.60,$99.99,$63.97,2017-07-08 02:08:00.805174
+Mahamoti Djinn,4UU,Alpha Edition,R,$295.00,$289.99,$270.99,2017-07-08 02:08:00.805174
+Mana Flare,2R,Alpha Edition,R,$110.00,$109.63,$109.25,2017-07-08 02:08:00.805174
+Mana Short,2U,Alpha Edition,R,$325.00,$230.00,$227.78,2017-07-08 02:08:00.805174
+Mana Vault,1,Alpha Edition,R,"$1,450.00","$1,105.80","$1,091.44",2017-07-08 02:08:00.805174
+Manabarbs,3R,Alpha Edition,R,$153.99,$133.05,$109.99,2017-07-08 02:08:00.805174
+Meekstone,1,Alpha Edition,R,$695.00,$205.00,$161.50,2017-07-08 02:08:00.805174
+Merfolk of the Pearl Trident,U,Alpha Edition,C,$9.45,$3.15,$2.06,2017-07-08 02:08:00.805174
+Mesa Pegasus,1W,Alpha Edition,C,$9.45,$3.33,$2.00,2017-07-08 02:08:00.805174
+Mind Twist,XB,Alpha Edition,R,$523.50,$436.75,$349.99,2017-07-08 02:08:00.805174
+Mons's Goblin Raiders,R,Alpha Edition,C,$8.98,$2.99,$2.26,2017-07-08 02:08:00.805174
+Mountain (A),,Alpha Edition,L,$7.98,$5.35,$3.70,2017-07-08 02:08:00.805174
+Mountain (B),,Alpha Edition,L,$10.50,$7.15,$6.09,2017-07-08 02:08:00.805174
+Mountain (Version 1),,Alpha Edition,L,$2.50,$1.96,$1.42,2017-07-08 02:08:00.805174
+Mountain (Version 2),,Alpha Edition,L,$4.49,$3.19,$2.24,2017-07-08 02:08:00.805174
+Mox Emerald,0,Alpha Edition,R,"$2,699.96","$2,399.96","$1,799.95",2017-07-08 02:08:00.805174
+Mox Jet,0,Alpha Edition,R,"$9,999.99","$6,499.99","$2,999.98",2017-07-08 02:08:00.805174
+Mox Pearl,0,Alpha Edition,R,"$4,035.07","$2,954.99","$1,850.00",2017-07-08 02:08:00.805174
+Mox Ruby,0,Alpha Edition,R,,"$2,699.96",,2017-07-08 02:08:00.805174
+Mox Sapphire,0,Alpha Edition,R,,"$6,119.99",,2017-07-08 02:08:00.805174
+Natural Selection,G,Alpha Edition,R,$275.00,$130.00,$109.95,2017-07-08 02:08:00.805174
+Nether Shadow,BB,Alpha Edition,R,$219.99,$153.99,$123.50,2017-07-08 02:08:00.805174
+Nettling Imp,2B,Alpha Edition,U,$12.35,$7.93,$6.41,2017-07-08 02:08:00.805174
+Nevinyrral's Disk,4,Alpha Edition,R,,$613.54,,2017-07-08 02:08:00.805174
+Nightmare,5B,Alpha Edition,R,$219.99,$130.98,$130.98,2017-07-08 02:08:00.805174
+Northern Paladin,2WW,Alpha Edition,R,$135.00,$110.04,$65.99,2017-07-08 02:08:00.805174
+Obsianus Golem,6,Alpha Edition,U,$8.50,$4.49,$4.24,2017-07-08 02:08:00.805174
+Orcish Artillery,1RR,Alpha Edition,U,$21.20,$17.92,$14.95,2017-07-08 02:08:00.805174
+Orcish Oriflamme,3R,Alpha Edition,U,$56.99,$39.17,$33.00,2017-07-08 02:08:00.805174
+Paralyze,B,Alpha Edition,C,$9.45,$4.39,$2.61,2017-07-08 02:08:00.805174
+Pearled Unicorn,2W,Alpha Edition,C,$9.45,$2.99,$1.82,2017-07-08 02:08:00.805174
+Personal Incarnation,3WWW,Alpha Edition,R,$165.00,$111.23,$63.97,2017-07-08 02:08:00.805174
+Pestilence,2BB,Alpha Edition,C,$13.97,$4.99,$2.66,2017-07-08 02:08:00.805174
+Phantasmal Forces,3U,Alpha Edition,U,$11.35,$9.59,$8.11,2017-07-08 02:08:00.805174
+Phantasmal Terrain,UU,Alpha Edition,C,$8.98,$2.26,$1.90,2017-07-08 02:08:00.805174
+Phantom Monster,3U,Alpha Edition,U,$12.99,$8.95,$8.41,2017-07-08 02:08:00.805174
+Pirate Ship,4U,Alpha Edition,R,$159.99,$155.00,$109.99,2017-07-08 02:08:00.805174
+Plague Rats,2B,Alpha Edition,C,$5.01,$3.89,$2.49,2017-07-08 02:08:00.805174
+Plains (A),,Alpha Edition,L,$8.98,$5.56,$3.95,2017-07-08 02:08:00.805174
+Plains (B),,Alpha Edition,L,$9.99,$4.78,$2.85,2017-07-08 02:08:00.805174
+Plains (Version 1),,Alpha Edition,L,$8.00,$7.00,$2.95,2017-07-08 02:08:00.805174
+Plains (Version 2),,Alpha Edition,L,$3.19,$3.10,$3.00,2017-07-08 02:08:00.805174
+Plateau,,Alpha Edition,R,,$998.88,,2017-07-08 02:08:00.805174
+Plateau,,Alpha Edition,R,,$999.95,,2017-07-08 02:08:00.805174
+Power Leak,1U,Alpha Edition,C,$8.98,$2.83,$2.24,2017-07-08 02:08:00.805174
+Power Sink,XU,Alpha Edition,C,$39.94,$21.11,$14.92,2017-07-08 02:08:00.805174
+Power Surge,RR,Alpha Edition,R,$218.98,$143.61,$104.99,2017-07-08 02:08:00.805174
+Prodigal Sorcerer,2U,Alpha Edition,C,$9.45,$6.02,$4.73,2017-07-08 02:08:00.805174
+Psionic Blast,2U,Alpha Edition,U,$99.50,$89.75,$79.99,2017-07-08 02:08:00.805174
+Psychic Venom,1U,Alpha Edition,C,$9.45,$2.89,$1.98,2017-07-08 02:08:00.805174
+Purelace,W,Alpha Edition,R,$170.99,$97.50,$81.50,2017-07-08 02:08:00.805174
+Raging River,RR,Alpha Edition,R,$457.50,$299.50,$160.00,2017-07-08 02:08:00.805174
+Raise Dead,B,Alpha Edition,C,$9.45,$3.00,$2.28,2017-07-08 02:08:00.805174
+Red Elemental Blast,R,Alpha Edition,C,$74.50,$34.22,$31.50,2017-07-08 02:08:00.805174
+Red Ward,W,Alpha Edition,U,$15.75,$6.47,$4.28,2017-07-08 02:08:00.805174
+Regeneration,1G,Alpha Edition,C,$9.45,$3.22,$1.90,2017-07-08 02:08:00.805174
+Regrowth,1G,Alpha Edition,U,$91.19,$55.95,$49.99,2017-07-08 02:08:00.805174
+Resurrection,2WW,Alpha Edition,U,$14.25,$11.49,$10.50,2017-07-08 02:08:00.805174
+Reverse Damage,1WW,Alpha Edition,R,$79.99,$69.99,$59.99,2017-07-08 02:08:00.805174
+Righteousness,W,Alpha Edition,R,$120.00,$99.99,$65.99,2017-07-08 02:08:00.805174
+Roc of Kher Ridges,3R,Alpha Edition,R,$285.00,$114.99,$84.90,2017-07-08 02:08:00.805174
+Rock Hydra,XRR,Alpha Edition,R,$277.47,$164.99,$142.99,2017-07-08 02:08:00.805174
+Rod of Ruin,4,Alpha Edition,U,$11.97,$8.93,$3.99,2017-07-08 02:08:00.805174
+Royal Assassin,1BB,Alpha Edition,R,$450.00,$435.37,$420.74,2017-07-08 02:08:00.805174
+Sacrifice,B,Alpha Edition,U,$10.99,$8.05,$5.99,2017-07-08 02:08:00.805174
+Samite Healer,1W,Alpha Edition,C,$9.45,$3.15,$2.03,2017-07-08 02:08:00.805174
+Savannah,,Alpha Edition,R,"$1,444.98","$1,299.99","$1,211.12",2017-07-08 02:08:00.805174
+Savannah,,Alpha Edition,R,"$1,678.45","$1,204.99",$991.98,2017-07-08 02:08:00.805174
+Savannah Lions,W,Alpha Edition,R,$329.99,$277.50,$225.00,2017-07-08 02:08:00.805174
+Scathe Zombies,2B,Alpha Edition,C,$9.45,$3.18,$1.79,2017-07-08 02:08:00.805174
+Scavenging Ghoul,3B,Alpha Edition,U,$10.99,$6.27,$4.78,2017-07-08 02:08:00.805174
+Scrubland,,Alpha Edition,R,,"$1,189.98",,2017-07-08 02:08:00.805174
+Scrubland,,Alpha Edition,R,"$1,631.99","$1,600.00","$1,189.99",2017-07-08 02:08:00.805174
+Scryb Sprites,G,Alpha Edition,C,$8.98,$5.15,$2.99,2017-07-08 02:08:00.805174
+Sea Serpent,5U,Alpha Edition,C,$9.45,$3.69,$2.49,2017-07-08 02:08:00.805174
+Sedge Troll,2R,Alpha Edition,R,$425.00,$350.00,$275.00,2017-07-08 02:08:00.805174
+Sengir Vampire,3BB,Alpha Edition,U,$155.00,$77.79,$67.99,2017-07-08 02:08:00.805174
+Serra Angel,3WW,Alpha Edition,U,$395.00,$199.49,$149.99,2017-07-08 02:08:00.805174
+Shanodin Dryads,G,Alpha Edition,C,$9.45,$2.78,$1.76,2017-07-08 02:08:00.805174
+Shatter,1R,Alpha Edition,C,$14.29,$6.92,$6.49,2017-07-08 02:08:00.805174
+Shivan Dragon,4RR,Alpha Edition,R,"$1,299.95","$1,149.95",$999.95,2017-07-08 02:08:00.805174
+Simulacrum,1B,Alpha Edition,U,$8.26,$5.47,$4.45,2017-07-08 02:08:00.805174
+Sinkhole,BB,Alpha Edition,C,$82.49,$59.74,$39.25,2017-07-08 02:08:00.805174
+Siren's Call,U,Alpha Edition,U,$16.49,$7.40,$5.49,2017-07-08 02:08:00.805174
+Sleight of Mind,U,Alpha Edition,R,$159.60,$135.57,$100.00,2017-07-08 02:08:00.805174
+Smoke,RR,Alpha Edition,R,$164.99,$98.50,$97.00,2017-07-08 02:08:00.805174
+Sol Ring,1,Alpha Edition,U,$575.00,$199.96,$190.00,2017-07-08 02:08:00.805174
+Soul Net,1,Alpha Edition,U,$11.39,$8.67,$3.99,2017-07-08 02:08:00.805174
+Spell Blast,XU,Alpha Edition,C,$4.34,$3.98,$3.30,2017-07-08 02:08:00.805174
+Stasis,1U,Alpha Edition,R,$168.00,$164.00,$160.00,2017-07-08 02:08:00.805174
+Steal Artifact,2UU,Alpha Edition,U,$14.96,$8.50,$7.75,2017-07-08 02:08:00.805174
+Stone Giant,2RR,Alpha Edition,U,$16.49,$9.11,$4.19,2017-07-08 02:08:00.805174
+Stone Rain,2R,Alpha Edition,C,$21.00,$12.99,$12.99,2017-07-08 02:08:00.805174
+Stream of Life,XG,Alpha Edition,C,$9.45,$4.15,$2.38,2017-07-08 02:08:00.805174
+Sunglasses of Urza,3,Alpha Edition,R,$262.50,$109.99,$107.00,2017-07-08 02:08:00.805174
+Swamp (A),,Alpha Edition,L,$7.60,$5.09,$2.48,2017-07-08 02:08:00.805174
+Swamp (B),,Alpha Edition,L,$7.99,$6.18,$5.02,2017-07-08 02:08:00.805174
+Swamp (Version 1),,Alpha Edition,L,,$2.00,,2017-07-08 02:08:00.805174
+Swamp (Version 2),,Alpha Edition,L,,$6.44,,2017-07-08 02:08:00.805174
+Swords to Plowshares,W,Alpha Edition,U,$284.99,$222.50,$175.00,2017-07-08 02:08:00.805174
+Taiga,,Alpha Edition,R,$995.00,$847.45,$699.90,2017-07-08 02:08:00.805174
+Taiga R,,Alpha Edition,R,,,,2017-07-08 02:08:00.805174
+Terror,1B,Alpha Edition,C,$12.34,$6.53,$4.50,2017-07-08 02:08:00.805174
+The Hive,5,Alpha Edition,R,$145.00,$114.00,$82.99,2017-07-08 02:08:00.805174
+Thicket Basilisk,3GG,Alpha Edition,U,$18.90,$12.89,$12.49,2017-07-08 02:08:00.805174
+Thoughtlace,U,Alpha Edition,R,$165.00,$101.73,$95.00,2017-07-08 02:08:00.805174
+Throne of Bone,1,Alpha Edition,U,$9.43,$6.46,$2.99,2017-07-08 02:08:00.805174
+Timber Wolves,G,Alpha Edition,R,$208.78,$154.39,$99.99,2017-07-08 02:08:00.805174
+Time Vault,2,Alpha Edition,R,,"$5,900.00",,2017-07-08 02:08:00.805174
+Time Walk,1U,Alpha Edition,R,"$5,017.36","$3,199.96","$2,919.97",2017-07-08 02:08:00.805174
+Timetwister,2U,Alpha Edition,R,"$3,147.21","$3,000.00","$2,503.56",2017-07-08 02:08:00.805174
+Tranquility,2G,Alpha Edition,C,$9.45,$5.11,$3.79,2017-07-08 02:08:00.805174
+Tropical Island,,Alpha Edition,R,,"$2,362.50",,2017-07-08 02:08:00.805174
+Tropical Island,,Alpha Edition,R,"$3,500.00","$2,775.00","$2,650.00",2017-07-08 02:08:00.805174
+Tsunami,3G,Alpha Edition,U,$13.86,$11.60,$11.38,2017-07-08 02:08:00.805174
+Tundra,,Alpha Edition,R,,"$1,499.99",,2017-07-08 02:08:00.805174
+Tundra,,Alpha Edition,R,"$3,035.07","$2,892.53","$2,749.99",2017-07-08 02:08:00.805174
+Tunnel,R,Alpha Edition,U,$10.99,$7.12,$5.49,2017-07-08 02:08:00.805174
+Twiddle,U,Alpha Edition,C,$15.75,$6.57,$3.99,2017-07-08 02:08:00.805174
+Two-Headed Giant of Foriys,4R,Alpha Edition,R,$141.11,$134.97,$83.97,2017-07-08 02:08:00.805174
+Underground Sea,,Alpha Edition,R,,"$6,749.98",,2017-07-08 02:08:00.805174
+Underground Sea,,Alpha Edition,R,"$3,600.95","$3,175.47","$2,749.99",2017-07-08 02:08:00.805174
+Unholy Strength,B,Alpha Edition,C,$12.49,$11.88,$9.50,2017-07-08 02:08:00.805174
+Unsummon,U,Alpha Edition,C,$15.75,$7.56,$3.63,2017-07-08 02:08:00.805174
+Uthden Troll,2R,Alpha Edition,U,$11.97,$9.08,$7.14,2017-07-08 02:08:00.805174
+Verduran Enchantress,1GG,Alpha Edition,R,$248.24,$198.99,$160.00,2017-07-08 02:08:00.805174
+Vesuvan Doppelganger,3UU,Alpha Edition,R,$500.00,$423.53,$420.00,2017-07-08 02:08:00.805174
+Veteran Bodyguard,3WW,Alpha Edition,R,$265.00,$179.03,$109.99,2017-07-08 02:08:00.805174
+Volcanic Eruption,XUUU,Alpha Edition,R,$170.99,$152.46,$112.46,2017-07-08 02:08:00.805174
+Wall of Air,1UU,Alpha Edition,U,$16.31,$7.25,$4.75,2017-07-08 02:08:00.805174
+Wall of Bone,2B,Alpha Edition,U,$8.98,$7.10,$5.34,2017-07-08 02:08:00.805174
+Wall of Brambles,2G,Alpha Edition,U,$14.29,$7.60,$3.79,2017-07-08 02:08:00.805174
+Wall of Fire,1RR,Alpha Edition,U,$13.48,$7.78,$4.45,2017-07-08 02:08:00.805174
+Wall of Ice,2G,Alpha Edition,U,$11.57,$6.79,$4.00,2017-07-08 02:08:00.805174
+Wall of Stone,1RR,Alpha Edition,U,$10.98,$8.77,$4.95,2017-07-08 02:08:00.805174
+Wall of Swords,3W,Alpha Edition,U,$13.48,$8.98,$5.25,2017-07-08 02:08:00.805174
+Wall of Water,1UU,Alpha Edition,U,$14.98,$9.50,$7.72,2017-07-08 02:08:00.805174
+Wall of Wood,G,Alpha Edition,C,$9.45,$2.50,$2.21,2017-07-08 02:08:00.805174
+Wanderlust,2G,Alpha Edition,U,$15.75,$9.50,$5.99,2017-07-08 02:08:00.805174
+War Mammoth,3G,Alpha Edition,C,$9.45,$3.29,$2.13,2017-07-08 02:08:00.805174
+Warp Artifact,BB,Alpha Edition,R,$109.99,$108.12,$106.25,2017-07-08 02:08:00.805174
+Water Elemental,3UU,Alpha Edition,U,$16.49,$9.45,$6.18,2017-07-08 02:08:00.805174
+Weakness,B,Alpha Edition,C,$6.59,$3.74,$1.96,2017-07-08 02:08:00.805174
+Web,G,Alpha Edition,R,$395.00,$199.59,$141.99,2017-07-08 02:08:00.805174
+Wheel of Fortune,2R,Alpha Edition,R,"$2,500.00","$2,299.57","$2,000.00",2017-07-08 02:08:00.805174
+White Knight,WW,Alpha Edition,U,$27.16,$24.68,$19.99,2017-07-08 02:08:00.805174
+White Ward,W,Alpha Edition,U,$9.50,$5.49,$4.00,2017-07-08 02:08:00.805174
+Wild Growth,G,Alpha Edition,C,$16.49,$8.49,$6.08,2017-07-08 02:08:00.805174
+Will-O'-The-Wisp,B,Alpha Edition,R,$164.99,$148.75,$125.00,2017-07-08 02:08:00.805174
+Winter Orb,2,Alpha Edition,R,$455.40,$328.50,$239.96,2017-07-08 02:08:00.805174
+Wooden Sphere,1,Alpha Edition,U,$8.80,$5.61,$2.99,2017-07-08 02:08:00.805174
+Word of Command,BB,Alpha Edition,R,$265.08,$209.99,$148.00,2017-07-08 02:08:00.805174
+Wrath of God,2WW,Alpha Edition,R,$719.99,$552.49,$384.99,2017-07-08 02:08:00.805174
+Zombie Master,1BB,Alpha Edition,R,$159.96,$154.97,$149.98,2017-07-08 02:08:00.805174
+Ahn-Crop Champion,2GW,Amonkhet,U,$1.44,$0.15,$0.01,2017-07-08 02:08:07.620378
+Ahn-Crop Crasher,2R,Amonkhet,U,$1.44,$0.16,$0.02,2017-07-08 02:08:07.620378
+Ancient Crab,1UU,Amonkhet,C,$1.15,$0.15,$0.01,2017-07-08 02:08:07.620378
+Angel of Sanctions,3WW,Amonkhet,M,$15.99,$2.86,$1.45,2017-07-08 02:08:07.620378
+Angel of Sanctions // Drake Double-sided Token,,Amonkhet,T,$0.74,$0.42,$0.18,2017-07-08 02:08:07.620378
+Angel of Sanctions Token,,Amonkhet,T,$1.99,$0.61,$0.22,2017-07-08 02:08:07.620378
+Angler Drake,4UU,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Anointed Procession,3W,Amonkhet,R,$7.60,$5.34,$3.80,2017-07-08 02:08:07.620378
+Anointer Priest,1W,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Anointer Priest // Drake Double-sided Token,,Amonkhet,T,$0.48,$0.28,$0.15,2017-07-08 02:08:07.620378
+Anointer Priest Token,,Amonkhet,T,$1.18,$0.18,$0.01,2017-07-08 02:08:07.620378
+Approach of the Second Sun,6W,Amonkhet,R,$4.99,$0.53,$0.15,2017-07-08 02:08:07.620378
+Archfiend of Ifnir,3BB,Amonkhet,R,$8.99,$0.75,$0.23,2017-07-08 02:08:07.620378
+As Foretold,2U,Amonkhet,M,$15.99,$6.59,$4.80,2017-07-08 02:08:07.620378
+Aven Initiate,3U,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Aven Initiate // Snake Double-sided Token,,Amonkhet,T,$0.58,$0.29,$0.09,2017-07-08 02:08:07.620378
+Aven Initiate Token,,Amonkhet,T,$0.99,$0.09,$0.02,2017-07-08 02:08:07.620378
+Aven Mindcensor,2W,Amonkhet,R,$7.99,$0.69,$0.40,2017-07-08 02:08:07.620378
+Aven Wind Guide,2WU,Amonkhet,U,$0.99,$0.15,$0.02,2017-07-08 02:08:07.620378
+Aven Wind Guide // Hippo Double-sided Token,,Amonkhet,T,$0.59,$0.33,$0.15,2017-07-08 02:08:07.620378
+Aven Wind Guide Token,,Amonkhet,T,$0.99,$0.13,$0.04,2017-07-08 02:08:07.620378
+Baleful Ammit,2B,Amonkhet,U,$1.44,$0.23,$0.01,2017-07-08 02:08:07.620378
+Battlefield Scavenger,1R,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Beast Token,,Amonkhet,T,$0.99,$0.10,$0.02,2017-07-08 02:08:07.620378
+Benefaction of Rhonas,2G,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Binding Mummy,1W,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Bitterblade Warrior,1G,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Blazing Volley,R,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Blighted Bat,2B,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Bloodlust Inciter,R,Amonkhet,C,$1.14,$0.12,$0.01,2017-07-08 02:08:07.620378
+Bloodrage Brawler,1R,Amonkhet,U,$1.44,$0.44,$0.15,2017-07-08 02:08:07.620378
+Bone Picker,3B,Amonkhet,U,$1.99,$0.49,$0.10,2017-07-08 02:08:07.620378
+Bontu the Glorified,2B,Amonkhet,M,$9.50,$3.95,$2.86,2017-07-08 02:08:07.620378
+Bontu's Monument,3,Amonkhet,U,$1.44,$0.14,$0.01,2017-07-08 02:08:07.620378
+Bounty of the Luxa,2GU,Amonkhet,R,$9.50,$0.42,$0.10,2017-07-08 02:08:07.620378
+Brute Strength,1R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+By Force,XR,Amonkhet,U,$1.75,$0.26,$0.05,2017-07-08 02:08:07.620378
+Cancel,1UU,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Canyon Slough,,Amonkhet,R,$10.99,$2.02,$1.34,2017-07-08 02:08:07.620378
+Cartouche of Ambition,2B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Cartouche of Knowledge,1U,Amonkhet,C,$1.14,$0.12,$0.01,2017-07-08 02:08:07.620378
+Cartouche of Solidarity,W,Amonkhet,C,$1.14,$0.15,$0.01,2017-07-08 02:08:07.620378
+Cartouche of Strength,1U,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Cartouche of Zeal,R,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Cascading Cataracts,,Amonkhet,R,$10.00,$0.79,$0.25,2017-07-08 02:08:07.620378
+Cast Out,3W,Amonkhet,U,$3.04,$1.15,$0.49,2017-07-08 02:08:07.620378
+Cat Token,,Amonkhet,T,$0.99,$0.09,$0.04,2017-07-08 02:08:07.620378
+Censor,1U,Amonkhet,U,$5.99,$1.97,$0.88,2017-07-08 02:08:07.620378
+Champion of Rhonas,3G,Amonkhet,R,$45.99,$0.51,$0.25,2017-07-08 02:08:07.620378
+Channeler Initiate,1G,Amonkhet,R,$4.00,$1.15,$0.74,2017-07-08 02:08:07.620378
+Cinder Barrens,,Amonkhet,C,$0.25,$0.23,$0.07,2017-07-08 02:08:07.620378
+Colossapede,4G,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Combat Celebrant,2R,Amonkhet,M,$12.99,$2.59,$1.23,2017-07-08 02:08:07.620378
+Commit // Memory,3U/4UU,Amonkhet,R,$5.48,$0.92,$0.25,2017-07-08 02:08:07.620378
+Companion of the Trials,2W,Amonkhet,U,$0.60,$0.25,$0.10,2017-07-08 02:08:07.620378
+Compelling Argument,1U,Amonkhet,C,$1.12,$0.13,$0.01,2017-07-08 02:08:07.620378
+Compulsory Rest,1W,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Consuming Fervor,R,Amonkhet,U,$1.44,$0.15,$0.04,2017-07-08 02:08:07.620378
+Cradle of the Accursed,,Amonkhet,C,$1.12,$0.13,$0.01,2017-07-08 02:08:07.620378
+Crocodile of the Crossing,3G,Amonkhet,U,$1.11,$0.14,$0.01,2017-07-08 02:08:07.620378
+Cruel Reality,5BB,Amonkhet,M,$10.50,$0.58,$0.24,2017-07-08 02:08:07.620378
+Cryptic Serpent,5UU,Amonkhet,U,$1.44,$0.20,$0.01,2017-07-08 02:08:07.620378
+Curator of Mysteries,2UU,Amonkhet,R,$9.99,$0.49,$0.15,2017-07-08 02:08:07.620378
+Cursed Minotaur,2B,Amonkhet,C,$1.12,$0.12,$0.01,2017-07-08 02:08:07.620378
+Cut // Ribbons,1R/XBB,Amonkhet,R,$4.99,$0.84,$0.45,2017-07-08 02:08:07.620378
+Decimator Beetle,3BG,Amonkhet,U,$1.16,$0.17,$0.01,2017-07-08 02:08:07.620378
+Decision Paralysis,3U,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Deem Worthy,4R,Amonkhet,U,$2.15,$0.17,$0.01,2017-07-08 02:08:07.620378
+Defiant Greatmaw,2G,Amonkhet,U,$2.15,$0.15,$0.01,2017-07-08 02:08:07.620378
+Desert Cerodon,5R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Desiccated Naga,2B,Amonkhet,U,$0.79,$0.17,$0.07,2017-07-08 02:08:07.620378
+Destined // Lead,1B/3G,Amonkhet,U,$1.16,$0.16,$0.01,2017-07-08 02:08:07.620378
+Devoted Crop-Mate,2W,Amonkhet,U,$1.14,$0.15,$0.02,2017-07-08 02:08:07.620378
+Dispossess,2B,Amonkhet,R,$4.90,$0.46,$0.20,2017-07-08 02:08:07.620378
+Dissenter's Deliverance,1G,Amonkhet,C,$1.14,$0.15,$0.01,2017-07-08 02:08:07.620378
+Djeru's Resolve,W,Amonkhet,C,$75.00,$0.13,$0.01,2017-07-08 02:08:07.620378
+Doomed Dissenter,1B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Drake Haven,2U,Amonkhet,R,$4.00,$0.96,$0.64,2017-07-08 02:08:07.620378
+Drake Token,,Amonkhet,T,$2.99,$0.40,$0.19,2017-07-08 02:08:07.620378
+Dread Wanderer,B,Amonkhet,R,$13.00,$3.05,$1.20,2017-07-08 02:08:07.620378
+Dune Beetle,1B,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Dusk // Dawn,2WW/3WW,Amonkhet,R,$5.00,$0.75,$0.25,2017-07-08 02:08:07.620378
+Edifice of Authority,3,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Electrify,3R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Embalmer's Tools,2,Amonkhet,U,$1.44,$0.16,$0.01,2017-07-08 02:08:07.620378
+Emberhorn Minotaur,3R,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Emblem - Gideon // Zombie Double-sided Token,,Amonkhet,T,$1.30,$0.73,$0.24,2017-07-08 02:08:07.620378
+Emblem - Gideon of the Trials,,Amonkhet,T,$4.99,$0.97,$0.24,2017-07-08 02:08:07.620378
+Enigma Drake,1UR,Amonkhet,U,$1.16,$0.20,$0.05,2017-07-08 02:08:07.620378
+Essence Scatter,1U,Amonkhet,C,$1.13,$0.13,$0.03,2017-07-08 02:08:07.620378
+Evolving Wilds,,Amonkhet,C,$1.13,$0.14,$0.01,2017-07-08 02:08:07.620378
+Exemplar of Strength,1G,Amonkhet,U,$1.12,$0.14,$0.02,2017-07-08 02:08:07.620378
+Failure // Comply,1U/W,Amonkhet,R,$4.25,$0.31,$0.09,2017-07-08 02:08:07.620378
+Faith of the Devoted,2B,Amonkhet,U,$1.44,$0.20,$0.04,2017-07-08 02:08:07.620378
+Fan Bearer,W,Amonkhet,C,$1.12,$0.12,$0.01,2017-07-08 02:08:07.620378
+Festering Mummy,B,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Fetid Pools,,Amonkhet,R,$10.99,$2.85,$1.75,2017-07-08 02:08:07.620378
+Final Reward,4B,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Flameblade Adept,R,Amonkhet,U,$1.44,$0.23,$0.03,2017-07-08 02:08:07.620378
+Fling,1R,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Floodwaters,4UU,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Forest,,Amonkhet,L,$0.99,$0.24,$0.06,2017-07-08 02:08:07.620378
+Forest (268),,Amonkhet,L,$0.99,$0.10,$0.02,2017-07-08 02:08:07.620378
+Forest (269),,Amonkhet,L,$0.99,$0.15,$0.01,2017-07-08 02:08:07.620378
+Forest (Full Art 254),,Amonkhet,L,$2.99,$0.38,$0.10,2017-07-08 02:08:07.620378
+Forsake the Worldly,2W,Amonkhet,C,$1.13,$0.14,$0.01,2017-07-08 02:08:07.620378
+Forsaken Sanctuary,,Amonkhet,C,,$0.15,,2017-07-08 02:08:07.620378
+Foul Orchard,,Amonkhet,C,$0.59,$0.15,$0.03,2017-07-08 02:08:07.620378
+Galestrike,2U,Amonkhet,U,$1.16,$0.16,$0.01,2017-07-08 02:08:07.620378
+Gate to the Afterlife,3,Amonkhet,U,$1.44,$0.15,$0.02,2017-07-08 02:08:07.620378
+Giant Spider,3G,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Gideon of the Trials,1WW,Amonkhet,M,$29.89,$10.93,$7.00,2017-07-08 02:08:07.620378
+Gideon's Intervention,2WW,Amonkhet,R,$5.00,$0.31,$0.09,2017-07-08 02:08:07.620378
+Gideon's Resolve,4W,Amonkhet,R,$4.99,$0.44,$0.08,2017-07-08 02:08:07.620378
+"Gideon, Martial Paragon",4W,Amonkhet,M,$14.99,$5.49,$4.26,2017-07-08 02:08:07.620378
+Gift of Paradise,2G,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Glorious End,2R,Amonkhet,M,$7.50,$1.02,$0.55,2017-07-08 02:08:07.620378
+Glory-Bound Initiate,1W,Amonkhet,R,$4.99,$1.45,$0.50,2017-07-08 02:08:07.620378
+Glorybringer,3RR,Amonkhet,R,$15.00,$4.74,$3.00,2017-07-08 02:08:07.620378
+Glyph Keeper,3UU,Amonkhet,R,$8.99,$0.29,$0.09,2017-07-08 02:08:07.620378
+Glyph Keeper // Warrior Double-sided Token,,Amonkhet,T,$0.59,$0.32,$0.15,2017-07-08 02:08:07.620378
+Glyph Keeper Token,,Amonkhet,T,$0.99,$0.31,$0.20,2017-07-08 02:08:07.620378
+Graceful Cat,2W,Amonkhet,C,$0.95,$0.16,$0.08,2017-07-08 02:08:07.620378
+Grasping Dunes,,Amonkhet,U,$1.44,$0.17,$0.01,2017-07-08 02:08:07.620378
+Gravedigger,3B,Amonkhet,U,$1.44,$0.20,$0.01,2017-07-08 02:08:07.620378
+Greater Sandwurm,5GG,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Grim Strider,3B,Amonkhet,U,$1.44,$0.16,$0.01,2017-07-08 02:08:07.620378
+Gust Walker,1W,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Hapatra's Mark,G,Amonkhet,U,$1.44,$0.15,$0.01,2017-07-08 02:08:07.620378
+"Hapatra, Vizier of Poisons",BG,Amonkhet,R,$4.99,$0.89,$0.25,2017-07-08 02:08:07.620378
+Harsh Mentor,1R,Amonkhet,R,$12.99,$1.50,$0.57,2017-07-08 02:08:07.620378
+Harvest Season,2G,Amonkhet,R,$2.33,$0.47,$0.10,2017-07-08 02:08:07.620378
+Haze of Pollen,1G,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Hazoret the Fervent,3R,Amonkhet,M,$19.99,$6.00,$3.99,2017-07-08 02:08:07.620378
+Hazoret's Favor,2R,Amonkhet,R,$3.75,$0.25,$0.08,2017-07-08 02:08:07.620378
+Hazoret's Monument,3,Amonkhet,U,$1.44,$0.14,$0.01,2017-07-08 02:08:07.620378
+Heart-Piercer Manticore,2RR,Amonkhet,R,$4.00,$0.28,$0.05,2017-07-08 02:08:07.620378
+Heart-Piercer Manticore // Warrior Double-sided Token,,Amonkhet,T,$0.98,$0.70,$0.24,2017-07-08 02:08:07.620378
+Heart-Piercer Manticore Token,,Amonkhet,T,$0.99,$0.14,$0.08,2017-07-08 02:08:07.620378
+Heaven // Earth,XG/XRR,Amonkhet,R,$1.99,$0.25,$0.05,2017-07-08 02:08:07.620378
+Hekma Sentinels,2U,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Hieroglyphic Illumination,3U,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Highland Lake,,Amonkhet,C,$0.35,$0.19,$0.08,2017-07-08 02:08:07.620378
+Hippo Token,,Amonkhet,T,$1.99,$0.55,$0.25,2017-07-08 02:08:07.620378
+Honed Khopesh,1,Amonkhet,C,$1.11,$0.12,$0.01,2017-07-08 02:08:07.620378
+Honored Crop-Captain,RW,Amonkhet,U,$2.50,$0.14,$0.01,2017-07-08 02:08:07.620378
+Honored Hydra,5G,Amonkhet,R,$4.99,$0.39,$0.10,2017-07-08 02:08:07.620378
+Honored Hydra // Warrior Double-sided Token,,Amonkhet,T,$0.59,$0.38,$0.15,2017-07-08 02:08:07.620378
+Honored Hydra Token,,Amonkhet,T,$0.98,$0.26,$0.14,2017-07-08 02:08:07.620378
+Hooded Brawler,2G,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Horror of the Broken Lands,4B,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Hyena Pack,2RR,Amonkhet,C,$1.16,$0.15,$0.01,2017-07-08 02:08:07.620378
+Illusory Wrappings,2U,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Impeccable Timing,1W,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+In Oketra's Name,1W,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Initiate's Companion,1G,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Insect Token,,Amonkhet,T,$0.45,$0.12,$0.06,2017-07-08 02:08:07.620378
+Insult // Injury,2R/2R,Amonkhet,R,$4.25,$0.49,$0.10,2017-07-08 02:08:07.620378
+Irrigated Farmland,,Amonkhet,R,$11.50,$3.79,$2.50,2017-07-08 02:08:07.620378
+Island,,Amonkhet,L,$0.99,$0.20,$0.05,2017-07-08 02:08:07.620378
+Island (259),,Amonkhet,L,$0.99,$0.13,$0.01,2017-07-08 02:08:07.620378
+Island (260),,Amonkhet,L,$0.99,$0.15,$0.02,2017-07-08 02:08:07.620378
+Island (Full Art 251),,Amonkhet,L,$2.99,$0.40,$0.19,2017-07-08 02:08:07.620378
+Kefnet the Mindful,2U,Amonkhet,M,$9.99,$3.82,$2.30,2017-07-08 02:08:07.620378
+Kefnet's Monument,3,Amonkhet,U,$1.44,$0.15,$0.02,2017-07-08 02:08:07.620378
+Khenra Charioteer,1RG,Amonkhet,U,$1.13,$0.14,$0.01,2017-07-08 02:08:07.620378
+Labyrinth Guardian,1U,Amonkhet,U,$1.44,$0.17,$0.01,2017-07-08 02:08:07.620378
+Labyrinth Guardian // Insect Double-sided Token,,Amonkhet,T,$0.59,$0.32,$0.15,2017-07-08 02:08:07.620378
+Labyrinth Guardian Token,,Amonkhet,T,$0.99,$0.10,$0.04,2017-07-08 02:08:07.620378
+Lay Bare the Heart,1B,Amonkhet,U,$1.44,$0.25,$0.05,2017-07-08 02:08:07.620378
+Lay Claim,5UU,Amonkhet,U,$1.19,$0.18,$0.01,2017-07-08 02:08:07.620378
+Liliana's Influence,4BB,Amonkhet,R,$3.99,$0.45,$0.15,2017-07-08 02:08:07.620378
+Liliana's Mastery,3BB,Amonkhet,R,$4.98,$1.79,$0.75,2017-07-08 02:08:07.620378
+"Liliana, Death Wielder",5BB,Amonkhet,M,$14.99,$6.02,$4.51,2017-07-08 02:08:07.620378
+"Liliana, Death's Majesty",3BB,Amonkhet,M,$22.99,$10.93,$7.95,2017-07-08 02:08:07.620378
+Limits of Solidarity,3R,Amonkhet,U,$1.44,$0.17,$0.01,2017-07-08 02:08:07.620378
+Lord of the Accursed,2B,Amonkhet,U,$2.99,$1.26,$0.21,2017-07-08 02:08:07.620378
+Luxa River Shrine,3,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Magma Spray,R,Amonkhet,C,$1.14,$0.15,$0.02,2017-07-08 02:08:07.620378
+Manglehorn,2G,Amonkhet,U,$1.55,$0.40,$0.15,2017-07-08 02:08:07.620378
+Manticore of the Gauntlet,4R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Meandering River,,Amonkhet,C,$0.25,$0.24,$0.08,2017-07-08 02:08:07.620378
+Merciless Javelineer,2BR,Amonkhet,U,$1.19,$0.18,$0.01,2017-07-08 02:08:07.620378
+Miasmic Mummy,1B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Mighty Leap,1W,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Minotaur Sureshot,2R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Mountain,,Amonkhet,L,$0.99,$0.25,$0.05,2017-07-08 02:08:07.620378
+Mountain (265),,Amonkhet,L,$0.99,$0.10,$0.01,2017-07-08 02:08:07.620378
+Mountain (266),,Amonkhet,L,$0.99,$0.13,$0.01,2017-07-08 02:08:07.620378
+Mountain (Full Art 253),,Amonkhet,L,$2.99,$0.35,$0.19,2017-07-08 02:08:07.620378
+Mouth // Feed,2G/3G,Amonkhet,R,$4.60,$0.26,$0.08,2017-07-08 02:08:07.620378
+Naga Oracle,3U,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Naga Vitalist,1G,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Nef-Crop Entangler,1R,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+"Neheb, the Worthy",1BR,Amonkhet,R,$4.00,$0.31,$0.10,2017-07-08 02:08:07.620378
+Nest of Scarabs,2B,Amonkhet,U,$1.44,$0.20,$0.07,2017-07-08 02:08:07.620378
+Never // Return,1BB/3B,Amonkhet,R,$5.00,$1.76,$0.75,2017-07-08 02:08:07.620378
+New Perspectives,5U,Amonkhet,R,$5.99,$0.50,$0.21,2017-07-08 02:08:07.620378
+Nimble-Blade Khenra,1R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+"Nissa, Steward of Elements",XGU,Amonkhet,M,$24.31,$7.77,$5.93,2017-07-08 02:08:07.620378
+Oashra Cultivator,G,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Oketra the True,3W,Amonkhet,M,$12.99,$2.96,$1.98,2017-07-08 02:08:07.620378
+Oketra's Attendant,3WW,Amonkhet,U,$1.16,$0.17,$0.01,2017-07-08 02:08:07.620378
+Oketra's Attendant // Beast Double-sided Token,,Amonkhet,T,$0.59,$0.30,$0.15,2017-07-08 02:08:07.620378
+Oketra's Attendant Token,,Amonkhet,T,$0.99,$0.17,$0.02,2017-07-08 02:08:07.620378
+Oketra's Monument,3,Amonkhet,U,$1.44,$0.19,$0.05,2017-07-08 02:08:07.620378
+Onward // Victory,2R/2W,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Open into Wonder,XUU,Amonkhet,U,$1.44,$0.15,$0.01,2017-07-08 02:08:07.620378
+Oracle's Vault,4,Amonkhet,R,$9.99,$0.32,$0.09,2017-07-08 02:08:07.620378
+Ornery Kudu,2G,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Painful Lesson,2B,Amonkhet,C,$1.12,$0.12,$0.01,2017-07-08 02:08:07.620378
+Painted Bluffs,,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Pathmaker Initiate,1R,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Pitiless Vizier,3B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Plague Belcher,2B,Amonkhet,R,$5.50,$1.60,$0.50,2017-07-08 02:08:07.620378
+Plains,,Amonkhet,L,$0.65,$0.20,$0.05,2017-07-08 02:08:07.620378
+Plains (256),,Amonkhet,L,$0.94,$0.13,$0.02,2017-07-08 02:08:07.620378
+Plains (257),,Amonkhet,L,$0.65,$0.13,$0.02,2017-07-08 02:08:07.620378
+Plains (Full Art 250),,Amonkhet,L,$2.99,$0.34,$0.09,2017-07-08 02:08:07.620378
+Pouncing Cheetah,2G,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Prepare // Fight,1W/3G,Amonkhet,R,$4.00,$0.29,$0.08,2017-07-08 02:08:07.620378
+Protection of the Hekma,4W,Amonkhet,U,$1.44,$0.20,$0.01,2017-07-08 02:08:07.620378
+Prowling Serpopard,1GG,Amonkhet,R,$8.99,$1.68,$0.74,2017-07-08 02:08:07.620378
+Pull from Tomorrow,XUU,Amonkhet,R,$7.99,$2.76,$1.10,2017-07-08 02:08:07.620378
+Punch Card Token,,Amonkhet,T,$0.99,$0.14,$0.01,2017-07-08 02:08:07.620378
+Pursue Glory,3R,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Pyramid of the Pantheon,1,Amonkhet,R,$4.99,$0.40,$0.19,2017-07-08 02:08:07.620378
+Quarry Hauler,3G,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Rags // Riches,2BB/5UU,Amonkhet,R,$5.00,$0.23,$0.08,2017-07-08 02:08:07.620378
+Reduce // Rubble,2U/2R,Amonkhet,U,$1.44,$0.20,$0.02,2017-07-08 02:08:07.620378
+Regal Caracal,3WW,Amonkhet,R,$4.75,$0.75,$0.33,2017-07-08 02:08:07.620378
+Renewed Faith,2W,Amonkhet,U,$1.44,$0.15,$0.01,2017-07-08 02:08:07.620378
+Rhet-Crop Spearmaster,2W,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Rhonas the Indomitable,2G,Amonkhet,M,$26.99,$12.84,$10.00,2017-07-08 02:08:07.620378
+Rhonas's Monument,3,Amonkhet,U,$1.44,$0.15,$0.04,2017-07-08 02:08:07.620378
+River Serpent,5U,Amonkhet,C,$1.12,$0.12,$0.01,2017-07-08 02:08:07.620378
+Ruthless Sniper,B,Amonkhet,U,$1.44,$0.15,$0.01,2017-07-08 02:08:07.620378
+Sacred Cat,W,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Sacred Cat // Insect Double-sided Token,,Amonkhet,T,$0.50,$0.28,$0.15,2017-07-08 02:08:07.620378
+Sacred Cat Token,,Amonkhet,T,$1.10,$0.15,$0.03,2017-07-08 02:08:07.620378
+Sacred Excavation,3U,Amonkhet,U,$1.44,$0.20,$0.01,2017-07-08 02:08:07.620378
+"Samut, Voice of Dissent",3RG,Amonkhet,M,$9.99,$1.49,$0.76,2017-07-08 02:08:07.620378
+Sandwurm Convergence,6GG,Amonkhet,R,$3.99,$0.29,$0.09,2017-07-08 02:08:07.620378
+Scaled Behemoth,4GG,Amonkhet,U,$1.44,$0.21,$0.01,2017-07-08 02:08:07.620378
+Scarab Feast,B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Scattered Groves,,Amonkhet,R,$9.99,$1.96,$0.75,2017-07-08 02:08:07.620378
+Scribe of the Mindful,2U,Amonkhet,C,$1.13,$0.14,$0.01,2017-07-08 02:08:07.620378
+Seeker of Insight,1U,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Seraph of the Suns,5WW,Amonkhet,U,$1.44,$0.20,$0.01,2017-07-08 02:08:07.620378
+Shadow of the Grave,1B,Amonkhet,R,$9.99,$0.89,$0.35,2017-07-08 02:08:07.620378
+Shadowstorm Vizier,UB,Amonkhet,U,$1.16,$0.17,$0.02,2017-07-08 02:08:07.620378
+Shed Weakness,G,Amonkhet,C,$1.12,$0.13,$0.01,2017-07-08 02:08:07.620378
+Shefet Monitor,5G,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Sheltered Thicket,,Amonkhet,R,$9.99,$3.00,$1.00,2017-07-08 02:08:07.620378
+Shimmerscale Drake,4U,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Sixth Sense,G,Amonkhet,U,$0.99,$0.16,$0.03,2017-07-08 02:08:07.620378
+Slither Blade,U,Amonkhet,C,$1.13,$0.14,$0.01,2017-07-08 02:08:07.620378
+Snake Token,,Amonkhet,T,$0.99,$0.30,$0.20,2017-07-08 02:08:07.620378
+Soul-Scar Mage,R,Amonkhet,R,$70.00,$1.25,$0.66,2017-07-08 02:08:07.620378
+Soulstinger,3B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Sparring Mummy,3W,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Spidery Grasp,2G,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Splendid Agony,2B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Spring // Mind,2G/4UU,Amonkhet,U,$1.44,$0.19,$0.01,2017-07-08 02:08:07.620378
+Start // Finish,2W/2B,Amonkhet,U,$1.15,$0.16,$0.01,2017-07-08 02:08:07.620378
+Stinging Shot,G,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Stir the Sands,4BB,Amonkhet,U,$1.44,$0.19,$0.01,2017-07-08 02:08:07.620378
+Stone Quarry,,Amonkhet,C,$0.55,$0.16,$0.03,2017-07-08 02:08:07.620378
+Submerged Boneyard,,Amonkhet,C,$0.25,$0.23,$0.10,2017-07-08 02:08:07.620378
+Sunscorched Desert,,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Supernatural Stamina,B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Supply Caravan,4W,Amonkhet,C,$1.15,$0.15,$0.01,2017-07-08 02:08:07.620378
+Swamp,,Amonkhet,L,$0.99,$0.21,$0.02,2017-07-08 02:08:07.620378
+Swamp (262),,Amonkhet,L,$0.99,$0.11,$0.02,2017-07-08 02:08:07.620378
+Swamp (263),,Amonkhet,L,$0.99,$0.13,$0.01,2017-07-08 02:08:07.620378
+Swamp (Full Art 252),,Amonkhet,L,$2.99,$0.44,$0.19,2017-07-08 02:08:07.620378
+Sweltering Suns,1RR,Amonkhet,R,$8.00,$3.88,$2.46,2017-07-08 02:08:07.620378
+Synchronized Strike,2G,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Tah-Crop Elite,3W,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Tah-Crop Skirmisher,1U,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Tah-Crop Skirmisher // Cat Double-sided Token,,Amonkhet,T,$0.59,$0.33,$0.15,2017-07-08 02:08:07.620378
+Tah-Crop Skirmisher Token,,Amonkhet,T,$0.99,$0.05,$0.01,2017-07-08 02:08:07.620378
+Tattered Mummy,1B,Amonkhet,C,$1.78,$0.94,$0.33,2017-07-08 02:08:07.620378
+"Temmet, Vizier of Naktamun",WU,Amonkhet,R,$6.99,$0.29,$0.09,2017-07-08 02:08:07.620378
+"Temmet, Vizier of Naktamun // Zombie Double-sided Token",,Amonkhet,T,$0.50,$0.38,$0.15,2017-07-08 02:08:07.620378
+"Temmet, Vizier of Naktamun Token",,Amonkhet,T,$1.44,$0.36,$0.10,2017-07-08 02:08:07.620378
+Those Who Serve,2W,Amonkhet,C,$1.13,$0.13,$0.01,2017-07-08 02:08:07.620378
+Thresher Lizard,2R,Amonkhet,C,$1.15,$0.14,$0.01,2017-07-08 02:08:07.620378
+Throne of the God-Pharaoh,,Amonkhet,R,$3.49,$0.68,$0.21,2017-07-08 02:08:07.620378
+Timber Gorge,,Amonkhet,C,,$0.20,,2017-07-08 02:08:07.620378
+Time to Reflect,W,Amonkhet,U,$1.44,$0.19,$0.03,2017-07-08 02:08:07.620378
+Tormenting Voice,1R,Amonkhet,C,$1.15,$0.15,$0.01,2017-07-08 02:08:07.620378
+Tranquil Expanse,,Amonkhet,C,$0.25,$0.24,$0.08,2017-07-08 02:08:07.620378
+Trespasser's Curse,1B,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Trial of Ambition,1B,Amonkhet,U,$1.44,$0.14,$0.03,2017-07-08 02:08:07.620378
+Trial of Knowledge,3U,Amonkhet,U,$1.44,$0.18,$0.01,2017-07-08 02:08:07.620378
+Trial of Solidarity,1B,Amonkhet,U,$1.44,$0.15,$0.01,2017-07-08 02:08:07.620378
+Trial of Strength,2G,Amonkhet,U,$1.44,$0.16,$0.01,2017-07-08 02:08:07.620378
+Trial of Zeal,2R,Amonkhet,U,$1.14,$0.14,$0.02,2017-07-08 02:08:07.620378
+Trueheart Duelist,1W,Amonkhet,U,$1.44,$0.19,$0.01,2017-07-08 02:08:07.620378
+Trueheart Duelist // Snake Double-sided Token,,Amonkhet,T,$1.29,$0.80,$0.49,2017-07-08 02:08:07.620378
+Trueheart Duelist Token,,Amonkhet,T,$1.99,$0.75,$0.23,2017-07-08 02:08:07.620378
+Trueheart Twins,4R,Amonkhet,U,$1.44,$0.19,$0.01,2017-07-08 02:08:07.620378
+Unburden,1BB,Amonkhet,C,$1.14,$0.13,$0.01,2017-07-08 02:08:07.620378
+Unwavering Initiate,2W,Amonkhet,C,$1.15,$0.15,$0.01,2017-07-08 02:08:07.620378
+Unwavering Initiate // Wurm Double-sided Token,,Amonkhet,T,$0.59,$0.33,$0.15,2017-07-08 02:08:07.620378
+Unwavering Initiate Token,,Amonkhet,T,$0.99,$0.10,$0.01,2017-07-08 02:08:07.620378
+Violent Impact,3R,Amonkhet,C,$1.15,$0.15,$0.01,2017-07-08 02:08:07.620378
+Vizier of Deferment,2W,Amonkhet,U,$1.16,$0.17,$0.01,2017-07-08 02:08:07.620378
+Vizier of Many Faces,2UU,Amonkhet,R,$4.99,$0.33,$0.10,2017-07-08 02:08:07.620378
+Vizier of Many Faces // Zombie Double-sided Token,,Amonkhet,T,$0.59,$0.44,$0.15,2017-07-08 02:08:07.620378
+Vizier of Many Faces Token,,Amonkhet,T,$1.22,$0.25,$0.10,2017-07-08 02:08:07.620378
+Vizier of Remedies,1W,Amonkhet,U,$1.44,$0.42,$0.05,2017-07-08 02:08:07.620378
+Vizier of the Menagerie,3G,Amonkhet,M,$19.98,$5.14,$3.45,2017-07-08 02:08:07.620378
+Vizier of Tumbling Sands,2U,Amonkhet,U,$1.44,$0.18,$0.05,2017-07-08 02:08:07.620378
+Wander in Death,2B,Amonkhet,C,$1.14,$0.14,$0.01,2017-07-08 02:08:07.620378
+Warfire Javelineer,3R,Amonkhet,U,$1.18,$0.18,$0.01,2017-07-08 02:08:07.620378
+Warrior // Labyrinth Guardian Double-sided Token,,Amonkhet,T,$0.59,$0.40,$0.15,2017-07-08 02:08:07.620378
+Warrior Token,,Amonkhet,T,$0.59,$0.07,$0.01,2017-07-08 02:08:07.620378
+Wasteland Scorpion,2B,Amonkhet,C,$1.13,$0.14,$0.01,2017-07-08 02:08:07.620378
+Watchers of the Dead,2,Amonkhet,U,$1.44,$0.17,$0.01,2017-07-08 02:08:07.620378
+Watchful Naga,2G,Amonkhet,U,$1.44,$0.20,$0.01,2017-07-08 02:08:07.620378
+Wayward Servant,WB,Amonkhet,U,$1.94,$0.41,$0.10,2017-07-08 02:08:07.620378
+Weaver of Currents,1GU,Amonkhet,U,$0.99,$0.15,$0.03,2017-07-08 02:08:07.620378
+Winds of Rebuke,1U,Amonkhet,C,$1.12,$0.13,$0.01,2017-07-08 02:08:07.620378
+Winged Shepherd,5W,Amonkhet,C,$1.12,$0.13,$0.01,2017-07-08 02:08:07.620378
+Woodland Stream,,Amonkhet,C,$0.25,$0.23,$0.05,2017-07-08 02:08:07.620378
+Wurm Token,,Amonkhet,T,$1.07,$0.38,$0.10,2017-07-08 02:08:07.620378
+Zenith Seeker,3U,Amonkhet,U,$1.18,$0.19,$0.01,2017-07-08 02:08:07.620378
+Zombie // Trueheart Duelist Double-sided Token,,Amonkhet,T,$1.39,$0.59,$0.15,2017-07-08 02:08:07.620378
+Zombie Token,,Amonkhet,T,$0.99,$0.10,$0.01,2017-07-08 02:08:07.620378
+Aesthir Glider,3,Anthologies,S,$0.92,$0.24,$0.14,2017-07-08 02:08:14.454079
+Armageddon,3W,Anthologies,S,$6.79,$3.26,$2.25,2017-07-08 02:08:14.454079
+Armored Pegasus,1W,Anthologies,S,$0.94,$0.21,$0.10,2017-07-08 02:08:14.454079
+Benalish Knight,2W,Anthologies,S,$0.94,$0.23,$0.14,2017-07-08 02:08:14.454079
+Black Knight,BB,Anthologies,S,$1.15,$0.45,$0.09,2017-07-08 02:08:14.454079
+Brushland,,Anthologies,S,$19.98,$9.51,$6.45,2017-07-08 02:08:14.454079
+Canopy Spider,1G,Anthologies,S,$0.94,$0.19,$0.10,2017-07-08 02:08:14.454079
+Carnivorous Plant,3G,Anthologies,S,$2.50,$0.23,$0.10,2017-07-08 02:08:14.454079
+Combat Medic,2W,Anthologies,S,$0.92,$0.21,$0.09,2017-07-08 02:08:14.454079
+Cuombajj Witches,BB,Anthologies,S,$0.76,$0.39,$0.25,2017-07-08 02:08:14.454079
+Disenchant,1W,Anthologies,S,$1.44,$0.48,$0.14,2017-07-08 02:08:14.454079
+Drifting Meadow,,Anthologies,S,$1.18,$0.24,$0.14,2017-07-08 02:08:14.454079
+Erhnam Djinn,3G,Anthologies,S,$1.25,$0.30,$0.14,2017-07-08 02:08:14.454079
+Feast of the Unicorn,3B,Anthologies,S,$0.94,$0.21,$0.12,2017-07-08 02:08:14.454079
+Fireball,XR,Anthologies,S,$0.94,$0.25,$0.19,2017-07-08 02:08:14.454079
+Forest (Arena),,Anthologies,S,$0.95,$0.26,$0.12,2017-07-08 02:08:14.454079
+Forest (Portal Second Age),,Anthologies,S,$0.71,$0.32,$0.20,2017-07-08 02:08:14.454079
+Freewind Falcon,1W,Anthologies,S,$0.94,$0.23,$0.12,2017-07-08 02:08:14.454079
+Giant Growth,G,Anthologies,S,$0.59,$0.25,$0.14,2017-07-08 02:08:14.454079
+Giant Spider,3G,Anthologies,S,$0.94,$0.23,$0.12,2017-07-08 02:08:14.454079
+Goblin Balloon Brigade,R,Anthologies,S,$0.54,$0.24,$0.14,2017-07-08 02:08:14.454079
+Goblin Digging Team,R,Anthologies,S,$0.50,$0.22,$0.08,2017-07-08 02:08:14.454079
+Goblin Grenade,R,Anthologies,S,$4.39,$2.25,$1.88,2017-07-08 02:08:14.454079
+Goblin Hero,2R,Anthologies,S,$0.94,$0.21,$0.09,2017-07-08 02:08:14.454079
+Goblin King,1RR,Anthologies,S,$2.25,$1.40,$0.79,2017-07-08 02:08:14.454079
+Goblin Matron,2R,Anthologies,S,$2.25,$1.10,$0.69,2017-07-08 02:08:14.454079
+Goblin Mutant,2RR,Anthologies,S,$0.99,$0.25,$0.09,2017-07-08 02:08:14.454079
+Goblin Offensive,X1RR,Anthologies,S,$2.49,$2.00,$1.03,2017-07-08 02:08:14.454079
+Goblin Recruiter,1R,Anthologies,S,$2.85,$2.00,$0.86,2017-07-08 02:08:14.454079
+Goblin Snowman,3R,Anthologies,S,$0.98,$0.24,$0.09,2017-07-08 02:08:14.454079
+Goblin Tinkerer,1R,Anthologies,S,$1.32,$0.34,$0.14,2017-07-08 02:08:14.454079
+Goblin Vandal,R,Anthologies,S,$0.94,$0.25,$0.14,2017-07-08 02:08:14.454079
+Goblin Warrens,2R,Anthologies,S,$2.24,$1.02,$0.69,2017-07-08 02:08:14.454079
+Gorilla Chieftain,2GG,Anthologies,S,$0.94,$0.20,$0.11,2017-07-08 02:08:14.454079
+Hurricane,XG,Anthologies,S,$0.94,$0.26,$0.18,2017-07-08 02:08:14.454079
+Hymn to Tourach,BB,Anthologies,S,$3.99,$2.33,$1.49,2017-07-08 02:08:14.454079
+Hypnotic Specter,1BB,Anthologies,S,$2.48,$1.32,$0.89,2017-07-08 02:08:14.454079
+Icatian Javelineers,W,Anthologies,S,$0.94,$0.25,$0.19,2017-07-08 02:08:14.454079
+Ihsan's Shade,3BBB,Anthologies,S,$1.07,$0.30,$0.20,2017-07-08 02:08:14.454079
+Infantry Veteran,W,Anthologies,S,$0.32,$0.23,$0.14,2017-07-08 02:08:14.454079
+Jalum Tome,3,Anthologies,S,$0.71,$0.30,$0.17,2017-07-08 02:08:14.454079
+Knight of Stromgald,BB,Anthologies,S,$1.03,$0.30,$0.14,2017-07-08 02:08:14.454079
+Lady Orca,5BR,Anthologies,S,$2.33,$0.33,$0.14,2017-07-08 02:08:14.454079
+Lightning Bolt,R,Anthologies,S,$7.99,$4.08,$3.09,2017-07-08 02:08:14.454079
+Llanowar Elves,G,Anthologies,S,$1.44,$0.32,$0.20,2017-07-08 02:08:14.454079
+"Mirri, Cat Warrior",1GG,Anthologies,S,$1.85,$0.80,$0.50,2017-07-08 02:08:14.454079
+Mogg Fanatic,R,Anthologies,S,$1.64,$0.75,$0.35,2017-07-08 02:08:14.454079
+Mogg Flunkies,1R,Anthologies,S,$0.94,$0.27,$0.09,2017-07-08 02:08:14.454079
+Mogg Raider,R,Anthologies,S,$1.15,$0.25,$0.23,2017-07-08 02:08:14.454079
+Mountain (Arabian Nights),,Anthologies,S,$2.96,$1.46,$0.47,2017-07-08 02:08:14.454079
+Mountain (Mirage),,Anthologies,S,$0.87,$0.30,$0.19,2017-07-08 02:08:14.454079
+Nevinyrral's Disk,4,Anthologies,S,$4.55,$1.81,$0.99,2017-07-08 02:08:14.454079
+Order of the White Shield,WW,Anthologies,S,$0.94,$0.25,$0.14,2017-07-08 02:08:14.454079
+Overrun,2GGG,Anthologies,S,$1.33,$0.68,$0.26,2017-07-08 02:08:14.454079
+Pacifism,1W,Anthologies,S,$0.49,$0.24,$0.14,2017-07-08 02:08:14.454079
+Pegasus Charger,2W,Anthologies,S,$0.94,$0.22,$0.14,2017-07-08 02:08:14.454079
+Pegasus Stampede,1W,Anthologies,S,$0.94,$0.24,$0.15,2017-07-08 02:08:14.454079
+Pendelhaven,,Anthologies,S,$15.40,$12.15,$8.10,2017-07-08 02:08:14.454079
+Plains (Mirage),,Anthologies,S,$0.95,$0.50,$0.26,2017-07-08 02:08:14.454079
+Plains (Portal),,Anthologies,S,$0.86,$0.42,$0.23,2017-07-08 02:08:14.454079
+Polluted Mire,,Anthologies,S,$1.21,$0.25,$0.13,2017-07-08 02:08:14.454079
+Pyrokinesis,4RR,Anthologies,S,$2.00,$0.77,$0.29,2017-07-08 02:08:14.454079
+Pyrotechnics,4R,Anthologies,S,$0.94,$0.25,$0.12,2017-07-08 02:08:14.454079
+Raging Goblin,R,Anthologies,S,$0.94,$0.24,$0.14,2017-07-08 02:08:14.454079
+Ranger en-Vec,1WG,Anthologies,S,$2.50,$0.24,$0.13,2017-07-08 02:08:14.454079
+Sacred Mesa,2W,Anthologies,S,$1.21,$0.48,$0.23,2017-07-08 02:08:14.454079
+Samite Healer,1W,Anthologies,S,$0.94,$0.22,$0.14,2017-07-08 02:08:14.454079
+Scavenger Folk,G,Anthologies,S,$0.51,$0.24,$0.14,2017-07-08 02:08:14.454079
+Serra Angel,3WW,Anthologies,S,$1.51,$0.38,$0.15,2017-07-08 02:08:14.454079
+Serrated Arrows,4,Anthologies,S,$1.05,$0.35,$0.29,2017-07-08 02:08:14.454079
+Slippery Karst,,Anthologies,S,$1.27,$0.29,$0.14,2017-07-08 02:08:14.454079
+Smoldering Crater,,Anthologies,S,$1.20,$0.24,$0.13,2017-07-08 02:08:14.454079
+Spectral Bears,1G,Anthologies,S,$0.50,$0.22,$0.15,2017-07-08 02:08:14.454079
+Strip Mine,,Anthologies,S,$11.99,$9.92,$8.05,2017-07-08 02:08:14.454079
+Swamp (Ice Age),,Anthologies,S,$1.00,$0.39,$0.14,2017-07-08 02:08:14.454079
+Swamp (Tempest),,Anthologies,S,$0.74,$0.33,$0.14,2017-07-08 02:08:14.454079
+Swords to Plowshares,W,Anthologies,S,$3.99,$2.43,$1.64,2017-07-08 02:08:14.454079
+Terror,1B,Anthologies,S,$1.52,$0.39,$0.30,2017-07-08 02:08:14.454079
+Unholy Strength,B,Anthologies,S,$0.94,$0.25,$0.14,2017-07-08 02:08:14.454079
+Uthden Troll,2R,Anthologies,S,$0.94,$0.24,$0.15,2017-07-08 02:08:14.454079
+Volcanic Dragon,4RR,Anthologies,S,$1.14,$0.44,$0.13,2017-07-08 02:08:14.454079
+Warrior's Honor,2W,Anthologies,S,$0.94,$0.20,$0.14,2017-07-08 02:08:14.454079
+White Knight,WW,Anthologies,S,$1.03,$0.35,$0.18,2017-07-08 02:08:14.454079
+Woolly Spider,1GG,Anthologies,S,$0.94,$0.21,$0.09,2017-07-08 02:08:14.454079
+Youthful Knight,1W,Anthologies,S,$0.92,$0.23,$0.14,2017-07-08 02:08:14.454079
+Amulet of Kroog,2,Antiquities,C,$1.17,$0.19,$0.01,2017-07-08 02:08:20.137233
+Argivian Archaeologist,1WW,Antiquities,R,$45.21,$37.29,$25.64,2017-07-08 02:08:20.137233
+Argivian Blacksmith,1WW,Antiquities,C,$0.95,$0.21,$0.06,2017-07-08 02:08:20.137233
+Argothian Pixies,1G,Antiquities,C,$1.00,$0.21,$0.09,2017-07-08 02:08:20.137233
+Argothian Treefolk,3GG,Antiquities,C,$1.00,$0.22,$0.10,2017-07-08 02:08:20.137233
+Armageddon Clock,6,Antiquities,U,$2.98,$0.92,$0.54,2017-07-08 02:08:20.137233
+Artifact Blast,R,Antiquities,C,$1.00,$0.25,$0.10,2017-07-08 02:08:20.137233
+Artifact Possession,2B,Antiquities,C,$1.18,$0.21,$0.10,2017-07-08 02:08:20.137233
+Artifact Ward,W,Antiquities,C,$1.00,$0.21,$0.10,2017-07-08 02:08:20.137233
+Ashnod's Altar,3,Antiquities,U,$19.99,$10.43,$5.15,2017-07-08 02:08:20.137233
+Ashnod's Battle Gear,2,Antiquities,U,$2.00,$0.42,$0.22,2017-07-08 02:08:20.137233
+Ashnod's Transmogrant,1,Antiquities,U,$1.79,$0.41,$0.25,2017-07-08 02:08:20.137233
+Atog,1R,Antiquities,C,$1.97,$0.50,$0.21,2017-07-08 02:08:20.137233
+Battering Ram,2,Antiquities,C,$1.17,$0.19,$0.08,2017-07-08 02:08:20.137233
+Bronze Tablet,6,Antiquities,R,$5.00,$1.30,$0.91,2017-07-08 02:08:20.137233
+Candelabra of Tawnos,1,Antiquities,R,$835.00,$467.77,$380.00,2017-07-08 02:08:20.137233
+Circle of Protection: Artifacts,1W,Antiquities,U,$5.99,$3.43,$1.00,2017-07-08 02:08:20.137233
+Citanul Druid,1G,Antiquities,U,$10.20,$5.67,$3.29,2017-07-08 02:08:20.137233
+Clay Statue,4,Antiquities,C,$1.00,$0.20,$0.10,2017-07-08 02:08:20.137233
+Clockwork Avian,5,Antiquities,R,$8.00,$1.89,$1.30,2017-07-08 02:08:20.137233
+Colossus of Sardia,9,Antiquities,R,$15.00,$14.24,$7.00,2017-07-08 02:08:20.137233
+Coral Helm,3,Antiquities,R,$2.85,$0.95,$0.62,2017-07-08 02:08:20.137233
+Crumble,G,Antiquities,C,$1.00,$0.21,$0.09,2017-07-08 02:08:20.137233
+Cursed Rack,4,Antiquities,U,$3.50,$0.64,$0.42,2017-07-08 02:08:20.137233
+Damping Field,2W,Antiquities,U,$3.00,$0.94,$0.57,2017-07-08 02:08:20.137233
+Detonate,XR,Antiquities,U,$1.43,$0.53,$0.23,2017-07-08 02:08:20.137233
+Drafna's Restoration,U,Antiquities,C,$1.18,$0.24,$0.10,2017-07-08 02:08:20.137233
+Dragon Engine,3,Antiquities,C,$1.00,$0.21,$0.11,2017-07-08 02:08:20.137233
+Dwarven Weaponsmith,1R,Antiquities,U,$1.05,$0.36,$0.23,2017-07-08 02:08:20.137233
+Energy Flux,2U,Antiquities,U,$5.99,$1.97,$1.35,2017-07-08 02:08:20.137233
+Feldon's Cane,1,Antiquities,U,$7.00,$2.00,$1.25,2017-07-08 02:08:20.137233
+Gaea's Avenger,1GG,Antiquities,R,$24.98,$14.95,$9.75,2017-07-08 02:08:20.137233
+Gate to Phyrexia,BB,Antiquities,U,$17.99,$10.86,$9.00,2017-07-08 02:08:20.137233
+Goblin Artisans,R,Antiquities,U,$1.09,$0.40,$0.19,2017-07-08 02:08:20.137233
+Golgothian Sylex,4,Antiquities,R,$44.50,$9.01,$2.84,2017-07-08 02:08:20.137233
+Grapeshot Catapult,4,Antiquities,C,$1.00,$0.19,$0.06,2017-07-08 02:08:20.137233
+Haunting Wind,3B,Antiquities,U,$5.00,$1.07,$0.24,2017-07-08 02:08:20.137233
+Hurkyl's Recall,1U,Antiquities,R,$65.00,$35.05,$27.93,2017-07-08 02:08:20.137233
+Ivory Tower,1,Antiquities,U,$8.10,$5.49,$4.23,2017-07-08 02:08:20.137233
+Jalum Tome,3,Antiquities,U,$24.99,$1.94,$0.98,2017-07-08 02:08:20.137233
+Martyrs of Korlis,3WW,Antiquities,U,$2.99,$0.48,$0.24,2017-07-08 02:08:20.137233
+Mightstone,4,Antiquities,U,$2.99,$0.60,$0.43,2017-07-08 02:08:20.137233
+Millstone,2,Antiquities,U,$5.50,$2.24,$1.51,2017-07-08 02:08:20.137233
+Mishra's Factory (Fall),,Antiquities,R,$39.98,$27.49,$20.85,2017-07-08 02:08:20.137233
+Mishra's Factory (Spring),,Antiquities,R,$24.94,$16.49,$11.32,2017-07-08 02:08:20.137233
+Mishra's Factory (Summer),,Antiquities,R,$39.99,$30.55,$26.71,2017-07-08 02:08:20.137233
+Mishra's Factory (Winter),,Antiquities,U,$129.99,$96.50,$94.00,2017-07-08 02:08:20.137233
+Mishra's War Machine,7,Antiquities,R,$2.95,$1.07,$0.86,2017-07-08 02:08:20.137233
+Mishra's Workshop,,Antiquities,R,"$1,500.00",$999.95,$799.99,2017-07-08 02:08:20.137233
+Obelisk of Undoing,1,Antiquities,R,$2.99,$1.32,$0.94,2017-07-08 02:08:20.137233
+Onulet,3,Antiquities,U,$1.07,$0.39,$0.23,2017-07-08 02:08:20.137233
+Orcish Mechanics,2R,Antiquities,C,$1.18,$0.20,$0.08,2017-07-08 02:08:20.137233
+Ornithopter,0,Antiquities,C,$3.85,$1.96,$1.00,2017-07-08 02:08:20.137233
+Phyrexian Gremlins,2B,Antiquities,C,$1.99,$0.21,$0.10,2017-07-08 02:08:20.137233
+Power Artifact,UU,Antiquities,U,$140.00,$77.77,$59.19,2017-07-08 02:08:20.137233
+Powerleech,GG,Antiquities,U,$4.18,$1.06,$0.48,2017-07-08 02:08:20.137233
+Priest of Yawgmoth,1B,Antiquities,C,$1.00,$0.23,$0.13,2017-07-08 02:08:20.137233
+Primal Clay,4,Antiquities,U,$2.00,$0.41,$0.30,2017-07-08 02:08:20.137233
+Rakalite,6,Antiquities,U,$1.05,$0.35,$0.16,2017-07-08 02:08:20.137233
+Reconstruction,U,Antiquities,C,$1.00,$0.22,$0.12,2017-07-08 02:08:20.137233
+Reverse Polarity,WW,Antiquities,C,$1.00,$0.18,$0.07,2017-07-08 02:08:20.137233
+Rocket Launcher,4,Antiquities,U,$2.00,$0.70,$0.53,2017-07-08 02:08:20.137233
+RWN Testing,,Antiquities,C,,,,2017-07-08 02:08:20.137233
+Sage of Lat-Nam,1U,Antiquities,C,$1.18,$0.23,$0.11,2017-07-08 02:08:20.137233
+Shapeshifter,6,Antiquities,R,$6.00,$1.75,$1.37,2017-07-08 02:08:20.137233
+Shatterstorm,2RR,Antiquities,R,$24.98,$16.26,$12.50,2017-07-08 02:08:20.137233
+Staff of Zegon,4,Antiquities,C,$1.18,$0.20,$0.06,2017-07-08 02:08:20.137233
+Strip Mine (Even Horizon),,Antiquities,R,$29.98,$20.51,$13.08,2017-07-08 02:08:20.137233
+Strip Mine (No Horizon),,Antiquities,R,$19.98,$12.60,$11.14,2017-07-08 02:08:20.137233
+Strip Mine (Tower),,Antiquities,U,$28.49,$19.76,$16.20,2017-07-08 02:08:20.137233
+Strip Mine (Uneven Horizon),,Antiquities,R,$29.99,$26.99,$13.70,2017-07-08 02:08:20.137233
+Su-Chi,4,Antiquities,U,$29.99,$16.41,$11.45,2017-07-08 02:08:20.137233
+Tablet of Epityr,1,Antiquities,C,$1.37,$0.19,$0.06,2017-07-08 02:08:20.137233
+Tawnos's Coffin,4,Antiquities,R,$74.50,$43.89,$37.50,2017-07-08 02:08:20.137233
+Tawnos's Wand,4,Antiquities,U,$1.35,$0.38,$0.20,2017-07-08 02:08:20.137233
+Tawnos's Weaponry,2,Antiquities,U,$1.03,$0.33,$0.19,2017-07-08 02:08:20.137233
+Tetravus,6,Antiquities,R,$37.50,$15.97,$13.00,2017-07-08 02:08:20.137233
+The Rack,1,Antiquities,U,$12.00,$7.07,$3.70,2017-07-08 02:08:20.137233
+Titania's Song,3G,Antiquities,U,$1.35,$0.45,$0.23,2017-07-08 02:08:20.137233
+Transmute Artifact,UU,Antiquities,U,$89.95,$66.98,$55.55,2017-07-08 02:08:20.137233
+Triskelion,6,Antiquities,R,$59.99,$41.80,$32.99,2017-07-08 02:08:20.137233
+Urza's Avenger,6,Antiquities,R,$5.98,$2.54,$2.01,2017-07-08 02:08:20.137233
+Urza's Chalice,1,Antiquities,C,$1.35,$0.21,$0.10,2017-07-08 02:08:20.137233
+Urza's Mine (Clawed Sphere),,Antiquities,C,$7.99,$4.59,$3.37,2017-07-08 02:08:20.137233
+Urza's Mine (Mouth),,Antiquities,U,$13.99,$5.25,$4.48,2017-07-08 02:08:20.137233
+Urza's Mine (Pulley),,Antiquities,C,$9.99,$5.01,$4.47,2017-07-08 02:08:20.137233
+Urza's Mine (Tower),,Antiquities,U,$9.33,$3.19,$1.97,2017-07-08 02:08:20.137233
+Urza's Miter,3,Antiquities,R,$35.48,$10.99,$6.54,2017-07-08 02:08:20.137233
+Urza's Power Plant (Bug),,Antiquities,U,$7.97,$3.75,$2.74,2017-07-08 02:08:20.137233
+Urza's Power Plant (Columns),,Antiquities,C,$10.45,$5.49,$4.49,2017-07-08 02:08:20.137233
+Urza's Power Plant (Rock in Pot),,Antiquities,U,$9.90,$4.49,$2.91,2017-07-08 02:08:20.137233
+Urza's Power Plant (Sphere),,Antiquities,C,$7.26,$3.55,$2.20,2017-07-08 02:08:20.137233
+Urza's Tower (Forest),,Antiquities,U,$9.15,$5.79,$4.48,2017-07-08 02:08:20.137233
+Urza's Tower (Mountains),,Antiquities,U,$10.49,$4.75,$4.15,2017-07-08 02:08:20.137233
+Urza's Tower (Plains),,Antiquities,C,$13.99,$5.79,$4.58,2017-07-08 02:08:20.137233
+Urza's Tower (Shore),,Antiquities,U,$9.99,$8.67,$6.72,2017-07-08 02:08:20.137233
+Wall of Spears,3,Antiquities,U,$1.00,$0.38,$0.23,2017-07-08 02:08:20.137233
+Weakstone,4,Antiquities,U,$3.00,$0.54,$0.24,2017-07-08 02:08:20.137233
+Xenic Poltergeist,1BB,Antiquities,U,$2.00,$0.39,$0.25,2017-07-08 02:08:20.137233
+Yawgmoth Demon,4BB,Antiquities,R,$7.50,$2.54,$1.88,2017-07-08 02:08:20.137233
+Yotian Soldier,3,Antiquities,C,$1.63,$0.21,$0.09,2017-07-08 02:08:20.137233
+Forest - Blue Pack (Rush),,APAC Lands,P,$6.49,$5.71,$4.70,2017-07-08 02:08:25.921511
+"Forest - Clear Pack (Beard, Jr.)",,APAC Lands,P,$14.01,$13.10,$12.18,2017-07-08 02:08:25.921511
+Forest - Red Pack (Venters),,APAC Lands,P,$20.02,$5.36,$4.12,2017-07-08 02:08:25.921511
+Island - Blue Pack (Eggleton),,APAC Lands,P,$20.02,$16.24,$13.95,2017-07-08 02:08:25.921511
+Island - Clear Pack (Alexander),,APAC Lands,P,$20.02,$7.60,$5.49,2017-07-08 02:08:25.921511
+"Island - Red Pack (Beard, Jr.)",,APAC Lands,P,$21.99,$18.49,$16.10,2017-07-08 02:08:25.921511
+Mountain - Blue Pack (Guay),,APAC Lands,P,$12.77,$9.95,$8.79,2017-07-08 02:08:25.921511
+"Mountain - Clear Pack (Beard, Jr.)",,APAC Lands,P,$38.00,$36.20,$34.00,2017-07-08 02:08:25.921511
+Mountain - Red Pack (Hudson),,APAC Lands,P,$13.46,$12.01,$9.66,2017-07-08 02:08:25.921511
+Plains - Blue Pack (MacNeil),,APAC Lands,P,$19.99,$14.99,$13.18,2017-07-08 02:08:25.921511
+Plains - Clear Pack (Guay),,APAC Lands,P,$23.01,$21.50,$19.99,2017-07-08 02:08:25.921511
+Plains - Red Pack (Spears),,APAC Lands,P,$31.01,$30.00,$25.65,2017-07-08 02:08:25.921511
+Swamp - Blue Pack (Spears),,APAC Lands,P,,$34.99,,2017-07-08 02:08:25.921511
+Swamp - Clear Pack (Spears),,APAC Lands,P,$10.02,$6.99,$4.35,2017-07-08 02:08:25.921511
+"Swamp - Red Pack (Beard, Jr.)",,APAC Lands,P,$28.64,$14.99,$7.69,2017-07-08 02:08:25.921511
+Aether Mutation,3GU,Apocalypse,U,$1.24,$0.25,$0.13,2017-07-08 02:08:31.270309
+Ana Disciple,G,Apocalypse,C,$1.15,$0.16,$0.04,2017-07-08 02:08:31.270309
+Ana Sanctuary,2G,Apocalypse,U,$1.16,$0.18,$0.07,2017-07-08 02:08:31.270309
+Anavolver,3G,Apocalypse,R,$1.28,$0.30,$0.10,2017-07-08 02:08:31.270309
+Angelfire Crusader,3W,Apocalypse,C,$1.16,$0.16,$0.02,2017-07-08 02:08:31.270309
+Battlefield Forge,,Apocalypse,R,$7.98,$2.22,$0.93,2017-07-08 02:08:31.270309
+Bloodfire Colossus,6RR,Apocalypse,R,$1.28,$0.30,$0.14,2017-07-08 02:08:31.270309
+Bloodfire Dwarf,R,Apocalypse,C,$1.37,$0.15,$0.05,2017-07-08 02:08:31.270309
+Bloodfire Infusion,2R,Apocalypse,C,$1.16,$0.16,$0.04,2017-07-08 02:08:31.270309
+Bloodfire Kavu,2RR,Apocalypse,U,$1.18,$0.19,$0.06,2017-07-08 02:08:31.270309
+Bog Gnarr,4G,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Brass Herald,6,Apocalypse,U,$1.23,$0.25,$0.14,2017-07-08 02:08:31.270309
+Captain's Maneuver,XRW,Apocalypse,U,$1.17,$0.18,$0.05,2017-07-08 02:08:31.270309
+Caves of Koilos,,Apocalypse,R,$4.98,$2.76,$0.89,2017-07-08 02:08:31.270309
+Ceta Disciple,U,Apocalypse,C,$1.16,$0.16,$0.04,2017-07-08 02:08:31.270309
+Ceta Sanctuary,2U,Apocalypse,U,$1.19,$0.21,$0.05,2017-07-08 02:08:31.270309
+Cetavolver,1U,Apocalypse,R,$1.29,$0.29,$0.10,2017-07-08 02:08:31.270309
+Coalition Flag,W,Apocalypse,U,$0.98,$0.17,$0.07,2017-07-08 02:08:31.270309
+Coalition Honor Guard,3W,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Coastal Drake,2U,Apocalypse,C,$1.15,$0.15,$0.03,2017-07-08 02:08:31.270309
+Consume Strength,1BG,Apocalypse,C,$0.94,$0.16,$0.05,2017-07-08 02:08:31.270309
+Cromat,WUBRG,Apocalypse,R,$3.63,$2.49,$1.15,2017-07-08 02:08:31.270309
+Dead Ringers,4B,Apocalypse,C,$1.16,$0.16,$0.04,2017-07-08 02:08:31.270309
+Death Grasp,XWB,Apocalypse,R,$1.99,$0.47,$0.19,2017-07-08 02:08:31.270309
+Death Mutation,6BG,Apocalypse,U,$1.21,$0.21,$0.06,2017-07-08 02:08:31.270309
+Dega Disciple,W,Apocalypse,C,$1.16,$0.16,$0.04,2017-07-08 02:08:31.270309
+Dega Sanctuary,2W,Apocalypse,U,$1.17,$0.18,$0.07,2017-07-08 02:08:31.270309
+Degavolver,1W,Apocalypse,R,$1.28,$0.30,$0.10,2017-07-08 02:08:31.270309
+Desolation Angel,3BB,Apocalypse,R,$2.05,$1.04,$0.71,2017-07-08 02:08:31.270309
+Desolation Giant,2RR,Apocalypse,R,$1.29,$0.30,$0.14,2017-07-08 02:08:31.270309
+Diversionary Tactics,3W,Apocalypse,U,$1.18,$0.20,$0.06,2017-07-08 02:08:31.270309
+Divine Light,W,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Dodecapod,4,Apocalypse,U,$1.18,$0.18,$0.04,2017-07-08 02:08:31.270309
+Dragon Arch,5,Apocalypse,U,$2.99,$1.84,$1.25,2017-07-08 02:08:31.270309
+Dwarven Landslide,3R,Apocalypse,C,$1.37,$0.16,$0.05,2017-07-08 02:08:31.270309
+Dwarven Patrol,2R,Apocalypse,U,$1.18,$0.19,$0.09,2017-07-08 02:08:31.270309
+Ebony Treefolk,1BG,Apocalypse,U,$1.18,$0.20,$0.07,2017-07-08 02:08:31.270309
+Emblazoned Golem,2,Apocalypse,U,$1.18,$0.19,$0.05,2017-07-08 02:08:31.270309
+Enlistment Officer,3W,Apocalypse,U,$0.98,$0.21,$0.09,2017-07-08 02:08:31.270309
+Evasive Action,1U,Apocalypse,U,$1.18,$0.19,$0.09,2017-07-08 02:08:31.270309
+False Dawn,1W,Apocalypse,R,$1.30,$0.29,$0.11,2017-07-08 02:08:31.270309
+Fervent Charge,1WBR,Apocalypse,R,$1.45,$0.46,$0.18,2017-07-08 02:08:31.270309
+Fire // Ice,1R / 1U,Apocalypse,U,$1.99,$0.37,$0.20,2017-07-08 02:08:31.270309
+Flowstone Charger,2RW,Apocalypse,U,$1.17,$0.18,$0.06,2017-07-08 02:08:31.270309
+Foul Presence,2B,Apocalypse,U,$0.98,$0.19,$0.06,2017-07-08 02:08:31.270309
+Fungal Shambler,4GUB,Apocalypse,R,$1.37,$0.36,$0.13,2017-07-08 02:08:31.270309
+Gaea's Balance,3G,Apocalypse,U,$1.16,$0.18,$0.05,2017-07-08 02:08:31.270309
+Gaea's Skyfolk,GU,Apocalypse,C,$1.16,$0.17,$0.05,2017-07-08 02:08:31.270309
+Gerrard Capashen,3WW,Apocalypse,R,$1.29,$0.34,$0.19,2017-07-08 02:08:31.270309
+Gerrard's Verdict,WB,Apocalypse,U,$1.26,$0.27,$0.14,2017-07-08 02:08:31.270309
+Glade Gnarr,5G,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Goblin Legionnaire,RW,Apocalypse,C,$1.14,$0.16,$0.04,2017-07-08 02:08:31.270309
+Goblin Ringleader,3R,Apocalypse,U,$3.50,$1.70,$0.44,2017-07-08 02:08:31.270309
+Goblin Trenches,1RW,Apocalypse,R,$1.43,$0.39,$0.14,2017-07-08 02:08:31.270309
+Grave Defiler,3B,Apocalypse,U,$1.00,$0.21,$0.05,2017-07-08 02:08:31.270309
+Guided Passage,URG,Apocalypse,R,$3.99,$1.59,$1.03,2017-07-08 02:08:31.270309
+Haunted Angel,2W,Apocalypse,U,$1.18,$0.20,$0.07,2017-07-08 02:08:31.270309
+Helionaut,2W,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Ice Cave,3UU,Apocalypse,R,$1.31,$0.32,$0.18,2017-07-08 02:08:31.270309
+Illuminate,XR,Apocalypse,U,$1.18,$0.19,$0.09,2017-07-08 02:08:31.270309
+Illusion // Reality,U / 2G,Apocalypse,U,$1.17,$0.18,$0.05,2017-07-08 02:08:31.270309
+Index,U,Apocalypse,C,$1.16,$0.17,$0.05,2017-07-08 02:08:31.270309
+Jaded Response,1U,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Jilt,1U,Apocalypse,C,$1.17,$0.17,$0.05,2017-07-08 02:08:31.270309
+Jungle Barrier,2GU,Apocalypse,U,$1.20,$0.22,$0.10,2017-07-08 02:08:31.270309
+Kavu Glider,2R,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Kavu Howler,4GG,Apocalypse,U,$1.18,$0.19,$0.07,2017-07-08 02:08:31.270309
+Kavu Mauler,4GG,Apocalypse,R,$1.28,$0.30,$0.10,2017-07-08 02:08:31.270309
+Last Caress,2B,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Last Stand,WUBRG,Apocalypse,R,$1.32,$0.33,$0.15,2017-07-08 02:08:31.270309
+Lay of the Land,G,Apocalypse,C,$0.95,$0.16,$0.05,2017-07-08 02:08:31.270309
+Legacy Weapon,7,Apocalypse,R,$2.20,$0.99,$0.49,2017-07-08 02:08:31.270309
+Life // Death,1B / G,Apocalypse,U,$1.00,$0.26,$0.10,2017-07-08 02:08:31.270309
+Lightning Angel,1RWU,Apocalypse,R,$2.00,$0.69,$0.23,2017-07-08 02:08:31.270309
+Living Airship,3U,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Llanowar Dead,BG,Apocalypse,C,$1.17,$0.18,$0.05,2017-07-08 02:08:31.270309
+Llanowar Wastes,,Apocalypse,R,$9.00,$2.99,$1.64,2017-07-08 02:08:31.270309
+Manacles of Decay,1W,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Martyrs' Tomb,2WB,Apocalypse,U,$1.20,$0.21,$0.05,2017-07-08 02:08:31.270309
+Mask of Intolerance,2,Apocalypse,R,$1.28,$0.29,$0.10,2017-07-08 02:08:31.270309
+Mind Extraction,2B,Apocalypse,C,$1.16,$0.17,$0.05,2017-07-08 02:08:31.270309
+Minotaur Illusionist,3UR,Apocalypse,U,$0.98,$0.18,$0.06,2017-07-08 02:08:31.270309
+Minotaur Tactician,3R,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Mournful Zombie,2B,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Mystic Snake,1GUU,Apocalypse,R,$5.00,$1.13,$0.55,2017-07-08 02:08:31.270309
+Necra Disciple,B,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Necra Sanctuary,2B,Apocalypse,U,$0.98,$0.18,$0.06,2017-07-08 02:08:31.270309
+Necravolver,2B,Apocalypse,R,$1.29,$0.30,$0.11,2017-07-08 02:08:31.270309
+Night // Day,2W / B,Apocalypse,U,$1.18,$0.19,$0.07,2017-07-08 02:08:31.270309
+Order // Chaos,2R / 3W,Apocalypse,U,$1.18,$0.20,$0.09,2017-07-08 02:08:31.270309
+Orim's Thunder,2W,Apocalypse,C,$0.94,$0.17,$0.05,2017-07-08 02:08:31.270309
+Overgrown Estate,BGW,Apocalypse,R,$1.30,$0.30,$0.11,2017-07-08 02:08:31.270309
+Penumbra Bobcat,2G,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Penumbra Kavu,4G,Apocalypse,U,$1.17,$0.18,$0.06,2017-07-08 02:08:31.270309
+Penumbra Wurm,5GG,Apocalypse,R,$1.50,$0.47,$0.15,2017-07-08 02:08:31.270309
+Pernicious Deed,1BG,Apocalypse,R,$19.95,$5.18,$3.98,2017-07-08 02:08:31.270309
+Phyrexian Arena,1BB,Apocalypse,R,$9.81,$4.44,$2.21,2017-07-08 02:08:31.270309
+Phyrexian Gargantua,4BB,Apocalypse,U,$1.18,$0.19,$0.07,2017-07-08 02:08:31.270309
+Phyrexian Rager,2B,Apocalypse,C,$1.16,$0.18,$0.05,2017-07-08 02:08:31.270309
+Planar Despair,3BB,Apocalypse,R,$1.28,$0.29,$0.14,2017-07-08 02:08:31.270309
+Powerstone Minefield,2RW,Apocalypse,R,$1.41,$0.41,$0.08,2017-07-08 02:08:31.270309
+Prophetic Bolt,3UR,Apocalypse,R,$2.50,$0.36,$0.20,2017-07-08 02:08:31.270309
+Putrid Warrior,WB,Apocalypse,C,$1.15,$0.15,$0.03,2017-07-08 02:08:31.270309
+Quagmire Druid,2B,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Quicksilver Dagger,1UR,Apocalypse,C,$1.15,$0.16,$0.05,2017-07-08 02:08:31.270309
+Raka Disciple,R,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Raka Sanctuary,2R,Apocalypse,U,$1.17,$0.18,$0.08,2017-07-08 02:08:31.270309
+Rakavolver,2R,Apocalypse,R,$2.50,$0.31,$0.11,2017-07-08 02:08:31.270309
+Razorfin Hunter,UR,Apocalypse,C,$1.16,$0.18,$0.05,2017-07-08 02:08:31.270309
+Reef Shaman,U,Apocalypse,C,$1.17,$0.17,$0.05,2017-07-08 02:08:31.270309
+Savage Gorilla,4G,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Shield of Duty and Reason,W,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Shimmering Mirage,1U,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Shivan Reef,,Apocalypse,R,$6.58,$3.58,$2.00,2017-07-08 02:08:31.270309
+Smash,2R,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Soul Link,1WB,Apocalypse,C,$1.00,$0.18,$0.05,2017-07-08 02:08:31.270309
+Spectral Lynx,1W,Apocalypse,R,$2.50,$0.41,$0.14,2017-07-08 02:08:31.270309
+Spiritmonger,3BG,Apocalypse,R,$3.91,$1.20,$0.51,2017-07-08 02:08:31.270309
+Squee's Embrace,RW,Apocalypse,C,$0.94,$0.18,$0.05,2017-07-08 02:08:31.270309
+Squee's Revenge,1UR,Apocalypse,U,$1.23,$0.23,$0.09,2017-07-08 02:08:31.270309
+Standard Bearer,1W,Apocalypse,C,$5.00,$0.46,$0.24,2017-07-08 02:08:31.270309
+Strength of Night,2G,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Suffocating Blast,1UUR,Apocalypse,R,$2.00,$0.44,$0.22,2017-07-08 02:08:31.270309
+Suppress,2B,Apocalypse,U,$1.17,$0.18,$0.07,2017-07-08 02:08:31.270309
+Sylvan Messenger,3G,Apocalypse,U,$3.00,$0.43,$0.19,2017-07-08 02:08:31.270309
+Symbiotic Deployment,2G,Apocalypse,R,$1.30,$0.30,$0.10,2017-07-08 02:08:31.270309
+Tahngarth's Glare,R,Apocalypse,C,$1.15,$0.15,$0.05,2017-07-08 02:08:31.270309
+Temporal Spring,1GU,Apocalypse,C,$1.15,$0.16,$0.05,2017-07-08 02:08:31.270309
+Tidal Courier,3U,Apocalypse,U,$1.18,$0.19,$0.07,2017-07-08 02:08:31.270309
+Tranquil Path,4G,Apocalypse,C,$1.16,$0.15,$0.05,2017-07-08 02:08:31.270309
+Tundra Kavu,2R,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Unnatural Selection,1U,Apocalypse,R,$1.97,$0.78,$0.48,2017-07-08 02:08:31.270309
+Urborg Elf,1G,Apocalypse,C,$1.16,$0.17,$0.05,2017-07-08 02:08:31.270309
+Urborg Uprising,4B,Apocalypse,C,$1.16,$0.16,$0.05,2017-07-08 02:08:31.270309
+Vindicate,1WB,Apocalypse,R,$33.25,$7.83,$4.47,2017-07-08 02:08:31.270309
+Vodalian Mystic,1U,Apocalypse,U,$1.18,$0.19,$0.07,2017-07-08 02:08:31.270309
+Whirlpool Drake,3U,Apocalypse,U,$1.18,$0.19,$0.08,2017-07-08 02:08:31.270309
+Whirlpool Rider,1U,Apocalypse,C,$1.17,$0.18,$0.05,2017-07-08 02:08:31.270309
+Whirlpool Warrior,2U,Apocalypse,R,$1.07,$0.40,$0.23,2017-07-08 02:08:31.270309
+Wild Research,2R,Apocalypse,R,$5.00,$0.96,$0.50,2017-07-08 02:08:31.270309
+Yavimaya Coast,,Apocalypse,R,$6.01,$3.24,$2.41,2017-07-08 02:08:31.270309
+Yavimaya's Embrace,5GUU,Apocalypse,R,$1.36,$0.37,$0.14,2017-07-08 02:08:31.270309
+Zombie Boa,4B,Apocalypse,C,$1.16,$0.17,$0.05,2017-07-08 02:08:31.270309
+Abu Ja'far,W,Arabian Nights,U,$9.11,$4.01,$3.07,2017-07-08 02:08:37.421252
+Aladdin,2RR,Arabian Nights,R,$17.09,$10.48,$8.02,2017-07-08 02:08:37.421252
+Aladdin's Lamp,5 5,Arabian Nights,R,$16.00,$9.98,$7.00,2017-07-08 02:08:37.421252
+Aladdin's Ring,8,Arabian Nights,R,$12.73,$11.70,$7.06,2017-07-08 02:08:37.421252
+Ali Baba,R,Arabian Nights,U,$10.25,$5.88,$3.46,2017-07-08 02:08:37.421252
+Ali from Cairo,2RR,Arabian Nights,R,$119.99,$79.99,$78.95,2017-07-08 02:08:37.421252
+Army of Allah,1WW,Arabian Nights,C,$4.99,$2.94,$1.75,2017-07-08 02:08:37.421252
+Army of Allah [Version 2],1WW,Arabian Nights,C,$6.99,$2.90,$1.90,2017-07-08 02:08:37.421252
+Bazaar of Baghdad,,Arabian Nights,U,"$1,250.00",$649.99,$596.99,2017-07-08 02:08:37.421252
+Bird Maiden,2R,Arabian Nights,C,$1.48,$0.48,$0.33,2017-07-08 02:08:37.421252
+Bird Maiden [Version 2],2R,Arabian Nights,C,$2.00,$0.50,$0.33,2017-07-08 02:08:37.421252
+Bottle of Suleiman,4,Arabian Nights,R,$13.00,$5.27,$4.09,2017-07-08 02:08:37.421252
+Brass Man,1,Arabian Nights,U,$8.08,$3.14,$2.48,2017-07-08 02:08:37.421252
+Camel,W,Arabian Nights,C,$1.50,$0.67,$0.34,2017-07-08 02:08:37.421252
+City in a Bottle,2,Arabian Nights,R,$119.99,$77.99,$67.00,2017-07-08 02:08:37.421252
+City of Brass,,Arabian Nights,U,$175.99,$137.99,$124.99,2017-07-08 02:08:37.421252
+Cuombajj Witches,BB,Arabian Nights,C,$9.98,$4.76,$2.00,2017-07-08 02:08:37.421252
+Cyclone,2GG,Arabian Nights,U,$3.98,$2.59,$1.65,2017-07-08 02:08:37.421252
+Dancing Scimitar,4,Arabian Nights,R,$14.00,$5.11,$3.43,2017-07-08 02:08:37.421252
+Dandan,UU,Arabian Nights,C,$2.00,$0.55,$0.28,2017-07-08 02:08:37.421252
+Desert,,Arabian Nights,C,$5.00,$1.13,$0.65,2017-07-08 02:08:37.421252
+Desert Nomads,2R,Arabian Nights,C,$1.09,$0.42,$0.32,2017-07-08 02:08:37.421252
+Desert Twister,4GG,Arabian Nights,U,$23.50,$10.49,$7.12,2017-07-08 02:08:37.421252
+Diamond Valley,,Arabian Nights,U,$299.00,$188.00,$158.39,2017-07-08 02:08:37.421252
+Drop of Honey,G,Arabian Nights,R,$400.00,$375.00,$350.00,2017-07-08 02:08:37.421252
+Ebony Horse,3,Arabian Nights,R,$7.00,$2.73,$2.01,2017-07-08 02:08:37.421252
+El-Hajjaj,1BB,Arabian Nights,R,$7.00,$3.89,$2.49,2017-07-08 02:08:37.421252
+Elephant Graveyard,,Arabian Nights,R,$59.98,$49.00,$37.42,2017-07-08 02:08:37.421252
+Erg Raiders,1B,Arabian Nights,C,$2.00,$0.53,$0.32,2017-07-08 02:08:37.421252
+Erg Raiders [Version 2],1B,Arabian Nights,C,$3.00,$0.62,$0.32,2017-07-08 02:08:37.421252
+Erhnam Djinn,3G,Arabian Nights,R,$129.98,$92.61,$74.66,2017-07-08 02:08:37.421252
+Eye for an Eye,WW,Arabian Nights,U,$6.83,$3.01,$2.18,2017-07-08 02:08:37.421252
+Fishliver Oil,1U,Arabian Nights,C,$2.00,$0.47,$0.29,2017-07-08 02:08:37.421252
+Fishliver Oil [Version 2],1U,Arabian Nights,C,$2.98,$0.66,$0.42,2017-07-08 02:08:37.421252
+Flying Carpet,4,Arabian Nights,U,$4.55,$1.91,$1.32,2017-07-08 02:08:37.421252
+Flying Men,U,Arabian Nights,C,$5.99,$2.05,$1.46,2017-07-08 02:08:37.421252
+Ghazban Ogre,G,Arabian Nights,C,$1.98,$0.71,$0.32,2017-07-08 02:08:37.421252
+Giant Tortoise,1U,Arabian Nights,C,$1.40,$0.45,$0.31,2017-07-08 02:08:37.421252
+Giant Tortoise [Version 2],1U,Arabian Nights,C,$2.98,$0.73,$0.46,2017-07-08 02:08:37.421252
+Guardian Beast,3B,Arabian Nights,R,$229.99,$150.00,$142.98,2017-07-08 02:08:37.421252
+Hasran Ogress,BB,Arabian Nights,C,$1.34,$0.38,$0.28,2017-07-08 02:08:37.421252
+Hasran Ogress (Light),BB,Arabian Nights,C,$1.34,$0.44,$0.25,2017-07-08 02:08:37.421252
+Hurr Jackal,R,Arabian Nights,C,$1.34,$0.37,$0.27,2017-07-08 02:08:37.421252
+Ifh-Bíff Efreet,2GG,Arabian Nights,R,$65.30,$40.99,$40.00,2017-07-08 02:08:37.421252
+Island Fish Jasconius,4UUU,Arabian Nights,R,$8.95,$5.22,$3.49,2017-07-08 02:08:37.421252
+Island of Wak-Wak,,Arabian Nights,R,$130.96,$94.00,$80.00,2017-07-08 02:08:37.421252
+Jandor's Ring,6,Arabian Nights,R,$9.99,$4.22,$3.26,2017-07-08 02:08:37.421252
+Jandor's Saddlebags,2,Arabian Nights,R,$6.60,$4.79,$2.50,2017-07-08 02:08:37.421252
+Jeweled Bird,1,Arabian Nights,U,$4.50,$1.92,$0.89,2017-07-08 02:08:37.421252
+Jihad,WWW,Arabian Nights,R,$59.95,$59.47,$54.99,2017-07-08 02:08:37.421252
+Junun Efreet,1BB,Arabian Nights,R,$23.49,$8.70,$4.89,2017-07-08 02:08:37.421252
+Juzam Djinn,2BB,Arabian Nights,R,$750.00,$496.23,$359.00,2017-07-08 02:08:37.421252
+Khabal Ghoul,2B,Arabian Nights,U,$49.79,$20.27,$16.48,2017-07-08 02:08:37.421252
+King Suleiman,1W,Arabian Nights,R,$79.99,$59.98,$41.99,2017-07-08 02:08:37.421252
+Kird Ape,R,Arabian Nights,C,$10.00,$6.00,$3.80,2017-07-08 02:08:37.421252
+Library of Alexandria,,Arabian Nights,U,"$1,150.00",$699.95,$599.00,2017-07-08 02:08:37.421252
+Magnetic Mountain,1RR,Arabian Nights,U,$5.00,$1.54,$0.79,2017-07-08 02:08:37.421252
+Merchant Ship,U,Arabian Nights,U,$5.69,$3.50,$2.40,2017-07-08 02:08:37.421252
+Metamorphosis,G,Arabian Nights,C,$2.00,$0.33,$0.22,2017-07-08 02:08:37.421252
+Mijae Djinn,RRR,Arabian Nights,R,$16.49,$9.75,$6.08,2017-07-08 02:08:37.421252
+Moorish Cavalry,2WW,Arabian Nights,C,$4.99,$0.50,$0.33,2017-07-08 02:08:37.421252
+Moorish Cavalry [Version 2],2WW,Arabian Nights,C,$1.99,$0.64,$0.42,2017-07-08 02:08:37.421252
+Mountain (Arabian Nights),,Arabian Nights,C,$125.00,$60.48,$49.59,2017-07-08 02:08:37.421252
+Nafs Asp,G,Arabian Nights,C,$1.48,$0.45,$0.24,2017-07-08 02:08:37.421252
+Nafs Asp (Light),G,Arabian Nights,C,$1.48,$0.45,$0.35,2017-07-08 02:08:37.421252
+Oasis,,Arabian Nights,U,$5.69,$2.47,$1.21,2017-07-08 02:08:37.421252
+Old Man of the Sea,1UU,Arabian Nights,R,$99.99,$74.99,$72.98,2017-07-08 02:08:37.421252
+Oubliette,1BB,Arabian Nights,C,$34.98,$22.53,$12.73,2017-07-08 02:08:37.421252
+Oubliette [Version 2],1BB,Arabian Nights,C,$49.99,$19.99,$12.50,2017-07-08 02:08:37.421252
+Piety,2W,Arabian Nights,C,$1.50,$0.44,$0.24,2017-07-08 02:08:37.421252
+Piety [Version 2],2W,Arabian Nights,C,$1.98,$0.70,$0.36,2017-07-08 02:08:37.421252
+Pyramids,6,Arabian Nights,R,$17.39,$8.66,$6.44,2017-07-08 02:08:37.421252
+Repentant Blacksmith,1W,Arabian Nights,R,$5.99,$3.09,$2.41,2017-07-08 02:08:37.421252
+Ring of Ma'ruf,5,Arabian Nights,R,$39.98,$24.33,$21.59,2017-07-08 02:08:37.421252
+Rukh Egg,3R,Arabian Nights,C,$3.41,$2.14,$1.54,2017-07-08 02:08:37.421252
+Rukh Egg [Version 2],3R,Arabian Nights,C,$4.98,$2.98,$1.99,2017-07-08 02:08:37.421252
+Sandals of Abdallah,4,Arabian Nights,U,$9.99,$4.63,$3.05,2017-07-08 02:08:37.421252
+Sandstorm,G,Arabian Nights,C,$2.00,$0.43,$0.25,2017-07-08 02:08:37.421252
+Serendib Djinn,2UU,Arabian Nights,R,$75.00,$39.99,$37.22,2017-07-08 02:08:37.421252
+Serendib Efreet,2U,Arabian Nights,R,$179.98,$152.98,$128.20,2017-07-08 02:08:37.421252
+Shahrazad,WW,Arabian Nights,R,$131.99,$89.83,$81.00,2017-07-08 02:08:37.421252
+Sindbad,1U,Arabian Nights,U,$58.00,$29.95,$19.49,2017-07-08 02:08:37.421252
+Singing Tree,3G,Arabian Nights,R,$49.99,$42.50,$32.98,2017-07-08 02:08:37.421252
+Sorceress Queen,1BB,Arabian Nights,U,$27.75,$11.52,$9.63,2017-07-08 02:08:37.421252
+Stone-Throwing Devils,B,Arabian Nights,C,$3.98,$2.64,$1.89,2017-07-08 02:08:37.421252
+Stone-Throwing Devils [Version 2],B,Arabian Nights,C,$5.99,$3.15,$1.65,2017-07-08 02:08:37.421252
+Unstable Mutation,U,Arabian Nights,C,$2.00,$0.63,$0.13,2017-07-08 02:08:37.421252
+War Elephant,3W,Arabian Nights,C,$2.00,$0.56,$0.39,2017-07-08 02:08:37.421252
+War Elephant [Version 2],3W,Arabian Nights,C,$3.47,$0.83,$0.38,2017-07-08 02:08:37.421252
+Wyluli Wolf,1G,Arabian Nights,C,$2.00,$0.85,$0.39,2017-07-08 02:08:37.421252
+Wyluli Wolf [Version 2],1G,Arabian Nights,C,$3.42,$1.51,$1.23,2017-07-08 02:08:37.421252
+Ydwen Efreet,RRR,Arabian Nights,R,$36.98,$24.70,$21.01,2017-07-08 02:08:37.421252
