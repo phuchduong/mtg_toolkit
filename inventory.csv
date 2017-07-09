@@ -24,11 +24,10 @@ accomplished automaton,0,NA,TRUE
 accorder's shield,2,NA,NA
 accumulated knowledge,4,NA,NA
 accursed spirit,NA,NA,TRUE
-acid-spewer dragon,1,NA,NA
 acidic slime,2,NA,NA
-ancient silverback,NA,NA,TRUE
-acolyte's reward,1,NA,NA
+acid-spewer dragon,1,NA,NA
 acolyte of the inferno,NA,NA,TRUE
+acolyte's reward,1,NA,NA
 acquire,0,NA,NA
 act of treason,4,NA,NA
 act on impulse,2,NA,NA
@@ -77,11 +76,11 @@ air elemental,NA,NA,TRUE
 air servant,NA,NA,TRUE
 airdrop aeronauts,NA,NA,TRUE
 airdrop condor,1,NA,NA
+"ajani, mentor of heroes",1,NA,NA
 ajani's chosen,1,NA,NA
 ajani's presence,1,NA,NA
 ajani's pridemate,3,NA,NA
 ajani's sunstriker,3,NA,NA
-"ajani, mentor of heroes",1,NA,NA
 akoum flameseeker,NA,NA,TRUE
 akoum refuge,3,NA,NA
 akoum stonewaker,1,NA,NA
@@ -104,8 +103,8 @@ alchemist's apprentice,3,NA,NA
 alchemist's vial,NA,NA,TRUE
 alesha's vanguard,NA,NA,TRUE
 algae gharial,1,NA,NA
-alhammarret's archive,2,NA,NA
 "alhammarret, high arbiter",1,NA,NA
+alhammarret's archive,2,NA,NA
 aligned hedron network,2,NA,NA
 alive // well,3,NA,NA
 all suns' dawn,1,NA,NA
@@ -119,9 +118,9 @@ alpha authority,4,NA,NA
 alpha brawl,2,NA,NA
 alpine grizzly,NA,NA,TRUE
 altac bloodseeker,NA,NA,TRUE
-altar's reap,6,NA,NA
 altar of the brood,1,NA,NA
 altar of the lost,4,NA,NA
+altar's reap,6,NA,NA
 altered ego,2,NA,NA
 always watching,1,NA,NA
 amass the components,2,NA,NA
@@ -142,8 +141,7 @@ ancestral statue,NA,NA,TRUE
 anchor to the aether,2,NA,NA
 ancient carp,NA,NA,TRUE
 ancient crab,NA,NA,TRUE
-angel's mercy,NA,NA,TRUE
-angel's tomb,NA,NA,TRUE
+ancient silverback,NA,NA,TRUE
 angel of deliverance,NA,1,NA
 angel of glory's rise,NA,1,NA
 angel of jubilation,1,NA,NA
@@ -159,14 +157,16 @@ angelic page,NA,NA,TRUE
 angelic purge,0,NA,NA
 angelic skirmisher,1,NA,NA
 angelic wall,5,NA,NA
+angel's mercy,NA,NA,TRUE
+angel's tomb,NA,NA,TRUE
 anger,1,NA,NA
 animate dead,0,NA,NA
 animate wall,1,NA,NA
 animist's awakening,3,NA,NA
 ankle shanker,2,NA,NA
 annex,0,NA,NA
-annihilating fire,4,NA,NA
 annihilate,1,NA,NA
+annihilating fire,4,NA,NA
 annul,6,NA,NA
 anointer of champions,NA,NA,TRUE
 ant queen,1,NA,NA
@@ -198,10 +198,10 @@ arcanis the omnipotent,1,1,NA
 arcbound stinger,0,NA,NA
 archaeomancer,3,NA,NA
 archangel,0,NA,NA
-archangel's light,1,NA,NA
 archangel avacyn,1,NA,NA
-archers' parapet,8,NA,NA
+archangel's light,1,NA,NA
 archers of qarsi,NA,NA,TRUE
+archers' parapet,8,NA,NA
 archetype of aggression,4,NA,NA
 archetype of courage,4,NA,NA
 archetype of endurance,2,NA,NA
@@ -239,16 +239,16 @@ artful dodge,0,NA,NA
 artful maneuver,4,NA,NA
 artificer's epiphany,5,NA,NA
 artificer's hex,NA,NA,TRUE
-artisan's sorrow,4,NA,NA
 artisan of forms,1,NA,NA
 artisan of kozilek,2,NA,NA
+artisan's sorrow,4,NA,NA
 ascended lawmage,3,NA,NA
 ascending aven,NA,NA,TRUE
 ashen rider,1,NA,NA
 ashenmoor gouger,2,NA,NA
 ashenmoor liege,1,NA,NA
-ashiok's adept,NA,NA,TRUE
 "ashiok, nightmare weaver",1,NA,NA
+ashiok's adept,NA,NA,TRUE
 ashmouth hound,NA,NA,TRUE
 ashnod's altar,1,NA,NA
 ashnod's transmogrant,NA,NA,TRUE
@@ -264,12 +264,12 @@ assault griffin,NA,NA,TRUE
 assault suit,2,NA,NA
 astral cornucopia,2,NA,NA
 astral steel,NA,NA,TRUE
-atarka's command,1,NA,NA
 atarka beastbreaker,NA,NA,TRUE
 atarka efreet,NA,NA,TRUE
 atarka monument,2,NA,NA
 atarka pummeler,3,NA,NA
 "atarka, world render",1,NA,NA
+atarka's command,1,NA,NA
 "athreos, god of passage",2,NA,NA
 atog,1,NA,NA
 attune with aether,1,NA,NA
@@ -301,7 +301,6 @@ awe for the guilds,4,NA,NA
 axebane guardian,3,NA,NA
 axebane stag,NA,NA,TRUE
 aysen bureaucrats,NA,NA,TRUE
-azor's elocutors,1,NA,NA
 azorius arrester,3,NA,NA
 azorius chancery,2,NA,NA
 azorius cluestone,5,NA,NA
@@ -309,6 +308,7 @@ azorius guildgate,11,NA,NA
 azorius herald,1,NA,NA
 azorius justiciar,2,NA,NA
 azorius signet,2,NA,NA
+azor's elocutors,1,NA,NA
 azure mage,2,NA,NA
 "azusa, lost but seeking (p)",1,NA,NA
 back to nature,1,NA,NA
@@ -336,8 +336,8 @@ barrage tyrant,2,NA,NA
 barren moor,1,NA,NA
 barrin's unmaking,NA,NA,TRUE
 "basandra, battle seraph",2,NA,NA
-basilica screecher,3,NA,NA
 basilica guards,3,NA,NA
+basilica screecher,3,NA,NA
 bassara tower archer,2,NA,NA
 bastion enforcer,NA,NA,TRUE
 bastion inventor,2,NA,NA
@@ -355,8 +355,8 @@ battlefield thaumaturge,3,NA,NA
 battlegrace angel,1,NA,NA
 battlegrace angel,1,NA,NA
 battlewise valor,NA,NA,TRUE
-bear's companion,3,NA,NA
 bearer of the heavens,1,NA,NA
+bear's companion,3,NA,NA
 beast attack,NA,NA,TRUE
 beast within,1,NA,NA
 beastmaster ascension,0,NA,NA
@@ -428,9 +428,6 @@ blinkmoth urn,1,NA,NA
 blistercoil weird,4,NA,NA
 blisterpod,2,NA,NA
 blitz hellion,1,NA,NA
-blood-chin fanatic,1,NA,NA
-blood-cursed knight,2,NA,NA
-blood-toll harpy,NA,NA,TRUE
 blood artist,0,NA,NA
 blood bairn,4,NA,NA
 blood feud,NA,NA,TRUE
@@ -439,7 +436,9 @@ blood lust,NA,NA,TRUE
 blood pet,1,NA,NA
 blood reckoning,2,NA,NA
 bloodbond vampire,2,NA,NA
+blood-chin fanatic,1,NA,NA
 bloodcrazed hoplite,NA,NA,TRUE
+blood-cursed knight,2,NA,NA
 bloodfell caves,6,NA,NA
 bloodfire expert,NA,NA,TRUE
 bloodfire mentor,NA,NA,TRUE
@@ -453,6 +452,7 @@ bloodsoaked champion,1,NA,NA
 bloodstained mire,3,NA,NA
 bloodstoke howler,1,NA,NA
 bloodthrone vampire,1,NA,NA
+blood-toll harpy,NA,NA,TRUE
 blossoming sands,1,NA,NA
 blue sun's zenith,2,NA,NA
 blustersquall,4,NA,NA
@@ -557,18 +557,18 @@ bump in the night,4,NA,NA
 burden of guilt,NA,NA,TRUE
 buried ruin,1,NA,NA
 burn away,1,NA,NA
-burning-tree bloodscale,NA,NA,TRUE
-burning-tree emissary,3,NA,NA
 burning anger,1,NA,NA
 burning earth,1,NA,NA
 burning oil,NA,NA,TRUE
 burning vengeance,1,NA,NA
+burning-tree bloodscale,NA,NA,TRUE
+burning-tree emissary,3,NA,NA
 burnished hart,0,NA,NA
 burrenton bombardier,NA,NA,TRUE
 burrenton shield-bearers,NA,NA,TRUE
 burst of strength,3,NA,NA
-butcher's glee,NA,NA,TRUE
 butcher of the horde,1,NA,NA
+butcher's glee,NA,NA,TRUE
 bygone bishop,4,NA,NA
 byway courier,5,NA,NA
 cabal executioner,NA,NA,TRUE
@@ -579,12 +579,12 @@ cackling counterpart,3,NA,NA
 cagemail,NA,NA,TRUE
 calculated dismissal,6,NA,NA
 call of the conclave,2,NA,NA
-call to the kindred,1,NA,NA
 call of the nightwing,2,NA,NA
 call the bloodline,3,NA,NA
 call the scions,4,NA,NA
 call to mind,1,NA,NA
 call to serve,2,NA,NA
+call to the kindred,1,NA,NA
 cancel,4,NA,NA
 canopy claws,NA,NA,TRUE
 canopy crawler,NA,NA,TRUE
@@ -596,9 +596,9 @@ canyon minotaur,NA,NA,TRUE
 canyon wildcat,NA,NA,TRUE
 capashen knight,NA,1,TRUE
 capsize,1,NA,NA
-captain's claws,1,NA,NA
 captain of the mists,1,NA,NA
 captain of the watch,2,NA,NA
+captain's claws,1,NA,NA
 carapace,1,NA,NA
 carbonize,1,NA,NA
 careful consideration,1,NA,NA
@@ -635,11 +635,11 @@ celestial flare,5,NA,NA
 cellar door,2,NA,NA
 cemetery puca,1,NA,NA
 cenn's tactician,3,NA,NA
-centaur's herald,2,NA,NA
 centaur battlemaster,4,NA,NA
 centaur courser,NA,NA,TRUE
 centaur healer,3,NA,NA
 centaur safeguard,NA,NA,TRUE
+centaur's herald,2,NA,NA
 center soul,4,NA,NA
 cephalid pathmage,1,NA,NA
 ceremonious rejection,0,NA,NA
@@ -767,14 +767,14 @@ congregate,3,NA,NA
 conifer strider,1,NA,NA
 conjured currency,1,NA,NA
 conjurer's ban,1,NA,NA
-consecrated sphinx,1,NA,NA
 consecrated by blood,NA,NA,TRUE
+consecrated sphinx,1,NA,NA
 consign to dust,2,NA,NA
 constricting sliver,2,NA,NA
-consul's lieutenant,2,NA,NA
 consulate skygate,0,NA,NA
 consulate skygate,NA,NA,TRUE
 consulate turret,1,NA,NA
+consul's lieutenant,2,NA,NA
 consult the necrosages,2,NA,NA
 consuming bonfire,1,NA,NA
 consuming sinkhole,NA,NA,TRUE
@@ -937,8 +937,8 @@ dawnfeather eagle,NA,NA,TRUE
 dawnstrike paladin,NA,NA,TRUE
 dawntreader elk,2,NA,NA
 daxos of meletis,1,NA,NA
-day's undoing,4,NA,NA
 day of the dragons,1,NA,NA
+day's undoing,4,NA,NA
 dazzling ramparts,NA,NA,TRUE
 dead drop,0,NA,NA
 dead reckoning,1,NA,NA
@@ -952,9 +952,6 @@ deadly allure,2,NA,NA
 deadly recluse,4,NA,NA
 deadly wanderings,1,NA,NA
 deadshot minotaur,NA,NA,TRUE
-death's-head buzzard,NA,NA,TRUE
-death's caress,4,NA,NA
-death's duet,1,NA,NA
 death denied,1,NA,NA
 death frenzy,1,NA,NA
 death grasp,1,NA,NA
@@ -969,6 +966,9 @@ deathgrip,1,NA,NA
 deathless behemoth,3,NA,NA
 deathmist raptor,1,NA,NA
 deathpact angel,1,NA,NA
+death's caress,4,NA,NA
+death's duet,1,NA,NA
+death's-head buzzard,NA,NA,TRUE
 debilitating injury,NA,NA,TRUE
 debt to the deathless,4,NA,NA
 debtor's pulpit,NA,NA,TRUE
@@ -979,10 +979,10 @@ decommission,1,NA,NA
 decorated griffin,NA,NA,TRUE
 decree of justice,1,NA,NA
 decree of pain,0,NA,NA
-deep-sea kraken,2,NA,NA
-deep-sea terror,NA,NA,TRUE
 deep analysis,1,NA,NA
 deepfathom skulker,1,NA,NA
+deep-sea kraken,2,NA,NA
+deep-sea terror,NA,NA,TRUE
 deepwater hypnotist,NA,NA,TRUE
 deepwood drummer,NA,NA,TRUE
 deepwood ghoul,NA,NA,TRUE
@@ -1001,12 +1001,11 @@ deflection,1,NA,NA
 deftblade elite,NA,NA,TRUE
 dehydration,NA,NA,TRUE
 deicide,2,NA,NA
-devilthorn fox,NA,NA,TRUE
 delver of secrets,3,NA,NA
 demigod of revenge,1,NA,NA
 demolish,5,NA,NA
-demon's grasp,NA,NA,TRUE
 demonlord of ashmouth,1,NA,NA
+demon's grasp,NA,NA,TRUE
 demystify,1,NA,NA
 den protector,1,NA,NA
 deny existence,3,NA,NA
@@ -1034,6 +1033,7 @@ devastation tide,1,NA,NA
 deviant glee,4,NA,NA
 devil's play,1,NA,NA
 devils' playground,1,NA,NA
+devilthorn fox,NA,NA,TRUE
 devilthorn fox,NA,NA,TRUE
 devouring greed,1,NA,NA
 devouring light,3,NA,NA
@@ -1113,10 +1113,6 @@ downsize,NA,NA,TRUE
 dowsing shaman,1,NA,NA
 draconic roar,2,NA,NA
 drag under,1,NA,NA
-dragon's claw,1,NA,NA
-dragon's eye savants,3,NA,NA
-dragon's eye sentry,NA,NA,TRUE
-dragon-scarred bear,NA,NA,TRUE
 dragon bell monk,5,NA,NA
 dragon breath,1,NA,NA
 dragon egg,2,NA,NA
@@ -1129,16 +1125,20 @@ dragon mantle,2,NA,NA
 dragon scales,1,NA,NA
 dragon throne of tarkir,1,NA,NA
 dragonloft idol,NA,NA,TRUE
-dragonlord's prerogative,1,NA,NA
-dragonlord's servant,5,NA,NA
 dragonlord atarka,1,NA,NA
 dragonlord dromoka,1,NA,NA
 dragonlord kolaghan,1,NA,NA
 dragonlord ojutai,1,NA,NA
 dragonlord silumgar,1,NA,NA
+dragonlord's prerogative,1,NA,NA
+dragonlord's servant,5,NA,NA
 dragonrage,1,NA,NA
+dragon's claw,1,NA,NA
+dragon's eye savants,3,NA,NA
+dragon's eye sentry,NA,NA,TRUE
 dragonscale boon,4,NA,NA
 dragonscale general,1,NA,NA
+dragon-scarred bear,NA,NA,TRUE
 dragonshift,4,NA,NA
 dragonstalker,NA,NA,TRUE
 drain life,1,NA,NA
@@ -1165,13 +1165,13 @@ drifting meadow,0,NA,NA
 drogskol captain,2,NA,NA
 drogskol cavalry,2,NA,NA
 drogskol reaver,1,NA,NA
-dromoka's command,1,NA,NA
-dromoka's gift,NA,NA,TRUE
 dromoka captain,2,NA,NA
 dromoka dunecaster,NA,NA,TRUE
 dromoka monument,1,NA,NA
 dromoka warrior,NA,NA,TRUE
 "dromoka, the eternal",2,NA,NA
+dromoka's command,1,NA,NA
+dromoka's gift,NA,NA,TRUE
 drooling groodion,3,NA,NA
 drove of elves,1,NA,NA
 drown in filth,6,NA,NA
@@ -1182,9 +1182,9 @@ drownyard explorers,NA,NA,TRUE
 drownyard temple,1,NA,NA
 drudge beetle,NA,NA,TRUE
 drudge skeletons,NA,NA,TRUE
-druid's deliverance,3,NA,NA
 druid lyrist,1,NA,NA
 druidic satchel,0,NA,NA
+druid's deliverance,3,NA,NA
 drumhunter,1,NA,NA
 drunau corpse trawler,NA,NA,TRUE
 dryad's caress,NA,NA,TRUE
@@ -1255,10 +1255,10 @@ elvish piper,1,NA,NA
 elvish skysweeper,1,NA,NA
 elvish visionary,5,NA,NA
 embargo,1,NA,NA
-ember-eye wolf,NA,NA,TRUE
 ember beast,NA,NA,TRUE
 ember shot,NA,NA,TRUE
 ember swallower,1,NA,NA
+ember-eye wolf,NA,NA,TRUE
 embermaw hellion,1,NA,NA
 embodiment of spring,5,NA,NA
 embolden,NA,NA,TRUE
@@ -1298,10 +1298,10 @@ enshrouding mist,NA,NA,TRUE
 ensoul artifact,1,NA,NA
 enter the infinite,0,NA,NA
 enthralling victor,2,NA,NA
+"ephara, god of the polis",1,NA,NA
 ephara's enlightenment,2,NA,NA
 ephara's radiance,NA,NA,TRUE
 ephara's warden,NA,NA,TRUE
-"ephara, god of the polis",1,NA,NA
 ephemeral shields,5,NA,NA
 epic confrontation,4,NA,NA
 epic experiment,1,NA,NA
@@ -1374,8 +1374,8 @@ faerie invaders,NA,NA,TRUE
 faerie macabre,2,NA,NA
 faerie miscreant,4,NA,NA
 faerie squadron,NA,NA,TRUE
-faith's shield,2,NA,NA
 faithless looting,3,NA,NA
+faith's shield,2,NA,NA
 falkenrath exterminator,1,NA,NA
 falkenrath noble,2,NA,NA
 falkenrath torturer,NA,NA,TRUE
@@ -1464,13 +1464,13 @@ firewing phoenix,1,NA,NA
 first response,2,NA,NA
 fissure,1,NA,NA
 fissure vent,1,NA,NA
-flame-kin zealot,1,NA,NA
 flame javelin,1,NA,NA
 flame slash,1,NA,NA
 flame spirit,NA,NA,TRUE
+flame-kin zealot,1,NA,NA
 flames of the firebrand,4,NA,NA
-flamespeaker's will,NA,NA,TRUE
 flamespeaker adept,NA,NA,TRUE
+flamespeaker's will,NA,NA,TRUE
 flamewright,1,NA,NA
 flaming sword,1,NA,NA
 flare,1,NA,NA
@@ -1535,10 +1535,10 @@ fortified area,1,NA,NA
 fortified rampart,NA,NA,TRUE
 fortify,NA,NA,TRUE
 fortress cyclops,3,NA,NA
-foul-tongue invocation,1,NA,NA
-foul-tongue shriek,4,NA,NA
 foul orchard,1,NA,NA
 foul renewal,1,NA,NA
+foul-tongue invocation,1,NA,NA
+foul-tongue shriek,4,NA,NA
 foundry assembler,NA,NA,TRUE
 foundry assembler,NA,NA,TRUE
 foundry champion,1,NA,NA
@@ -1585,10 +1585,10 @@ galvanic juggernaut,NA,NA,TRUE
 gang of devils,NA,NA,TRUE
 gargoyle castle,1,NA,NA
 gargoyle sentinel,NA,NA,TRUE
+"garruk, apex predator",1,NA,NA
 garruk's companion,3,NA,NA
 garruk's horde,1,NA,NA
 garruk's packleader,1,NA,NA
-"garruk, apex predator",1,NA,NA
 gaseous form,2,NA,NA
 gate smasher,NA,NA,TRUE
 gatecreeper vine,4,NA,NA
@@ -1612,8 +1612,8 @@ generator servant,3,NA,NA
 genesis hydra,1,NA,NA
 geyserfield stalker,NA,NA,TRUE
 ghazban ogre,NA,NA,TRUE
-ghirapur gearcrafter,3,NA,NA
 ghirapur aether grid,NA,NA,TRUE
+ghirapur gearcrafter,3,NA,NA
 ghitu slinger,1,NA,NA
 ghor-clan rampager,2,NA,NA
 ghost council of orzhova,1,NA,NA
@@ -1646,8 +1646,8 @@ gift of estates,1,NA,NA
 gift of immortality,1,NA,NA
 gift of orzhova,1,NA,NA
 gild,0,NA,NA
-gisa's bidding,2,NA,NA
 gisa and geralf,1,NA,NA
+gisa's bidding,2,NA,NA
 give // take,1,NA,NA
 glacial crasher,NA,NA,TRUE
 glacial fortress,1,NA,NA
@@ -1711,9 +1711,9 @@ goblinslide,3,NA,NA
 god-favored general,4,NA,NA
 gods willing,2,NA,NA
 godsend,1,NA,NA
-gold-forged sentinel,NA,NA,TRUE
 golden hind,5,NA,NA
 goldenhide ox,NA,NA,TRUE
+gold-forged sentinel,NA,NA,TRUE
 goldnight castigator,1,NA,NA
 goldnight commander,1,NA,NA
 goldnight redeemer,2,NA,NA
@@ -1728,8 +1728,8 @@ golgari rot farm,2,NA,NA
 golgari rotwurm,2,NA,NA
 golgari signet,1,NA,NA
 gone missing,NA,NA,TRUE
-gore-house chainwalker,4,NA,NA
 gore swine,NA,NA,TRUE
+gore-house chainwalker,4,NA,NA
 goretusk firebeast,NA,NA,TRUE
 gorger wurm,NA,NA,TRUE
 gorgon's head,3,NA,NA
@@ -1756,11 +1756,11 @@ gray merchant of asphodel,3,NA,NA
 gray ogre,NA,NA,TRUE
 graypelt refuge,1,NA,NA
 grazing gladehart,2,NA,NA
-great-horn krushok,NA,NA,TRUE
 great hart,NA,NA,TRUE
 great teacher's decree,NA,NA,TRUE
 greater good,1,NA,NA
 greater realm of preservation,NA,NA,TRUE
+great-horn krushok,NA,NA,TRUE
 greed,0,NA,NA
 green mana battery,NA,NA,TRUE
 greenside watcher,6,NA,NA
@@ -1808,8 +1808,8 @@ gruul keyrune,3,NA,NA
 gruul ragebeast,1,NA,NA
 gruul signet,2,NA,NA
 gruul turf,3,NA,NA
-gryff's boon,1,NA,NA
 gryff vanguard,NA,NA,TRUE
+gryff's boon,1,NA,NA
 guard gomazoa,1,NA,NA
 guardian automaton,NA,NA,TRUE
 guardian lions,NA,NA,TRUE
@@ -1873,9 +1873,9 @@ heal,NA,NA,TRUE
 healer of the pride,1,NA,NA
 healing hands,NA,NA,TRUE
 healing salve,NA,NA,TRUE
-heart-piercer bow,NA,NA,TRUE
 hearthfire hobgoblin,1,NA,NA
 heartless summoning,1,NA,NA
+heart-piercer bow,NA,NA,TRUE
 heat ray,3,NA,NA
 heavy infantry,NA,NA,TRUE
 heavy mattock,NA,NA,TRUE
@@ -1887,9 +1887,9 @@ hedron crab,1,NA,NA
 hedron crawler,0,NA,NA
 heir of falkenrath,NA,NA,TRUE
 heir of the wilds,2,NA,NA
+"heliod, god of the sun",1,NA,NA
 heliod's emissary,4,NA,NA
 heliod's pilgrim,3,NA,NA
-"heliod, god of the sun",1,NA,NA
 hellhole flailer,1,NA,NA
 hellhole rats,1,NA,NA
 hellspark elemental,2,NA,NA
@@ -1904,12 +1904,12 @@ herald of the pantheon,1,NA,NA
 herald of torment,1,NA,NA
 herdchaser dragon,3,NA,NA
 hermit of the natterknolls,1,NA,NA
-hero's blade,2,NA,NA
 hero of iroas,2,NA,NA
 hero of leina tower,2,NA,NA
+heroes' bane,2,NA,NA
 heroes' podium,1,NA,NA
 heroes' reunion,1,NA,NA
-heroes' bane,2,NA,NA
+hero's blade,2,NA,NA
 hewed stone retainers,NA,NA,TRUE
 hibernation's end,1,NA,NA
 hidden dragonslayer,1,NA,NA
@@ -1955,9 +1955,9 @@ honden of infinite rage,1,NA,NA
 honden of life's web,1,NA,NA
 honden of night's reach,1,NA,NA
 honden of seeing winds,1,NA,NA
-honor's reward,NA,NA,TRUE
 honor guard,NA,NA,TRUE
 honored hierarch,1,NA,NA
+honor's reward,NA,NA,TRUE
 hooded assassin,NA,NA,TRUE
 hooded horror,NA,NA,TRUE
 hoofprints of the stag,1,NA,NA
@@ -1995,11 +1995,11 @@ hungering yeti,NA,NA,TRUE
 hunt down,NA,NA,TRUE
 hunt the hunter,NA,NA,TRUE
 hunt the weak,4,NA,NA
+hunter sliver,1,NA,NA
 hunter's ambush,4,NA,NA
 hunter's prowess,1,NA,NA
 hunting drake,NA,NA,TRUE
 hunting pack,1,NA,NA
-hunter sliver,1,NA,NA
 hunting triad,1,NA,NA
 hurkyl's recall,2,NA,NA
 hurloon minotaur,NA,NA,TRUE
@@ -2109,9 +2109,9 @@ ironroot treefolk,NA,NA,TRUE
 ironshell beetle,NA,NA,TRUE
 isochron scepter,1,NA,NA
 isolation zone,1,NA,NA
-isperia's skywatch,NA,NA,TRUE
 isperia the inscrutable,1,NA,NA
 "isperia, supreme judge",1,NA,NA
+isperia's skywatch,NA,NA,TRUE
 ivory cup,NA,NA,TRUE
 ivory tower,1,NA,NA
 ivorytusk fortress,1,NA,NA
@@ -2125,6 +2125,8 @@ izzet cluestone,3,NA,NA
 izzet guildgate,21,NA,NA
 izzet keyrune,3,NA,NA
 izzet signet,1,NA,NA
+jace beleren,1,NA,NA
+"jace, memory adept",1,NA,NA
 jace's archivist,2,NA,NA
 jace's erasure,0,NA,NA
 jace's ingenuity,0,NA,NA
@@ -2132,8 +2134,6 @@ jace's phantasm,0,NA,NA
 jace's sanctum,0,NA,NA
 jace's scrutiny,1,NA,NA
 jace's scrutiny,NA,NA,TRUE
-jace beleren,1,NA,NA
-"jace, memory adept",1,NA,NA
 jandor's saddlebags,1,NA,NA
 janjeet sentry,1,NA,NA
 jar of eyeballs,1,NA,NA
@@ -2175,9 +2175,9 @@ kamahl's desire,NA,NA,TRUE
 kami of ancient law,1,NA,NA
 kami of the crescent moon,2,NA,NA
 kapsho kitefins,NA,NA,TRUE
+"karametra, god of harvests",1,NA,NA
 karametra's acolyte,2,NA,NA
 karametra's favor,3,1,NA
-"karametra, god of harvests",1,NA,NA
 karma,2,NA,NA
 kavu aggressor,NA,NA,TRUE
 kazandu refuge,1,NA,NA
@@ -2200,11 +2200,9 @@ khalni hydra,1,NA,NA
 kheru bloodsucker,2,NA,NA
 kheru dreadmaw,4,NA,NA
 kheru spellsnatcher,2,NA,NA
-kill-suit cultist,NA,NA,TRUE
 kill shot,4,NA,NA
 killer instinct,1,NA,NA
-kin-tree invocation,2,NA,NA
-kin-tree warden,NA,NA,TRUE
+kill-suit cultist,NA,NA,TRUE
 kindercatch,NA,NA,TRUE
 kindled fury,4,NA,NA
 kindly stranger,NA,NA,TRUE
@@ -2212,10 +2210,12 @@ kindly stranger,NA,NA,TRUE
 "king macar, the gold-cursed",1,NA,NA
 kingpin's pet,3,1,NA
 kinsbaile skirmisher,NA,NA,TRUE
-kiora's dismissal,1,NA,NA
-kiora's follower,4,NA,NA
+kin-tree invocation,2,NA,NA
+kin-tree warden,NA,NA,TRUE
 "kiora, master of the depths",1,NA,NA
 "kiora, the crashing wave",1,1,NA
+kiora's dismissal,1,NA,NA
+kiora's follower,4,NA,NA
 kird chieftain,NA,NA,TRUE
 kirtar's desire,NA,NA,TRUE
 kitesail,1,NA,NA
@@ -2232,13 +2232,13 @@ knightly valor,4,NA,NA
 knowledge and power,4,NA,NA
 knowledge pool,2,NA,NA
 kodama's reach,1,NA,NA
-kolaghan's command,1,NA,NA
 kolaghan aspirant,NA,NA,TRUE
 kolaghan forerunners,1,NA,NA
 kolaghan monument,1,NA,NA
 kolaghan skirmisher,NA,NA,TRUE
 kolaghan stormsinger,NA,NA,TRUE
 "kolaghan, the storm's fury",5,NA,NA
+kolaghan's command,1,NA,NA
 "kongming, ""sleeping dragon""",1,NA,NA
 kor bladewhirl,0,NA,NA
 kor castigator,NA,NA,TRUE
@@ -2275,8 +2275,8 @@ krovikan fetish,NA,NA,TRUE
 krovikan mist,0,NA,NA
 krovikan sorcerer,NA,NA,TRUE
 krumar bond-kin,NA,NA,TRUE
-kruphix's insight,7,NA,NA
 "kruphix, god of horizons",2,NA,NA
+kruphix's insight,7,NA,NA
 kyren legate,NA,NA,TRUE
 kytheon's tactics,NA,NA,TRUE
 laboratory maniac,1,NA,NA
@@ -2327,10 +2327,10 @@ leyline of punishment,1,NA,NA
 leyline phantom,NA,NA,TRUE
 liberated dwarf,NA,NA,TRUE
 liege of the axe,NA,NA,TRUE
-life's legacy,1,NA,NA
 lifeblood hydra,1,NA,NA
 lifecraft cavalry,NA,NA,TRUE
 lifeforce,1,NA,NA
+life's legacy,1,NA,NA
 lifespring druid,1,NA,NA
 lightform,1,NA,NA
 lightning axe,2,NA,NA
@@ -2368,9 +2368,9 @@ lone wolf,NA,NA,TRUE
 lonely sandbar,7,NA,NA
 long-finned skywhale,NA,NA,TRUE
 long-forgotten gohei,1,NA,NA
-long-term plans,1,NA,NA
 longhorn firebeast,NA,NA,TRUE
 longshot squad,4,NA,NA
+long-term plans,1,NA,NA
 looming spires,6,NA,NA
 lord of the undead,1,NA,NA
 lord of the unreal,0,NA,NA
@@ -2384,8 +2384,8 @@ lost in the mist,1,NA,NA
 lost in thought,NA,NA,TRUE
 lost leonin,1,NA,NA
 lost soul,NA,NA,TRUE
-lotus-eye mystics,3,NA,NA
 lotus path djinn,NA,NA,TRUE
+lotus-eye mystics,3,NA,NA
 lowland tracker,NA,NA,TRUE
 loxodon partisan,NA,NA,TRUE
 loxodon warhammer,1,NA,NA
@@ -2404,9 +2404,9 @@ macabre waltz,6,NA,NA
 macetail hystrodon,NA,NA,TRUE
 machinate,1,NA,NA
 mad prophet,4,NA,NA
-mage's guile,1,NA,NA
 mage-ring bully,NA,NA,TRUE
 mage-ring network,1,NA,NA
+mage's guile,1,NA,NA
 maggot carrier,NA,NA,TRUE
 magister of worth,NA,1,NA
 magma burst,NA,NA,TRUE
@@ -2427,7 +2427,6 @@ malevolent whispers,2,NA,NA
 malfunction,1,NA,NA
 malicious advice,NA,NA,TRUE
 malicious intent,NA,NA,TRUE
-man-o'-war,0,NA,NA
 mana bloom,1,NA,NA
 mana confluence,1,NA,NA
 mana leak,5,NA,NA
@@ -2442,6 +2441,7 @@ maniacal rage,NA,NA,TRUE
 manic scribe,0,NA,NA
 manipulate fate,NA,NA,TRUE
 manor skeleton,NA,NA,TRUE
+man-o'-war,0,NA,NA
 mantis rider,3,NA,NA
 mantle of webs,NA,NA,TRUE
 map the wastes,4,NA,NA
@@ -2491,13 +2491,13 @@ matter reshaper,1,NA,NA
 maw of kozilek,NA,NA,TRUE
 maw of the mire,NA,NA,TRUE
 mayael the anima,0,NA,NA
-maze's end,3,NA,NA
 maze abomination,5,NA,NA
 maze behemoth,4,NA,NA
 maze glider,3,NA,NA
 maze rusher,8,NA,NA
 maze sentinel,4,NA,NA
 maze sentinel,NA,NA,TRUE
+maze's end,3,NA,NA
 meandering towershell,5,NA,NA
 meditation puzzle,NA,NA,TRUE
 meglonoth,1,NA,NA
@@ -2509,21 +2509,21 @@ memory erosion,1,NA,NA
 memory lapse,1,NA,NA
 mending touch,NA,NA,TRUE
 mentor of the meek,1,NA,NA
-mer-ek nightblade,2,NA,NA
-merchant's dockhand,1,NA,NA
 merchant of secrets,1,NA,NA
+merchant's dockhand,1,NA,NA
 merciless executioner,0,NA,NA
 merciless resolve,4,NA,NA
 mercurial chemister,1,NA,NA
 mercurial kite,NA,NA,TRUE
 mercurial pretender,2,NA,NA
+mer-ek nightblade,2,NA,NA
 merfolk of the depths,NA,NA,TRUE
 merfolk of the pearl trident,NA,NA,TRUE
 merfolk spy,NA,NA,TRUE
 mesa enchantress,1,NA,NA
 mesa falcon,NA,NA,TRUE
-messenger's speed,2,NA,NA
 messenger drake,NA,NA,TRUE
+messenger's speed,2,NA,NA
 metallurgic summonings,2,NA,NA
 metathran zombie,NA,NA,TRUE
 meteorite,5,NA,NA
@@ -2543,7 +2543,6 @@ military intelligence,2,NA,NA
 millennial gargoyle,NA,NA,TRUE
 millstone,2,NA,NA
 "mina and denn, wildborn",1,NA,NA
-mind's desire,2,NA,NA
 mind bomb,NA,NA,TRUE
 mind control,1,NA,NA
 mind funeral,1,NA,NA
@@ -2555,6 +2554,7 @@ mind sculpt,4,NA,NA
 mind stone,2,NA,NA
 mindlock orb,0,NA,NA
 mindreaver,1,NA,NA
+mind's desire,2,NA,NA
 mindshrieker,1,NA,NA
 mindstab thrull,NA,NA,TRUE
 mindstatic,3,NA,NA
@@ -2594,9 +2594,9 @@ mnemonic wall,5,NA,NA
 moan of the unhallowed,2,NA,NA
 mob rule,1,NA,NA
 mobile garrison,3,NA,NA
+"mogis, god of slaughter",2,NA,NA
 mogis's marauder,4,NA,NA
 mogis's warhound,NA,NA,TRUE
-"mogis, god of slaughter",2,NA,NA
 mold shambler,1,NA,NA
 moldgraf scavenger,4,NA,NA
 molten birth,2,NA,NA
@@ -2629,9 +2629,9 @@ morbid hunger,NA,NA,TRUE
 morgue burst,5,NA,NA
 morkrut necropod,NA,NA,TRUE
 moroii,1,NA,NA
+mortal obstinacy,NA,NA,TRUE
 mortal's ardor,NA,NA,TRUE
 mortal's resolve,4,NA,NA
-mortal obstinacy,NA,NA,TRUE
 mortify,2,NA,NA
 mortivore,1,NA,NA
 mortuary mire,2,NA,NA
@@ -2749,17 +2749,17 @@ nimbus of the isles,NA,NA,TRUE
 nimbus of the isles,NA,NA,TRUE
 nimbus swimmer,1,NA,NA
 nirkana assassin,NA,NA,TRUE
+"nissa, voice of zendikar",1,NA,NA
+"nissa, worldwaker",1,NA,NA
 nissa's expedition,3,NA,NA
 nissa's judgment,NA,NA,TRUE
 nissa's pilgrimage,3,NA,NA
 nissa's revelation,2,NA,NA
-"nissa, voice of zendikar",1,NA,NA
-"nissa, worldwaker",1,NA,NA
-"niv-mizzet, the firemind",1,NA,NA
 nivix barrier,NA,NA,TRUE
 nivix cyclops,4,NA,NA
 nivix guildmage,3,NA,NA
 nivmagus elemental,2,NA,NA
+"niv-mizzet, the firemind",1,NA,NA
 nobilis of war,2,NA,NA
 noble quarry,1,NA,NA
 noble templar,NA,NA,TRUE
@@ -2779,7 +2779,6 @@ nurturing licid,NA,NA,TRUE
 nylea's disciple,4,NA,NA
 nylea's emissary,1,NA,NA
 nylea's presence,4,NA,NA
-nyx-fleece ram,2,NA,NA
 nyx infusion,NA,NA,TRUE
 nyx weaver,5,NA,NA
 nyxborn eidolon,NA,NA,TRUE
@@ -2787,6 +2786,7 @@ nyxborn rollicker,4,NA,NA
 nyxborn shieldmate,4,NA,NA
 nyxborn triton,4,NA,NA
 nyxborn wolf,4,NA,NA
+nyx-fleece ram,2,NA,NA
 oak street innkeeper,4,NA,NA
 oaken brawler,NA,NA,TRUE
 oakheart dryads,NA,NA,TRUE
@@ -2804,20 +2804,21 @@ oblivion strike,4,NA,NA
 obscuring aether,3,NA,NA
 observant alseid,4,NA,NA
 obsessive skinner,NA,NA,TRUE
-obzedat's aid,1,NA,NA
 "obzedat, ghost council",1,NA,NA
+obzedat's aid,1,NA,NA
 ocular halo,NA,NA,TRUE
 "odric, lunarch marshal",2,NA,NA
+"odric, master tactician",1,NA,NA
 odunos river trawler,2,NA,NA
 ogre jailbreaker,NA,NA,TRUE
 ogre taskmaster,NA,NA,TRUE
 ogre warrior,NA,NA,TRUE
-ojutai's breath,4,NA,NA
-ojutai's command,1,NA,NA
-ojutai's summons,4,NA,NA
 ojutai interceptor,NA,NA,TRUE
 ojutai monument,1,NA,NA
 "ojutai, soul of winter",1,NA,NA
+ojutai's breath,4,NA,NA
+ojutai's command,1,NA,NA
+ojutai's summons,4,NA,NA
 olivia's bloodsworn,2,NA,NA
 "oloro, ageless ascetic",1,NA,NA
 omenspeaker,4,NA,NA
@@ -2828,10 +2829,10 @@ ondu giant,2,NA,NA
 ondu greathorn,NA,NA,TRUE
 ondu rising,1,NA,NA
 ondu war cleric,NA,NA,TRUE
-one-eyed scarecrow,NA,NA,TRUE
-one-eyed scarecrow,0,NA,NA
 one dozen eyes,1,NA,NA
 one thousand lashes,1,NA,NA
+one-eyed scarecrow,NA,NA,TRUE
+one-eyed scarecrow,0,NA,NA
 ongoing investigation,3,NA,NA
 ooze flux,2,NA,NA
 opal caryatid,1,NA,NA
@@ -2846,11 +2847,11 @@ open the vaults,1,NA,NA
 opportunity,3,NA,NA
 oppressive rays,4,NA,NA
 opulent palace,4,NA,NA
-oracle's attendants,NA,NA,TRUE
-oracle's insight,2,1,NA
 oracle of bones,1,NA,NA
 oracle of dust,3,NA,NA
 oracle of mul daya,1,NA,NA
+oracle's attendants,NA,NA,TRUE
+oracle's insight,2,1,NA
 oran-rief invoker,NA,NA,TRUE
 orator of ojutai,NA,NA,TRUE
 orbs of warding,0,NA,NA
@@ -2865,7 +2866,6 @@ ordeal of heliod,3,NA,NA
 ordeal of nylea,3,NA,NA
 ordeal of thassa,2,NA,NA
 order of succession,1,NA,NA
-"odric, master tactician",1,NA,NA
 oreskos sun guide,NA,NA,TRUE
 oreskos swiftclaw,NA,NA,TRUE
 orim's touch,NA,NA,TRUE
@@ -2876,7 +2876,10 @@ orochi leafcaller,1,NA,NA
 orochi sustainer,1,NA,NA
 orzhov basilica,3,NA,NA
 orzhov charm,5,NA,NA
+orzhov cluestone,5,NA,NA
 orzhov guildgate,18,NA,NA
+orzhov keyrune,2,NA,NA
+orzhov signet,1,NA,NA
 otherworld atlas,2,NA,NA
 outland boar,NA,NA,TRUE
 outnumber,2,NA,NA
@@ -2890,9 +2893,6 @@ overrun,0,NA,NA
 oversoul of dusk,1,NA,NA
 overwhelm,1,NA,NA
 overwhelming stampede,0,NA,NA
-orzhov cluestone,5,NA,NA
-orzhov keyrune,2,NA,NA
-orzhov signet,1,NA,NA
 pacification array,1,NA,NA
 pacifism,3,NA,NA
 pack guardian,NA,NA,TRUE
@@ -2951,10 +2951,10 @@ phantasmal terrain,1,NA,NA
 phantom general,1,NA,NA
 phantom warrior,4,NA,NA
 pharagax giant,4,NA,NA
+"pharika, god of affliction",1,NA,NA
 pharika's chosen,NA,NA,TRUE
 pharika's cure,0,NA,NA
 pharika's disciple,NA,NA,TRUE
-"pharika, god of affliction",1,NA,NA
 phelddagrif,1,NA,NA
 "phenax, god of deception",1,NA,NA
 pheres-band centaurs,NA,NA,TRUE
@@ -2977,9 +2977,9 @@ pieces of the puzzle,0,NA,NA
 piety,NA,NA,TRUE
 pikemen,2,NA,NA
 pilfered plans,4,NA,NA
-pilgrim's eye,0,NA,NA
 pilgrim of the fires,NA,NA,TRUE
 pilgrim of virtue,NA,NA,TRUE
+pilgrim's eye,0,NA,NA
 pillar of light,3,NA,NA
 pillar of war,NA,NA,TRUE
 pillarfield ox,NA,NA,TRUE
@@ -3024,9 +3024,9 @@ precinct captain,2,NA,NA
 precinct captain,1,NA,NA
 precise strike,NA,NA,TRUE
 precursor golem,1,NA,NA
+"predator, flagship",0,NA,NA
 predator's gambit,NA,NA,TRUE
 predator's rapport,4,NA,NA
-"predator, flagship",0,NA,NA
 predatory advantage,1,NA,NA
 predatory rampage,1,NA,NA
 preeminent captain,1,NA,NA
@@ -3124,7 +3124,6 @@ rain of thorns,2,NA,NA
 raise dead,2,NA,NA
 raise the alarm,1,NA,NA
 raised by wolves,3,NA,NA
-rakdos's return,1,NA,NA
 rakdos cackler,2,NA,NA
 rakdos carnarium,3,NA,NA
 rakdos cluestone,5,NA,NA
@@ -3135,10 +3134,11 @@ rakdos ragemutt,2,NA,NA
 rakdos riteknife,1,NA,NA
 rakdos shred-freak,3,NA,NA
 rakdos signet,1,NA,NA
-rakshasa's disdain,5,NA,NA
-rakshasa's secret,NA,NA,TRUE
+rakdos's return,1,NA,NA
 rakshasa gravecaller,1,NA,NA
 rakshasa vizier,2,NA,NA
+rakshasa's disdain,5,NA,NA
+rakshasa's secret,NA,NA,TRUE
 ral zarek,2,NA,NA
 rally the peasants,1,NA,NA
 rally the righteous,1,NA,NA
@@ -3288,9 +3288,9 @@ rise to the challenge,1,NA,NA
 risen executioner,1,NA,NA
 risen sanctuary,3,NA,NA
 rite of replication,1,NA,NA
+rite of ruin,1,NA,NA
 rite of the serpent,NA,NA,TRUE
 rite of undoing,NA,NA,TRUE
-rite of ruin,1,NA,NA
 rites of flourishing,1,NA,NA
 rites of initiation,NA,NA,TRUE
 rites of refusal,1,NA,NA
@@ -3304,12 +3304,12 @@ roast,3,NA,NA
 rod of ruin,NA,NA,TRUE
 rogue's gloves,1,NA,NA
 rogue's passage,2,NA,NA
-roil's retribution,NA,NA,TRUE
 roil elemental,1,NA,NA
 roil spout,3,NA,NA
 roiling terrain,2,NA,NA
 roiling waters,NA,NA,TRUE
 roilmage's trick,NA,NA,TRUE
+roil's retribution,NA,NA,TRUE
 rollick of abandon,NA,NA,TRUE
 rolling spoil,1,NA,NA
 rolling temblor,1,NA,NA
@@ -3380,14 +3380,14 @@ sacred nectar,NA,NA,TRUE
 sacred rites,NA,NA,TRUE
 saddleback lagac,NA,NA,TRUE
 safe passage,3,NA,NA
-sage's reverie,1,NA,NA
-sage's row denizen,5,NA,NA
-sage-eye avengers,1,1,NA
-sage-eye harrier,NA,NA,TRUE
 sage of hours,1,NA,NA
 sage of shaila's claim,1,NA,NA
 sage owl,1,NA,NA
+sage-eye avengers,1,1,NA
+sage-eye harrier,NA,NA,TRUE
 sages of the anima,2,NA,NA
+sage's reverie,1,NA,NA
+sage's row denizen,5,NA,NA
 sagu archer,NA,NA,TRUE
 sagu mauler,2,NA,NA
 sakura-tribe elder,2,NA,NA
@@ -3570,11 +3570,11 @@ seraph sanctuary,1,NA,NA
 serene master,1,NA,NA
 serene remembrance,2,NA,NA
 serene steward,1,NA,NA
+serra angel,4,NA,NA
+serra avatar,1,NA,NA
 serra's blessing,1,NA,NA
 serra's hymn,NA,NA,TRUE
 serra's sanctum,0,NA,NA
-serra angel,4,NA,NA
-serra avatar,1,NA,NA
 servant of nefarox,3,NA,NA
 servant of the conduit,1,NA,NA
 servant of the scale,4,NA,NA
@@ -3629,9 +3629,9 @@ shipbreaker kraken,2,NA,NA
 shipbreaker kraken,1,NA,NA
 shipwreck moray,1,NA,NA
 shipwreck singer,3,NA,NA
-shiv's embrace,2,NA,NA
 shivan dragon,1,NA,NA
 shivan reef,3,NA,NA
+shiv's embrace,2,NA,NA
 shock,4,NA,NA
 shock troops,1,NA,NA
 shockmaw dragon,4,NA,NA
@@ -3655,9 +3655,9 @@ sibsig host,NA,NA,TRUE
 sibsig icebreakers,NA,NA,TRUE
 sibsig muckdraggers,NA,NA,TRUE
 sickle ripper,NA,NA,TRUE
+"sidisi, brood tyrant",3,NA,NA
 sidisi's faithful,4,NA,NA
 sidisi's pet,NA,NA,TRUE
-"sidisi, brood tyrant",3,NA,NA
 siege behemoth,1,NA,NA
 siege dragon,2,NA,NA
 siege mastodon,NA,NA,TRUE
@@ -3689,15 +3689,14 @@ silkenfist order,NA,NA,TRUE
 silklash spider,1,NA,NA
 silkwing scout,1,NA,NA
 silkwrap,1,NA,NA
-silumgar monument,3,NA,NA
-silumgar's command,1,NA,NA
-silumgar's scorn,1,NA,NA
 silumgar assassin,1,NA,NA
 silumgar butcher,NA,NA,TRUE
+silumgar monument,3,NA,NA
 silumgar sorcerer,2,NA,NA
 silumgar spell-eater,2,NA,NA
-silver-inlaid dagger,1,NA,NA
-sliver construct,NA,NA,TRUE
+"silumgar, the drifting death",2,NA,NA
+silumgar's command,1,NA,NA
+silumgar's scorn,1,NA,NA
 silver drake,NA,NA,TRUE
 silver knight,2,NA,NA
 silver myr,1,NA,NA
@@ -3705,6 +3704,7 @@ silverchase fox,1,NA,NA
 silverclaw griffin,NA,NA,TRUE
 silvercoat lion,NA,NA,TRUE
 silverfur partisan,1,NA,NA
+silver-inlaid dagger,1,NA,NA
 simic charm,2,NA,NA
 simic cluestone,4,NA,NA
 simic fluxmage,2,NA,NA
@@ -3716,7 +3716,6 @@ simic manipulator,1,NA,NA
 simic ragworm,1,NA,NA
 simic signet,1,NA,NA
 simic sky swallower,1,NA,NA
-"silumgar, the drifting death",2,NA,NA
 simplify,1,NA,NA
 sin collector,5,NA,NA
 sin prodder,1,NA,NA
@@ -3772,9 +3771,9 @@ slagwurm armor,2,NA,NA
 slaughter drone,NA,NA,TRUE
 slaughterhorn,2,NA,NA
 slay,NA,NA,TRUE
+slayer of the wicked,NA,NA,TRUE
 slayer's plate,2,NA,NA
 slayers' stronghold,1,NA,NA
-slayer of the wicked,NA,NA,TRUE
 sleep,0,NA,NA
 sleep paralysis,NA,NA,TRUE
 sleight of hand,1,NA,NA
@@ -3785,6 +3784,7 @@ slingbow trap,NA,NA,TRUE
 slip through space,0,NA,NA
 slippery karst,2,NA,NA
 slithermuse,1,NA,NA
+sliver construct,NA,NA,TRUE
 sliver construct,0,NA,NA
 sliver hive,1,NA,NA
 sliver hivelord,1,NA,NA
@@ -3843,8 +3843,8 @@ soulsworn jury,1,NA,NA
 soulsworn spirit,1,NA,NA
 sovereigns of lost alara,1,NA,NA
 spare from evil,2,NA,NA
-spark of creativity,1,NA,NA
 spark jolt,4,NA,NA
+spark of creativity,1,NA,NA
 spark spray,NA,NA,TRUE
 sparkmage's gambit,NA,NA,TRUE
 sparksmith,1,NA,NA
@@ -3869,12 +3869,12 @@ spellgorger barbarian,NA,NA,TRUE
 spellheart chimera,3,NA,NA
 sphere of reason,NA,NA,TRUE
 sphere of safety,2,NA,NA
-sphinx's disciple,4,NA,NA
-sphinx's tutelage,0,NA,NA
 sphinx of jwar isle,2,NA,NA
 sphinx of magosi,2,NA,NA
 sphinx of the final word,2,NA,NA
 sphinx of uthuun,0,NA,NA
+sphinx's disciple,4,NA,NA
+sphinx's tutelage,0,NA,NA
 spidersilk net,3,NA,NA
 spiderwig boggart,NA,NA,TRUE
 spidery grasp,NA,NA,TRUE
@@ -3959,7 +3959,6 @@ stoic builder,3,NA,NA
 stoic rebuttal,1,NA,NA
 stoke the flames,2,NA,NA
 stolen identity,2,NA,NA
-stone-seeder hierophant,1,NA,NA
 stone giant,NA,NA,TRUE
 stone haven medic,NA,NA,TRUE
 stone kavu,NA,NA,TRUE
@@ -3970,6 +3969,7 @@ stoneforge acolyte,1,NA,NA
 stoneforge masterwork,1,NA,NA
 stonefury,NA,NA,TRUE
 stonehorn chanter,NA,NA,TRUE
+stone-seeder hierophant,1,NA,NA
 stoneshock giant,3,NA,NA
 stonewise fortifier,NA,NA,TRUE
 stormbound geist,2,NA,NA
@@ -3991,10 +3991,10 @@ stream of life,2,NA,NA
 street spasm,1,NA,NA
 street sweeper,NA,NA,TRUE
 streetbreaker wurm,NA,NA,TRUE
+strength from the fallen,4,NA,NA
 strength of arms,3,NA,NA
 strength of arms,NA,NA,TRUE
 strength of night,NA,NA,TRUE
-strength from the fallen,4,NA,NA
 striking sliver,1,NA,NA
 stroke of genius,0,NA,NA
 stromkirk captain,2,NA,NA
@@ -4087,7 +4087,6 @@ syndic of tithes,2,NA,NA
 syndicate enforcer,1,NA,NA
 syphon sliver,1,NA,NA
 tablet of the guilds,1,NA,NA
-taj-nar swordsmith,1,NA,NA
 taigam's scheming,4,NA,NA
 taigam's strike,NA,NA,TRUE
 tail slash,4,NA,NA
@@ -4095,6 +4094,7 @@ tainted field,1,NA,NA
 tainted isle,1,NA,NA
 tainted wood,1,NA,NA
 "tajic, blade of the legion",2,NA,NA
+taj-nar swordsmith,1,NA,NA
 tajuru beastmaster,NA,NA,TRUE
 tajuru pathwarden,NA,NA,TRUE
 tajuru stalwart,NA,NA,TRUE
@@ -4111,19 +4111,18 @@ tandem lookout,1,NA,NA
 tandem tactics,NA,NA,TRUE
 tapestry of the ages,2,NA,NA
 tar snare,NA,NA,TRUE
-tragic slip,2,NA,NA
 tarpan,NA,NA,TRUE
-tasigur's cruelty,3,NA,NA
 "tasigur, the golden fang",1,NA,NA
+tasigur's cruelty,3,NA,NA
 task force,NA,NA,TRUE
 tattermunge witch,NA,NA,TRUE
 tears of rage,1,NA,NA
 tears of valakut,2,NA,NA
 tectonic edge,2,NA,NA
-teferi's puzzle box,2,NA,NA
 "teferi, temporal archmage",1,NA,NA
-tel-jilad outrider,NA,NA,TRUE
+teferi's puzzle box,2,NA,NA
 telepathy,1,NA,NA
+tel-jilad outrider,NA,NA,TRUE
 telling time,0,NA,NA
 temple bell,0,NA,NA
 temple garden,1,NA,NA
@@ -4173,12 +4172,12 @@ tetravus,0,NA,NA
 tezzeret the seeker,1,NA,NA
 "thada adel, acquisitor",0,NA,NA
 "thalia, guardian of thraben",1,NA,NA
+"thassa, god of the sea",0,NA,NA
 thassa's bounty,4,NA,NA
 thassa's devourer,3,NA,NA
 thassa's emissary,2,NA,NA
 thassa's ire,2,NA,NA
 thassa's rebuff,3,NA,NA
-"thassa, god of the sea",0,NA,NA
 thatcher revolt,4,NA,NA
 the brute,NA,NA,TRUE
 the gitrog monster,1,1,NA
@@ -4204,8 +4203,8 @@ thought scour,3,NA,NA
 thought vessel,2,NA,NA
 thoughtflare,1,NA,NA
 thoughtrender lamia,3,NA,NA
-thousand-year elixir,1,NA,NA
 thousand winds,1,NA,NA
+thousand-year elixir,1,NA,NA
 thraben doomsayer,1,NA,NA
 thraben gargoyle,NA,NA,TRUE
 thraben heretic,3,NA,NA
@@ -4259,11 +4258,11 @@ time to reflect,NA,NA,TRUE
 timely hordemate,NA,NA,TRUE
 tireless missionaries,NA,NA,TRUE
 tireless missionaries,NA,NA,TRUE
-titan's presence,1,NA,NA
-titan's strength,4,NA,NA
 titan of eternal fire,2,NA,NA
 titania's chosen,1,NA,NA
 titanic growth,9,NA,NA
+titan's presence,1,NA,NA
+titan's strength,4,NA,NA
 tithe drinker,2,NA,NA
 toil // trouble,4,NA,NA
 tomb of the spirit dragon,3,NA,NA
@@ -4298,6 +4297,7 @@ tracker's instincts,1,NA,NA
 trade secrets,0,NA,NA
 trading post,2,NA,NA
 tragic poet,1,NA,NA
+tragic slip,2,NA,NA
 trail of evidence,0,NA,NA
 trail of mystery,1,NA,NA
 trained caracal,NA,NA,TRUE
@@ -4323,9 +4323,9 @@ traveling philosopher,NA,NA,TRUE
 treacherous pit-dweller,1,NA,NA
 tread upon,NA,NA,TRUE
 treasure cruise,1,NA,NA
-treasured find,1,NA,NA
 treasure hunt,2,NA,NA
 treasure mage,1,NA,NA
+treasured find,1,NA,NA
 treasury thrull,NA,1,NA
 treetop scout,2,NA,NA
 tremor,NA,NA,TRUE
@@ -4350,8 +4350,8 @@ tromokratis,1,NA,NA
 tromokratis,1,NA,NA
 trostani's judgment,4,NA,NA
 trostani's summoner,4,1,NA
-true-faith censer,NA,NA,TRUE
 true believer,1,NA,NA
+true-faith censer,NA,NA,TRUE
 truefire paladin,1,NA,NA
 trueheart twins,NA,NA,TRUE
 trumpet blast,4,NA,NA
@@ -4359,6 +4359,7 @@ trusted forcemage,NA,NA,TRUE
 trusty companion,NA,NA,TRUE
 trygon predator,1,NA,NA
 tsunami,1,NA,NA
+tukatongue thallid,2,NA,NA
 tundra wolves,NA,NA,TRUE
 tunneling geopede,3,NA,NA
 turn // burn,4,NA,NA
@@ -4368,7 +4369,6 @@ turn to frog,7,NA,NA
 turn to slag,3,NA,NA
 turnabout,1,NA,NA
 turtleshell changeling,1,NA,NA
-tukatongue thallid,2,NA,NA
 tusked colossodon,1,NA,NA
 tusked colossodon,NA,NA,TRUE
 tuskguard captain,2,NA,NA
@@ -4384,14 +4384,14 @@ tyrannize,1,NA,NA
 tyrant of discord,1,NA,NA
 tyrant of valakut,1,NA,NA
 ubul sar gatekeepers,4,NA,NA
+"ugin, the spirit dragon",2,NA,NA
 ugin's insight,1,NA,NA
 ugin's insight,1,NA,NA
 ugin's nexus,1,NA,NA
-"ugin, the spirit dragon",2,NA,NA
 ukud cobra,NA,NA,TRUE
+"ulamog, the ceaseless hunger",0,NA,NA
 ulamog's nullifier,3,NA,NA
 ulamog's reclaimer,1,NA,NA
-"ulamog, the ceaseless hunger",0,NA,NA
 ulcerate,2,NA,NA
 ulrich's kindred,1,NA,NA
 ultimate price,0,NA,NA
@@ -4437,7 +4437,6 @@ untamed wilds,1,NA,NA
 unwinding clock,0,NA,NA
 unyielding krumar,NA,NA,TRUE
 updraft elemental,NA,NA,TRUE
-ur-golem's eye,1,NA,NA
 urban burgeoning,4,NA,NA
 urban evolution,5,NA,NA
 urbis protector,4,NA,NA
@@ -4445,13 +4444,14 @@ urborg elf,1,NA,NA
 urborg phantom,NA,NA,TRUE
 "urborg, tomb of yawgmoth (p)",1,NA,NA
 urgent exorcism,NA,NA,TRUE
+ur-golem's eye,1,NA,NA
+urza's factory,1,NA,NA
 urza's mine,2,NA,NA
 urza's power plant,2,NA,NA
 urza's tower,1,NA,NA
 utopia sprawl,2,NA,NA
 utter end,2,NA,NA
 "uyo, silent prophet",1,NA,NA
-urza's factory,1,NA,NA
 valakut invoker,NA,NA,TRUE
 valakut predator,2,NA,NA
 valeron wardens,NA,NA,TRUE
@@ -4471,8 +4471,8 @@ vampiric fury,3,NA,NA
 vampiric rites,1,NA,NA
 vandalblast,1,NA,NA
 vandalize,4,NA,NA
-vanguard's shield,1,NA,NA
 vanguard of brimaz,1,NA,NA
+vanguard's shield,1,NA,NA
 vanishment,1,NA,NA
 vanquish the foul,NA,NA,TRUE
 vapor snag,0,NA,NA
@@ -4505,14 +4505,14 @@ vessel of nascency,1,NA,NA
 vessel of paramnesia,NA,NA,TRUE
 vessel of volatility,3,NA,NA
 vestige of emrakul,NA,NA,TRUE
-veteran's armaments,2,NA,NA
-veteran's sidearm,NA,NA,TRUE
 veteran armorer,4,NA,NA
 veteran armorsmith,2,NA,NA
 veteran cathar,1,NA,NA
 veteran of the depths,NA,NA,TRUE
 veteran swordsmith,2,NA,NA
 veteran warleader,1,NA,NA
+veteran's armaments,2,NA,NA
+veteran's sidearm,NA,NA,TRUE
 vial of dragonfire,4,NA,NA
 vial of poison,NA,NA,TRUE
 viashino firstblade,5,NA,NA
@@ -4590,8 +4590,8 @@ wake the reflections,4,NA,NA
 walking atlas,5,NA,NA
 walking corpse,NA,NA,TRUE
 wall of air,1,NA,NA
-wall of bone,1,NA,NA
 wall of blood,1,NA,NA
+wall of bone,1,NA,NA
 wall of brambles,1,NA,NA
 wall of deceit,1,NA,NA
 wall of denial,1,NA,NA
@@ -4614,8 +4614,6 @@ wandering stream,NA,NA,TRUE
 wandering tombshell,NA,NA,TRUE
 wandering wolf,NA,NA,TRUE
 wanderlust,NA,NA,TRUE
-war-name aspirant,2,NA,NA
-war-wing siren,NA,NA,TRUE
 war behemoth,NA,NA,TRUE
 war cadence,0,NA,NA
 war falcon,NA,NA,TRUE
@@ -4634,19 +4632,21 @@ warden of the eye,2,NA,NA
 warden of the wall,NA,NA,TRUE
 wardscale dragon,1,NA,NA
 warleader's helix,3,NA,NA
+war-name aspirant,2,NA,NA
 warp world,1,NA,NA
 warped landscape,3,NA,NA
 warped physique,2,NA,NA
 warriors' lesson,4,NA,NA
 warstorm surge,0,NA,NA
+war-wing siren,NA,NA,TRUE
 wash out,0,NA,NA
 watcher in the web,NA,NA,TRUE
 watcher of the roost,NA,NA,TRUE
 water servant,NA,NA,TRUE
 watercourser,NA,NA,TRUE
-wave-wing elemental,NA,NA,TRUE
 wave of vitriol,1,NA,NA
 wavecrash triton,NA,NA,TRUE
+wave-wing elemental,NA,NA,TRUE
 waxmane baku,NA,NA,TRUE
 way of the thief,NA,NA,TRUE
 wayfarer's bauble,0,NA,NA
@@ -4686,7 +4686,6 @@ whispering shade,NA,NA,TRUE
 white knight,1,NA,NA
 wicker witch,NA,NA,TRUE
 wight of precinct six,1,NA,NA
-wild-field scarecrow,1,NA,NA
 wild celebrants,1,NA,NA
 wild celebrants,NA,NA,TRUE
 wild defiance,1,NA,NA
@@ -4700,23 +4699,24 @@ wild mongrel,1,NA,NA
 wild pair,1,NA,NA
 wild ricochet,2,NA,NA
 wild wanderer,3,NA,NA
+wild-field scarecrow,1,NA,NA
 wildfire,1,NA,NA
 wildfire cerberus,NA,NA,TRUE
 wildwood rebirth,5,NA,NA
-will-forged golem,NA,NA,TRUE
 will of the naga,NA,NA,TRUE
 willbender,6,NA,NA
 willbreaker,1,NA,NA
+will-forged golem,NA,NA,TRUE
 willow elf,NA,NA,TRUE
 wilt-leaf cavaliers,1,NA,NA
 wily bandar,NA,NA,TRUE
-wind-scarred crag,4,NA,NA
 wind drake,NA,NA,TRUE
 windborn muse,1,NA,NA
 windfall,1,NA,NA
 windreader sphinx,1,NA,NA
 windreaver,1,NA,NA
 winds of qal sisma,4,NA,NA
+wind-scarred crag,4,NA,NA
 windstorm,4,NA,NA
 windswept heath,1,NA,NA
 wing shards,3,NA,NA
@@ -4724,13 +4724,13 @@ wingbeat warrior,NA,NA,TRUE
 wingsteed rider,NA,NA,TRUE
 winterflame,2,NA,NA
 wirewood hivemaster,1,NA,NA
-wit's end,1,NA,NA
-witch's familiar,4,NA,NA
 witch hunt,0,NA,NA
 witchbane orb,2,NA,NA
 witches' eye,4,NA,NA
+witch's familiar,4,NA,NA
 witness of the ages,NA,NA,TRUE
 witness the end,NA,NA,TRUE
+wit's end,1,NA,NA
 wojek halberdiers,4,NA,NA
 wolfbriar elemental,1,NA,NA
 wolfcaller's howl,1,NA,NA
@@ -4791,9 +4791,9 @@ zealous inquisitor,NA,NA,TRUE
 zealous persecution,1,NA,NA
 zealous strike,NA,NA,TRUE
 zedruu the greathearted,1,NA,NA
-zendikar's roil,1,NA,NA
 zendikar incarnate,2,NA,NA
 zendikar resurgent,4,NA,NA
+zendikar's roil,1,NA,NA
 zephyr charge,NA,NA,TRUE
 zephyr falcon,NA,NA,TRUE
 zephyr scribe,4,NA,NA
