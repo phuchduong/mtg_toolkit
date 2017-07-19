@@ -1,8 +1,8 @@
-# @title: merge_inv_with_tcg.R
+# @title: mtg_json_to_csv.py
 # @author: Phuc Duong <phuchduong>
-# @start_date: July 8th, 2017
+# @start_date: July 16th, 2017
 # @email: phuchduong@hotmail.com
-# description: merge inventory sheet with tcgplayer price list
+# description: converts the mtg json to csv. Adds many features needed for sorting
 
 import json
 import pandas as pd
