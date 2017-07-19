@@ -108,4 +108,7 @@ mj_df.loc[mj_df.colorIdentity == "B, G, U, W", ("wubrg_order")] = 29     # Red-l
 mj_df.loc[mj_df.colorIdentity == "B, R, U, W", ("wubrg_order")] = 30     # Green-less
 mj_df.loc[mj_df.color_count == 5, ("wubrg_order")] = 31  # 5 color
 
+# categorizes normal mtg cards from specialty cards like vanguard, tokens, schemes, and  planes
+
+
 mj_df.to_csv("mtg_db.csv", index=False)
