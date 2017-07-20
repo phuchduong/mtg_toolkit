@@ -256,7 +256,6 @@ Aesthir Glider (Moon),,,,,Alliances,C,$1.16 ,$0.17 ,$0.05 ,07:54.5,3,1
 Aether Adept,,,,,Duel Decks: Jace vs. Vraska,C,$2.27 ,$0.16 ,$0.05 ,35:35.0,1UU,3
 Aether Adept,,,,,Magic 2011 (M11),C,$1.13 ,$0.15 ,$0.05 ,45:12.9,1UU,3
 Aether Adept,,,,,Magic 2012 (M12),C,$1.15 ,$0.15 ,$0.04 ,45:24.7,1UU,3
-aether adept,0,,,,unknown set,,,,,,,
 Aether Barrier,,,,,Nemesis,R,$1.50 ,$0.48 ,$0.20 ,49:24.8,2U,1
 Aether Burst,,,,,Odyssey,C,$1.14 ,$0.18 ,$0.05 ,50:04.2,1U,1
 Aether Charge,,,,,Onslaught,U,$0.99 ,$0.21 ,$0.08 ,50:20.0,4R,1
@@ -430,7 +429,6 @@ Air Elemental,,,,,Revised Edition,U,$1.17 ,$0.19 ,$0.06 ,54:11.2,3UU,24
 Air Elemental,,,,,Revised Edition (Foreign Black Border),U,,,,54:26.1,3UU,24
 Air Elemental,,,,,Revised Edition (Foreign White Border),U,,,,54:39.3,3UU,24
 Air Elemental,,,,,Starter 1999,U,$1.21 ,$0.24 ,$0.14 ,56:36.0,3UU,24
-air elemental,,,,TRUE,unknown set,,,,,,,
 Air Elemental,,,,,Unlimited Edition,U,$3.33 ,$0.62 ,$0.26 ,59:35.8,3UU,24
 Air Elemental,,,,,Welcome Deck 2017,U,$0.39 ,$0.33 ,$0.08 ,01:17.8,3UU,24
 Air Elemental (CE),,,,,Collector's Edition,U,$1.39 ,$0.42 ,$0.32 ,28:39.5,3UU,1
@@ -7693,7 +7691,6 @@ Dispatch,,,,,Modern Masters 2015,U,$1.84 ,$0.83 ,$0.50 ,48:45.6,W,2
 Dispatch,,,,,New Phyrexia,U,$2.00 ,$0.90 ,$0.50 ,49:37.8,W,2
 Dispel,,,,,Battle for Zendikar,C,$1.16 ,$0.20 ,$0.06 ,05:14.9,U,3
 Dispel,,,,,Return to Ravnica,C,$1.14 ,$0.17 ,$0.05 ,53:58.3,U,3
-dispel,0,,,,unknown set,,,,,,,
 Dispel,,,,,Worldwake,C,$1.26 ,$0.26 ,$0.09 ,01:37.9,U,3
 Dispeller's Capsule,,,,,Commander 2016,C,$0.95 ,$0.17 ,$0.05 ,29:33.2,W,3
 Dispeller's Capsule,,,,,Modern Masters,C,$1.14 ,$0.16 ,$0.04 ,48:33.1,W,3
@@ -7703,9 +7700,8 @@ Dispersal Shield,,,,,Scourge,C,$1.14 ,$0.15 ,$0.04 ,55:32.6,1U,1
 Dispersal Technician,1,,,,Aether Revolt,C,$2.17 ,$0.15 ,$0.01 ,07:42.0,4U,1
 Disperse,,,,,Magic 2014 (M14),C,$1.14 ,$0.15 ,$0.01 ,45:49.7,1U,5
 Disperse,,,,,Magic Origins,C,$1.14 ,$0.15 ,$0.02 ,46:24.9,1U,5
-Disperse,,,,,Morningtide,C,$1.14 ,$0.15 ,$0.05 ,49:11.9,1U,5
+Disperse,1,,,,Morningtide,C,$1.14 ,$0.15 ,$0.05 ,49:11.9,1U,5
 Disperse,,,,,Scars of Mirrodin,C,$1.14 ,$0.15 ,$0.02 ,55:17.4,1U,5
-disperse,5,,,,unknown set,,,,,,,
 Disperse,,,,,Welcome Deck 2016,C,$0.96 ,$0.19 ,$0.10 ,01:06.3,1U,5
 Dispersing Orb,,,,,Onslaught,U,$1.64 ,$0.19 ,$0.05 ,50:20.0,3UU,1
 Displace,,,,,Eldritch Moon,C,$1.15 ,$0.15 ,$0.01 ,37:13.3,2U,1
@@ -7782,7 +7778,6 @@ Divination,,,,,Magic 2012 (M12),C,$1.14 ,$0.14 ,$0.03 ,45:24.7,2U,8
 Divination,,,,,Magic 2013 (M13),C,$1.15 ,$0.15 ,$0.02 ,45:36.4,2U,8
 Divination,,,,,Magic 2014 (M14),C,$1.14 ,$0.15 ,$0.01 ,45:49.7,2U,8
 Divination,,,,,Magic 2015 (M15),C,$1.14 ,$0.14 ,$0.02 ,46:02.7,2U,8
-divination,3,,,,unknown set,,,,,,,
 Divine Congregation,,,,,Time Spiral,C,$1.15 ,$0.15 ,$0.02 ,58:04.4,3W,1
 Divine Deflection,,,,,Avacyn Restored,R,$1.28 ,$0.29 ,$0.09 ,20:51.4,XW,1
 Divine Favor,,,,,Magic 2012 (M12),C,$0.95 ,$0.15 ,$0.04 ,45:24.7,1W,4
@@ -11784,7 +11779,7 @@ Frost Breath,,,,,Magic 2012 (M12),C,$1.15 ,$0.15 ,$0.02 ,45:24.7,2U,2
 Frost Breath,,,,,Magic 2014 (M14),C,$1.15 ,$0.15 ,$0.01 ,45:49.7,2U,2
 frost breath,,,,TRUE,unknown set,,,,,,,
 Frost Giant,,,,,Legends,U,$1.05 ,$0.37 ,$0.22 ,44:24.3,3RRR,1
-Frost Lynx,4,,,,Magic 2015 (M15),C,$1.14 ,$0.15 ,$0.01 ,46:02.7,2U,1
+Frost Lynx,0,,,,Magic 2015 (M15),C,$1.14 ,$0.15 ,$0.01 ,46:02.7,2U,1
 Frost Marsh,,,,,Coldsnap,U,$2.00 ,$0.93 ,$0.49 ,27:32.4,,1
 Frost Ogre,,,,,Betrayers of Kamigawa,C,$1.14 ,$0.15 ,$0.04 ,21:30.3,3RR,1
 Frost Raptor,,,,,Coldsnap,C,$1.15 ,$0.15 ,$0.03 ,27:32.4,2U,1
@@ -22627,7 +22622,7 @@ Painted Bluffs,,,,,Amonkhet,C,$1.14 ,$0.13 ,$0.01 ,08:07.6,,1
 Painter's Servant,,,,,Masterpiece Series: Kaladesh Inventions,M,$66.88 ,$34.99 ,$21.89 ,47:08.1,2,2
 Painter's Servant,,,,,Shadowmoor,R,$24.99 ,$12.53 ,$8.40 ,55:43.4,2,2
 Painwracker Oni,,,,,Champions of Kamigawa,U,$1.16 ,$0.18 ,$0.05 ,26:53.1,3BB,1
-Palace Familiar,4,,,,Dragons of Tarkir,C,$0.95 ,$0.14 ,$0.03 ,31:16.6,1U,1
+Palace Familiar,0,,,,Dragons of Tarkir,C,$0.95 ,$0.14 ,$0.03 ,31:16.6,1U,1
 Palace Guard,,,,,Magic 2010 (M10),C,$0.95 ,$0.15 ,$0.04 ,44:59.9,2W,2
 Palace Guard,,,,,Magic 2011 (M11),C,$0.94 ,$0.15 ,$0.04 ,45:12.9,2W,2
 Palace Jailer,,,,,Conspiracy: Take the Crown,U,$1.99 ,$0.32 ,$0.04 ,30:20.9,2WW,1
