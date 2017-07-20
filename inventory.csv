@@ -4650,7 +4650,6 @@ Chandra's Outrage,,,,,Magic 2011 (M11),C,$1.13 ,$0.14 ,$0.04 ,45:12.9,2RR,6
 Chandra's Outrage,,,,,Magic 2012 (M12),C,$1.15 ,$0.15 ,$0.03 ,45:24.7,2RR,6
 Chandra's Outrage,,,,,Magic 2014 (M14),C,$1.12 ,$0.14 ,$0.02 ,45:49.7,2RR,6
 Chandra's Outrage,,,,,Modern Masters 2017,C,$1.15 ,$0.15 ,$0.01 ,48:58.4,2RR,6
-chandra's outrage,4,,,,unknown set,,,,,,,
 Chandra's Phoenix,,,,,Archenemy: Nicol Bolas,R,$0.99 ,$0.39 ,$0.29 ,20:24.4,1RR,4
 Chandra's Phoenix,,,,,Magic 2012 (M12),R,$4.24 ,$0.50 ,$0.16 ,45:24.7,1RR,4
 Chandra's Phoenix,3,,,,Magic 2014 (M14),R,$1.54 ,$0.47 ,$0.20 ,45:49.7,1RR,4
@@ -9869,7 +9868,7 @@ Extinction,,,,,Tempest,R,$2.00 ,$0.83 ,$0.47 ,57:24.7,4B,1
 Extinguish,,,,,Portal Second Age,C,$1.35 ,$0.19 ,$0.05 ,52:05.8,1U,3
 Extinguish,,,,,Portal Three Kingdoms,C,$1.75 ,$0.48 ,$0.28 ,52:18.3,1U,3
 Extinguish,,,,,Starter 1999,C,$1.16 ,$0.20 ,$0.10 ,56:36.0,1U,3
-Extinguish All Hope,0,,,,Journey Into Nyx,R,$2.50 ,$0.29 ,$0.10 ,43:10.4,4BB,1
+Extinguish All Hope,2,,,,Journey Into Nyx,R,$2.50 ,$0.29 ,$0.10 ,43:10.4,4BB,1
 Extirpate,,,,,Modern Masters,R,$7.99 ,$4.50 ,$3.29 ,48:33.1,B,2
 Extirpate,,,,,Planar Chaos,R,$7.19 ,$4.49 ,$3.69 ,50:52.8,B,2
 Extortion,,,,,Mercadian Masques,R,$1.32 ,$0.31 ,$0.15 ,47:34.6,3BB,1
@@ -12780,9 +12779,9 @@ Goblin // Boar Double-sided Token,,,,,Planechase Anthology,T,$0.45 ,$0.14 ,$0.08
 Goblin // Goat Double-sided Token,,,,,Commander 2014,T,$1.00 ,$0.15 ,$0.04 ,29:11.8,,1
 Goblin // Zombie Double-sided Token,,,,,Commander 2016,T,$1.34 ,$0.24 ,$0.10 ,29:33.2,,1
 Goblin Archaeologist,,,,,Darksteel,U,$2.27 ,$0.21 ,$0.09 ,30:39.8,1R,1
-Goblin Arsonist,1,,,,Duel Decks: Sorin vs. Tibalt,C,$0.95 ,$0.18 ,$0.05 ,36:20.8,R,4
+Goblin Arsonist,,,,,Duel Decks: Sorin vs. Tibalt,C,$0.95 ,$0.18 ,$0.05 ,36:20.8,R,4
 Goblin Arsonist,,,,,Magic 2012 (M12),C,$1.14 ,$0.15 ,$0.05 ,45:24.7,R,4
-Goblin Arsonist,2,,,,Magic 2013 (M13),C,$1.15 ,$0.15 ,$0.05 ,45:36.4,R,4
+Goblin Arsonist,,,,,Magic 2013 (M13),C,$1.15 ,$0.15 ,$0.05 ,45:36.4,R,4
 Goblin Arsonist,,,,,Rise of the Eldrazi,C,$1.14 ,$0.16 ,$0.05 ,54:52.4,R,4
 Goblin Artillery,,,,,Magic 2010 (M10),U,$1.15 ,$0.16 ,$0.05 ,44:59.9,1RR,1
 Goblin Artisans,,,,,Antiquities,U,$1.09 ,$0.40 ,$0.19 ,08:20.1,R,2
@@ -13022,7 +13021,6 @@ Goblin Settler,,,,,Starter 1999,U,$71.49 ,$49.97 ,$38.00 ,56:36.0,3R,1
 Goblin Sharpshooter,,,,,Commander 2013,R,$3.48 ,$1.89 ,$0.80 ,29:01.3,2R,2
 Goblin Sharpshooter,,,,,Onslaught,R,$7.80 ,$2.16 ,$1.36 ,50:20.0,2R,2
 Goblin Shortcutter,,,,,Magic 2014 (M14),C,$1.14 ,$0.15 ,$0.02 ,45:49.7,1R,2
-goblin shortcutter,4,,,,unknown set,,,,,,,
 Goblin Shortcutter,,,,,Zendikar,C,$1.14 ,$0.15 ,$0.04 ,01:59.0,1R,2
 Goblin Shrine,,,,,Chronicles,C,$1.14 ,$0.16 ,$0.05 ,27:13.4,1RR,2
 Goblin Shrine,,,,,The Dark,C,$1.14 ,$0.16 ,$0.05 ,57:38.9,1RR,2
@@ -14264,7 +14262,6 @@ Heat of Battle,,,,,Stronghold,U,$1.18 ,$0.21 ,$0.05 ,56:57.8,1R,1
 Heat Ray,,,,,Battle Royale Box Set,C,$0.94 ,$0.23 ,$0.10 ,21:01.7,XR,4
 Heat Ray,,,,,Magic 2015 (M15),U,$1.14 ,$0.16 ,$0.03 ,46:02.7,XR,4
 Heat Ray,,,,,Rise of the Eldrazi,C,$1.15 ,$0.15 ,$0.03 ,54:52.4,XR,4
-heat ray,3,,,,unknown set,,,,,,,
 Heat Ray,,,,,Urza's Saga,C,$1.15 ,$0.17 ,$0.05 ,00:16.8,XR,4
 Heat Shimmer,,,,,Lorwyn,R,$1.50 ,$0.57 ,$0.29 ,44:46.6,2R,1
 Heat Stroke,,,,,Weatherlight,R,$3.55 ,$0.52 ,$0.25 ,00:53.2,2R,1
@@ -32681,7 +32678,6 @@ Thundering Giant,,,,,10th Edition,U,$1.17 ,$0.19 ,$0.05 ,52:59.6,3RR,6
 Thundering Giant,,,,,Beatdown Box Set,U,$0.98 ,$0.24 ,$0.11 ,21:10.8,3RR,6
 Thundering Giant,,,,,Magic 2015 (M15),C,$1.14 ,$0.15 ,$0.02 ,46:02.7,3RR,6
 Thundering Giant,,,,,Modern Masters,C,$1.14 ,$0.15 ,$0.03 ,48:33.1,3RR,6
-thundering giant,,,,TRUE,unknown set,,,,,,,
 Thundering Giant,,,,,Urza's Saga,U,$1.17 ,$0.20 ,$0.06 ,00:16.8,3RR,6
 Thundering Giant,,,,,Welcome Deck 2017,C,$0.39 ,$0.31 ,$0.08 ,01:17.8,3RR,6
 Thundering Tanadon,1,,,,New Phyrexia,C,$1.14 ,$0.14 ,$0.04 ,49:37.8,4{G/P}{G/P},1
