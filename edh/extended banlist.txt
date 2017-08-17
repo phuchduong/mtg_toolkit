@@ -10,6 +10,7 @@ Bearer of the Heavens
 Blightsteel Colossus
 Boil
 Boiling Seas
+Capsize
 Catastrophe
 Carpet of Flowers
 Consecrated Sphinx
@@ -36,6 +37,8 @@ Library of Alexandria
 Living Plane
 Mana Crypt
 Mana Vault
+Metal Worker
+Mindslicer
 Mishra's Workshop
 Mystic Remora
 Obliterate
@@ -47,12 +50,14 @@ Scrubland
 Seedborn Muse
 Sensei's Divining Top
 Sol Ring
+Staff of Domination
 Sunder
 Taiga
 The Tabernacle at Pendrell Vale
 Tropical Island
 Tsunami
 Tundra
+Unwinding Clock
 Underground Sea
 Volcanic Island
 Vorinclex, Voice of Hunger
