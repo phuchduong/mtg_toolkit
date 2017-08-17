@@ -23,6 +23,7 @@ Demonic Tutor
 Desolation Angel
 Devastation
 Diamond Valley
+Expropriate
 Flash Fires
 Gaea's Cradle
 Global Ruin
@@ -55,9 +56,12 @@ Staff of Domination
 Sunder
 Taiga
 The Tabernacle at Pendrell Vale
+Timestretch
+Timewarp
 Tropical Island
 Tsunami
 Tundra
+Ulamog, the Infinite Gyre
 Unwinding Clock
 Underground Sea
 Volcanic Island
