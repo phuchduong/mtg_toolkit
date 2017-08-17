@@ -41,6 +41,7 @@ Metal Worker
 Mindslicer
 Mishra's Workshop
 Mystic Remora
+Necropotence
 Obliterate
 Plateau
 Ravages of War
