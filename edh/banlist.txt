@@ -37,6 +37,7 @@ Library of Alexandria
 Living Plane
 Mana Crypt
 Mana Vault
+Mind Slicer
 Mishra's Workshop
 Mystic Remora
 Obliterate
