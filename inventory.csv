@@ -610,8 +610,7 @@ Alley Strangler,,,Aether Revolt,C,$0.15 ,$0.01 ,,,,$2.17 ,07:42.0,2B,1
 Alliance of Arms,,,Commander,R,$3.07 ,$1.97 ,,,,$5.00 ,28:49.6,W,1
 Allied Reinforcements,0,,Oath of the Gatewatch,U,$0.20 ,$0.02 ,,,,$1.41 ,49:49.2,3W,1
 Allied Strategies,,,Duel Decks: Phyrexia vs. the Coalition,U,$0.18 ,$0.08 ,,,,$0.51 ,36:11.0,4U,2
-Allied Strategies,,,Planeshift,U,$0.22 ,$0.09 ,,,,$0.98 ,51:41.1,4U,2
-allied strategies,1,,unknown set,,,,,,,,,,
+Allied Strategies,1,,Planeshift,U,$0.22 ,$0.09 ,,,,$0.98 ,51:41.1,4U,2
 Allosaurus Rider,,,Duel Decks: Anthology,R,$3.32 ,$1.64 ,,,,$6.99 ,34:05.1,5GG,4
 Allosaurus Rider,,,Duel Decks: Elves vs. Goblins,R,$3.04 ,$1.00 ,,,,$8.00 ,34:50.4,5GG,4
 Allosaurus Rider,,,Prerelease Cards,P,$3.48 ,$1.70 ,,,,$8.00 ,53:03.9,5GG,4
@@ -662,7 +661,7 @@ Altered Ego,,,Prerelease Cards,R,$2.83 ,$1.79 ,,,,$5.99 ,53:03.9,X2GU,2
 Aluren,,,Tempest,R,$24.26 ,$15.39 ,,,,$50.00 ,57:24.7,2GG,1
 Always Watching,1,,Shadows over Innistrad,R,$2.99 ,$0.99 ,,,,$6.50 ,55:56.6,1WW,2
 Always Watching,,,Prerelease Cards,R,$8.61 ,$5.54 ,,,,$16.99 ,53:03.9,1WW,2
-Amass the Components,2,,Avacyn Restored,C,$0.15 ,$0.03 ,,,,$1.15 ,20:51.4,3U,1
+Amass the Components,,TRUE,Avacyn Restored,C,$0.15 ,$0.03 ,,,,$1.15 ,20:51.4,3U,1
 Ambassador Laquatus,,,Torment,R,$0.88 ,$0.45 ,,,,$2.00 ,58:32.7,1UU,2
 Ambassador Laquatus,,,10th Edition,R,$1.10 ,$0.65 ,,,,$2.49 ,52:59.6,1UU,2
 Ambassador Oak,,,Duel Decks: Mind vs. Might,C,$0.14 ,$0.02 ,,,,$0.51 ,35:52.9,3G,2
@@ -769,7 +768,7 @@ Ancestral Vengeance,,,Fate Reforged,C,$0.15 ,$0.01 ,,,,$1.15 ,38:11.9,BB,1
 Ancestral Vision,,,Duel Decks: Jace vs. Chandra,R,$53.13 ,$42.75 ,,,,$71.99 ,35:26.2,,3
 Ancestral Vision,,,Duel Decks: Anthology,R,$59.85 ,$48.49 ,,,,$73.25 ,34:05.1,,3
 Ancestral Vision,,,Time Spiral,R,$55.34 ,$45.00 ,,,,$77.99 ,58:04.4,,3
-Anchor to the Aether,2,,Magic Origins,U,$0.21 ,$0.01 ,,,,$1.20 ,46:24.9,2U,1
+Anchor to the Aether,,TRUE,Magic Origins,U,$0.21 ,$0.01 ,,,,$1.20 ,46:24.9,2U,1
 Ancient Amphitheater,,,Commander 2015,R,$0.35 ,$0.15 ,,,,$1.33 ,29:22.4,,2
 Ancient Amphitheater,,,Lorwyn,R,$0.73 ,$0.25 ,,,,$5.00 ,44:46.6,,2
 Ancient Carp,,TRUE,Dragons of Tarkir,C,$0.15 ,$0.01 ,,,,$1.15 ,31:16.6,4U,1
@@ -1293,8 +1292,7 @@ Argivian Archaeologist,,,Antiquities,R,$37.29 ,$25.64 ,,,,$45.21 ,08:20.1,1WW,1
 Argivian Blacksmith,,,Antiquities,C,$0.21 ,$0.06 ,,,,$0.95 ,08:20.1,1WW,1
 Argivian Find,,,Weatherlight,U,$0.55 ,$0.39 ,,,,$1.23 ,00:53.2,W,1
 Argivian Restoration,,,Duel Decks: Elspeth vs. Tezzeret,U,$0.25 ,$0.10 ,,,,$0.99 ,34:41.4,2UU,2
-Argivian Restoration,,,Weatherlight,U,$0.22 ,$0.09 ,,,,$1.00 ,00:53.2,2UU,2
-argivian restoration,2,,unknown set,,,,,,,,,,
+Argivian Restoration,2,,Weatherlight,U,$0.22 ,$0.09 ,,,,$1.00 ,00:53.2,2UU,2
 Argothian Elder,,,Battle Royale Box Set,U,$1.00 ,$0.94 ,,,,$1.05 ,21:01.7,3G,2
 Argothian Elder,,,Urza's Saga,U,$0.77 ,$0.67 ,,,,$1.97 ,00:16.8,3G,2
 Argothian Enchantress,,,Eternal Masters,M,$5.04 ,$3.50 ,,,,$8.40 ,37:23.4,1G,3
@@ -3463,9 +3461,8 @@ Breaking Point,,,Judgment,R,$0.88 ,$0.30 ,,,,$2.00 ,43:40.4,1RR,2
 breaking point,1,,unknown set,,,,,,,,,,
 Breaking Wave,,,Invasion,R,$0.32 ,$0.14 ,,,,$1.31 ,42:58.3,2UU,1
 Breakneck Rider,,TRUE,Shadows over Innistrad,U,$0.18 ,$0.07 ,,,,$2.18 ,55:56.6,1RR,1
-Breakthrough,,,Conspiracy,U,$0.25 ,$0.10 ,,,,$0.99 ,30:11.4,XU,2
+Breakthrough,1,,Conspiracy,U,$0.25 ,$0.10 ,,,,$0.99 ,30:11.4,XU,2
 Breakthrough,,,Torment,U,$0.53 ,$0.10 ,,,,$5.00 ,58:32.7,XU,2
-breakthrough,1,,unknown set,,,,,,,,,,
 Breath of Darigaaz,,,Archenemy,U,$0.21 ,$0.11 ,,,,$0.54 ,19:52.8,1R,5
 Breath of Darigaaz,,,Commander 2015,U,$0.20 ,$0.05 ,,,,$0.99 ,29:22.4,1R,5
 Breath of Darigaaz,,,Duel Decks: Knights vs. Dragons,U,$0.19 ,$0.05 ,,,,$1.17 ,35:44.0,,5
@@ -3521,10 +3518,9 @@ Brighthearth Banneret,,,Morningtide,C,$0.22 ,$0.05 ,,,,$0.94 ,49:11.9,1R,1
 Brightstone Ritual,1,,Onslaught,C,$0.24 ,$0.10 ,,,,$0.95 ,50:20.0,R,1
 "Brigid, Hero of Kinsbaile",,,Lorwyn,R,$0.89 ,$0.50 ,,,,$1.57 ,44:46.6,2WW,1
 Brilliant Halo,,,Urza's Saga,C,$0.18 ,$0.05 ,,,,$1.16 ,00:16.8,1W,1
-Brilliant Plan,,,Commander 2013,U,$0.25 ,$0.01 ,,,,$1.25 ,29:01.3,4U,2
+Brilliant Plan,,TRUE,Commander 2013,U,$0.25 ,$0.01 ,,,,$1.25 ,29:01.3,4U,2
 Brilliant Plan,,,Portal Three Kingdoms,U,$1.11 ,$0.53 ,,,,$1.94 ,52:18.3,4U,2
-brilliant plan,1,,unknown set,,,,,,,,,,
-Brilliant Spectrum,1,TRUE,Battle for Zendikar,C,$0.14 ,$0.01 ,,,,$1.14 ,05:14.9,3U,1
+Brilliant Spectrum,,TRUE,Battle for Zendikar,C,$0.14 ,$0.01 ,,,,$1.14 ,05:14.9,3U,1
 Brilliant Ultimatum,,,Shards of Alara,R,$0.35 ,$0.17 ,,,,$2.00 ,56:13.2,WWUUUBB,1
 "Brimaz, King of Oreskos",,,Born of the Gods,M,$8.09 ,$6.13 ,,,,$21.35 ,21:39.8,1WW,1
 Brimstone Dragon,,,Portal Second Age,R,$9.95 ,$4.00 ,,,,$18.03 ,52:05.8,6RR,1
@@ -3869,9 +3865,8 @@ Call to Arms,,,Ice Age,R,$0.36 ,$0.18 ,,,,$3.35 ,42:21.9,1W,1
 Call to Glory,,,Champions of Kamigawa,C,$0.19 ,$0.05 ,,,,$1.16 ,26:53.1,1W,1
 Call to Heel,,,Duel Decks: Izzet vs. Golgari,C,$0.15 ,$0.05 ,,,,$1.14 ,35:17.3,1U,2
 Call to Heel,,,Shards of Alara,C,$0.16 ,$0.05 ,,,,$1.15 ,56:13.2,1U,2
-Call to Mind,,,Commander 2014,U,$0.19 ,$0.05 ,,,,$0.94 ,29:11.8,2U,2
+Call to Mind,1,,Commander 2014,U,$0.19 ,$0.05 ,,,,$0.94 ,29:11.8,2U,2
 Call to Mind,,,Magic 2011 (M11),U,$0.17 ,$0.08 ,,,,$0.98 ,45:12.9,2U,2
-call to mind,1,,unknown set,,,,,,,,,,
 Call to Serve,,TRUE,Avacyn Restored,C,$0.15 ,$0.04 ,,,,$0.95 ,20:51.4,1W,1
 Call to the Grave,,,Magic 2012 (M12),R,$1.00 ,$0.52 ,,,,$1.99 ,45:24.7,4B,2
 Call to the Grave,,,Scourge,R,$0.92 ,$0.64 ,,,,$3.99 ,55:32.6,4B,2
@@ -4638,7 +4633,7 @@ Chronostutter,,TRUE,Magic 2015 (M15),C,$0.15 ,$0.01 ,,,,$1.14 ,46:02.7,5U,1
 Chronozoa,,,Planar Chaos,R,$1.94 ,$1.39 ,,,,$4.49 ,50:52.8,3U,1
 Chub Toad,,,Fifth Edition,C,$0.17 ,$0.06 ,,,,$0.94 ,38:31.6,2G,2
 Chub Toad,,,Ice Age,C,$0.17 ,$0.04 ,,,,$1.17 ,42:21.9,2G,2
-Churning Eddy,1,TRUE,Torment,C,$0.16 ,$0.04 ,,,,$1.16 ,58:32.7,3U,1
+Churning Eddy,,TRUE,Torment,C,$0.16 ,$0.04 ,,,,$1.16 ,58:32.7,3U,1
 Cinder Barrens,,,Hour of Devastation,C,$0.15 ,$0.09 ,,,,$0.24 ,42:11.2,,3
 Cinder Barrens,,,Amonkhet,C,$0.23 ,$0.07 ,,,,$0.25 ,08:07.6,,3
 Cinder Barrens,,,Oath of the Gatewatch,U,$0.15 ,$0.04 ,,,,$1.14 ,49:49.2,,3
@@ -4966,7 +4961,7 @@ Clue Token (13),,,Shadows over Innistrad,T,$0.16 ,$0.02 ,,,,$0.95 ,55:56.6,,1
 Clue Token (14),,,Shadows over Innistrad,T,$0.17 ,$0.02 ,,,,$0.95 ,55:56.6,,1
 Clue Token (15),,,Shadows over Innistrad,T,$0.15 ,$0.02 ,,,,$0.95 ,55:56.6,,1
 Clue Token (16),,,Shadows over Innistrad,T,$0.16 ,$0.03 ,,,,$0.95 ,55:56.6,,1
-Clutch of Currents,3,,Battle for Zendikar,C,$0.14 ,$0.04 ,,,,$1.13 ,05:14.9,U,1
+Clutch of Currents,,TRUE,Battle for Zendikar,C,$0.14 ,$0.04 ,,,,$1.13 ,05:14.9,U,1
 Clutch of the Undercity,1,,Ravnica,U,$0.28 ,$0.15 ,,,,$1.00 ,53:45.1,1UUB,1
 Clutch of Undeath,,,Scourge,C,$0.16 ,$0.04 ,,,,$1.15 ,55:32.6,3BB,1
 Coal Golem,,,The Dark,U,$0.23 ,$0.10 ,,,,$1.23 ,57:38.9,5,1
@@ -4982,7 +4977,7 @@ Coalition Victory,,,Invasion,R,$0.44 ,$0.30 ,,,,$1.40 ,42:58.3,3WUBRG,2
 Coalition Victory,,,Timeshifted,R,$0.47 ,$0.29 ,,,,$1.59 ,58:20.6,3WUBRG,2
 Coast Watcher,,TRUE,Scourge,C,$0.15 ,$0.05 ,,,,$1.14 ,55:32.6,1U,1
 Coastal Breach,,,Commander 2016,R,$0.45 ,$0.22 ,,,,$1.31 ,29:33.2,6U,1
-Coastal Discovery,2,,Battle for Zendikar,U,$0.20 ,$0.01 ,,,,$1.19 ,05:14.9,3U,1
+Coastal Discovery,,TRUE,Battle for Zendikar,U,$0.20 ,$0.01 ,,,,$1.19 ,05:14.9,3U,1
 Coastal Drake,,TRUE,Apocalypse,C,$0.15 ,$0.03 ,,,,$1.15 ,08:31.3,2U,1
 Coastal Hornclaw,,,8th Edition,C,$0.16 ,$0.04 ,,,,$1.15 ,07:28.1,4U,2
 Coastal Hornclaw,,,Prophecy,C,$0.17 ,$0.05 ,,,,$1.15 ,53:33.2,4U,2
@@ -5003,9 +4998,8 @@ Coat of Arms,,,Exodus,R,$7.86 ,$6.06 ,,,,$11.98 ,37:52.5,5,9
 Coat of Arms,,,10th Edition,R,$7.99 ,$5.69 ,,,,$11.99 ,52:59.6,5,9
 Coat of Arms,,,Duels of the Planeswalkers,R,$7.43 ,$4.53 ,,,,$14.98 ,37:03.9,5,9
 Coat with Venom,,TRUE,Dragons of Tarkir,C,$0.16 ,$0.03 ,,,,$1.14 ,31:16.6,B,1
-Coax from the Blind Eternities,,,Eldritch Moon,R,$0.30 ,$0.02 ,,,,$2.00 ,37:13.3,2U,2
+Coax from the Blind Eternities,,2,Eldritch Moon,R,$0.30 ,$0.02 ,,,,$2.00 ,37:13.3,2U,2
 Coax from the Blind Eternities,,,Prerelease Cards,R,$1.93 ,$0.98 ,,,,$4.68 ,53:03.9,2U,2
-coax from the blind eternities,2,,unknown set,,,,,,,,,,
 Cobalt Golem,,,Mirrodin,C,$0.15 ,$0.04 ,,,,$1.15 ,48:07.7,4,1
 Cobblebrute,,,Return to Ravnica,C,$0.14 ,$0.01 ,,,,$1.14 ,53:58.3,3R,2
 Cobblebrute,,,Magic Origins,C,$0.15 ,$0.01 ,,,,$1.15 ,46:24.9,3R,2
@@ -5168,20 +5162,18 @@ Compost,,,Urza's Destiny,U,$0.21 ,$0.08 ,,,,$1.17 ,59:52.8,1G,2
 Compost,,,7th Edition,U,$0.22 ,$0.10 ,,,,$1.19 ,01:06.3,1G,2
 Compulsion,2,,Torment,U,$0.24 ,$0.10 ,,,,$1.22 ,58:32.7,1U,1
 Compulsive Research,,,Archenemy: Nicol Bolas,C,$0.20 ,$0.06 ,,,,$0.75 ,20:24.4,2U,5
-Compulsive Research,,,Commander 2014,C,$0.20 ,$0.09 ,,,,$0.95 ,29:11.8,2U,5
+Compulsive Research,2,,Commander 2014,C,$0.20 ,$0.09 ,,,,$0.95 ,29:11.8,2U,5
 Compulsive Research,,,Modern Masters 2017,U,$0.18 ,$0.03 ,,,,$1.16 ,48:58.4,2U,5
 Compulsive Research,,,Conspiracy,C,$0.17 ,$0.05 ,,,,$1.16 ,30:11.4,2U,5
 Compulsive Research,,,Ravnica,C,$0.18 ,$0.05 ,,,,$1.16 ,53:45.1,2U,5
-compulsive research,2,,unknown set,,,,,,,,,,
 Compulsory Rest,,TRUE,Amonkhet,C,$0.14 ,$0.01 ,,,,$1.14 ,08:07.6,1W,1
 Concealed Courtyard,,,Kaladesh,R,$5.52 ,$3.50 ,,,,$8.25 ,43:50.8,,2
 Concealed Courtyard,,,Prerelease Cards,R,$9.29 ,$7.30 ,,,,$15.95 ,53:03.9,,2
 Concentrate,,,Planechase Anthology,U,$0.22 ,$0.10 ,,,,$0.65 ,51:27.9,2UU,5
 Concentrate,,,Planechase 2012,U,$0.35 ,$0.14 ,,,,$0.98 ,51:16.2,2UU,5
-Concentrate,,,Commander 2014,U,$0.19 ,$0.09 ,,,,$1.15 ,29:11.8,2UU,5
+Concentrate,2,,Commander 2014,U,$0.19 ,$0.09 ,,,,$1.15 ,29:11.8,2UU,5
 Concentrate,,,8th Edition,U,$0.23 ,$0.08 ,,,,$1.19 ,07:28.1,2UU,5
 Concentrate,,,Odyssey,U,$0.25 ,$0.08 ,,,,$1.23 ,50:04.2,2UU,5
-concentrate,2,,unknown set,,,,,,,,,,
 Concerted Effort,,,Ravnica,R,$2.87 ,$1.00 ,,,,$4.53 ,53:45.1,2WW,1
 Conch Horn,,,Fallen Empires,R,$0.36 ,$0.19 ,,,,$3.35 ,38:02.1,2,1
 Conclave Equenaut,,,Ravnica,C,$0.15 ,$0.03 ,,,,$1.14 ,53:45.1,4WW,2
@@ -5507,8 +5499,7 @@ Council of the Absolute,1,,Dragon's Maze,M,$0.61 ,$0.25 ,,,,$2.99 ,31:07.0,2WU,1
 Council's Judgment,,,Conspiracy,R,$5.42 ,$3.90 ,,,,$30.00 ,30:11.4,1WW,1
 Counsel of the Soratami,,,9th Edition,C,$0.17 ,$0.05 ,,,,$0.94 ,07:35.2,2U,3
 Counsel of the Soratami,,,10th Edition,C,$0.16 ,$0.05 ,,,,$1.14 ,52:59.6,2U,3
-Counsel of the Soratami,,,Champions of Kamigawa,C,$0.15 ,$0.05 ,,,,$1.15 ,26:53.1,2U,3
-counsel of the soratami,1,,unknown set,,,,,,,,,,
+Counsel of the Soratami,1,,Champions of Kamigawa,C,$0.15 ,$0.05 ,,,,$1.15 ,26:53.1,2U,3
 Counterbalance,,,Coldsnap,U,$10.98 ,$4.16 ,,,,$39.99 ,27:32.4,UU,2
 Counterbalance,,,Masterpiece Series: Amonkhet Invocations,M,$24.99 ,$16.99 ,,,,$40.00 ,46:58.0,UU,2
 Counterbore,,,Shadowmoor,R,$0.55 ,$0.20 ,,,,$1.58 ,55:43.4,3UU,2
@@ -6626,12 +6617,11 @@ Decree of Savagery,,,Scourge,R,$0.62 ,$0.24 ,,,,$1.33 ,55:32.6,7GG,1
 Decree of Silence,,,Scourge,R,$4.99 ,$4.45 ,,,,$7.52 ,55:32.6,6UU,1
 Dedicated Martyr,,,Odyssey,C,$0.15 ,$0.04 ,,,,$4.60 ,50:04.2,W,1
 Deem Worthy,,,Amonkhet,U,$0.17 ,$0.01 ,,,,$2.15 ,08:07.6,4R,1
-Deep Analysis,,,Commander 2013,C,$0.24 ,$0.08 ,,,,$0.95 ,29:01.3,3U,5
+Deep Analysis,1,,Commander 2013,C,$0.24 ,$0.08 ,,,,$0.95 ,29:01.3,3U,5
 Deep Analysis,,,Eternal Masters,C,$0.20 ,$0.05 ,,,,$1.18 ,37:23.4,3U,5
 Deep Analysis,,,Duel Decks: Ajani vs. Nicol Bolas,C,$0.39 ,$0.19 ,,,,$1.49 ,33:56.2,3U,5
 Deep Analysis,,,FNM Promos,P,$2.37 ,$1.62 ,,,,$2.99 ,38:43.2,3U,5
 Deep Analysis,,,Torment,C,$0.25 ,$0.05 ,,,,$3.00 ,58:32.7,3U,5
-deep analysis,1,,unknown set,,,,,,,,,,
 Deep Reconnaissance,,,Odyssey,U,$0.20 ,$0.09 ,,,,$1.17 ,50:04.2,2G,1
 Deep Spawn,,,Fallen Empires,U,$0.19 ,$0.06 ,,,,$2.00 ,38:02.1,5UUU,1
 Deep Water,,,The Dark,C,$0.15 ,$0.05 ,,,,$0.95 ,57:38.9,UU,1
@@ -6976,8 +6966,7 @@ Devastating Summons,,,Rise of the Eldrazi,R,$0.75 ,$0.25 ,,,,$3.80 ,54:52.4,R,1
 Devastation,,,Starter 1999,R,$19.39 ,$15.93 ,,,,$24.84 ,56:36.0,5RR,2
 Devastation,,,Portal,R,$20.32 ,$15.35 ,,,,$27.99 ,51:52.4,5RR,2
 Devastation Tide,,,Commander 2016,R,$0.47 ,$0.24 ,,,,$1.00 ,29:33.2,3UU,2
-Devastation Tide,,,Avacyn Restored,R,$0.58 ,$0.15 ,,,,$4.99 ,20:51.4,3UU,2
-devastation tide,1,,unknown set,,,,,,,,,,
+Devastation Tide,1,,Avacyn Restored,R,$0.58 ,$0.15 ,,,,$4.99 ,20:51.4,3UU,2
 Deviant Glee,4,,Return to Ravnica,C,$0.14 ,$0.01 ,,,,$1.14 ,53:58.3,B,1
 Devil Token,,,Shadows over Innistrad,T,$0.15 ,$0.08 ,,,,$0.74 ,55:56.6,,1
 Devil's Play,,,Duel Decks: Sorin vs. Tibalt,R,$0.33 ,$0.10 ,,,,$1.32 ,36:20.8,XR,3
@@ -7072,9 +7061,8 @@ Dimensional Infiltrator,,,Oath of the Gatewatch,R,$0.34 ,$0.09 ,,,,$1.38 ,49:49.
 Dimensional Infiltrator,,,Prerelease Cards,R,$1.32 ,$0.59 ,,,,$2.49 ,53:03.9,1U,2
 Diminish,,,Magic 2011 (M11),C,$0.16 ,$0.05 ,,,,$1.15 ,45:12.9,U,1
 Diminishing Returns,,,Eternal Masters,R,$0.50 ,$0.10 ,,,,$2.00 ,37:23.4,2UU,3
-Diminishing Returns,,,Classic Sixth Edition,R,$0.50 ,$0.24 ,,,,$3.00 ,27:22.3,2UU,3
-Diminishing Returns,,,Alliances,R,$0.46 ,$0.20 ,,,,$5.00 ,07:54.5,2UU,3
-diminishing returns,2,,unknown set,,,,,,,,,,
+Diminishing Returns,1,,Classic Sixth Edition,R,$0.50 ,$0.24 ,,,,$3.00 ,27:22.3,2UU,3
+Diminishing Returns,1,,Alliances,R,$0.46 ,$0.20 ,,,,$5.00 ,07:54.5,2UU,3
 Dimir Aqueduct,,,Planechase Anthology,C,$1.13 ,$0.81 ,,,,$1.40 ,51:27.9,,6
 Dimir Aqueduct,,,Commander 2016,U,$0.78 ,$0.35 ,,,,$1.45 ,29:33.2,,6
 Dimir Aqueduct,,,Modern Masters 2015,U,$0.82 ,$0.39 ,,,,$1.68 ,48:45.6,0,6
@@ -7312,8 +7300,7 @@ Distended Mindbender,,,Prerelease Cards,R,$2.95 ,$0.99 ,,,,$14.09 ,53:03.9,8,2
 Distorting Lens,,,8th Edition,R,$0.42 ,$0.24 ,,,,$1.39 ,07:28.1,2,2
 Distorting Lens,,,Mercadian Masques,R,$0.53 ,$0.20 ,,,,$2.50 ,47:34.6,2,2
 Distorting Wake,,,Invasion,R,$0.41 ,$0.09 ,,,,$1.40 ,42:58.3,XUUU,2
-Distorting Wake,,,Commander 2014,R,$0.28 ,$0.09 ,,,,$2.13 ,29:11.8,XUUU,2
-distorting wake,2,,unknown set,,,,,,,,,,
+Distorting Wake,2,,Commander 2014,R,$0.28 ,$0.09 ,,,,$2.13 ,29:11.8,XUUU,2
 Distortion Strike,,,Rise of the Eldrazi,C,$1.65 ,$0.98 ,,,,$2.59 ,54:52.4,U,1
 Distress,,,Champions of Kamigawa,C,$0.16 ,$0.05 ,,,,$1.14 ,26:53.1,BB,3
 Distress,,,Magic 2012 (M12),C,$0.16 ,$0.05 ,,,,$1.15 ,45:24.7,BB,3
@@ -7511,8 +7498,7 @@ Drag Down,,,Modern Masters,C,$0.14 ,$0.02 ,,,,$1.13 ,48:33.1,2B,2
 Drag Down,,,Conflux,C,$0.15 ,$0.03 ,,,,$1.15 ,30:02.2,2B,2
 Drag Under,,,Eldritch Moon,C,$0.15 ,$0.01 ,,,,$1.15 ,37:13.3,2U,2
 Drag Under,,,Welcome Deck 2017,C,$0.39 ,,,,,,01:17.8,2U,2
-drag under,1,,unknown set,,,,,,,,,,
-Dragon // Dragon Double-Sided Token,,,Commander 2015,T,$0.24 ,$0.12 ,,,,$0.75 ,29:22.4,,1
+Dragon // Dragon Double-Sided Token,4,,Commander 2015,T,$0.24 ,$0.12 ,,,,$0.75 ,29:22.4,,1
 Dragon // Saproling Double-sided Token,,,Planechase Anthology,T,$0.15 ,$0.07 ,,,,$0.45 ,51:27.9,,1
 Dragon Appeasement,,,Alara Reborn,U,$0.19 ,$0.06 ,,,,$1.18 ,07:48.3,3BRG,1
 Dragon Arch,,,Apocalypse,U,$1.84 ,$1.25 ,,,,$2.99 ,08:31.3,5,1
@@ -7745,9 +7731,8 @@ dreadbringer lampads,,TRUE,unknown set,,,,,,,,,,
 Dreadship Reef,,,Time Spiral,U,$0.39 ,$0.15 ,,,,$1.10 ,58:04.4,,3
 Dreadship Reef,,,Commander 2016,U,$0.29 ,$0.10 ,,,,$1.23 ,29:33.2,,3
 Dreadship Reef,,,Commander,U,$0.43 ,$0.19 ,,,,$1.39 ,28:49.6,,3
-Dreadwaters,,,Magic Origins,C,$0.15 ,$0.01 ,,,,$1.14 ,46:24.9,3U,2
-Dreadwaters,,,Avacyn Restored,C,$0.15 ,$0.02 ,,,,$1.15 ,20:51.4,3U,2
-dreadwaters,3,,unknown set,,,,1,,,,,,
+Dreadwaters,,TRUE,Magic Origins,C,$0.15 ,$0.01 ,1,,,$1.14 ,46:24.9,3U,2
+Dreadwaters,,TRUE,Avacyn Restored,C,$0.15 ,$0.02 ,,,,$1.15 ,20:51.4,3U,2
 Dreadwing,,,Conflux,U,$0.18 ,$0.05 ,,,,$1.16 ,30:02.2,B,1
 Dream Cache,,,Mirage,C,$0.17 ,$0.05 ,,,,$0.95 ,47:53.1,2U,3
 Dream Cache,,,Tempest,C,$0.17 ,$0.05 ,,,,$0.95 ,57:24.7,2U,3
@@ -9389,9 +9374,8 @@ Fa'adiyah Seer,,,Planar Chaos,C,$0.16 ,$0.05 ,,,,$1.15 ,50:52.8,1G,1
 Fable of Wolf and Owl,,,Eventide,R,$4.02 ,$2.34 ,,,,$6.00 ,37:42.6,3(G/U)(G/U)(G/U),1
 Fabled Hero,3,,Theros,R,$0.38 ,$0.14 ,,,,$2.40 ,57:50.1,1WW,1
 Fabricate,,,Magic 2010 (M10),U,$3.26 ,$2.00 ,,,,$4.22 ,44:59.9,2U,3
-Fabricate,,,Mirrodin,U,$3.26 ,$2.21 ,,,,$4.79 ,48:07.7,2U,3
+Fabricate,1,,Mirrodin,U,$3.26 ,$2.21 ,,,,$4.79 ,48:07.7,2U,3
 Fabricate,,,Planechase,U,$4.02 ,$2.99 ,,,,$5.97 ,51:04.6,2U,3
-fabricate,1,,unknown set,,,,,,,,,,
 Fabrication Module,,,Kaladesh,U,$0.21 ,$0.04 ,,,,$1.20 ,43:50.8,3,1
 Face of Fear,,,Odyssey,U,$0.19 ,$0.05 ,,,,$1.18 ,50:04.2,5B,1
 Face to Face,,,Unhinged,U,$0.28 ,$0.15 ,,,,$0.99 ,59:08.8,1R,1
@@ -10377,9 +10361,8 @@ Floodwater Dam,,,Alliances,R,$0.33 ,$0.14 ,,,,$3.32 ,07:54.5,3,1
 Floodwaters,,,Amonkhet,C,$0.14 ,$0.01 ,,,,$1.15 ,08:07.6,4UU,1
 Floral Spuzzem,,,Legends,U,$0.75 ,$0.54 ,,,,$2.50 ,44:24.3,3G,1
 Flourishing Defenses,,,Shadowmoor,U,$2.00 ,$0.25 ,,,,$4.48 ,55:43.4,4G,1
-Flow of Ideas,,,Shadowmoor,U,$0.19 ,$0.07 ,,,,$1.17 ,55:43.4,5U,2
+Flow of Ideas,2,,Shadowmoor,U,$0.19 ,$0.07 ,,,,$1.17 ,55:43.4,5U,2
 Flow of Ideas,,,Ravnica,U,$0.20 ,$0.09 ,,,,$1.17 ,53:45.1,5U,2
-flow of ideas,2,,unknown set,,,,,,,,,,
 Flow of Maggots,,,Ice Age,R,$0.35 ,$0.15 ,,,,$4.34 ,42:21.9,2B,1
 Flowering Field,,,Prophecy,U,$0.23 ,$0.08 ,,,,$1.23 ,53:33.2,1W,1
 Flowering Lumberknot,,,Avacyn Restored,C,$0.15 ,$0.01 ,,,,$1.15 ,20:51.4,3G,1
@@ -10414,9 +10397,8 @@ Flurry of Horns,4,,Journey Into Nyx,C,$0.15 ,$0.03 ,,,,$1.14 ,43:10.4,4R,1
 Flurry of Wings,,,Alara Reborn,U,$0.20 ,$0.09 ,,,,$1.18 ,07:48.3,GWU,1
 Flusterstorm,,,Commander,R,$94.99 ,$69.00 ,,,,$109.99 ,28:49.6,U,2
 Flusterstorm,,,Judge Promos,P,$144.80 ,$124.99 ,,,,$150.00 ,43:30.3,U,2
-Flux,,,Weatherlight,C,$0.18 ,$0.05 ,,,,$0.94 ,00:53.2,2U,2
+Flux,2,,Weatherlight,C,$0.18 ,$0.05 ,,,,$0.94 ,00:53.2,2U,2
 Flux,,,Portal,U,$0.29 ,$0.13 ,,,,$1.35 ,51:52.4,2U,2
-flux,2,,unknown set,,,,,,,,,,
 Fluxcharger,4,,Dragon's Maze,U,$0.20 ,$0.02 ,,,,$1.18 ,31:07.0,2UR,1
 Flying Carpet,,,7th Edition,R,$0.32 ,$0.10 ,,,,$1.07 ,01:06.3,4,11
 Flying Carpet,,,Fifth Edition,R,$0.30 ,$0.11 ,,,,$1.07 ,38:31.6,4,11
