@@ -11963,7 +11963,7 @@ Glimmervoid,,,Mirrodin,R,$24.63 ,$12.96 ,,,,$42.99 ,48:07.7,,2
 Glimmervoid Basin (Planechase Anthology),,,Oversize Cards,S,$1.84 ,$0.97 ,,,,$2.92 ,50:35.3,,1
 Glimmervoid Basin (Planechase),,,Oversize Cards,S,$3.48 ,$2.57 ,,,,$4.39 ,50:35.3,,1
 Glimpse of Nature,,,Champions of Kamigawa,R,$20.89 ,$16.99 ,,,,$25.02 ,26:53.1,G,1
-Glimpse the Future,2,,Magic 2014 (M14),U,$0.17 ,$0.02 ,,,,$1.16 ,45:49.7,2U,1
+Glimpse the Future,,TRUE,Magic 2014 (M14),U,$0.17 ,$0.02 ,,,,$1.16 ,45:49.7,2U,1
 Glimpse the Sun God,,TRUE,Born of the Gods,U,$0.17 ,$0.04 ,,,,$1.16 ,21:39.8,XW,1
 Glimpse the Unthinkable,,,Ravnica,R,$31.23 ,$25.45 ,,,,$44.67 ,53:45.1,UB,1
 Glint,,TRUE,Dragons of Tarkir,C,$0.15 ,$0.03 ,,,,$1.14 ,31:16.6,1U,1
@@ -25285,7 +25285,7 @@ Sage of Hours,1,,Journey Into Nyx,M,$2.41 ,$1.65 ,,,,$4.28 ,43:10.4,1U,1
 Sage of Lat-Nam,,,8th Edition,R,$0.33 ,$0.15 ,,,,$1.30 ,07:28.1,1U,2
 Sage of Lat-Nam,,,Antiquities,C,$0.23 ,$0.11 ,,,,$1.18 ,08:20.1,1U,2
 Sage of Shaila's Claim,1,,Kaladesh,C,$0.15 ,$0.01 ,,,,$2.17 ,43:50.8,1G,1
-Sage of the Inward Eye,,,Khans of Tarkir,R,$0.34 ,$0.09 ,,,,$1.50 ,44:03.2,2URW,3
+Sage of the Inward Eye,1,,Khans of Tarkir,R,$0.34 ,$0.09 ,,,,$1.50 ,44:03.2,2URW,3
 Sage of the Inward Eye,,,Prerelease Cards,R,$0.83 ,$0.28 ,,,,$1.99 ,53:03.9,2URW,3
 Sage of the Inward Eye,,,Unique and Miscellaneous Promos,R,$0.59 ,$0.25 ,,,,$1.48 ,59:23.7,2URW,3
 Sage Owl,,,10th Edition,C,$0.15 ,$0.05 ,,,,$0.94 ,52:59.6,1U,6
@@ -31681,11 +31681,9 @@ Treachery,,,Urza's Destiny,R,$18.98 ,$15.00 ,,,,$29.99 ,59:52.8,3UU,1
 Tread Upon,,TRUE,Dragons of Tarkir,C,$0.15 ,$0.01 ,,,,$1.14 ,31:16.6,1G,1
 Treasonous Ogre,,,Conspiracy,U,$0.31 ,$0.19 ,,,,$1.00 ,30:11.4,3R,1
 Treasure Cruise,,,Commander 2016,C,$0.20 ,$0.09 ,,,,$0.99 ,29:33.2,7U,2
-Treasure Cruise,,,Khans of Tarkir,C,$0.20 ,$0.04 ,,,,$2.27 ,44:03.2,7U,2
-treasure cruise,1,,unknown set,,,,,,,,,,
+Treasure Cruise,2,,Khans of Tarkir,C,$0.20 ,$0.04 ,,,,$2.27 ,44:03.2,7U,2
 Treasure Hunt,,,Magic Player Rewards,P,$2.92 ,$1.60 ,,,,$7.50 ,46:38.0,1U,3
 Treasure Hunt,,,Media Promos,P,$2.40 ,$1.69 ,,,,$4.14 ,47:21.4,1U,3
-treasure hunt,2,,unknown set,,,,,,,,,,
 Treasure Hunt,,,Worldwake,C,$0.49 ,$0.20 ,,,,$1.41 ,01:37.9,1U,3
 Treasure Hunter,,,10th Edition,U,$0.20 ,$0.09 ,,,,$1.15 ,52:59.6,2W,2
 Treasure Hunter,,,Exodus,U,$0.20 ,$0.06 ,,,,$0.98 ,37:52.5,2W,2
@@ -34293,7 +34291,7 @@ Winds of Rebuke,,,Amonkhet,C,$0.13 ,$0.01 ,,,,$1.12 ,08:07.6,1U,1
 Wind-Scarred Crag,,,Commander 2015,C,$0.16 ,$0.07 ,,,,$0.95 ,29:22.4,,4
 Wind-Scarred Crag,,,Eternal Masters,C,$0.16 ,$0.03 ,,,,$1.16 ,37:23.4,,4
 Wind-Scarred Crag,2,,Fate Reforged,C,$0.16 ,$0.04 ,,,,$1.14 ,38:11.9,,4
-Wind-Scarred Crag,3,,Khans of Tarkir,C,$0.15 ,$0.05 ,,,,$1.13 ,44:03.2,,4
+Wind-Scarred Crag,4,,Khans of Tarkir,C,$0.15 ,$0.05 ,,,,$1.13 ,44:03.2,,4
 Windscouter,,,Prophecy,U,$0.19 ,$0.05 ,,,,$1.17 ,53:33.2,3U,1
 Windseeker Centaur,,,Media Promos,P,$0.71 ,$0.27 ,,,,$3.99 ,47:21.4,1RR,1
 Windstorm,,,Duel Decks: Anthology,U,$0.22 ,$0.04 ,,,,$0.53 ,34:05.1,XG,5
