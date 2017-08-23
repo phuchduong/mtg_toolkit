@@ -24080,8 +24080,7 @@ Recollect,,,Magic Player Rewards,P,$0.56 ,$0.28 ,,,,$3.00 ,46:38.0,,3
 Recollect,,,Ravnica,U,$0.20 ,$0.08 ,,,,$1.18 ,53:45.1,2G,3
 Reconnaissance,,,Exodus,U,$2.49 ,$1.50 ,,,,$3.29 ,37:52.5,W,1
 Reconstruction,,,Antiquities,C,$0.22 ,$0.12 ,,,,$1.00 ,08:20.1,U,4
-Reconstruction,,,Revised Edition,C,$0.16 ,$0.05 ,,,,$1.14 ,54:11.2,U,4
-reconstruction,1,,unknown set,,,,,,,,,,
+Reconstruction,1,,Revised Edition,C,$0.16 ,$0.05 ,,,,$1.14 ,54:11.2,U,4
 Recoup,,,Duel Decks: Sorin vs. Tibalt,U,$0.21 ,$0.10 ,,,,$0.99 ,36:20.8,1R,2
 Recoup,,,Odyssey,U,$0.24 ,$0.10 ,,,,$1.00 ,50:04.2,1R,2
 recoup,1,,unknown set,,,,,,,,,,
@@ -24518,7 +24517,7 @@ Reverse Damage,,,Revised Edition,R,$0.35 ,$0.10 ,,,,$1.80 ,54:11.2,1WW,13
 Reverse Damage,,,Unlimited Edition,R,$3.85 ,$2.90 ,,,,$7.18 ,59:35.8,1WW,13
 Reverse Damage (CE),,,Collector's Edition,R,$0.87 ,$0.62 ,,,,$1.01 ,28:39.5,1WW,1
 Reverse Damage (IE),,,International Edition,R,$0.82 ,$0.66 ,,,,$1.64 ,42:45.8,1WW,1
-Reverse Engineer,2,,Aether Revolt,U,$0.26 ,$0.05 ,,,,$1.43 ,07:42.0,3UU,1
+Reverse Engineer,4,,Aether Revolt,U,$0.26 ,$0.05 ,,,,$1.43 ,07:42.0,3UU,1
 Reverse Polarity,,,Antiquities,C,$0.18 ,$0.07 ,,,,$1.00 ,08:20.1,WW,4
 Reverse Polarity,,,Revised Edition,U,$0.18 ,$0.06 ,,,,$1.17 ,54:11.2,WW,4
 Reverse the Sands,,,Champions of Kamigawa,R,$0.50 ,$0.25 ,,,,$1.24 ,26:53.1,6WW,2
@@ -24726,7 +24725,7 @@ Rise from the Grave,,,Magic 2011 (M11),U,$0.16 ,$0.05 ,,,,$1.15 ,45:12.9,4B,9
 Rise from the Grave,,,Magic 2013 (M13),U,$0.17 ,$0.03 ,,,,$1.15 ,45:36.4,4B,9
 Rise from the Tides,,,FNM Promos,P,$0.35 ,$0.21 ,,,,$1.30 ,38:43.2,5U,2
 Rise from the Tides,1,,Shadows over Innistrad,U,$0.23 ,$0.03 ,1,,,$2.24 ,55:56.6,5U,2
-Rise of Eagles,4,,Journey Into Nyx,C,$0.15 ,$0.01 ,,,,$1.15 ,43:10.4,4UU,1
+Rise of Eagles,,TRUE,Journey Into Nyx,C,$0.15 ,$0.01 ,,,,$1.15 ,43:10.4,4UU,1
 Rise of the Dark Realms,,,Magic 2014 (M14),M,$9.00 ,$4.99 ,,,,$17.99 ,45:49.7,7BB,1
 Rise of the Hobgoblins,,,Eventide,R,$3.40 ,$1.85 ,,,,$5.15 ,37:42.6,(R/W)(R/W),1
 Rise to the Challenge,1,,Born of the Gods,C,$0.15 ,$0.01 ,,,,$1.15 ,21:39.8,1R,1
@@ -24749,9 +24748,8 @@ Risky Move,,,Onslaught,R,$0.44 ,$0.22 ,,,,$1.39 ,50:20.0,3RRR,1
 Rite of Consumption,,,Shadowmoor,C,$0.59 ,$0.24 ,,,,$1.75 ,55:43.4,1B,1
 Rite of Flame,,,Coldsnap,C,$1.00 ,$0.50 ,,,,$3.04 ,27:32.4,R,1
 Rite of Passage,,,Fifth Dawn,R,$2.87 ,$0.97 ,,,,$9.99 ,38:21.8,2G,1
-Rite of Replication,,,Commander 2014,R,$2.14 ,$1.41 ,,,,$4.99 ,29:11.8,2UU,3
+Rite of Replication,1,,Commander 2014,R,$2.14 ,$1.41 ,,,,$4.99 ,29:11.8,2UU,3
 Rite of Replication,,,Commander 2015,R,$2.15 ,$1.48 ,,,,$2.98 ,29:22.4,2UU,3
-rite of replication,1,,unknown set,,,,,,,,,,
 Rite of Replication,,,Zendikar,R,$2.11 ,$1.25 ,,,,$3.02 ,01:59.0,2UU,3
 Rite of Ruin,1,,Avacyn Restored,R,$0.37 ,$0.09 ,,,,$1.99 ,20:51.4,5RR,1
 Rite of the Raging Storm,,,Commander 2015,U,$0.26 ,$0.10 ,,,,$0.99 ,29:22.4,3RR,1
@@ -25145,10 +25143,9 @@ rupture spire,,,unknown set,,,,,,,,,,
 Rush of Adrenaline,2,,Shadows over Innistrad,C,$0.15 ,$0.05 ,,,,$2.15 ,55:56.6,R,1
 Rush of Battle,,TRUE,Khans of Tarkir,C,$0.15 ,$0.03 ,,,,$0.95 ,44:03.2,3W,1
 Rush of Blood,1,,Avacyn Restored,U,$0.17 ,$0.05 ,,,,$1.15 ,20:51.4,2R,1
-Rush of Ice,4,,Battle for Zendikar,C,$0.15 ,$0.01 ,,,,$1.13 ,05:14.9,U,1
-Rush of Knowledge,,,Commander 2014,C,$0.15 ,$0.05 ,,,,$0.95 ,29:11.8,4U,2
+Rush of Ice,,TRUE,Battle for Zendikar,C,$0.15 ,$0.01 ,,,,$1.13 ,05:14.9,U,1
+Rush of Knowledge,5,,Commander 2014,C,$0.15 ,$0.05 ,,,,$0.95 ,29:11.8,4U,2
 Rush of Knowledge,,,Scourge,C,$0.16 ,$0.05 ,,,,$1.15 ,55:32.6,4U,2
-rush of knowledge,3,,unknown set,,,,,,,,,,
 Rush of Vitality,1,,Kaladesh,C,$0.14 ,$0.01 ,,,,$2.16 ,43:50.8,1B,1
 Rushing River,,,Planeshift,C,$0.17 ,$0.05 ,,,,$1.00 ,51:41.1,2U,1
 Rushing-Tide Zubera,,,Saviors of Kamigawa,U,$0.20 ,$0.09 ,,,,$2.63 ,55:06.0,2UU,1
