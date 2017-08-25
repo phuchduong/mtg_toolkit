@@ -166,8 +166,7 @@ Act of Treason,,,Magic 2011 (M11),C,$0.14 ,$0.01 ,,,,$1.13 ,45:12.9,2R,9
 Act of Treason,,,Magic 2010 (M10),U,$0.17 ,$0.04 ,,,,$1.14 ,44:59.9,2R,9
 Act of Treason,,,Gatecrash,C,$0.14 ,$0.01 ,,,,$1.14 ,41:11.0,2R,9
 Act of Treason,,,Magic Origins,C,$0.14 ,$0.01 ,,,,$1.14 ,46:24.9,2R,9
-Act of Treason,,,Magic 2014 (M14),C,$0.15 ,$0.01 ,,,,$1.14 ,45:49.7,2R,9
-act of treason,4,,unknown set,,,,,,,,,,
+Act of Treason,4,,Magic 2014 (M14),C,$0.15 ,$0.01 ,,,,$1.14 ,45:49.7,2R,9
 Act on Impulse,2,,Magic 2015 (M15),U,$0.16 ,$0.04 ,,,,$1.14 ,46:02.7,2R,1
 Active Volcano,,,Legends,C,$0.19 ,$0.07 ,,,,$1.00 ,44:24.3,R,2
 Active Volcano,,,Chronicles,C,$0.16 ,$0.05 ,,,,$1.13 ,27:13.4,R,2
@@ -2988,10 +2987,9 @@ Bloom Tender,,,Eventide,R,$30.52 ,$24.47 ,,,,$39.99 ,37:42.6,1G,1
 Blooming Marsh,,,Kaladesh,R,$6.60 ,$4.95 ,,,,$12.99 ,43:50.8,,2
 Blooming Marsh,,,Prerelease Cards,R,$13.34 ,$11.21 ,,,,$18.45 ,53:03.9,,2
 Blossoming Defense,,TRUE,Kaladesh,U,$1.02 ,$0.01 ,,,,$2.50 ,43:50.8,G,1
-Blossoming Sands,,,Fate Reforged,C,$0.16 ,$0.04 ,,,,$1.14 ,38:11.9,,3
-Blossoming Sands,,,Khans of Tarkir,C,$0.15 ,$0.05 ,,,,$1.14 ,44:03.2,,3
+Blossoming Sands,1,,Fate Reforged,C,$0.16 ,$0.04 ,,,,$1.14 ,38:11.9,,3
+Blossoming Sands,2,,Khans of Tarkir,C,$0.15 ,$0.05 ,,,,$1.14 ,44:03.2,,3
 Blossoming Sands,,,Eternal Masters,C,$0.17 ,$0.01 ,,,,$1.17 ,37:23.4,,3
-blossoming sands,1,,unknown set,,,,,,,,,,
 Blossoming Wreath,,,Weatherlight,C,$0.16 ,$0.05 ,,,,$0.94 ,00:53.2,G,1
 Blowfly Infestation,,,Shadowmoor,U,$4.75 ,$3.49 ,,,,$6.58 ,55:43.4,2B,1
 Bludgeon Brawl,,,New Phyrexia,R,$0.35 ,$0.09 ,,,,$1.50 ,49:37.8,2R,1
@@ -19968,7 +19966,7 @@ Mystic Melting,,,Coldsnap,U,$0.21 ,$0.07 ,,,,$1.18 ,27:32.4,3G,1
 Mystic Might,,,Ice Age,R,$0.33 ,$0.16 ,,,,$3.35 ,42:21.9,U,1
 Mystic Monastery,,,Duel Decks: Speed vs. Cunning,U,$0.32 ,$0.11 ,,,,$1.00 ,36:33.0,,3
 Mystic Monastery,,,Commander 2016,U,$0.28 ,$0.10 ,,,,$1.13 ,29:33.2,,3
-Mystic Monastery,4,,Khans of Tarkir,U,$0.28 ,$0.08 ,,,,$2.00 ,44:03.2,,3
+Mystic Monastery,5,,Khans of Tarkir,U,$0.28 ,$0.08 ,,,,$2.00 ,44:03.2,,3
 Mystic of the Hidden Way,,,Khans of Tarkir,C,$0.14 ,$0.01 ,,,,$1.14 ,44:03.2,4U,2
 Mystic of the Hidden Way,,,Ugin's Fate Promos,P,$1.14 ,$0.25 ,,,,$2.95 ,58:45.3,4U,2
 mystic of the hidden way,,TRUE,unknown set,,,,,,,,,,
@@ -25894,7 +25892,7 @@ Sea Gate Oracle,,,Rise of the Eldrazi,C,$0.21 ,$0.05 ,,,,$1.18 ,54:52.4,2U,4
 sea gate oracle,2,,unknown set,,,,,,,,,,
 Sea Gate Wreckage,,,Oath of the Gatewatch,R,$0.46 ,$0.17 ,,,,$2.00 ,49:49.2,,2
 Sea Gate Wreckage,,,Prerelease Cards,R,$4.29 ,$2.65 ,,,,$10.63 ,53:03.9,,2
-Sea God's Revenge,4,,Theros,U,$0.16 ,$0.03 ,,,,$1.15 ,57:50.1,5U,1
+Sea God's Revenge,,TRUE,Theros,U,$0.16 ,$0.03 ,,,,$1.15 ,57:50.1,5U,1
 Sea Kings' Blessing,,,Legends,U,$0.41 ,$0.24 ,,,,$1.09 ,44:24.3,U,1
 Sea Monster,,,10th Edition,C,$0.15 ,$0.03 ,,,,$1.14 ,52:59.6,4UU,6
 Sea Monster,,,7th Edition,C,$0.16 ,$0.05 ,,,,$1.14 ,01:06.3,4UU,6
@@ -26051,8 +26049,7 @@ Sedraxis Specter,,,Shards of Alara,R,$0.50 ,$0.18 ,,,,$4.50 ,56:13.2,UBR,2
 "Sedris, the Traitor King",,,Shards of Alara,M,$2.90 ,$2.00 ,,,,$4.19 ,56:13.2,3UBR,1
 See Beyond,,,Planechase 2012,C,$0.22 ,$0.09 ,,,,$1.18 ,51:16.2,1U,3
 See Beyond,,,Planechase Anthology,C,$0.12 ,$0.07 ,,,,$0.45 ,51:27.9,1U,3
-See Beyond,,,Rise of the Eldrazi,C,$0.18 ,$0.05 ,,,,$1.16 ,54:52.4,1U,3
-see beyond,1,,unknown set,,,,,,,,,,
+See Beyond,1,,Rise of the Eldrazi,C,$0.18 ,$0.05 ,,,,$1.16 ,54:52.4,1U,3
 See the Unwritten,1,,Khans of Tarkir,M,$0.75 ,$0.38 ,,,,$11.00 ,44:03.2,4GG,1
 Seed Guardian,,TRUE,Oath of the Gatewatch,U,$0.16 ,$0.01 ,,,,$1.15 ,49:49.2,2GG,1
 Seed Spark,1,,Ravnica,U,$0.20 ,$0.08 ,,,,$1.17 ,53:45.1,3W,1
@@ -26403,7 +26400,7 @@ Servo Token (004),,,Kaladesh,T,$0.14 ,$0.01 ,,,,$0.95 ,43:50.8,,1
 Servo Token (005),,,Kaladesh,T,$0.14 ,$0.01 ,,,,$0.95 ,43:50.8,,1
 Servo Token (006),,,Kaladesh,T,$0.14 ,$0.01 ,,,,$0.95 ,43:50.8,,1
 Seshiro the Anointed,,,Champions of Kamigawa,R,$11.01 ,$9.69 ,,,,$14.99 ,26:53.1,4GG,1
-Set Adrift,1,,Khans of Tarkir,U,$0.19 ,$0.02 ,,,,$1.18 ,44:03.2,5U,1
+Set Adrift,,TRUE,Khans of Tarkir,U,$0.19 ,$0.02 ,,,,$1.18 ,44:03.2,5U,1
 Setessan Battle Priest,,TRUE,Theros,C,$0.15 ,$0.02 ,,,,$1.15 ,57:50.1,1W,1
 Setessan Griffin,,TRUE,Theros,C,$0.14 ,$0.01 ,,,,$1.15 ,57:50.1,4W,1
 Setessan Oathsworn,,TRUE,Born of the Gods,C,$0.15 ,$0.01 ,2,,,$0.95 ,21:39.8,1GG,1
@@ -26543,7 +26540,7 @@ Shardless Agent,,,Judge Promos,U,$15.18 ,$9.96 ,,,,$99.00 ,43:30.3,1GU,4
 Shardless Agent,,,Planechase 2012,U,$5.49 ,$1.90 ,,,,$12.81 ,51:16.2,1GU,4
 Shardless Agent,,,Planechase Anthology,U,$3.25 ,$2.50 ,,,,$7.47 ,51:27.9,1GU,4
 Shared Animosity,,,Morningtide,R,$9.75 ,$8.02 ,,,,$11.99 ,49:11.9,2R,1
-Shared Discovery,1,,Rise of the Eldrazi,C,$0.15 ,$0.05 ,,,,$1.14 ,54:52.4,U,1
+Shared Discovery,,TRUE,Rise of the Eldrazi,C,$0.15 ,$0.05 ,,,,$1.14 ,54:52.4,U,1
 Shared Fate,,,Mirrodin,R,$0.77 ,$0.48 ,,,,$3.99 ,48:07.7,4U,1
 Shared Trauma,,,Commander,R,$0.47 ,$0.20 ,,,,$1.99 ,28:49.6,B,1
 Shared Triumph,,,Onslaught,R,$1.75 ,$1.00 ,,,,$2.95 ,50:20.0,1W,1
@@ -26939,7 +26936,7 @@ Sifter Wurm,,,Hour of Devastation,U,$0.15 ,$0.02 ,,,,$0.94 ,42:11.2,5GG,1
 Sigarda's Aid,,,Eldritch Moon,R,$0.87 ,$0.49 ,,,,$4.00 ,37:13.3,W,2
 Sigarda's Aid,,,Prerelease Cards,R,$4.75 ,$3.61 ,,,,$9.99 ,53:03.9,W,2
 Sigardian Priest,,,Eldritch Moon,C,$0.15 ,$0.01 ,,,,$2.17 ,37:13.3,1W,1
-Sight Beyond Sight,1,,Dragons of Tarkir,U,$0.22 ,$0.03 ,,,,$0.99 ,31:16.6,3U,1
+Sight Beyond Sight,,TRUE,Dragons of Tarkir,U,$0.22 ,$0.03 ,,,,$0.99 ,31:16.6,3U,1
 Sight of the Scalelords,1,,Dragons of Tarkir,U,$0.21 ,$0.04 ,,,,$1.19 ,31:16.6,4G,1
 Sighted-Caste Sorcerer,,,Shards of Alara,C,$0.15 ,$0.04 ,,,,$1.14 ,56:13.2,1W,1
 Sightless Brawler,,TRUE,Journey Into Nyx,U,$0.16 ,$0.02 ,,,,$1.15 ,43:10.4,1W,1
@@ -26993,9 +26990,8 @@ Silent Arbiter,,,Fifth Dawn,R,$2.02 ,$1.45 ,,,,$7.99 ,38:21.8,4,2
 Silent Artisan,,TRUE,Theros,C,$0.14 ,$0.01 ,,,,$1.15 ,57:50.1,3WW,1
 Silent Assassin,,,Mercadian Masques,R,$0.32 ,$0.15 ,,,,$1.32 ,47:34.6,BB,1
 Silent Attendant,,,Urza's Saga,C,$0.17 ,$0.05 ,,,,$0.94 ,00:16.8,2W,1
-Silent Departure,,,Eternal Masters,C,$0.16 ,$0.02 ,,,,$1.16 ,37:23.4,U,2
-Silent Departure,,,Innistrad,C,$0.15 ,$0.05 ,,,,$1.14 ,42:34.3,U,2
-silent departure,4,,unknown set,,,,,,,,,,
+Silent Departure,,TRUE,Eternal Masters,C,$0.16 ,$0.02 ,,,,$1.16 ,37:23.4,U,2
+Silent Departure,,TRUE,Innistrad,C,$0.15 ,$0.05 ,,,,$1.14 ,42:34.3,U,2
 Silent Observer,,TRUE,Shadows over Innistrad,C,$0.15 ,$0.01 ,,,,$2.17 ,55:56.6,3U,1
 Silent Sentinel,1,,Born of the Gods,R,$0.29 ,$0.08 ,,,,$1.60 ,21:39.8,5WW,3
 Silent Sentinel,,,Commander 2015,R,$0.27 ,$0.10 ,,,,$1.25 ,29:22.4,5WW,3
@@ -27382,10 +27378,9 @@ Skyreach Manta,,,Modern Masters 2015,C,$0.15 ,$0.02 ,,,,$1.14 ,48:45.6,5,3
 Skyreaping,3,,Born of the Gods,U,$0.17 ,$0.03 ,,,,$1.15 ,21:39.8,1G,1
 Skyrider Elf,,TRUE,Battle for Zendikar,U,$0.22 ,$0.01 ,,,,$1.35 ,05:14.9,XGU,1
 Skyrider Trainee,,,Guildpact,C,$0.16 ,$0.04 ,,,,$1.16 ,41:30.7,4W,1
-Skyscribing,,,Commander,U,$0.22 ,$0.10 ,,,,$0.99 ,28:49.6,XUU,3
+Skyscribing,1,,Commander,U,$0.22 ,$0.10 ,,,,$0.99 ,28:49.6,XUU,3
 Skyscribing,,,Commander 2013,U,$0.23 ,$0.08 ,,,,$1.20 ,29:01.3,XUU,3
 Skyscribing,,,Dissension,U,$0.21 ,$0.10 ,,,,$1.19 ,30:57.6,XUU,3
-skyscribing,1,,unknown set,,,,,,,,,,
 Skyshaper,,,Exodus,U,$0.21 ,$0.07 ,,,,$1.19 ,37:52.5,2,1
 Skyship Plunderer,,,Aether Revolt,U,$0.22 ,$0.01 ,,,,$6.00 ,07:42.0,1U,1
 Skyship Stalker,1,,Kaladesh,R,$0.25 ,$0.08 ,,,,$2.25 ,43:50.8,2RR,3
@@ -27484,11 +27479,10 @@ Sleeper Agent,,,Urza's Saga,R,$0.41 ,$0.21 ,,,,$1.09 ,00:16.8,B,2
 Sleeper's Guile,,,Urza's Legacy,C,$0.17 ,$0.05 ,,,,$0.95 ,00:05.5,2B,1
 Sleeper's Robe,,,Invasion,U,$0.26 ,$0.14 ,,,,$0.98 ,42:58.3,UB,1
 Sleeping Potion,,,Planeshift,C,$0.16 ,$0.05 ,,,,$1.15 ,51:41.1,1U,1
-Sleight of Hand,,,7th Edition,C,$4.00 ,$2.48 ,,,,$44.99 ,01:06.3,U,4
+Sleight of Hand,1,,7th Edition,C,$4.00 ,$2.48 ,,,,$44.99 ,01:06.3,U,4
 Sleight of Hand,,,9th Edition,C,$4.53 ,$3.25 ,,,,$10.00 ,07:35.2,U,4
 Sleight of Hand,,,Portal Second Age,C,$9.69 ,$9.59 ,,,,$10.50 ,52:05.8,U,4
 Sleight of Hand,,,Starter 1999,C,$5.40 ,$4.85 ,,,,$5.83 ,56:36.0,U,4
-sleight of hand,1,,unknown set,,,,,,,,,,
 Sleight of Mind,,,Alpha Edition,R,$135.57 ,$100.00 ,,,,$159.60 ,08:00.8,U,11
 Sleight of Mind,,,Beta Edition,R,$28.20 ,$17.05 ,,,,$35.96 ,21:20.1,U,11
 Sleight of Mind,,,Fifth Edition,R,$0.32 ,$0.12 ,,,,$1.50 ,38:31.6,U,11
@@ -29082,10 +29076,9 @@ strangling soot,,TRUE,unknown set,,,,,,,,,,
 Strata Scythe,,,Commander 2014,R,$0.33 ,$0.10 ,,,,$1.09 ,29:11.8,3,2
 Strata Scythe,,,Scars of Mirrodin,R,$0.31 ,$0.10 ,,,,$1.28 ,55:17.4,3,2
 Stratadon,,,Planeshift,U,$0.20 ,$0.05 ,,,,$1.17 ,51:41.1,10,1
-Strategic Planning,,,Commander 2013,U,$0.30 ,$0.05 ,,,,$5.75 ,29:01.3,1U,3
+Strategic Planning,1,,Commander 2013,U,$0.30 ,$0.05 ,,,,$5.75 ,29:01.3,1U,3
 Strategic Planning,,,Hour of Devastation,C,$0.13 ,$0.02 ,,,,$0.80 ,42:11.2,1U,3
 Strategic Planning,,,Portal Three Kingdoms,U,$10.77 ,$5.98 ,,,,$29.99 ,52:18.3,1U,3
-strategic planning,1,,unknown set,,,,,,,,,,
 "Strategy, Schmategy",,,Unglued,R,$2.37 ,$2.20 ,,,,$3.33 ,58:56.1,1R,1
 Stratozeppelid,,,Guildpact,U,$0.20 ,$0.04 ,,,,$1.17 ,41:30.7,4U,1
 Stratus Dancer,,,Dragons of Tarkir,R,$0.56 ,$0.10 ,,,,$3.00 ,31:16.6,1U,2
@@ -29284,9 +29277,8 @@ Sultai Ascendancy,,,Khans of Tarkir,R,$0.34 ,$0.08 ,,,,$1.50 ,44:03.2,BGU,3
 Sultai Ascendancy,,,Prerelease Cards,R,$0.96 ,$0.28 ,,,,$2.98 ,53:03.9,BGU,3
 Sultai Ascendancy,,,Unique and Miscellaneous Promos,P,$0.31 ,$0.15 ,,,,$1.03 ,59:23.7,BGU,3
 Sultai Banner,2,,Khans of Tarkir,C,$0.14 ,$0.02 ,,,,$1.14 ,44:03.2,3,1
-Sultai Charm,,,Khans of Tarkir,U,$0.22 ,$0.03 ,,,,$1.25 ,44:03.2,BGU,2
+Sultai Charm,2,,Khans of Tarkir,U,$0.22 ,$0.03 ,,,,$1.25 ,44:03.2,BGU,2
 Sultai Charm,,,Media Promos,U,$0.54 ,$0.27 ,,,,$2.50 ,47:21.4,BGU,2
-sultai charm,1,,unknown set,,,,,,,,,,
 Sultai Emissary,,,Fate Reforged,C,$0.15 ,$0.02 ,,,,$1.14 ,38:11.9,1B,2
 Sultai Emissary,,,Ugin's Fate Promos,P,$1.74 ,$0.50 ,,,,$2.98 ,58:45.3,1B,2
 sultai emissary,,TRUE,unknown set,,,,,,,,,,
@@ -29963,7 +29955,7 @@ swiftwater cliffs,9,,unknown set,,,,,,,,,,
 Swirl the Mists,,,Champions of Kamigawa,R,$0.32 ,$0.13 ,,,,$1.30 ,26:53.1,2UU,1
 Swirling Sandstorm,,TRUE,Judgment,C,$0.18 ,$0.05 ,,,,$1.15 ,43:40.4,3R,1
 Swirling Spriggan,,,Eventide,U,$0.19 ,$0.05 ,,,,$1.18 ,37:42.6,2GG,1
-Switcheroo,3,,Magic 2013 (M13),U,$0.17 ,$0.07 ,,,,$1.15 ,45:36.4,4U,1
+Switcheroo,,TRUE,Magic 2013 (M13),U,$0.17 ,$0.07 ,,,,$1.15 ,45:36.4,4U,1
 Swooping Talon,,TRUE,Legions,U,$0.19 ,$0.02 ,,,,$1.18 ,44:36.3,4WW,1
 Sword Dancer,,,8th Edition,U,$0.19 ,$0.04 ,,,,$1.17 ,07:28.1,1W,2
 Sword Dancer,,,Prophecy,U,$0.20 ,$0.07 ,,,,$1.17 ,53:33.2,1W,2
@@ -31630,7 +31622,7 @@ Transmutation,,,Chronicles,C,$0.16 ,$0.05 ,,,,$1.15 ,27:13.4,1B,2
 Transmutation,,,Legends,C,$0.19 ,$0.09 ,,,,$1.50 ,44:24.3,1B,2
 Transmute Artifact,,,Antiquities,U,$66.98 ,$55.55 ,,,,$89.95 ,08:20.1,UU,1
 Trap Digger,,TRUE,Scourge,R,$0.40 ,$0.14 ,,,,$1.44 ,55:32.6,3W,1
-Trap Essence,1,,Khans of Tarkir,R,$0.34 ,$0.09 ,,,,$1.50 ,44:03.2,GUR,2
+Trap Essence,2,,Khans of Tarkir,R,$0.34 ,$0.09 ,,,,$1.50 ,44:03.2,GUR,2
 Trap Essence,,,Prerelease Cards,R,$0.88 ,$0.28 ,,,,$5.74 ,53:03.9,GUR,2
 Trap Runner,,TRUE,Mercadian Masques,U,$0.20 ,$0.07 ,,,,$1.17 ,47:34.6,2WW,1
 Trapfinder's Trick,,,Zendikar,C,$0.15 ,$0.03 ,,,,$1.14 ,01:59.0,1U,1
@@ -32945,9 +32937,8 @@ Village Messenger,1,,Shadows over Innistrad,U,$0.37 ,$0.21 ,,,,$1.34 ,55:56.6,R,
 Village Survivors,,TRUE,Dark Ascension,U,$0.16 ,$0.03 ,,,,$0.98 ,30:30.6,4G,1
 Villagers of Estwald,,,Innistrad,C,$0.15 ,$0.05 ,,,,$0.94 ,42:34.3,2G,1
 Villainous Ogre,,,Champions of Kamigawa,C,$0.15 ,$0.04 ,,,,$1.15 ,26:53.1,2B,1
-Villainous Wealth,,,Khans of Tarkir,R,$0.37 ,$0.09 ,,,,$1.70 ,44:03.2,XBGU,2
+Villainous Wealth,2,,Khans of Tarkir,R,$0.37 ,$0.09 ,,,,$1.70 ,44:03.2,XBGU,2
 Villainous Wealth,,,Prerelease Cards,R,$2.25 ,$1.79 ,,,,$4.98 ,53:03.9,XBGU,2
-villainous wealth,1,,unknown set,,,,,,,,,,
 Vindicate,,,Apocalypse,R,$7.83 ,$4.47 ,,,,$33.25 ,08:31.3,1WB,3
 Vindicate,,,Eternal Masters,R,$5.48 ,$3.61 ,,,,$8.32 ,37:23.4,1WB,3
 Vindicate,,,Masterpiece Series: Amonkhet Invocations,M,$27.04 ,$22.50 ,,,,$39.89 ,46:58.0,1WB,3
@@ -34280,7 +34271,7 @@ Winds of Rebuke,,,Amonkhet,C,$0.13 ,$0.01 ,,,,$1.12 ,08:07.6,1U,1
 Wind-Scarred Crag,,,Commander 2015,C,$0.16 ,$0.07 ,,,,$0.95 ,29:22.4,,4
 Wind-Scarred Crag,,,Eternal Masters,C,$0.16 ,$0.03 ,,,,$1.16 ,37:23.4,,4
 Wind-Scarred Crag,2,,Fate Reforged,C,$0.16 ,$0.04 ,,,,$1.14 ,38:11.9,,4
-Wind-Scarred Crag,4,,Khans of Tarkir,C,$0.15 ,$0.05 ,,,,$1.13 ,44:03.2,,4
+Wind-Scarred Crag,6,,Khans of Tarkir,C,$0.15 ,$0.05 ,,,,$1.13 ,44:03.2,,4
 Windscouter,,,Prophecy,U,$0.19 ,$0.05 ,,,,$1.17 ,53:33.2,3U,1
 Windseeker Centaur,,,Media Promos,P,$0.71 ,$0.27 ,,,,$3.99 ,47:21.4,1RR,1
 Windstorm,,,Duel Decks: Anthology,U,$0.22 ,$0.04 ,,,,$0.53 ,34:05.1,XG,5
