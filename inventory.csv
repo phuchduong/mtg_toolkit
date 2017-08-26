@@ -7377,8 +7377,8 @@ Dominaria's Judgment,,,Planeshift,R,$0.32 ,$0.10 ,,,,$1.29 ,51:41.1,2W,1
 Dominate,,,Commander 2015,U,$0.20 ,$0.05 ,,,,$0.99 ,29:22.4,X1UU,2
 Dominate,,,Nemesis,U,$0.25 ,$0.10 ,,,,$1.00 ,49:24.8,X1UU,2
 Dominating Licid,,,Exodus,R,$0.87 ,$0.49 ,,,,$2.00 ,37:52.5,1UU,1
-Dominator Drone,,,Duel Decks: Zendikar vs. Eldrazi,C,$0.15 ,$0.04 ,,,,$0.95 ,36:53.3,2B,2
-Dominator Drone,1,,Battle for Zendikar,C,$0.15 ,$0.01 ,,,,$1.14 ,05:14.9,2B,2
+Dominator Drone,,TRUE,Duel Decks: Zendikar vs. Eldrazi,C,$0.15 ,$0.04 ,,,,$0.95 ,36:53.3,2B,2
+Dominator Drone,,TRUE,Battle for Zendikar,C,$0.15 ,$0.01 ,,,,$1.14 ,05:14.9,2B,2
 Domineer,,,Mirrodin,U,$0.17 ,$0.06 ,,,,$1.15 ,48:07.7,1UU,1
 Domineering Will,2,,Commander 2014,R,$0.35 ,$0.23 ,,,,$1.33 ,29:11.8,3U,1
 Dominus of Fealty,,,Commander,R,$2.99 ,$1.79 ,,,,$4.24 ,28:49.6,,2
@@ -7647,7 +7647,7 @@ Drain Power (CE),,,Collector's Edition,R,$1.65 ,$0.60 ,,,,$2.19 ,28:39.5,UU,1
 Drain Power (IE),,,International Edition,R,$3.29 ,,,,,,42:45.8,UU,1
 Drain the Well,,,Eventide,C,$0.15 ,$0.05 ,,,,$1.14 ,37:42.6,2(B/G)(B/G),1
 Draining Whelk,,,Time Spiral,R,$3.14 ,$2.00 ,,,,$4.99 ,58:04.4,4UU,1
-Drainpipe Vermin,4,,Return to Ravnica,C,$0.14 ,$0.04 ,,,,$1.13 ,53:58.3,B,1
+Drainpipe Vermin,,TRUE,Return to Ravnica,C,$0.14 ,$0.04 ,,,,$1.13 ,53:58.3,B,1
 Drake // Elemental (Multicolor) Double-Sided Token,,,Commander 2015,T,$0.20 ,$0.07 ,,,,$0.95 ,29:22.4,,1
 Drake Familiar,,,Ravnica,C,$0.15 ,$0.04 ,,,,$1.14 ,53:45.1,1U,1
 Drake Hatchling,,,Mercadian Masques,C,$0.16 ,$0.05 ,,,,$1.15 ,47:34.6,2U,1
@@ -7680,10 +7680,9 @@ Dread,,,Lorwyn,R,$3.34 ,$2.25 ,,,,$5.17 ,44:46.6,3BBB,1
 Dread Cacodemon,,,Commander Anthology,R,$2.57 ,$1.25 ,,,,$3.75 ,29:43.6,7BBB,2
 Dread Cacodemon,,,Commander,R,$3.70 ,$1.92 ,,,,$6.11 ,28:49.6,7BBB,2
 Dread Charge,,,Portal,R,$0.69 ,$0.27 ,,,,$1.46 ,51:52.4,3B,1
-Dread Defiler,,,Oath of the Gatewatch,R,$0.26 ,$0.09 ,,,,$1.50 ,49:49.2,6B,3
+Dread Defiler,,,Oath of the Gatewatch,R,$0.26 ,$0.09 ,1,,,$1.50 ,49:49.2,6B,3
 Dread Defiler,,,Unique and Miscellaneous Promos,R,$0.93 ,$0.49 ,,,,$1.94 ,59:23.7,6B,3
 Dread Defiler,,,Prerelease Cards,R,$1.01 ,$0.49 ,,,,$3.00 ,53:03.9,6B,3
-dread defiler,,,unknown set,,,,1,,,,,,
 Dread Drone,,,Modern Masters 2015,C,$0.15 ,$0.02 ,,,,$0.95 ,48:45.6,4B,2
 Dread Drone,,,Rise of the Eldrazi,C,$0.15 ,$0.02 ,,,,$0.95 ,54:52.4,4B,2
 Dread of Night,,,Classic Sixth Edition,U,$0.77 ,$0.46 ,,,,$2.98 ,27:22.3,B,2
@@ -8030,7 +8029,7 @@ Dust Stalker,,,Prerelease Cards,R,$1.15 ,$0.66 ,,,,$4.07 ,53:03.9,2BR,2
 dust stalker,1,,unknown set,,,,,,,,,,
 Dust to Dust,,,Fifth Edition,U,$0.33 ,$0.10 ,,,,$1.05 ,38:31.6,1WW,2
 Dust to Dust,,,The Dark,C,$0.28 ,$0.09 ,,,,$1.23 ,57:38.9,1WW,2
-Dutiful Attendant,2,,Dragons of Tarkir,C,$0.15 ,$0.01 ,,,,$1.13 ,31:16.6,2B,1
+Dutiful Attendant,,TRUE,Dragons of Tarkir,C,$0.15 ,$0.01 ,,,,$1.13 ,31:16.6,2B,1
 Dutiful Return,,,Battle for Zendikar,C,$0.14 ,$0.01 ,,,,$1.14 ,05:14.9,3B,2
 Dutiful Return,,,Khans of Tarkir,C,$0.14 ,$0.01 ,,,,$1.14 ,44:03.2,3B,2
 dutiful return,4,,unknown set,,,,,,,,,,
@@ -8181,8 +8180,7 @@ Eater of Days,,,Darksteel,R,$2.07 ,$1.39 ,,,,$3.07 ,30:39.8,4,1
 Eater of Hope,,,Commander Anthology,R,$0.37 ,$0.17 ,,,,$1.00 ,29:43.6,5BB,4
 Eater of Hope,,,Commander 2015,R,$0.28 ,$0.10 ,,,,$1.09 ,29:22.4,5BB,4
 Eater of Hope,,,Prerelease Cards,P,$0.38 ,$0.15 ,,,,$1.31 ,53:03.9,5BB,4
-Eater of Hope,,,Born of the Gods,R,$0.35 ,$0.08 ,,,,$1.60 ,21:39.8,5BB,4
-eater of hope,2,,unknown set,,,,,,,,,,
+Eater of Hope,2,,Born of the Gods,R,$0.35 ,$0.08 ,,,,$1.60 ,21:39.8,5BB,4
 Eater of the Dead,,,The Dark,U,$4.84 ,$2.00 ,,,,$12.00 ,57:38.9,4B,1
 Ebon Dragon,,,From the Vault: Dragons,R,$4.45 ,$2.99 ,,,,$5.99 ,39:48.5,5BB,2
 Ebon Dragon,,,Portal,R,$3.96 ,$1.75 ,,,,$6.24 ,51:52.4,5BB,2
@@ -8782,10 +8780,9 @@ Endless Swarm,,,Saviors of Kamigawa,R,$0.54 ,$0.18 ,,,,$1.54 ,55:06.0,5GGG,1
 Endless Whispers,,,Fifth Dawn,R,$0.81 ,$0.39 ,,,,$1.97 ,38:21.8,2BB,1
 Endless Wurm,,,Urza's Saga,R,$0.88 ,$0.35 ,,,,$2.50 ,00:16.8,3GG,1
 Endoskeleton,,,Urza's Saga,U,$0.20 ,$0.06 ,,,,$1.17 ,00:16.8,2,1
-"Endrek Sahr, Master Breeder",,,Commander 2013,R,$0.34 ,$0.11 ,,,,$1.30 ,29:01.3,4B,3
+"Endrek Sahr, Master Breeder",1,,Commander 2013,R,$0.34 ,$0.11 ,,,,$1.30 ,29:01.3,4B,3
 "Endrek Sahr, Master Breeder",,,Time Spiral,R,$0.41 ,$0.19 ,,,,$1.38 ,58:04.4,4B,3
 "Endrek Sahr, Master Breeder",,,Modern Masters 2015,R,$0.40 ,$0.14 ,,,,$1.39 ,48:45.6,4B,3
-"endrek sahr, master breeder",1,,unknown set,,,,,,,,,,
 Endure,,,Eventide,U,$0.22 ,$0.07 ,,,,$1.21 ,37:42.6,3WW,1
 Enduring Ideal,,,Saviors of Kamigawa,R,$4.94 ,$3.02 ,,,,$7.97 ,55:06.0,5WW,1
 Enduring Renewal,1,,Ice Age,R,$0.95 ,$0.70 ,,,,$3.00 ,42:21.9,2WW,2
@@ -9401,10 +9398,9 @@ Faerie Invaders,,,Duel Decks: Speed vs. Cunning,C,$0.15 ,$0.04 ,,,,$0.49 ,36:33.
 Faerie Invaders,,,Magic 2013 (M13),C,$0.14 ,$0.02 ,,,,$1.14 ,45:36.4,3UU,2
 faerie invaders,,TRUE,unknown set,,,,,,,,,,
 Faerie Macabre,,,Duel Decks: Anthology,C,$0.46 ,$0.40 ,,,,$0.49 ,34:05.1,1BB,4
-Faerie Macabre,,,Shadowmoor,C,$0.38 ,$0.18 ,,,,$1.28 ,55:43.4,1BB,4
+Faerie Macabre,2,,Shadowmoor,C,$0.38 ,$0.18 ,,,,$1.28 ,55:43.4,1BB,4
 Faerie Macabre,,,Modern Masters,C,$0.35 ,$0.10 ,,,,$1.30 ,48:33.1,1BB,4
 Faerie Macabre,,,Duel Decks: Garruk vs. Liliana,C,$0.46 ,$0.24 ,,,,$1.40 ,34:59.3,1BB,4
-faerie macabre,2,,unknown set,,,,,,,,,,
 Faerie Mechanist,,,Duel Decks: Elspeth vs. Tezzeret,C,$0.16 ,$0.05 ,,,,$0.95 ,34:41.4,3U,4
 Faerie Mechanist,,,Modern Masters,C,$0.15 ,$0.02 ,,,,$1.14 ,48:33.1,3U,4
 Faerie Mechanist,,,Modern Masters 2015,C,$0.15 ,$0.02 ,,,,$1.15 ,48:45.6,3U,4
