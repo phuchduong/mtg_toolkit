@@ -9446,10 +9446,9 @@ Falkenrath Exterminator,1,TRUE,Avacyn Restored,U,$0.18 ,$0.05 ,,,,$0.99 ,20:51.4
 Falkenrath Gorger,,,Shadows over Innistrad,R,$0.98 ,$0.29 ,,,,$3.00 ,55:56.6,R,2
 Falkenrath Gorger,,,Prerelease Cards,R,$2.98 ,$1.35 ,,,,$15.99 ,53:03.9,R,2
 Falkenrath Marauders,,,Innistrad,R,$0.33 ,$0.10 ,,,,$1.32 ,42:34.3,3RR,1
-Falkenrath Noble,,,Duel Decks: Blessed vs. Cursed,U,$0.20 ,$0.05 ,,,,$0.65 ,34:15.0,3B,3
-Falkenrath Noble,,,Modern Masters 2017,C,$0.14 ,$0.03 ,,,,$1.14 ,48:58.4,3B,3
-Falkenrath Noble,,,Innistrad,U,$0.17 ,$0.05 ,,,,$1.15 ,42:34.3,3B,3
-falkenrath noble,2,,unknown set,,,,,,,,,,
+Falkenrath Noble,,TRUE,Duel Decks: Blessed vs. Cursed,U,$0.20 ,$0.05 ,,,,$0.65 ,34:15.0,3B,3
+Falkenrath Noble,,TRUE,Modern Masters 2017,C,$0.14 ,$0.03 ,,,,$1.14 ,48:58.4,3B,3
+Falkenrath Noble,,TRUE,Innistrad,U,$0.17 ,$0.05 ,,,,$1.15 ,42:34.3,3B,3
 Falkenrath Reaver,,,Eldritch Moon,C,$0.15 ,$0.01 ,,,,$1.15 ,37:13.3,1R,2
 Falkenrath Reaver,,,Welcome Deck 2017,C,$0.39 ,,,,,,01:17.8,1R,2
 Falkenrath Torturer,,TRUE,Dark Ascension,C,$0.15 ,$0.01 ,,,,$1.15 ,30:30.6,2B,1
@@ -9460,17 +9459,16 @@ fall of the hammer,4,,unknown set,,,,,,,,,,
 Fall of the Titans,,,Oath of the Gatewatch,R,$0.29 ,$0.09 ,,,,$1.28 ,49:49.2,XXR,2
 Fall of the Titans,,,Prerelease Cards,R,$1.99 ,$0.85 ,,,,$5.99 ,53:03.9,XXR,2
 Fallen Angel,,,Beatdown Box Set,R,$0.37 ,$0.21 ,,,,$1.00 ,21:10.8,3BB,11
-Fallen Angel,,,Fifth Edition,U,$0.30 ,$0.10 ,,,,$1.04 ,38:31.6,3BB,11
+Fallen Angel,1,,Fifth Edition,U,$0.30 ,$0.10 ,,,,$1.04 ,38:31.6,3BB,11
 Fallen Angel,,,Duel Decks: Anthology,R,$0.40 ,$0.19 ,,,,$1.10 ,34:05.1,3BB,11
 Fallen Angel,,,Commander Anthology,R,$0.43 ,$0.23 ,,,,$1.20 ,29:43.6,3BB,11
 Fallen Angel,,,Chronicles,U,$0.25 ,$0.13 ,,,,$1.24 ,27:13.4,3BB,11
-Fallen Angel,,,8th Edition,R,$0.34 ,$0.12 ,,,,$1.31 ,07:28.1,3BB,11
+Fallen Angel,1,,8th Edition,R,$0.34 ,$0.12 ,,,,$1.31 ,07:28.1,3BB,11
 Fallen Angel,,,Classic Sixth Edition,R,$0.41 ,$0.15 ,,,,$1.41 ,27:22.3,3BB,11
 Fallen Angel,,,Duel Decks: Divine vs. Demonic,R,$0.33 ,$0.11 ,,,,$1.50 ,34:23.9,3BB,11
 Fallen Angel,,,Commander,R,$0.32 ,$0.15 ,,,,$1.60 ,28:49.6,3BB,11
 Fallen Angel,,,Legends,U,$1.88 ,$1.42 ,,,,$3.48 ,44:24.3,3BB,11
 Fallen Angel,,,7th Edition,R,$0.32 ,$0.14 ,,,,$10.00 ,01:06.3,3BB,11
-fallen angel,2,,unknown set,,,,,,,,,,
 Fallen Angel (Oversized),,,Oversize Cards,P,,,,,,,50:35.3,3BB,1
 Fallen Askari,,,Visions,C,$0.16 ,$0.05 ,,,,$1.15 ,00:40.5,1B,1
 Fallen Cleric,,TRUE,Onslaught,C,$0.15 ,$0.03 ,,,,$1.15 ,50:20.0,4B,1
@@ -9787,16 +9785,15 @@ festergloom,2,,unknown set,,,,,,,,,,
 Festerhide Boar,,,Innistrad,C,$0.15 ,$0.02 ,,,,$0.94 ,42:34.3,3G,2
 Festerhide Boar,,,Duel Decks: Jace vs. Vraska,C,$0.14 ,$0.04 ,,,,$0.95 ,35:35.0,3G,2
 Festering Evil,,,Weatherlight,U,$0.20 ,$0.06 ,,,,$1.17 ,00:53.2,3BB,1
-Festering Goblin,,,9th Edition,C,$0.18 ,$0.05 ,,,,$0.94 ,07:35.2,B,6
-Festering Goblin,,,Archenemy,C,$0.21 ,$0.09 ,,,,$0.95 ,19:52.8,B,6
-Festering Goblin,,,Onslaught,C,$0.17 ,$0.04 ,,,,$1.16 ,50:20.0,B,6
-Festering Goblin,,,Modern Masters,C,$0.16 ,$0.05 ,,,,$1.16 ,48:33.1,B,6
-Festering Goblin,,,10th Edition,C,$0.17 ,$0.05 ,,,,$1.16 ,52:59.6,B,6
-Festering Goblin,,,Planechase,C,$0.19 ,$0.08 ,,,,$1.17 ,51:04.6,B,6
-festering goblin,1,,unknown set,,,,,,,,,,
+Festering Goblin,,TRUE,9th Edition,C,$0.18 ,$0.05 ,,,,$0.94 ,07:35.2,B,6
+Festering Goblin,,TRUE,Archenemy,C,$0.21 ,$0.09 ,,,,$0.95 ,19:52.8,B,6
+Festering Goblin,,TRUE,Onslaught,C,$0.17 ,$0.04 ,,,,$1.16 ,50:20.0,B,6
+Festering Goblin,,TRUE,Modern Masters,C,$0.16 ,$0.05 ,,,,$1.16 ,48:33.1,B,6
+Festering Goblin,,TRUE,10th Edition,C,$0.17 ,$0.05 ,,,,$1.16 ,52:59.6,B,6
+Festering Goblin,,TRUE,Planechase,C,$0.19 ,$0.08 ,,,,$1.17 ,51:04.6,B,6
 Festering March,,,Future Sight,U,$0.19 ,$0.06 ,,,,$1.17 ,40:50.9,3BB,1
 Festering Mummy,,TRUE,Amonkhet,C,$0.13 ,$0.01 ,,,,$1.14 ,08:07.6,B,1
-Festering Newt,4,,Magic 2014 (M14),C,$0.15 ,$0.04 ,1,,,$1.15 ,45:49.7,B,1
+Festering Newt,3,,Magic 2014 (M14),C,$0.15 ,$0.04 ,1,,,$1.15 ,45:49.7,B,1
 Festering Wound,,,Urza's Destiny,U,$0.25 ,$0.09 ,,,,$0.99 ,59:52.8,1B,1
 Festival,,,The Dark,C,$0.16 ,$0.05 ,,,,$1.16 ,57:38.9,W,1
 Festival of the Guildpact,,,Ravnica,U,$0.18 ,$0.05 ,,,,$1.15 ,53:45.1,XW,1
@@ -10961,7 +10958,7 @@ Forked Bolt,,,Duel Decks: Zendikar vs. Eldrazi,U,$0.40 ,$0.19 ,,,,$1.44 ,36:53.3
 Forked Bolt,,,Rise of the Eldrazi,U,$0.52 ,$0.15 ,,,,$4.89 ,54:52.4,R,2
 Forked Lightning,,,Portal,R,$0.88 ,$0.43 ,,,,$2.00 ,51:52.4,3R,1
 Forked-Branch Garami,,,Betrayers of Kamigawa,U,$0.21 ,$0.07 ,,,,$1.18 ,21:30.3,3GG,1
-Forlorn Pseudamma,3,,Born of the Gods,U,$0.17 ,$0.03 ,,,,$0.99 ,21:39.8,3B,1
+Forlorn Pseudamma,,TRUE,Born of the Gods,U,$0.17 ,$0.03 ,,,,$0.99 ,21:39.8,3B,1
 Form of the Dragon,,,9th Edition,R,$0.72 ,$0.39 ,,,,$1.65 ,07:35.2,4RRR,3
 Form of the Dragon,,,Scourge,R,$0.47 ,$0.26 ,,,,$1.99 ,55:32.6,4RRR,3
 Form of the Dragon,,,From the Vault: Dragons,R,$8.06 ,$6.48 ,,,,$13.99 ,39:48.5,4RRR,3
@@ -12027,10 +12024,9 @@ Gluttonous Cyclops,,TRUE,Journey Into Nyx,C,$0.15 ,$0.01 ,,,,$1.14 ,43:10.4,5R,1
 Gluttonous Slime,,,Planechase Anthology,U,$0.16 ,$0.07 ,,,,$0.52 ,51:27.9,2G,3
 Gluttonous Slime,,,Conflux,U,$0.18 ,$0.06 ,,,,$1.17 ,30:02.2,2G,3
 Gluttonous Slime,,,Planechase 2012,U,$0.21 ,$0.10 ,,,,$1.17 ,51:16.2,2G,3
-Gluttonous Zombie,,,Onslaught,U,$0.18 ,$0.06 ,,,,$0.99 ,50:20.0,4B,3
-Gluttonous Zombie,,,8th Edition,U,$0.19 ,$0.07 ,,,,$1.17 ,07:28.1,4B,3
-Gluttonous Zombie,,,9th Edition,U,$0.19 ,$0.07 ,,,,$1.18 ,07:35.2,4B,3
-gluttonous zombie,1,TRUE,unknown set,,,,,,,,,,
+Gluttonous Zombie,,TRUE,Onslaught,U,$0.18 ,$0.06 ,,,,$0.99 ,50:20.0,4B,3
+Gluttonous Zombie,,TRUE,8th Edition,U,$0.19 ,$0.07 ,,,,$1.17 ,07:28.1,4B,3
+Gluttonous Zombie,,TRUE,9th Edition,U,$0.19 ,$0.07 ,,,,$1.18 ,07:35.2,4B,3
 Glyph Keeper,,,Prerelease Cards,R,$2.17 ,$0.99 ,,,,$6.00 ,53:03.9,3UU,2
 Glyph Keeper,,,Amonkhet,R,$0.29 ,$0.09 ,,,,$8.99 ,08:07.6,3UU,2
 Glyph Keeper // Warrior Double-sided Token,,,Amonkhet,T,$0.32 ,$0.15 ,,,,$0.59 ,08:07.6,,1
@@ -12053,9 +12049,8 @@ Gnat Alley Creeper,,,Dissension,U,$0.19 ,$0.05 ,,,,$1.18 ,30:57.6,2R,1
 Gnat Miser,,,Saviors of Kamigawa,C,$0.21 ,$0.10 ,,,,$0.99 ,55:06.0,B,1
 Gnathosaur,,,Mirrodin Besieged,C,$0.14 ,$0.02 ,,,,$1.13 ,48:20.7,4RR,1
 Gnaw to the Bone,,,Innistrad,C,$0.26 ,$0.07 ,,,,$1.24 ,42:34.3,2G,1
-Gnawing Zombie,,,Modern Masters 2017,C,$0.14 ,$0.01 ,,,,$1.14 ,48:58.4,1B,2
-Gnawing Zombie,,,Magic 2014 (M14),U,$0.18 ,$0.02 ,,,,$1.15 ,45:49.7,1B,2
-gnawing zombie,1,,unknown set,,,,,,,,,,
+Gnawing Zombie,,TRUE,Modern Masters 2017,C,$0.14 ,$0.01 ,,,,$1.14 ,48:58.4,1B,2
+Gnawing Zombie,,TRUE,Magic 2014 (M14),U,$0.18 ,$0.02 ,,,,$1.15 ,45:49.7,1B,2
 Go for the Throat,,,Mirrodin Besieged,U,$2.05 ,$1.05 ,,,,$4.93 ,48:20.7,1B,2
 Go for the Throat,,,FNM Promos,P,$5.37 ,$4.06 ,,,,$6.99 ,38:43.2,1B,2
 Goat // Insect Double-sided Token,,,Planechase Anthology,T,$0.15 ,$0.06 ,,,,$0.45 ,51:27.9,,1
@@ -12711,8 +12706,7 @@ Gravity Sphere,,,Legends,R,$28.26 ,$21.28 ,,,,$47.95 ,44:24.3,2R,1
 Gravity Well,,,Rise of the Eldrazi,U,$0.35 ,$0.19 ,,,,$1.19 ,54:52.4,1GG,1
 Graxiplon,,,Onslaught,U,$0.18 ,$0.07 ,,,,$1.18 ,50:20.0,5U,1
 Gray Merchant of Asphodel,,,Commander 2014,C,$0.33 ,$0.15 ,,,,$0.68 ,29:11.8,3BB,2
-Gray Merchant of Asphodel,,,Theros,C,$0.19 ,$0.09 ,,,,$1.14 ,57:50.1,3BB,2
-gray merchant of asphodel,3,,unknown set,,,,,,,,,,
+Gray Merchant of Asphodel,3,,Theros,C,$0.19 ,$0.09 ,,,,$1.14 ,57:50.1,3BB,2
 Gray Ogre,,,Fourth Edition,C,$0.16 ,$0.04 ,,,,$1.14 ,38:54.1,2R,9
 Gray Ogre,,,Revised Edition,C,$0.16 ,$0.04 ,,,,$1.14 ,54:11.2,2R,9
 Gray Ogre,,,Unlimited Edition,C,$0.22 ,$0.13 ,,,,$1.34 ,59:35.8,2R,9
@@ -12870,7 +12864,7 @@ Grim Monolith,,,Urza's Legacy,R,$45.09 ,$36.00 ,,,,$80.00 ,00:05.5,2,1
 Grim Poppet,,,Shadowmoor,R,$1.42 ,$0.90 ,,,,$13.22 ,55:43.4,7,1
 Grim Reminder,,,Mirrodin,R,$0.29 ,$0.10 ,,,,$1.29 ,48:07.7,2B,1
 Grim Return,1,,Magic 2014 (M14),R,$0.36 ,$0.11 ,,,,$2.49 ,45:49.7,2B,1
-Grim Roustabout,4,,Return to Ravnica,C,$0.14 ,$0.01 ,,,,$1.14 ,53:58.3,1B,1
+Grim Roustabout,,TRUE,Return to Ravnica,C,$0.14 ,$0.01 ,,,,$1.14 ,53:58.3,1B,1
 Grim Strider,,,Amonkhet,U,$0.16 ,$0.01 ,,,,$1.44 ,08:07.6,3B,1
 Grim Tutor,,,Starter 1999,R,$230.00 ,$199.01 ,,,,$282.68 ,56:36.0,1BB,1
 Grimclaw Bats,,TRUE,Darksteel,C,$0.15 ,$0.04 ,,,,$1.15 ,30:39.8,1B,1
@@ -13114,7 +13108,7 @@ Gulf Squid,,,Prophecy,C,$0.17 ,$0.05 ,,,,$1.15 ,53:33.2,3U,1
 Guma,,,Urza's Saga,U,$0.20 ,$0.04 ,,,,$0.98 ,00:16.8,2R,1
 Gurmag Angler,1,,Fate Reforged,C,$0.25 ,$0.10 ,,,,$1.21 ,38:11.9,6B,1
 Gurmag Drowner,,TRUE,Dragons of Tarkir,C,$0.15 ,$0.01 ,,,,$1.15 ,31:16.6,3U,1
-Gurmag Swiftwing,2,,Khans of Tarkir,U,$0.20 ,$0.02 ,,,,$0.99 ,44:03.2,1B,1
+Gurmag Swiftwing,,TRUE,Khans of Tarkir,U,$0.20 ,$0.02 ,,,,$0.99 ,44:03.2,1B,1
 Gurzigost,,,Torment,R,$0.38 ,$0.19 ,,,,$1.34 ,58:32.7,3GG,1
 Gus,,,Unglued,C,$0.16 ,$0.05 ,,,,$0.95 ,58:56.1,2G,1
 Gush,,,Duel Decks: Jace vs. Chandra,C,$2.05 ,$1.64 ,,,,$2.99 ,35:26.2,4U,3
@@ -14984,7 +14978,7 @@ Iron Star (IE),,,International Edition,U,$0.34 ,$0.25 ,,,,$0.59 ,42:45.8,1,1
 Iron Tusk Elephant,,,Mirage,U,$0.20 ,$0.01 ,,,,$1.17 ,47:53.1,4W,1
 Iron Will,,,Urza's Legacy,C,$0.16 ,$0.05 ,,,,$1.15 ,00:05.5,W,1
 Iron-Barb Hellion,,,Fifth Dawn,U,$0.19 ,$0.05 ,,,,$1.18 ,38:21.8,5R,1
-Ironclad Revolutionary,1,TRUE,Aether Revolt,U,$0.20 ,$0.01 ,,,,$2.23 ,07:42.0,4BB,1
+Ironclad Revolutionary,,TRUE,Aether Revolt,U,$0.20 ,$0.01 ,,,,$2.23 ,07:42.0,4BB,1
 Ironclad Slayer,,,Eldritch Moon,C,$0.14 ,$0.01 ,,,,$2.16 ,37:13.3,2W,1
 Ironclaw Buzzardiers,,,Time Spiral,C,$0.15 ,$0.03 ,,,,$1.15 ,58:04.4,2R,1
 Ironclaw Curse,,,Homelands,R,$0.34 ,$0.11 ,,,,$1.07 ,42:00.0,R,2
@@ -16473,8 +16467,7 @@ Kor Spiritdancer,,,Planechase Anthology,R,$6.21 ,$5.05 ,,,,$13.05 ,51:27.9,1W,3
 Kor Spiritdancer,,,Planechase 2012,R,$6.97 ,$4.75 ,,,,$13.99 ,51:16.2,1W,3
 Kor Spiritdancer,,,Rise of the Eldrazi,R,$6.99 ,$4.77 ,,,,$19.89 ,54:52.4,1W,3
 "Korlash, Heir to Blackblade",,,Future Sight,R,$4.75 ,$2.71 ,,,,$6.80 ,40:50.9,2BB,2
-"Korlash, Heir to Blackblade",,,Prerelease Cards,P,$4.74 ,$3.40 ,,,,$7.60 ,53:03.9,2BB,2
-"korlash, heir to blackblade",,,unknown set,,,,1,,,,,,
+"Korlash, Heir to Blackblade",,,Prerelease Cards,P,$4.74 ,$3.40 ,1,,,$7.60 ,53:03.9,2BB,2
 Kormus Bell,,,Revised Edition,R,$0.35 ,$0.19 ,,,,$1.33 ,54:11.2,4,9
 Kormus Bell,,,Fourth Edition,R,$0.31 ,$0.16 ,,,,$2.00 ,38:54.1,4,9
 Kormus Bell,,,Unlimited Edition,R,$3.02 ,$1.60 ,,,,$4.98 ,59:35.8,4,9
