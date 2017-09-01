@@ -1221,7 +1221,7 @@ Archetype of Aggression,4,,Born of the Gods,U,$0.28 ,$0.10 ,,,,$1.70 ,21:39.8,1R
 Archetype of Courage,4,,Born of the Gods,U,$0.90 ,$0.36 ,,,,$3.67 ,21:39.8,1WW,1
 Archetype of Endurance,2,,Born of the Gods,U,$0.99 ,$0.49 ,,,,$2.32 ,21:39.8,6GG,1
 Archetype of Finality,2,,Born of the Gods,U,$0.35 ,$0.15 ,,,,$1.31 ,21:39.8,4BB,1
-Archetype of Imagination,4,,Born of the Gods,U,$0.33 ,$0.20 ,,,,$1.45 ,21:39.8,4UU,1
+Archetype of Imagination,3,,Born of the Gods,U,$0.33 ,$0.20 ,,,,$1.45 ,21:39.8,4UU,1
 Archfiend of Depravity,,,Archenemy: Nicol Bolas,R,$0.48 ,$0.05 ,,,,$1.00 ,20:24.4,3BB,4
 Archfiend of Depravity,,,Fate Reforged,R,$0.90 ,$0.39 ,,,,$2.50 ,38:11.9,3BB,4
 Archfiend of Depravity,,,Prerelease Cards,P,$2.15 ,$1.22 ,,,,$3.67 ,53:03.9,3BB,4
@@ -2020,7 +2020,6 @@ Bane of Bala Ged,,,Battle for Zendikar,U,$0.20 ,$0.05 ,,,,$1.17 ,05:14.9,7,1
 Bane of Progress,,,Commander Anthology,R,$2.75 ,$2.20 ,,,,$3.25 ,29:43.6,4GG,3
 Bane of Progress,,,Commander 2015,R,$2.50 ,$1.95 ,,,,$3.98 ,29:22.4,4GG,3
 Bane of Progress,,,Commander 2013,R,$2.31 ,$1.54 ,,,,$5.99 ,29:01.3,4GG,3
-bane of progress,1,,unknown set,,,,,,,,,,
 Bane of the Living,,,Commander 2016,R,$0.30 ,$0.11 ,,,,$1.27 ,29:33.2,2BB,2
 Bane of the Living,,,Legions,R,$0.40 ,$0.26 ,,,,$1.40 ,44:36.3,2BB,2
 Banefire,,,Duel Decks: Speed vs. Cunning,R,$0.87 ,$0.50 ,,,,$1.75 ,36:33.0,XR,4
@@ -5529,8 +5528,7 @@ Courier Hawk,,,Conspiracy,C,$0.15 ,$0.01 ,,,,$0.95 ,30:11.4,1W,2
 Courier Hawk,,,Ravnica,C,$0.15 ,$0.04 ,,,,$1.14 ,53:45.1,1W,2
 Courier's Capsule,,,Shards of Alara,C,$0.17 ,$0.05 ,,,,$1.15 ,56:13.2,1U,1
 Courser of Kruphix,,,Unique and Miscellaneous Promos,R,$4.35 ,$3.62 ,,,,$15.00 ,59:23.7,1GG,2
-Courser of Kruphix,,,Born of the Gods,R,$3.53 ,$2.00 ,,,,$17.00 ,21:39.8,1GG,2
-courser of kruphix,2,,unknown set,,,,,,,,,,
+Courser of Kruphix,1,,Born of the Gods,R,$3.53 ,$2.00 ,,,,$17.00 ,21:39.8,1GG,2
 Coursers' Accord,4,,Return to Ravnica,C,$0.15 ,$0.01 ,,,,$1.15 ,53:58.3,4GW,1
 Court Archers,,,Shards of Alara,C,$0.16 ,$0.05 ,,,,$0.94 ,56:13.2,2G,1
 Court Homunculus,,,Conflux,C,$0.16 ,$0.05 ,,,,$0.94 ,30:02.2,W,3
@@ -5919,7 +5917,7 @@ Cultist's Staff,,,Eldritch Moon,C,$0.15 ,$0.01 ,,,,$1.15 ,37:13.3,2,1
 Cultivate,,,Archenemy: Nicol Bolas,C,$1.33 ,$1.01 ,,,,$1.99 ,20:24.4,2G,8
 Cultivate,,,Commander,C,$1.66 ,$1.25 ,,,,$2.37 ,28:49.6,2G,8
 Cultivate,,,Commander 2016,C,$1.90 ,$1.46 ,,,,$2.39 ,29:33.2,2G,8
-Cultivate,1,,Commander 2013,C,$1.88 ,$1.25 ,,,,$2.55 ,29:01.3,2G,8
+Cultivate,,,Commander 2013,C,$1.88 ,$1.25 ,,,,$2.55 ,29:01.3,2G,8
 Cultivate,,,Planechase Anthology,C,$2.19 ,$1.76 ,,,,$2.55 ,51:27.9,2G,8
 Cultivate,1,,Magic 2011 (M11),C,$1.56 ,$0.90 ,,,,$2.75 ,45:12.9,2G,8
 Cultivate,,,Planechase 2012,C,$1.93 ,$1.50 ,,,,$3.99 ,51:16.2,2G,8
@@ -6389,7 +6387,6 @@ deadbridge shaman,,TRUE,unknown set,,,,,,,,,,
 Deadeye Harpooner,,,Aether Revolt,U,$0.20 ,$0.01 ,,,,$2.23 ,07:42.0,2W,1
 Deadeye Navigator,,,Modern Masters 2017,R,$0.69 ,$0.45 ,,,,$1.79 ,48:58.4,4UU,2
 Deadeye Navigator,,,Avacyn Restored,R,$1.45 ,$0.39 ,,,,$3.99 ,20:51.4,4UU,2
-deadeye navigator,1,,unknown set,,,,,,,,,,
 Deadfall,,,Legends,U,$0.39 ,$0.23 ,,,,$1.50 ,44:24.3,2G,1
 Deadhead,,,Unglued,C,$0.18 ,$0.05 ,,,,$1.16 ,58:56.1,3B,1
 Dead-Iron Sledge,,,Mirrodin,U,$0.18 ,$0.07 ,,,,$1.15 ,48:07.7,1,1
@@ -9259,7 +9256,7 @@ Explosive Vegetation,,,Conspiracy: Take the Crown,U,$0.60 ,$0.28 ,,,,$1.31 ,30:2
 Explosive Vegetation,,,Commander,U,$1.40 ,$0.55 ,,,,$2.47 ,28:49.6,3G,6
 Explosive Vegetation,,,Onslaught,U,$1.09 ,$0.45 ,,,,$2.55 ,50:20.0,3G,6
 Explosive Vegetation,1,,Duel Decks: Elspeth vs. Kiora,U,$0.96 ,$0.25 ,,,,$2.75 ,34:32.6,3G,6
-Explosive Vegetation,6,,Dragons of Tarkir,U,$0.77 ,$0.35 ,,,,$3.00 ,31:16.6,3G,6
+Explosive Vegetation,5,,Dragons of Tarkir,U,$0.77 ,$0.35 ,,,,$3.00 ,31:16.6,3G,6
 Explosive Vegetation,,,Planechase,U,$2.02 ,$1.14 ,,,,$4.90 ,51:04.6,3G,6
 explosive vegetation,6,,unknown set,,,,,,,,,,
 Expose Evil,,TRUE,Shadows over Innistrad,C,$0.14 ,$0.01 ,,,,$2.16 ,55:56.6,1W,1
@@ -16378,7 +16375,7 @@ Kodama's Might,,,Champions of Kamigawa,C,$0.15 ,$0.05 ,,,,$1.15 ,26:53.1,G,1
 Kodama's Reach,,,Commander 2015,C,$1.60 ,$0.79 ,,,,$2.17 ,29:22.4,2G,5
 Kodama's Reach,1,,Modern Masters,C,$1.60 ,$0.99 ,,,,$3.00 ,48:33.1,2G,5
 Kodama's Reach,,,Commander,C,$2.07 ,$1.14 ,,,,$3.30 ,28:49.6,2G,5
-Kodama's Reach,1,,Champions of Kamigawa,C,$1.46 ,$0.82 ,,,,$4.00 ,26:53.1,2G,5
+Kodama's Reach,,,Champions of Kamigawa,C,$1.46 ,$0.82 ,,,,$4.00 ,26:53.1,2G,5
 Kodama's Reach,,,Commander 2016,C,$2.19 ,$1.50 ,,,,$6.75 ,29:33.2,2G,5
 "Kokusho, the Evening Star",,,Champions of Kamigawa,R,$15.89 ,$13.01 ,,,,$18.37 ,26:53.1,4BB,3
 "Kokusho, the Evening Star",,,Modern Masters,M,$16.15 ,$13.99 ,,,,$19.19 ,48:33.1,4BB,3
@@ -16582,7 +16579,7 @@ Kruin Outlaw,,,Innistrad,R,$1.57 ,$0.38 ,,,,$3.48 ,42:34.3,1RR,1
 Kruin Striker,,,Duel Decks: Mind vs. Might,C,$0.15 ,$0.04 ,,,,$0.45 ,35:52.9,1R,2
 Kruin Striker,,,Avacyn Restored,C,$0.15 ,$0.04 ,,,,$1.15 ,20:51.4,1R,2
 Krumar Bond-Kin,,TRUE,Khans of Tarkir,C,$0.14 ,$0.01 ,,,,$1.14 ,44:03.2,3BB,1
-"Kruphix, God of Horizons",2,,Journey Into Nyx,M,$6.81 ,$3.27 ,,,,$10.99 ,43:10.4,3GU,1
+"Kruphix, God of Horizons",1,,Journey Into Nyx,M,$6.81 ,$3.27 ,,,,$10.99 ,43:10.4,3GU,1
 Kruphix's Insight,7,,Journey Into Nyx,C,$0.14 ,$0.02 ,,,,$1.13 ,43:10.4,2G,1
 Kry Shield,,,Legends,U,$0.36 ,$0.22 ,,,,$1.05 ,44:24.3,2,1
 Kudzu,,,Revised Edition,R,$0.33 ,$0.11 ,,,,$1.10 ,54:11.2,1GG,6
@@ -19724,7 +19721,7 @@ Mulch,,,Commander 2015,C,$0.15 ,$0.05 ,,,,$0.95 ,29:22.4,1G,4
 Mulch,,,Innistrad,C,$0.16 ,$0.04 ,,,,$1.16 ,42:34.3,1G,4
 Mulch,,,Stronghold,C,$0.19 ,$0.05 ,,,,$1.18 ,56:57.8,1G,4
 Mulldrifter,,,Commander 2015,U,$0.72 ,$0.28 ,,,,$0.98 ,29:22.4,4U,9
-Mulldrifter,,,Commander 2014,C,$0.73 ,$0.25 ,,,,$0.99 ,29:11.8,4U,9
+Mulldrifter,1,,Commander 2014,C,$0.73 ,$0.25 ,,,,$0.99 ,29:11.8,4U,9
 Mulldrifter,,,Duel Decks: Anthology,C,$0.76 ,$0.30 ,,,,$1.09 ,34:05.1,4U,9
 Mulldrifter,,,Lorwyn,C,$0.71 ,$0.30 ,,,,$1.40 ,44:46.6,4U,9
 Mulldrifter,,,Commander,C,$0.74 ,$0.44 ,,,,$1.42 ,28:49.6,4U,9
@@ -19732,7 +19729,6 @@ Mulldrifter,,,Duel Decks: Jace vs. Chandra,C,$0.59 ,$0.25 ,,,,$1.52 ,35:26.2,4U,
 Mulldrifter,,,Modern Masters,U,$0.68 ,$0.28 ,,,,$1.52 ,48:33.1,4U,9
 Mulldrifter,,,Modern Masters 2015,U,$0.69 ,$0.24 ,,,,$1.80 ,48:45.6,4U,9
 Mulldrifter,,,FNM Promos,P,$5.49 ,$4.89 ,,,,$7.16 ,38:43.2,4U,9
-mulldrifter,2,,unknown set,,,,,,,,,,
 Multani (Oversize),,,Vanguard,P,$2.73 ,$2.58 ,,,,$4.79 ,00:31.0,,1
 "Multani, Maro-Sorcerer",,,Urza's Legacy,R,$1.41 ,$0.75 ,,,,$3.00 ,00:05.5,4GG,1
 Multani's Acolyte,,,Urza's Legacy,C,$0.17 ,$0.05 ,,,,$1.16 ,00:05.5,GG,1
@@ -20779,7 +20775,7 @@ Oblivion Sower,,,Prerelease Cards,M,$6.43 ,$4.06 ,,,,$13.29 ,53:03.9,6,3
 Oblivion Stone,,,Commander,R,$19.79 ,$12.50 ,,,,$30.90 ,28:49.6,3,3
 Oblivion Stone,,,Masterpiece Series: Kaladesh Inventions,M,$56.18 ,$40.79 ,,,,$92.99 ,47:08.1,3,3
 Oblivion Stone,,,Mirrodin,R,$20.37 ,$11.50 ,,,,$28.02 ,48:07.7,3,3
-Oblivion Strike,4,,Oath of the Gatewatch,C,$0.14 ,$0.01 ,,,,$1.14 ,49:49.2,3B,1
+Oblivion Strike,4,,Oath of the Gatewatch,C,$20.37 ,$0.01 ,,,,$1.14 ,49:49.2,3B,1
 Oboro Breezecaller,,,Saviors of Kamigawa,C,$0.16 ,$0.01 ,,,,$1.14 ,55:06.0,1U,1
 Oboro Envoy,,,Saviors of Kamigawa,U,$0.18 ,$0.07 ,,,,$1.16 ,55:06.0,3U,1
 "Oboro, Palace in the Clouds",,,Saviors of Kamigawa,R,$19.00 ,$13.30 ,,,,$23.00 ,55:06.0,,1
@@ -22579,9 +22575,8 @@ Plant Token,,,Duel Decks: Nissa vs. Ob Nixilis,T,$0.18 ,$0.09 ,,,,$0.59 ,36:01.9
 Plant Token,,,Duel Decks: Zendikar vs. Eldrazi,T,$0.38 ,$0.15 ,,,,$0.43 ,36:53.3,0,5
 Plant Token,,,Oath of the Gatewatch,T,$0.17 ,$0.05 ,,,,$0.95 ,49:49.2,,5
 Plant Token,,,Worldwake,T,$0.29 ,$0.05 ,,,,$1.48 ,01:37.9,,5
-Plasm Capture,,,Dragon's Maze,R,$0.34 ,$0.15 ,,,,$2.05 ,31:07.0,GGUU,2
+Plasm Capture,3,,Dragon's Maze,R,$0.34 ,$0.15 ,,,,$2.05 ,31:07.0,GGUU,2
 Plasm Capture,,,Duel Decks: Elspeth vs. Kiora,R,$0.33 ,$0.10 ,,,,$1.89 ,34:32.6,GGUU,2
-plasm capture,4,,unknown set,,,,,,,,,,
 Plasma Elemental,,,Fifth Dawn,U,$0.21 ,$0.06 ,,,,$1.20 ,38:21.8,5U,1
 Plateau,,,Alpha Edition,R,$998.88 ,,,,,,08:00.8,,7
 Plateau,,,Alpha Edition,R,$999.95 ,,,,,,08:00.8,,7
@@ -27005,7 +27000,7 @@ Simian Grunts,,,Urza's Legacy,C,$0.15 ,$0.05 ,,,,$1.14 ,00:05.5,2G,1
 Simian Spirit Guide,,,Planar Chaos,C,$7.91 ,$5.35 ,,,,$13.98 ,50:52.8,2R,1
 Simic Basilisk,,,Dissension,U,$0.20 ,$0.08 ,,,,$1.18 ,30:57.6,4GG,1
 Simic Charm,2,,Gatecrash,U,$0.64 ,$0.24 ,,,,$1.75 ,41:11.0,GU,1
-Simic Cluestone,4,,Dragon's Maze,C,$0.14 ,$0.04 ,,,,$1.14 ,31:07.0,3,1
+Simic Cluestone,,TRUE,Dragon's Maze,C,$0.14 ,$0.04 ,,,,$1.14 ,31:07.0,3,1
 Simic Fluxmage,,TRUE,Gatecrash,U,$0.16 ,$0.04 ,,,,$1.15 ,41:11.0,2U,1
 Simic Growth Chamber,,,Commander,C,$0.87 ,$0.33 ,,,,$1.64 ,28:49.6,,5
 Simic Growth Chamber,,,Commander 2015,C,$0.50 ,$0.28 ,,,,$1.13 ,29:22.4,,5
@@ -27023,19 +27018,17 @@ Simic Guildmage,,,Dissension,U,$0.62 ,$0.38 ,,,,$1.53 ,30:57.6,(g/u)(g/u),1
 Simic Initiate,,,Dissension,C,$0.15 ,$0.05 ,,,,$1.15 ,30:57.6,G,2
 Simic Initiate,,,Modern Masters 2015,C,$0.16 ,$0.03 ,,,,$1.15 ,48:45.6,G,2
 simic initiate,1,,unknown set,,,,,,,,,,
-Simic Keyrune,,,Commander 2015,U,$0.19 ,$0.05 ,,,,$0.99 ,29:22.4,3,2
-Simic Keyrune,,,Gatecrash,U,$0.17 ,$0.01 ,,,,$1.16 ,41:11.0,3,2
-simic keyrune,2,,unknown set,,,,,,,,,,
+Simic Keyrune,,TRUE,Commander 2015,U,$0.19 ,$0.05 ,,,,$0.99 ,29:22.4,3,2
+Simic Keyrune,,TRUE,Gatecrash,U,$0.17 ,$0.01 ,,,,$1.16 ,41:11.0,3,2
 Simic Manipulator,1,,Gatecrash,R,$0.33 ,$0.14 ,,,,$1.31 ,41:11.0,1UU,1
 Simic Ragworm,1,,Dissension,C,$0.15 ,$0.05 ,,,,$1.15 ,30:57.6,3G,1
-Simic Signet,,,Commander,C,$0.20 ,$0.05 ,,,,$1.17 ,28:49.6,2,7
-Simic Signet,,,Commander 2013,C,$0.20 ,$0.05 ,,,,$0.95 ,29:01.3,2,7
-Simic Signet,,,Commander 2015,C,$0.22 ,$0.07 ,,,,$0.95 ,29:22.4,2,7
-Simic Signet,,,Commander 2016,C,$0.20 ,$0.04 ,,,,$0.94 ,29:33.2,2,7
+Simic Signet,,TRUE,Commander,C,$0.20 ,$0.05 ,,,,$1.17 ,28:49.6,2,7
+Simic Signet,,TRUE,Commander 2013,C,$0.20 ,$0.05 ,,,,$0.95 ,29:01.3,2,7
+Simic Signet,,TRUE,Commander 2015,C,$0.22 ,$0.07 ,,,,$0.95 ,29:22.4,2,7
+Simic Signet,,TRUE,Commander 2016,C,$0.20 ,$0.04 ,,,,$0.94 ,29:33.2,2,7
 Simic Signet,,,Commander Anthology,C,$0.41 ,$0.22 ,,,,$0.97 ,29:43.6,2,7
-Simic Signet,,,Dissension,C,$0.18 ,$0.02 ,,,,$1.16 ,30:57.6,2,7
-Simic Signet,,,Modern Masters 2017,U,$0.24 ,$0.07 ,,,,$1.22 ,48:58.4,2,7
-simic signet,1,,unknown set,,,,,,,,,,
+Simic Signet,,TRUE,Dissension,C,$0.18 ,$0.02 ,,,,$1.16 ,30:57.6,2,7
+Simic Signet,,TRUE,Modern Masters 2017,U,$0.24 ,$0.07 ,,,,$1.22 ,48:58.4,2,7
 Simic Sky Swallower,,,Commander,R,$0.81 ,$0.21 ,,,,$2.00 ,28:49.6,5GU,4
 Simic Sky Swallower,,,Dissension,R,$0.89 ,$0.29 ,,,,$3.00 ,30:57.6,5GU,4
 Simic Sky Swallower,1,,Duel Decks: Elspeth vs. Kiora,R,$0.36 ,$0.10 ,,,,$1.68 ,34:32.6,5GU,4
@@ -27870,7 +27863,6 @@ Soul of Innistrad,,,Magic 2015 (M15),M,$0.95 ,$0.50 ,,,,$4.00 ,46:02.7,4BB,1
 Soul of Magma,,,Champions of Kamigawa,C,$0.15 ,$0.05 ,,,,$1.15 ,26:53.1,3RR,1
 Soul of New Phyrexia,,,Commander 2016,M,$1.37 ,$0.75 ,,,,$2.99 ,29:33.2,6,2
 Soul of New Phyrexia,,,Magic 2015 (M15),M,$2.12 ,$0.95 ,,,,$5.18 ,46:02.7,6,2
-soul of new phyrexia,1,,unknown set,,,,,,,,,,
 Soul of Ravnica,,,Magic 2015 (M15),M,$0.58 ,$0.20 ,,,,$3.00 ,46:02.7,4UU,2
 Soul of Ravnica,,,Media Promos,M,$0.62 ,$0.24 ,,,,$1.00 ,47:21.4,4UU,2
 soul of ravnica,1,,unknown set,,,,,,,,,,
@@ -31790,7 +31782,7 @@ Trusty Machete,,,Zendikar,U,$0.18 ,$0.07 ,,,,$1.14 ,01:59.0,1,1
 Truth or Tale,,,Time Spiral,U,$0.19 ,$0.05 ,,,,$1.18 ,58:04.4,1U,1
 Trygon Predator,,,Commander 2015,U,$0.30 ,$0.19 ,,,,$2.91 ,29:22.4,1GU,4
 Trygon Predator,,,Dissension,U,$0.57 ,$0.20 ,,,,$5.00 ,30:57.6,1GU,4
-Trygon Predator,1,,Eternal Masters,U,$0.34 ,$0.15 ,,,,$1.33 ,37:23.4,1GU,4
+Trygon Predator,,,Eternal Masters,U,$0.34 ,$0.15 ,,,,$1.33 ,37:23.4,1GU,4
 Trygon Predator,,,Modern Masters,U,$0.50 ,$0.19 ,,,,$1.49 ,48:33.1,1GU,4
 Tsabo Tavoc,,,Invasion,R,$0.94 ,$0.65 ,,,,$3.99 ,42:58.3,5BR,1
 Tsabo's Assassin,,,Invasion,R,$0.32 ,$0.17 ,,,,$1.31 ,42:58.3,2BB,1
@@ -32628,8 +32620,7 @@ Venomspout Brackus,,,Onslaught,U,$0.19 ,$0.07 ,,,,$1.18 ,50:20.0,6G,1
 "Venser, the Sojourner",,,Scars of Mirrodin,M,$13.80 ,$11.25 ,,,,$17.99 ,55:17.4,3WU,2
 Venser's Diffusion,,,Future Sight,C,$0.15 ,$0.01 ,,,,$1.14 ,40:50.9,2U,1
 Venser's Journal,,,Commander 2016,R,$3.35 ,$2.50 ,,,,$5.99 ,29:33.2,5,2
-Venser's Journal,,,Scars of Mirrodin,R,$3.74 ,$2.05 ,,,,$6.54 ,55:17.4,5,2
-venser's journal,2,,unknown set,,,,,,,,,,
+Venser's Journal,1,,Scars of Mirrodin,R,$3.74 ,$2.05 ,,,,$6.54 ,55:17.4,5,2
 Venser's Sliver,,,Time Spiral,C,$0.15 ,$0.03 ,,,,$1.15 ,58:04.4,5,1
 Vent Sentinel,,,Conspiracy,C,$0.15 ,$0.04 ,,,,$1.13 ,30:11.4,3R,2
 Vent Sentinel,,,Rise of the Eldrazi,C,$0.16 ,$0.05 ,,,,$1.14 ,54:52.4,3R,2
@@ -33067,7 +33058,7 @@ Void Shatter,3,,Oath of the Gatewatch,U,$1.01 ,$0.50 ,1,,,$3.00 ,49:49.2,1UU,1
 Void Snare,,TRUE,Magic 2015 (M15),C,$0.15 ,$0.04 ,1,,,$0.95 ,46:02.7,U,1
 Void Squall,,TRUE,Dragons of Tarkir,U,$0.23 ,$0.01 ,,,,$1.21 ,31:16.6,4U,1
 Void Stalker,,,Magic 2013 (M13),R,$0.29 ,$0.09 ,,,,$1.49 ,45:36.4,1U,1
-Void Winnower,1,,Battle for Zendikar,M,$2.23 ,$0.94 ,,,,$8.00 ,05:14.9,9,2
+Void Winnower,,,Battle for Zendikar,M,$2.23 ,$0.94 ,,,,$8.00 ,05:14.9,9,2
 Void Winnower,,,Prerelease Cards,M,$8.37 ,$5.90 ,,,,$12.97 ,53:03.9,9,2
 Voidmage Apprentice,,,Duel Decks: Anthology,C,$0.24 ,$0.13 ,,,,$0.56 ,34:05.1,1U,3
 Voidmage Apprentice,,,Duel Decks: Jace vs. Chandra,C,$0.23 ,$0.10 ,,,,$1.18 ,35:26.2,1U,3
@@ -33261,7 +33252,7 @@ Walker of the Grove,,,Modern Masters,C,$0.16 ,$0.05 ,,,,$1.15 ,48:33.1,6GG,4
 Walker of the Grove,,,Morningtide,U,$0.19 ,$0.07 ,,,,$1.17 ,49:11.9,6GG,4
 Walker of the Wastes,,,Oath of the Gatewatch,U,$0.21 ,$0.03 ,,,,$1.33 ,49:49.2,4C,1
 Walking Archive,,,Dissension,R,$1.28 ,$0.75 ,,,,$4.49 ,30:57.6,3,1
-Walking Atlas,5,,Worldwake,C,$0.27 ,$0.12 ,,,,$0.95 ,01:37.9,2,1
+Walking Atlas,4,,Worldwake,C,$0.27 ,$0.12 ,,,,$0.95 ,01:37.9,2,1
 Walking Ballista,,,Aether Revolt,R,$11.95 ,$7.68 ,,,,$15.59 ,07:42.0,XX,2
 Walking Ballista,,,Prerelease Cards,R,$19.93 ,$16.00 ,,,,$29.99 ,53:03.9,XX,2
 Walking Corpse,,,Innistrad,C,$0.15 ,$0.02 ,,,,$1.14 ,42:34.3,1B,4
