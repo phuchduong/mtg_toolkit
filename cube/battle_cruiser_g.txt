@@ -42,6 +42,7 @@ Emeria Shepherd
 The Wanderer
 Cataclysmic Gearhulk
 Godsend
+Godless Shrine
 Condemn
 Path to Exile
 Swords to Plowshares
@@ -97,8 +98,15 @@ Kasmina, Enigmatic Mentor
 Jace, Unraveler of Secrets
 Tezzeret, Artifice Master
 Torrential Gearhulk
-Dispel
+Pieces of the Puzzle
+Proteus Staff
+Phantasmal Dragon
+Nagging Thoughts
+Mana Leak
+Jace's Mindseeker
 Opt
+Repulse
+Prescient Chimera
 Pongify
 Rapid Hybridization
 Swan Song
@@ -111,8 +119,8 @@ Into the Roil
 Negate
 Reality Shift
 Telling Time
-Dissipate
-Dissolve
+Dismiss
+World Breaker
 Dream Fracture
 Sinister Sabotage
 Void Shatter
@@ -136,7 +144,6 @@ Curse of the Swine
 Treasure Cruise
 Search for Azcanta
 Imprisoned in the Moon
-Monastery Siege
 Sphinx's Tutelage
 Control Magic
 Jace's Sanctum
@@ -159,6 +166,7 @@ Vampire Nighthawk
 Disciple of Bolas
 Dread Presence
 Falkenrath Noble
+Dread Return
 Gonti, Lord of Luxury
 Josu Vess, Lich Knight
 Mortivore
@@ -170,8 +178,12 @@ Archfiend of Depravity
 Bloodgift Demon
 Cavalier of Night
 Doom Whisperer
+Whiptongue Hydra
 Gray Merchant of Asphodel
+vindicate
 Massacre Girl
+Sacred Foundry
+Steam Vents
 Ob Nixilis, the Fallen
 Phyrexian Delver
 Shriekmaw
@@ -201,6 +213,7 @@ Epic Downfall
 Sign in Blood
 Read the Bones
 Languish
+Anguished Unmaking
 Beacon of Unrest
 Finale of Eternity
 Necromantic Selection
@@ -211,12 +224,17 @@ Palace Siege
 The Eldest Reborn
 Dragonmaster Outcast
 Bonecrusher Giant // Stomp
+Crux of Fate
+Atarka's Command
+Apocalypse Hydra
+Simic Sky Swallower
 Electrostatic Field
 Firebrand Archer
 Goblin Instigator
 Harsh Mentor
 Runaway Steam-Kin
 Young Pyromancer
+Blood Divination
 Dualcaster Mage
 Guttersnipe
 Hanweir Garrison
@@ -283,12 +301,22 @@ Birds of Paradise
 Caustic Caterpillar
 Llanowar Elves
 Scute Mob
+Sylvan Primordial
+Song of the Dryads
+Somberwald Stag
+Seedtime
+Strangleroot Geist
 Ulvenwald Tracker
 Duskwatch Recruiter
 Elvish Visionary
 Sakura-Tribe Elder
 Scavenging Ooze
 Wall of Blossoms
+Viscera Seer
+Crushing Canopy
+Vorapede
+Victimize
+
 Elvish Rejuvenator
 Eternal Witness
 Farhaven Elf
@@ -296,16 +324,17 @@ Managorger Hydra
 Nissa, Vastwood Seer
 Prowling Serpopard
 Reclamation Sage
-Reclamation Sage
 Somberwald Sage
 Springbloom Druid
 Thrashing Brontodon
 Tireless Tracker
 Wayward Swordtooth
 Wood Elves
+Arachnogenesis
 Yavimaya Elder
 Beast Whisperer
 Elvish Piper
+Nissa, Steward of Elements
 Forgotten Ancient
 Goreclaw, Terror of Qal Sisma
 Polukranos, World Eater
@@ -351,10 +380,21 @@ Crushing Canopy
 Harmonize
 Genesis Wave
 Rancor
+Heroic Intervention
 Abundance
 The Mending of Dominaria
+Nessian Game Warden
+Garruk's Horde
+From Beyond
+Freyalise, Llanowar's Fury
+Manglehorn
+Kruphix's Insight
 Zendikar's Roil
+Nissa's Renewal
 Sandwurm Convergence
+Primordial Sage
+Pathbreaker Ibex
+Overwhelming Stampede
 Courser of Kruphix
 Reflector Mage
 Spell Queller
@@ -407,6 +447,8 @@ Dromoka's Command
 Advent of the Wurm
 Sylvan Reclamation
 Ayli, Eternal Pilgrim
+Sylvan Reclamation
+Yahenni's Expertise
 Teysa Karlov
 Angel of Despair
 Ashen Rider
@@ -419,6 +461,12 @@ Merciless Eviction
 Deathrite Shaman
 Leyline Prowler
 Meren of Clan Nel Toth
+Dack Fayden
+Stomping Ground
+Watery Grave
+Hallowed Fountain
+Breeding Pool
+Overgrown Tomb
 Poison-Tip Archer
 Ikra Shidiqi, the Usurper
 Grisly Salvage
@@ -429,6 +477,7 @@ Casualties of War
 Coiling Oracle
 Trygon Predator
 Arixmethes, Slumbering Isle
+Oracle of Mul Daya
 Mystic Snake
 Rashmi, Eternities Crafter
 Tatyova, Benthic Druid
@@ -460,6 +509,8 @@ Bane of Bala Ged
 Artisan of Kozilek
 Ugin, the Ineffable
 Pilgrim's Eye
+Explosive Vegetation
+Explore
 Solemn Simulacrum
 Stuffy Doll
 Duplicant
@@ -493,8 +544,11 @@ Skysovereign, Consul Flagship
 Staff of Nin
 Ash Barrens
 Bojuka Bog
+Temple Garden
+Blood Cryptg
 Myriad Landscape
 Temple of Abandon
+Ghalta, Primal Hunger
 Temple of Deceit
 Temple of Enlightenment
 Temple of Epiphany
@@ -513,6 +567,9 @@ Niblis of Frost
 Arbiter of the Ideal
 Jalira, Master Polymorphist
 Colossal Whale
+Guardian of Tazeem
+Frost Titan
+Delver of Secrets
 Icefall Regent
 Tomorrow, Azami's Familiar
 Dungeon Geists
@@ -523,3 +580,13 @@ Marauding Raptor
 Backdraft Hellkite
 Demon of Catastrophes
 Vampire Nighthawk
+Reality Smasher
+Harvester of Souls
+Matter Reshaper
+Thought-Knot Seer
+Exclude
+Delver of Secrets
+Nekrataal
+Indulgent Tormentor
+Fallen Angel
+Extinguish All Hope
